@@ -129,7 +129,7 @@
 
 # sent_id = 1818E-GEOGRAFIE,.8
 # X_ID = 1818E-GEOGRAFIE,3.11
-# text = un vau %t%-1 vaser %ellps% ruft men iaim nhrut imurim mehr teykhin
+# text = un vau %t%-1 vaser %ellps% ruft men iaim nhrut imurim mehr teykhin com:russian_omitted
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
 2	vau	_	ADV	WADV	Degree=Pos	5	advmod	_	_
 3	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	5	advmod	_	_
@@ -142,6 +142,7 @@
 10	imurim	UNKNOWN	X	H	_	8	dep	_	_
 11	mehr	_	NOUN	N	_	8	appos	_	_
 12	teykhin	_	NOUN	N	_	11	conj	_	_
+13	com:russian_omitted	_	NOUN	NP-PRN	_	8	appos	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.9
 # X_ID = 1818E-GEOGRAFIE,3.12
@@ -1627,12 +1628,13 @@
 
 # sent_id = 1818E-GEOGRAFIE,.90
 # X_ID = 1818E-GEOGRAFIE,7.97
-# text = un das %ich%-1 zeynen zey
+# text = un das %ich%-1 zeynen zey com:list_omitted
 1	un	_	CCONJ	CONJ	_	4	cc	_	_
 2	das	_	DET	D	PronType=Art	3	det	_	_
 3	%ich%-1	_	NOUN	NP-PRN	_	4	xcomp	_	_
 4	zeynen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	zey	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+6	com:list_omitted	_	NOUN	NP-1	_	4	obl	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.91
 # X_ID = 1818E-GEOGRAFIE,8.99
@@ -1675,13 +1677,14 @@
 
 # sent_id = 1818E-GEOGRAFIE,.93
 # X_ID = 1818E-GEOGRAFIE,8.101
-# text = un das %ich%-1 zeyn zey :
+# text = un das %ich%-1 zeyn zey : com:list_omitted
 1	un	_	CCONJ	CONJ	_	4	cc	_	_
 2	das	_	DET	D	PronType=Art	3	det	_	_
 3	%ich%-1	_	NOUN	NP-PRN	_	4	xcomp	_	_
 4	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	zey	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	4	punct	_	_
+7	com:list_omitted	_	NOUN	NP-1	_	4	obl	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.94
 # X_ID = 1818E-GEOGRAFIE,8.102
@@ -1699,7 +1702,7 @@
 
 # sent_id = 1818E-GEOGRAFIE,.95
 # X_ID = 1818E-GEOGRAFIE,8.103
-# text = ukh hat es in zikh fir frey reykh_stet
+# text = ukh hat es in zikh fir frey reykh_stet com:list_omitted
 1	ukh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	hat	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	es	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -1708,6 +1711,7 @@
 6	fir	_	NUM	NUM-ACC	Case=Acc	8	nummod	_	_
 7	frey	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	8	amod	_	_
 8	reykh_stet	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
+9	com:list_omitted	_	NOUN	NP-PRN	_	8	appos	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.96
 # X_ID = 1818E-GEOGRAFIE,8.104
@@ -2566,7 +2570,7 @@
 
 # sent_id = 1818E-GEOGRAFIE,.165
 # X_ID = 1818E-GEOGRAFIE,11.176
-# text = rus_land hat in zikh 6 universittin in
+# text = rus_land hat in zikh 6 universittin in com:list_omitted
 1	rus_land	_	PROPN	NPR-SBJ	_	2	nsubj	_	_
 2	hat	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	in	_	ADP	P	_	4	case	_	_
@@ -2574,6 +2578,7 @@
 5	6	_	NUM	NUM-ACC	Case=Acc	6	nummod	_	_
 6	universittin	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
 7	in	_	ADP	P	_	8	case	_	_
+8	com:list_omitted	_	NOUN	NP	_	6	obl	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.166
 # X_ID = 1818E-GEOGRAFIE,11.177
@@ -2587,17 +2592,18 @@
 
 # sent_id = 1818E-GEOGRAFIE,.167
 # X_ID = 1818E-GEOGRAFIE,11.178
-# text = un das %ich%-1 zeynen zey :
+# text = un das %ich%-1 zeynen zey : com:list_omitted
 1	un	_	CCONJ	CONJ	_	4	cc	_	_
 2	das	_	DET	D	PronType=Art	3	det	_	_
 3	%ich%-1	_	NOUN	NP-PRN	_	4	xcomp	_	_
 4	zeynen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	zey	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	4	punct	_	_
+7	com:list_omitted	_	NOUN	NP-1	_	4	obl	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.168
 # X_ID = 1818E-GEOGRAFIE,11.179
-# text = velkhi %t%-1 habin in zikh anderi praves :
+# text = velkhi %t%-1 habin in zikh anderi praves : com:list_omitted
 1	velkhi	_	PRON	WPRO	_	3	obj	_	_
 2	%t%-1	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	habin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -2606,6 +2612,7 @@
 6	anderi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
 7	praves	_	NOUN	N-ACC	Case=Acc	3	obj	_	SpaceAfter=No
 8	:	_	PUNCT	PUNC	_	7	punct	_	_
+9	com:list_omitted	_	NOUN	NP-PRN	_	7	appos	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.169
 # X_ID = 1818E-GEOGRAFIE,11.180
@@ -3247,12 +3254,13 @@
 
 # sent_id = 1818E-GEOGRAFIE,.212
 # X_ID = 1818E-GEOGRAFIE,14.226
-# text = di gresti stet zeynn dize
+# text = di gresti stet zeynn dize com:list_omitted
 1	di	_	DET	D	PronType=Art	3	det	_	_
 2	gresti	_	ADJ	ADJS	Degree=Pos	3	amod	_	_
 3	stet	_	NOUN	N-D	Definite=Def	4	xcomp	_	_
 4	zeynn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	dize	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
+6	com:list_omitted	_	NOUN	NP-PRN	_	4	nsubj	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.213
 # X_ID = 1818E-GEOGRAFIE,14.227

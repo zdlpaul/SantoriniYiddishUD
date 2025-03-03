@@ -884,7 +884,7 @@
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.36
 # X_ID = 1929E-DUBNOV-UKRAINE,30.40
-# text = in yor 1783, dos heyst 15 yor nakh dem umglik iz in der deytshisher stot firt dershinen als husph tsu a bikhl " sfr gurlut " a kleyn verk in akht zeytlekh on dem nomen fun mkhbr untern titl
+# text = in yor 1783, dos heyst 15 yor nakh dem umglik iz in der deytshisher stot firt dershinen als husph tsu a bikhl " sfr gurlut " a kleyn verk in akht zeytlekh on dem nomen fun mkhbr untern titl com:title_omitted
 1	in	_	ADP	P	_	2	case	_	_
 2	yor	_	NOUN	N	_	18	obl	_	_
 3	1783	_	NUM	NUM	_	2	nummod	_	SpaceAfter=No
@@ -925,6 +925,7 @@
 38	mkhbr	_	NOUN	N	_	36	obl	_	_
 39	untern	_	ADP	P-CL	_	40	case	_	_
 40	titl	_	NOUN	N	_	36	obl	_	_
+41	com:title_omitted	_	NOUN	NP-PRN-TTL	_	40	dep	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.37
 # X_ID = 1929E-DUBNOV-UKRAINE,30.41
@@ -1003,7 +1004,7 @@
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.40
 # X_ID = 1929E-DUBNOV-UKRAINE,30.44
-# text = mit amol dersheynt in dem voliner stetl sudilkov in askh a %ich%-1 greserer form mit fil neytsugegebene prtim sistematish eyngeordnt un mit a langer tkhnh an " al mla rkhmim " geshribn in yenem folks-stil vos %t%-2 tsit aroys teykhn trern bey yidishe veyber
+# text = mit amol dersheynt in dem voliner stetl sudilkov com:title_omitted in askh a %ich%-1 greserer form mit fil neytsugegebene prtim sistematish eyngeordnt un mit a langer tkhnh an " al mla rkhmim " geshribn in yenem folks-stil vos %t%-2 tsit aroys teykhn trern bey yidishe veyber
 1	mit	_	ADP	P	_	2	case	_	_
 2	amol	_	ADV	ADV	Degree=Pos	3	obl	_	_
 3	dersheynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -1012,42 +1013,43 @@
 6	voliner	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 7	stetl	_	NOUN	N	_	8	nummod	_	_
 8	sudilkov	_	PROPN	NPR-D	_	3	obl	_	_
-9	in	_	ADP	P	_	14	case	_	_
-10	askh	_	DET	Q-1	_	14	det	_	_
-11	a	_	DET	D	PronType=Art	14	det	_	_
-12	%ich%-1	_	DET	Q	_	14	amod	_	_
-13	greserer	_	ADJ	ADJR	Degree=Pos	12	amod	_	_
-14	form	_	NOUN	N	_	3	obl	_	_
-15	mit	_	ADP	P	_	18	case	_	_
-16	fil	_	DET	Q	_	18	det	_	_
-17	neytsugegebene	_	ADJ	ADJ	Degree=Pos	18	amod	_	_
-18	prtim	_	NOUN	N	_	3	obl	_	_
-19	sistematish	_	ADV	ADV	Degree=Pos	20	advmod	_	_
-20	eyngeordnt	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	18	acl	_	_
-21	un	_	CCONJ	CONJ	_	25	cc	_	_
-22	mit	_	ADP	P	_	25	case	_	_
-23	a	_	DET	D	PronType=Art	25	det	_	_
-24	langer	_	ADJ	ADJ	Degree=Pos	25	amod	_	_
-25	tkhnh	_	NOUN	N	_	18	conj	_	_
-26	an	_	ADP	P	_	28	case	_	SpaceAfter=No
-27	"	_	PUNCT	PUNC	_	28	punct	_	_
-28	al	UNKNOWN	X	H	_	25	obl	_	_
-29	mla	UNKNOWN	X	H	_	28	dep	_	_
-30	rkhmim	UNKNOWN	X	H	_	28	dep	_	SpaceAfter=No
-31	"	_	PUNCT	PUNC	_	25	punct	_	_
-32	geshribn	_	VERB	VAN	Tense=Past|VerbForm=Part	25	acl	_	_
-33	in	_	ADP	P	_	35	case	_	_
-34	yenem	_	DET	D	PronType=Art	35	det	_	_
-35	folks-stil	_	NOUN	N-D	Definite=Def	32	obl	_	_
-36	vos	_	SCONJ	C	_	38	mark	_	_
-37	%t%-2	_	NOUN	NP-SBJ	_	38	nsubj	_	_
-38	tsit	_	VERB	VBF	VerbForm=Fin	35	acl:relcl	_	_
-39	aroys	_	ADV	ADV	Degree=Pos	38	advmod	_	_
-40	teykhn	_	NOUN	N-ACC	Case=Acc	38	obj	_	_
-41	trern	_	NOUN	N-ACC	Case=Acc	40	nmod:poss	_	_
-42	bey	_	ADP	P	_	44	case	_	_
-43	yidishe	_	ADJ	ADJ	Degree=Pos	44	amod	_	_
-44	veyber	_	NOUN	N	_	38	obl	_	_
+9	com:title_omitted	_	NOUN	NP-SBJ-TTL	_	3	dep	_	_
+10	in	_	ADP	P	_	15	case	_	_
+11	askh	_	DET	Q-1	_	15	det	_	_
+12	a	_	DET	D	PronType=Art	15	det	_	_
+13	%ich%-1	_	DET	Q	_	15	amod	_	_
+14	greserer	_	ADJ	ADJR	Degree=Pos	13	amod	_	_
+15	form	_	NOUN	N	_	3	obl	_	_
+16	mit	_	ADP	P	_	19	case	_	_
+17	fil	_	DET	Q	_	19	det	_	_
+18	neytsugegebene	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
+19	prtim	_	NOUN	N	_	3	obl	_	_
+20	sistematish	_	ADV	ADV	Degree=Pos	21	advmod	_	_
+21	eyngeordnt	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	19	acl	_	_
+22	un	_	CCONJ	CONJ	_	26	cc	_	_
+23	mit	_	ADP	P	_	26	case	_	_
+24	a	_	DET	D	PronType=Art	26	det	_	_
+25	langer	_	ADJ	ADJ	Degree=Pos	26	amod	_	_
+26	tkhnh	_	NOUN	N	_	19	conj	_	_
+27	an	_	ADP	P	_	29	case	_	SpaceAfter=No
+28	"	_	PUNCT	PUNC	_	29	punct	_	_
+29	al	UNKNOWN	X	H	_	26	obl	_	_
+30	mla	UNKNOWN	X	H	_	29	dep	_	_
+31	rkhmim	UNKNOWN	X	H	_	29	dep	_	SpaceAfter=No
+32	"	_	PUNCT	PUNC	_	26	punct	_	_
+33	geshribn	_	VERB	VAN	Tense=Past|VerbForm=Part	26	acl	_	_
+34	in	_	ADP	P	_	36	case	_	_
+35	yenem	_	DET	D	PronType=Art	36	det	_	_
+36	folks-stil	_	NOUN	N-D	Definite=Def	33	obl	_	_
+37	vos	_	SCONJ	C	_	39	mark	_	_
+38	%t%-2	_	NOUN	NP-SBJ	_	39	nsubj	_	_
+39	tsit	_	VERB	VBF	VerbForm=Fin	36	acl:relcl	_	_
+40	aroys	_	ADV	ADV	Degree=Pos	39	advmod	_	_
+41	teykhn	_	NOUN	N-ACC	Case=Acc	39	obj	_	_
+42	trern	_	NOUN	N-ACC	Case=Acc	41	nmod:poss	_	_
+43	bey	_	ADP	P	_	45	case	_	_
+44	yidishe	_	ADJ	ADJ	Degree=Pos	45	amod	_	_
+45	veyber	_	NOUN	N	_	39	obl	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.41
 # X_ID = 1929E-DUBNOV-UKRAINE,30.45
@@ -1380,7 +1382,7 @@
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.55
 # X_ID = 1929E-DUBNOV-UKRAINE,31.60
-# text = un %con% hot inem tsveytn band fun der " folks-bibliotek " gegebn h' skomarovskis artikl untern nomen " di gzirh fun uman in ukraine "
+# text = un %con% hot inem tsveytn band fun der " folks-bibliotek " gegebn h' skomarovskis artikl untern nomen " di gzirh fun uman in ukraine " com:reference_omitted
 1	un	_	CCONJ	CONJ	_	12	cc	_	_
 2	%con%	_	NOUN	NP-SBJ	_	12	nsubj	_	_
 3	hot	_	AUX	HVF	VerbForm=Fin	12	aux	_	_
@@ -1406,10 +1408,11 @@
 23	in	_	ADP	P	_	22	case	_	_
 24	ukraine	_	PROPN	NPR-D	_	22	dep	_	SpaceAfter=No
 25	"	_	PUNCT	PUNC	_	12	punct	_	_
+26	com:reference_omitted	_	VERB	REF	_	12	dep	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.56
 # X_ID = 1929E-DUBNOV-UKRAINE,31.61
-# text = in etlekhe yor arum hot der odeser shreyber dvd kkhna opgedrukt teyln fun dem mesh-bikhl loytn vilner tekst untern title in gurlands-skhnas zamlbukh
+# text = in etlekhe yor arum hot der odeser shreyber dvd kkhna opgedrukt teyln fun dem mesh-bikhl loytn vilner tekst untern title com:title_omitted in gurlands-skhnas zamlbukh com:title_omitted
 1	in	_	ADP	P	_	3	case	_	_
 2	etlekhe	_	DET	Q-ACC	Case=Acc	3	det	_	_
 3	yor	_	NOUN	N-ACC	Case=Acc	11	obl	_	_
@@ -1430,9 +1433,11 @@
 18	tekst	_	NOUN	N	_	11	obl	_	_
 19	untern	_	ADP	P-CL	_	20	case	_	_
 20	title	_	NOUN	N	_	11	obl	_	_
-21	in	_	ADP	P	_	22	case	_	_
-22	gurlands-skhnas	_	NOUN	NPR$	_	11	obl	_	_
-23	zamlbukh	_	NOUN	N	_	22	conj	_	_
+21	com:title_omitted	_	NOUN	NP-PRN-TTL	_	20	dep	_	_
+22	in	_	ADP	P	_	23	case	_	_
+23	gurlands-skhnas	_	NOUN	NPR$	_	11	obl	_	_
+24	zamlbukh	_	NOUN	N	_	23	conj	_	_
+25	com:title_omitted	_	NOUN	NP-PRN-TTL	_	23	dep	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.57
 # X_ID = 1929E-DUBNOV-UKRAINE,31.62

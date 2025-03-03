@@ -225,7 +225,7 @@
 
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.9
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,538.11
-# text = I. di " bashreybung fun ashknz un poliak " iz fartseykhnt bey steynshneyder in tsvey oysgabes fun prog on a yor berkh 1675-1680
+# text = I. di " bashreybung fun ashknz un poliak " iz fartseykhnt bey steynshneyder in tsvey oysgabes fun prog on a yor berkh 1675-1680 com:reference_omitted
 1	I.	_	NUM	LS	_	11	dep	_	_
 2	di	_	DET	D-NOM	Case=Nom|PronType=Art	11	nsubj	_	SpaceAfter=No
 3	"	_	PUNCT	PUNC	_	2	punct	_	_
@@ -249,22 +249,24 @@
 21	yor	_	NOUN	N-I	Definite=Ind	15	obl	_	_
 22	berkh	_	ADV	ADV	Degree=Pos	21	appos	_	_
 23	1675-1680	_	NUM	NUM	_	22	nummod	_	_
+24	com:reference_omitted	_	VERB	REF	_	11	dep	_	_
 
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.10
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,538.12
-# text = bn yekb dermont dem nomen nit ingantsn pinktlekh
-1	bn	_	PROPN	NPR-SBJ	_	3	nsubj	_	_
+# text = bn yekb com:reference_omitted dermont dem nomen nit ingantsn pinktlekh
+1	bn	_	PROPN	NPR-SBJ	_	4	nsubj	_	_
 2	yekb	_	PROPN	NPR	_	1	flat:name	_	_
-3	dermont	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	dem	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
-5	nomen	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	3	obj	_	_
-6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
-7	ingantsn	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-8	pinktlekh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+3	com:reference_omitted	_	VERB	REF	_	4	dep	_	_
+4	dermont	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+5	dem	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
+6	nomen	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
+7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
+8	ingantsn	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+9	pinktlekh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.11
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,538.13
-# text = a por urut fun dem lid in a stark fardeytster transkriptsie gefinen zikh in s"st
+# text = a por urut fun dem lid in a stark fardeytster transkriptsie gefinen zikh in s"st com:reference_omitted
 1	a	_	ADV	D-NOM	Case=Nom|PronType=Art	3	advmod	_	_
 2	por	_	DET	Q	_	1	det	_	_
 3	urut	_	NOUN	N-NOM	Case=Nom	12	nsubj	_	_
@@ -280,6 +282,7 @@
 13	zikh	_	PRON	PRO-RFL	PronType=Reflex	12	expl:pv	_	_
 14	in	_	ADP	P	_	15	case	_	_
 15	s"st	_	PROPN	NPR	_	12	obl	_	_
+16	com:reference_omitted	_	VERB	REF	_	12	dep	_	_
 
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.12
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,538.14
@@ -699,27 +702,29 @@
 
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.33
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,539.35
-# text = II. dos tsveyte lid, di hob ikh in ergets nit gefunen dermont oyser in tsedners katalog fun britishn muzeum
-1	II.	_	NUM	LS	_	12	dep	_	_
+# text = II. dos tsveyte lid, di com:title_omitted hob ikh in ergets nit gefunen dermont oyser in tsedners katalog fun britishn muzeum com:reference_omitted
+1	II.	_	NUM	LS	_	13	dep	_	_
 2	dos	_	DET	D-ACC	Case=Acc|PronType=Art	4	det	_	_
 3	tsveyte	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	4	amod	_	_
-4	lid	_	NOUN	N-ACC	Case=Acc	12	obj	_	SpaceAfter=No
+4	lid	_	NOUN	N-ACC	Case=Acc	13	obj	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	4	punct	_	_
 6	di	_	DET	D	PronType=Art	4	appos	_	_
-7	hob	_	AUX	HVF	VerbForm=Fin	12	aux	_	_
-8	ikh	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-9	in	_	ADP	P	_	10	case	_	_
-10	ergets	_	ADV	ADV	Degree=Pos	12	obl	_	_
-11	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
-12	gefunen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-13	dermont	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-14	oyser	_	ADP	P	_	16	case	_	_
-15	in	_	ADP	P	_	16	case	_	_
-16	tsedners	_	NOUN	NPR$	_	12	obl	_	_
-17	katalog	_	NOUN	N	_	16	conj	_	_
-18	fun	_	ADP	P	_	20	case	_	_
-19	britishn	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
-20	muzeum	_	NOUN	N	_	16	obl	_	_
+7	com:title_omitted	_	X	TTL	_	6	dep	_	_
+8	hob	_	AUX	HVF	VerbForm=Fin	13	aux	_	_
+9	ikh	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
+10	in	_	ADP	P	_	11	case	_	_
+11	ergets	_	ADV	ADV	Degree=Pos	13	obl	_	_
+12	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
+13	gefunen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+14	dermont	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+15	oyser	_	ADP	P	_	17	case	_	_
+16	in	_	ADP	P	_	17	case	_	_
+17	tsedners	_	NOUN	NPR$	_	13	obl	_	_
+18	katalog	_	NOUN	N	_	17	conj	_	_
+19	fun	_	ADP	P	_	21	case	_	_
+20	britishn	_	ADJ	ADJ	Degree=Pos	21	amod	_	_
+21	muzeum	_	NOUN	N	_	17	obl	_	_
+22	com:reference_omitted	_	VERB	REF	_	13	dep	_	_
 
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.34
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,539.36
