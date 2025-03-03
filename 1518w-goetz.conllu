@@ -311,9 +311,9 @@
 13	alzo	_	ADV	ADV	Degree=Pos	19	advmod	_	_
 14	hot	_	AUX	HVF	VerbForm=Fin	19	aux	_	_
 15	er	_	PRON	PRO-NOM	Case=Nom	19	nsubj	_	_
-16	zikh	_	PRON	PRO-ACC	Case=Acc	17	nsubj	_	_
-17	alzo	_	ADV	ADV	Degree=Pos	19	ccomp	_	_
-18	arm	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+16	zikh	_	PRON	PRO-ACC	Case=Acc	18	nsubj	_	_
+17	alzo	_	ADV	ADV	Degree=Pos	18	amod	_	_
+18	arm	_	ADJ	ADJ	Degree=Pos	19	ccomp	_	_
 19	gemakht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1518W-GOETZ,.16
@@ -444,9 +444,9 @@
 8	do	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 9	hot	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
 10	er	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
-11	zikh	_	PRON	PRO-ACC	Case=Acc	12	nsubj	_	_
-12	alzo	_	ADV	ADV	Degree=Pos	14	ccomp	_	_
-13	arm	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
+11	zikh	_	PRON	PRO-ACC	Case=Acc	13	nsubj	_	_
+12	alzo	_	ADV	ADV	Degree=Pos	13	amod	_	_
+13	arm	_	ADJ	ADJ	Degree=Pos	14	ccomp	_	_
 14	gemakht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1518W-GOETZ,.24

@@ -596,8 +596,8 @@
 1	vi	_	SCONJ	C	_	6	mark	_	_
 2	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	stat_leyt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-4	zalkhiz	_	NOUN	N	_	6	amod	_	_
-5	givar	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	zalkhiz	_	NOUN	N	_	5	obl	_	_
+5	givar	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 6	verdn	_	VERB	VBF	VerbForm=Fin	7	advcl	_	_
 7	feyarin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	zi	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
@@ -1694,8 +1694,8 @@
 4	mit	_	ADP	P	_	6	case	_	_
 5	di	_	DET	D	PronType=Art	6	det	_	_
 6	ihudim	_	NOUN	N-D	Definite=Def	9	obl	_	_
-7	vahl	_	ADV	ADV	Degree=Pos	9	amod	_	_
-8	fertig	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	vahl	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	fertig	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 9	vahr	_	VERB	VBF	VerbForm=Fin	10	advcl	_	_
 10	ging	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 11	er	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
@@ -2025,9 +2025,9 @@
 3	gonti	_	PROPN	NPR-D	_	2	dep	_	_
 4	imkh"s	may_be_erased_name	X	H	_	5	dep	_	_
 5	makht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-6	zikh	_	PRON	PRO-ACC	Case=Acc	7	nsubj	_	_
-7	zehr	_	ADV	ADV	Degree=Pos	5	ccomp	_	_
-8	lustig	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+6	zikh	_	PRON	PRO-ACC	Case=Acc	8	nsubj	_	_
+7	zehr	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	lustig	_	ADJ	ADJ	Degree=Pos	5	ccomp	_	_
 9	mit	_	ADP	P	_	11	case	_	_
 10	di	_	DET	D	PronType=Art	11	det	_	_
 11	kazakin	_	NOUN	N-D	Definite=Def	5	obl	_	_

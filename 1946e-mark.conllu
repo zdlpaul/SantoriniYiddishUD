@@ -1,4 +1,4 @@
-# sent_id = 1946e-mark__1
+# sent_id = 1946E-MARK,.1
 # X_ID = 1946E-MARK,1.3
 # text = a. a por verter vegn verter-seyder bkll
 1	a.	_	NUM	LS	_	4	dep	_	_
@@ -9,7 +9,7 @@
 6	verter-seyder	_	NOUN	N	_	4	obl	_	_
 7	bkll	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 
-# sent_id = 1946e-mark__2
+# sent_id = 1946E-MARK,.2
 # X_ID = 1946E-MARK,1.4
 # text = der seyder fun di verter in dem zats iz eyner fun di hoypt-inyomim fun sintaks .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -29,7 +29,7 @@
 15	sintaks	_	NOUN	N	_	13	obl	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__3
+# sent_id = 1946E-MARK,.3
 # X_ID = 1946E-MARK,1.5
 # text = in yidish iz dos zeyer a groyser un vikhtiker kapitl .
 1	in	_	ADP	P	_	2	case	_	_
@@ -44,7 +44,7 @@
 10	kapitl	_	NOUN	N	_	3	xcomp	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__4
+# sent_id = 1946E-MARK,.4
 # X_ID = 1946E-MARK,1.6
 # text = afilu di vos yidish iz zeyer natirlekh loshn, zeyer mutershprakh, kenen geshtroykhlt vern in gevise faln,
 1	afilu	_	PART	FP	Degree=Pos	15	nsubj	_	_
@@ -67,7 +67,7 @@
 18	faln	_	NOUN	N	_	15	obl	_	SpaceAfter=No
 19	,	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__5
+# sent_id = 1946E-MARK,.5
 # X_ID = 1946E-MARK,1.7
 # text = el akhts kmh ukmh iz der yidisher verter-seyder a harber inyen far di vos zeyer yidish iz defektiv un htkhlhdik .
 1	el	on	X	H	_	5	dep	_	_
@@ -92,7 +92,7 @@
 20	htkhlhdik	_	ADJ	ADJ	Degree=Pos	18	amod	_	SpaceAfter=No
 21	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__6
+# sent_id = 1946E-MARK,.6
 # X_ID = 1946E-MARK,1.8
 # text = ven di saykhut tsvishn di verter in zats drikt zikh oys durkh endungen, durkh fleksie fun beygfaln, ven man kan shtendig derkonen dem vortklas nakh der endung nokh, yemolt shpilt der verter-seyder a klenere role .
 1	ven	_	SCONJ	C	_	9	mark	_	_
@@ -135,7 +135,7 @@
 38	role	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	33	obj	_	SpaceAfter=No
 39	.	_	PUNCT	PUNC	_	33	punct	_	_
 
-# sent_id = 1946e-mark__7
+# sent_id = 1946E-MARK,.7
 # X_ID = 1946E-MARK,1.9
 # text = ober ven di flektsie fun dem vort in zats bashtimt tsu voser vortklas %t%-1 dos vort gehert, yemolt tret klor aroys di groyse role fun verter-seyder .
 1	ober	_	CCONJ	CONJ	_	20	cc	_	_
@@ -167,7 +167,7 @@
 27	verter-seyder	_	NOUN	N	_	25	obl	_	SpaceAfter=No
 28	.	_	PUNCT	PUNC	_	20	punct	_	_
 
-# sent_id = 1946e-mark__8
+# sent_id = 1946E-MARK,.8
 # X_ID = 1946E-MARK,1.10
 # text = vos vintsiker endungen un beygungen %t%-1 es zeynen faran in dem loshn alts vikhtiker iz der verter-seyder vi der koyekh vos %t%-3 makht miglekh, vos %t%-3 boyt oyf dem zats .
 1	vos	_	PRON	WPRO	_	8	obj	_	_
@@ -182,8 +182,8 @@
 10	in	_	ADP	P	_	12	case	_	_
 11	dem	_	DET	D	PronType=Art	12	det	_	_
 12	loshn	_	NOUN	N-D	Definite=Def	8	obl	_	_
-13	alts	_	DET	Q	_	15	amod	_	_
-14	vikhtiker	_	ADJ	ADJR	Degree=Pos	13	amod	_	_
+13	alts	_	DET	Q	_	14	amod	_	_
+14	vikhtiker	_	ADJ	ADJR	Degree=Pos	15	amod	_	_
 15	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	der	_	DET	D-NOM	Case=Nom|PronType=Art	17	det	_	_
 17	verter-seyder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	15	nsubj	_	_
@@ -203,7 +203,7 @@
 31	zats	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	28	obj	_	SpaceAfter=No
 32	.	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__9
+# sent_id = 1946E-MARK,.9
 # X_ID = 1946E-MARK,1.11
 # text = in yidish iz der verter-seyder in zeyer a groyser mas a gegebener, fun shtandpunkt fun dem reyder .
 1	in	_	ADP	P	_	2	case	_	_
@@ -226,7 +226,7 @@
 18	reyder	_	NOUN	N-D	Definite=Def	15	obl	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__10
+# sent_id = 1946E-MARK,.10
 # X_ID = 1946E-MARK,1.12
 # text = der ikhid hot do vintsik vos freyheyt un knape miglekhkeytn tsu beytn un tsu variirn .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -246,7 +246,7 @@
 15	variirn	_	VERB	VB	VerbForm=Inf	12	xcomp	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__11
+# sent_id = 1946E-MARK,.11
 # X_ID = 1946E-MARK,1.13
 # text = der yidisher verter-seyder ken ongerufn vern a gebundener .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -259,7 +259,7 @@
 8	gebundener	_	NOUN	N-I	Definite=Ind	6	xcomp	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__12
+# sent_id = 1946E-MARK,.12
 # X_ID = 1946E-MARK,1.14
 # text = di vos %t%-1 kenen a slavishe shprakh kenen zeyer gring aynzen az der yidisher verter-seyder iz gebundener vi in di slavishe lashones .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	11	nsubj	_	_
@@ -286,7 +286,7 @@
 22	lashones	_	NOUN	N-D	Definite=Def	17	amod	_	SpaceAfter=No
 23	.	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__13
+# sent_id = 1946E-MARK,.13
 # X_ID = 1946E-MARK,1.15
 # text = vos %t%-1 seykh dem hoyptzats iz der verter-seyder fun yidish gebundener vi in frantseyzish oder deytsh oder english .
 1	vos	_	PRON	WPRO	_	3	obj	_	_
@@ -309,7 +309,7 @@
 18	english	_	NOUN	N	_	14	conj	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__14
+# sent_id = 1946E-MARK,.14
 # X_ID = 1946E-MARK,1.16
 # text = ven mir hobn far zikh a konkretn zats, iz der seyder fun zeyne verter bashtimt gevorn durkh drey faktorn : dem historishn, dem psikhologishn un dem ritmishn .
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -343,7 +343,7 @@
 29	ritmishn	_	NOUN	N-D	Definite=Def	23	conj	_	SpaceAfter=No
 30	.	_	PUNCT	PUNC	_	17	punct	_	_
 
-# sent_id = 1946e-mark__15
+# sent_id = 1946E-MARK,.15
 # X_ID = 1946E-MARK,1.17
 # text = der historisher faktor dos iz der eyngeshtelter seyder,
 1	der	_	DET	D	PronType=Art	3	det	_	_
@@ -356,7 +356,7 @@
 8	seyder	_	NOUN	N-D	Definite=Def	5	xcomp	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__16
+# sent_id = 1946E-MARK,.16
 # X_ID = 1946E-MARK,1.18
 # text = dos iz a sistem fun oyfboyen dem zats el-pi dem groysn rov analogish geboytn zatsn .
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
@@ -376,7 +376,7 @@
 15	zatsn	_	NOUN	N	_	12	nmod:poss	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__17
+# sent_id = 1946E-MARK,.17
 # X_ID = 1946E-MARK,1.19
 # text = der historisher faktor bashtimt di hoypt-kllim fun verter-seyder,
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -389,7 +389,7 @@
 8	verter-seyder	_	NOUN	N	_	6	obl	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__18
+# sent_id = 1946E-MARK,.18
 # X_ID = 1946E-MARK,1.20
 # text = er git dem shnur oyf velkhe %t%-1 men tsit aroyf di bazundere verter fun zats .
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -409,7 +409,7 @@
 15	zats	_	NOUN	N	_	13	obl	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__19
+# sent_id = 1946E-MARK,.19
 # X_ID = 1946E-MARK,2.21
 # text = der psikhologisher faktor vayzt zikh aroys in dem emotsionale bafarbn, oder nit bafarbn, undzerer reyd durkhn baytn oder haltn zikh baym geveyntlikhn verter-seyder .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -439,7 +439,7 @@
 25	verter-seyder	_	NOUN	N	_	21	obl	_	SpaceAfter=No
 26	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__20
+# sent_id = 1946E-MARK,.20
 # X_ID = 1946E-MARK,2.22
 # text = dos ikhidim-emotsionale, freyd un farvunderung, dos %t%-1 veln oysdrikn zikh feyerlekh un oysferlikh vi oykh andere gefiln vos %t%-2 virkn oyfn verter-seyder, hot oykh zeyne greyte, zeyer fartike formen,
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -477,7 +477,7 @@
 33	formen	_	NOUN	N	_	28	conj	_	SpaceAfter=No
 34	,	_	PUNCT	PUNC	_	26	punct	_	_
 
-# sent_id = 1946e-mark__21
+# sent_id = 1946E-MARK,.21
 # X_ID = 1946E-MARK,2.23
 # text = %con% hot iber-ikhidishe mitlen in a konventsioneln verter-seyder fun emotsioneln reyd .
 1	%con%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
@@ -493,7 +493,7 @@
 11	reyd	_	NOUN	N	_	8	obl	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__22
+# sent_id = 1946E-MARK,.22
 # X_ID = 1946E-MARK,2.24
 # text = di ale faln, ven dos gefil bahersht azoy dem reyder az der zats vert in_gantsn oyfgerisn, vayl der verter-seyder iz nit konventionel, iz in a mtsv fun anarkhie, di ale faln gehern kll nit tsu der gramatik fun loshn .
 1	di	_	DET	D	PronType=Art	2	det	_	_
@@ -541,7 +541,7 @@
 43	loshn	_	NOUN	N	_	41	obl	_	SpaceAfter=No
 44	.	_	PUNCT	PUNC	_	36	punct	_	_
 
-# sent_id = 1946e-mark__23
+# sent_id = 1946E-MARK,.23
 # X_ID = 1946E-MARK,2.25
 # text = der koyekh fun dem ritmishn faktor bashteyt in dem az der seyder fun di verter muz harmonirn mit dem algemeynem ritem fun zats un mitn geboy fun zeyne kolonen, zeyne ritmishe glider .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -579,7 +579,7 @@
 33	glider	_	NOUN	N	_	31	conj	_	SpaceAfter=No
 34	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__24
+# sent_id = 1946E-MARK,.24
 # X_ID = 1946E-MARK,2.26
 # text = nit bloyz poetishe reyd, nor di gevoyntlekhste fraze farmogt ir bazundern ritem .
 1	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	nsubj	_	_
@@ -597,7 +597,7 @@
 13	ritem	_	NOUN	N	_	11	conj	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__25
+# sent_id = 1946E-MARK,.25
 # X_ID = 1946E-MARK,2.27
 # text = yeder loshn hot zikh zeyn ritem fun zats .
 1	yeder	_	DET	Q-NOM	Case=Nom	2	det	_	_
@@ -610,7 +610,7 @@
 8	zats	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__26
+# sent_id = 1946E-MARK,.26
 # X_ID = 1946E-MARK,2.28
 # text = far yidish iz %exp% kharakteristish az der aktsent fun ruik oysgeredtn zats zol zeyn nit oyf@ @n letstn vort zeynen .
 1	far	_	ADP	P	_	2	case	_	_
@@ -635,7 +635,7 @@
 20	zeynen	_	PRON	PRO$	_	19	appos	_	SpaceAfter=No
 21	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__27
+# sent_id = 1946E-MARK,.27
 # X_ID = 1946E-MARK,2.29
 # text = dem ritem fun yidish zats ken men grafish farshteln vi a krume linie, vu %t%-1 der anhoyb un der sof zeyn nideriker vi der mitn .
 1	dem	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
@@ -653,7 +653,7 @@
 13	linie	_	NOUN	N	_	9	obl	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	13	punct	_	_
 15	vu	_	ADV	WADV	Degree=Pos	22	advmod	_	_
-16	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	22	advmod	_	AdvType=Loc
+16	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	22	advmod	_	_
 17	der	_	DET	D-NOM	Case=Nom|PronType=Art	18	det	_	_
 18	anhoyb	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	22	nsubj	_	_
 19	un	_	CCONJ	CONJ	_	21	cc	_	_
@@ -666,7 +666,7 @@
 26	mitn	_	NOUN	N-D	Definite=Def	23	amod	_	SpaceAfter=No
 27	.	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__28
+# sent_id = 1946E-MARK,.28
 # X_ID = 1946E-MARK,2.30
 # text = di bazundere ritmishe glider fun dem zats kenen nit zayn keyn tsu lange, nit tsu fil trafn .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
@@ -689,7 +689,7 @@
 18	trafn	_	NOUN	N	_	15	conj	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__29
+# sent_id = 1946E-MARK,.29
 # X_ID = 1946E-MARK,2.31
 # text = di kolonen zeynen azoy tsu zagn kurtsatemdike .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -701,7 +701,7 @@
 7	kurtsatemdike	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__30
+# sent_id = 1946E-MARK,.30
 # X_ID = 1946E-MARK,2.32
 # text = ot di eygnshaftn fun der yidisher zatsritem, vos mir hobn zi koym barirt, bashtimen oykh dem seyder fun di verter .
 1	ot	_	ADV	FP	Degree=Pos	3	advmod	_	_
@@ -728,7 +728,7 @@
 22	verter	_	NOUN	N-D	Definite=Def	19	obl	_	SpaceAfter=No
 23	.	_	PUNCT	PUNC	_	16	punct	_	_
 
-# sent_id = 1946e-mark__31
+# sent_id = 1946E-MARK,.31
 # X_ID = 1946E-MARK,2.33
 # text = fn._1 logish genumen iz nito keyn bazunderer ritmisher faktor,
 1	fn._1	_	NUM	LS	_	4	dep	_	_
@@ -742,7 +742,7 @@
 9	faktor	_	NOUN	N-NOM	Case=Nom	4	nsubj	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__32
+# sent_id = 1946E-MARK,.32
 # X_ID = 1946E-MARK,2.34
 # text = nor dos ritmishe vert oykh bashtimt fun dem historishn un dem psikhologishn faktor .
 1	nor	_	CCONJ	CONJ	_	4	cc	_	_
@@ -760,7 +760,7 @@
 13	faktor	_	NOUN	N-D	Definite=Def	9	conj	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__33
+# sent_id = 1946E-MARK,.33
 # X_ID = 1946E-MARK,2.35
 # text = ober azoy vi %t%-1 oyf dem ritmishn element fun unzere reyd leygt men veynik akht in gramatik, iz %exp% kdai dos ritmishe aroystsuheybn un tsu derheybn es biz tsu a farzikhtikn faktor .
 1	ober	_	CCONJ	CONJ	_	19	cc	_	_
@@ -798,7 +798,7 @@
 33	faktor	_	NOUN	N-I	Definite=Ind	27	obl	_	SpaceAfter=No
 34	.	_	PUNCT	PUNC	_	19	punct	_	_
 
-# sent_id = 1946e-mark__34
+# sent_id = 1946E-MARK,.34
 # X_ID = 1946E-MARK,2.36
 # text = mir hobn do gemuzt dermonen di faktorn, vayl shpeter vet %exp% etlekhe mol oyskumen zikh tsu farrufn oyf zey .
 1	mir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -823,7 +823,7 @@
 20	zey	_	PRON	PRO	_	18	obl	_	SpaceAfter=No
 21	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__35
+# sent_id = 1946E-MARK,.35
 # X_ID = 1946E-MARK,2.37
 # text = b. der bagrif seyder-eyns
 1	b.	_	NUM	LS	_	3	dep	_	_
@@ -831,7 +831,7 @@
 3	bagrif	_	NOUN	N-D	Definite=Def	0	root	_	_
 4	seyder-eyns	_	NOUN	N	_	3	dep	_	_
 
-# sent_id = 1946e-mark__36
+# sent_id = 1946E-MARK,.36
 # X_ID = 1946E-MARK,2.38
 # text = a zats bashteyt geveyntlikh fun zatsteyln,
 1	a	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -842,7 +842,7 @@
 6	zatsteyln	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__37
+# sent_id = 1946E-MARK,.37
 # X_ID = 1946E-MARK,2.39
 # text = dos vort " geveyntlekh " iz do arayngeshtelt makhmes dem vos a zats ken bashteyn fun eyn eyntsikn vort .
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -866,7 +866,7 @@
 19	vort	_	NOUN	N-I	Definite=Ind	15	obl	_	SpaceAfter=No
 20	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__38
+# sent_id = 1946E-MARK,.38
 # X_ID = 1946E-MARK,2.40
 # text = ober ven men vil analizirn dem verter-seyder, ken men nit oyskumen nit mit@ @n bagrif " vort " un nit mit@ @n bagrif " zatsteyl " .
 1	ober	_	CCONJ	CONJ	_	12	cc	_	_
@@ -898,7 +898,7 @@
 27	"	_	PUNCT	PUNC	_	25	punct	_	SpaceAfter=No
 28	.	_	PUNCT	PUNC	_	12	punct	_	_
 
-# sent_id = 1946e-mark__39
+# sent_id = 1946E-MARK,.39
 # X_ID = 1946E-MARK,2.41
 # text = mir darfn oykh dem bagrif seyder-eyns .
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -909,7 +909,7 @@
 6	seyder-eyns	_	NOUN	N	_	3	appos	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__40
+# sent_id = 1946E-MARK,.40
 # X_ID = 1946E-MARK,2.42
 # text = " seyder-eyns " iz a vort oder a grupe verter in dem zats vos %t%-1 shaft a farzikhdikn eyns bey di miglekhe ibershtelungen un kombinirungen fun di verter in dem zats .
 1	"	_	PUNCT	PUNC	_	4	punct	_	_
@@ -945,7 +945,7 @@
 31	zats	_	NOUN	N-D	Definite=Def	28	obl	_	SpaceAfter=No
 32	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__41
+# sent_id = 1946E-MARK,.41
 # X_ID = 1946E-MARK,2.43
 # text = oyb mir zoln zikh oyf a bildlekhn ufn farshteln dem zats vi tsunoyfgeshtelt fun bazundere kletslekh, iz yeder seyder-eyns a bazunder kletsl .
 1	oyb	_	SCONJ	C	_	9	mark	_	_
@@ -973,7 +973,7 @@
 23	kletsl	_	NOUN	N-I	Definite=Ind	18	xcomp	_	SpaceAfter=No
 24	.	_	PUNCT	PUNC	_	18	punct	_	_
 
-# sent_id = 1946e-mark__42
+# sent_id = 1946E-MARK,.42
 # X_ID = 1946E-MARK,2.44
 # text = es kenen zeyn in zats azoy fil seyder-eynsn vi@ @fl es zaynen faran %t%-1 verter .
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	3	expl	_	_
@@ -993,7 +993,7 @@
 15	verter	_	NOUN	N	_	14	conj	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__43
+# sent_id = 1946E-MARK,.43
 # X_ID = 1946E-MARK,3.45
 # text = in dem zats zi heyst rokhel hobn mir dray verter un drey seyder-eynsn,
 1	in	_	ADP	P	_	3	case	_	_
@@ -1011,7 +1011,7 @@
 13	seyder-eynsn	_	NOUN	N-ACC	Case=Acc	7	obj	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__44
+# sent_id = 1946E-MARK,.44
 # X_ID = 1946E-MARK,3.46
 # text = ober inem zats meyn khaverte heyst rokhl hobn mir fir vert un nit mer vi dray seyder-eynsn : mayn khaverte, heyst, rokhl .
 1	ober	_	CCONJ	CONJ	_	8	cc	_	_
@@ -1040,7 +1040,7 @@
 24	rokhl	_	PROPN	NPR	_	20	conj	_	SpaceAfter=No
 25	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__45
+# sent_id = 1946E-MARK,.45
 # X_ID = 1946E-MARK,3.47
 # text = in dem langn zats der_doziker voyler mentsh iz zayner an alter bakanter zeynen faran neyn verter ober nit mer vi fir seyder-eynsn : der_doziker voyler mentsh, iz, zayner, an alter bakanter
 1	in	_	ADP	P	_	4	case	_	_
@@ -1078,7 +1078,7 @@
 33	alter	_	ADJ	ADJ	Degree=Pos	34	amod	_	_
 34	bakanter	_	NOUN	N	_	26	conj	_	_
 
-# sent_id = 1946e-mark__46
+# sent_id = 1946E-MARK,.46
 # X_ID = 1946E-MARK,3.48
 # text = nokh a por bayshpiln veln dem inyen makhn %ich%-1 klorer .
 1	nokh	_	ADV	ADV	Degree=Pos	8	nsubj	_	_
@@ -1093,7 +1093,7 @@
 10	klorer	_	ADJ	ADJR	Degree=Pos	8	ccomp	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__47
+# sent_id = 1946E-MARK,.47
 # X_ID = 1946E-MARK,3.49
 # text = in dem zats : ikh bin nekhtn shpet gekumen aheym zaynen faran zeks verter un punkt azoy fil seyder-eynsn, vayl mir kenen di verter ibershteln oykh azoy .
 1	in	_	ADP	P	_	3	case	_	_
@@ -1126,7 +1126,7 @@
 28	azoy	_	ADV	ADV	Degree=Pos	27	advmod	_	SpaceAfter=No
 29	.	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__48
+# sent_id = 1946E-MARK,.48
 # X_ID = 1946E-MARK,3.50
 # text = bin ikh nekhtn shpet gekumen aheym .
 1	bin	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
@@ -1137,7 +1137,7 @@
 6	aheym	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__49
+# sent_id = 1946E-MARK,.49
 # X_ID = 1946E-MARK,3.51
 # text = nekhtn bin ikh shpet gekumen aheym .
 1	nekhtn	_	ADV	ADV	Degree=Pos	5	advmod	_	_
@@ -1148,7 +1148,7 @@
 6	aheym	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__50
+# sent_id = 1946E-MARK,.50
 # X_ID = 1946E-MARK,3.52
 # text = shpet bin ikh nekhtn aheym gekumen .
 1	shpet	_	ADV	ADV	Degree=Pos	6	advmod	_	_
@@ -1159,7 +1159,7 @@
 6	gekumen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__51
+# sent_id = 1946E-MARK,.51
 # X_ID = 1946E-MARK,3.53
 # text = gekumen bin ikh nekhtn shpet aheym .
 1	gekumen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1170,7 +1170,7 @@
 6	aheym	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__52
+# sent_id = 1946E-MARK,.52
 # X_ID = 1946E-MARK,3.54
 # text = aheym bin ikh nekhtn gekumen shpet .
 1	aheym	_	ADV	ADV	Degree=Pos	5	advmod	_	_
@@ -1181,7 +1181,7 @@
 6	shpet	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__53
+# sent_id = 1946E-MARK,.53
 # X_ID = 1946E-MARK,3.55
 # text = %exp% farshteyt zikh az men ken makhn nokh andere gezetslekhe ibershtelungen,
 1	%exp%	_	NOUN	NP-SBJ-1	_	2	xcomp	_	_
@@ -1197,7 +1197,7 @@
 11	ibershtelungen	_	NOUN	N	_	8	conj	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__54
+# sent_id = 1946E-MARK,.54
 # X_ID = 1946E-MARK,3.56
 # text = ober di vos %t%-1 mir hobn do gemakht ilustrirn shoyn far undz az in dem zats iz yeder vort far zikh a bazunderer seyder-eyns .
 1	ober	_	CCONJ	CONJ	_	9	cc	_	_
@@ -1226,7 +1226,7 @@
 24	seyder-eyns	_	NOUN	N-I	Definite=Ind	17	xcomp	_	SpaceAfter=No
 25	.	_	PUNCT	PUNC	_	17	punct	_	_
 
-# sent_id = 1946e-mark__55
+# sent_id = 1946E-MARK,.55
 # X_ID = 1946E-MARK,3.57
 # text = in dem zats : der aremer yingl hot ongeton a rekl mit tserisene arbl zeynen faran tsen verter, ober nit mer vi fir seyder-eynsn : der aremer yingl, hot, ongeton, a rekl mit tserisene arbl,
 1	in	_	ADP	P	_	3	case	_	_
@@ -1270,7 +1270,7 @@
 39	arbl	_	NOUN	N	_	36	dep	_	SpaceAfter=No
 40	,	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__56
+# sent_id = 1946E-MARK,.56
 # X_ID = 1946E-MARK,3.58
 # text = vorem men meg kombinirn azoy :
 1	vorem	_	CCONJ	CONJ	_	4	cc	_	_
@@ -1280,7 +1280,7 @@
 5	azoy	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__57
+# sent_id = 1946E-MARK,.57
 # X_ID = 1946E-MARK,3.59
 # text = der aremer yingl hot ongeton a rekl mit tserisene arbl
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -1294,7 +1294,7 @@
 9	tserisene	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	arbl	_	NOUN	N	_	7	obl	_	_
 
-# sent_id = 1946e-mark__58
+# sent_id = 1946E-MARK,.58
 # X_ID = 1946E-MARK,3.60
 # text = ongeton hot der aremer yingl a rekl mit tserisene arbl .
 1	ongeton	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1309,7 +1309,7 @@
 10	arbl	_	NOUN	N	_	7	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__59
+# sent_id = 1946E-MARK,.59
 # X_ID = 1946E-MARK,3.61
 # text = a rekl mit tserisene arbl hot der aremer yingl ongeton .
 1	a	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
@@ -1324,7 +1324,7 @@
 10	ongeton	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__60
+# sent_id = 1946E-MARK,.60
 # X_ID = 1946E-MARK,3.62
 # text = hot ongeton der aremer yingl a rekl mit tserisene arbl .
 1	hot	_	AUX	HVF	VerbForm=Fin	2	aux	_	_
@@ -1339,7 +1339,7 @@
 10	arbl	_	NOUN	N	_	7	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__61
+# sent_id = 1946E-MARK,.61
 # X_ID = 1946E-MARK,3.63
 # text = men tor ober nit makhn azelkhe ibershtelungen : der aremer yingl hot ongeton mit tserisene arbl a rekl der yingl aremer hot uzv. un a_sakh andere reyn mekhanishe ibershtelungen vos %t%-1 kenen nit gebn keyn korektn zats .
 1	men	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -1381,7 +1381,7 @@
 37	zats	_	NOUN	N-ACC	Case=Acc	34	obj	_	SpaceAfter=No
 38	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__62
+# sent_id = 1946E-MARK,.62
 # X_ID = 1946E-MARK,3.64
 # text = fun di bayshpiln hot %exp% oykh gedarft klor vern az der seyder-eyns falt nit tsunoyf mitn zatsteyl .
 1	fun	_	ADP	P	_	3	case	_	_
@@ -1403,7 +1403,7 @@
 17	zatsteyl	_	NOUN	N	_	13	obl	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__63
+# sent_id = 1946E-MARK,.63
 # X_ID = 1946E-MARK,3.65
 # text = ot hobn mir in dem letstn zats gehot a predikat " hot ongeton "
 1	ot	_	ADV	FP	Degree=Pos	8	advmod	_	_
@@ -1421,7 +1421,7 @@
 13	ongeton	_	AUX	HVF-PART	VerbForm=Fin	12	aux	_	SpaceAfter=No
 14	"	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__64
+# sent_id = 1946E-MARK,.64
 # X_ID = 1946E-MARK,3.66
 # text = un der eyn predikat bashteyt fun tsvey seyder-eynsn . beys der oysdruk " a rekl mit tserisene arbl " iz an objekt plus an atribut tsu im,
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
@@ -1453,7 +1453,7 @@
 27	im	_	PRON	PRO	_	25	obl	_	SpaceAfter=No
 28	,	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__65
+# sent_id = 1946E-MARK,.65
 # X_ID = 1946E-MARK,3.67
 # text = un beyde in eynem zeynen in dem zats eyn seyder-eyns .
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
@@ -1468,7 +1468,7 @@
 10	seyder-eyns	_	NOUN	N-I	Definite=Ind	5	xcomp	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__66
+# sent_id = 1946E-MARK,.66
 # X_ID = 1946E-MARK,3.68
 # text = a konyunktsie shpilt ale_mol di role fun a nul in der rey seyder-eynsn .
 1	a	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -1486,7 +1486,7 @@
 13	seyder-eynsn	_	NOUN	N	_	12	nmod:poss	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__67
+# sent_id = 1946E-MARK,.67
 # X_ID = 1946E-MARK,3.69
 # text = a prepozitsie iz a seyder-eyns in eynem mitn substantiv .
 1	a	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -1500,7 +1500,7 @@
 9	substantiv	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__68
+# sent_id = 1946E-MARK,.68
 # X_ID = 1946E-MARK,3.70
 # text = dos eygene iz oykh mitn artikl .
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -1511,7 +1511,7 @@
 6	artikl	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__69
+# sent_id = 1946E-MARK,.69
 # X_ID = 1946E-MARK,3.71
 # text = di hilfsverbn zaynen bazundere seyder-eynsn .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -1521,7 +1521,7 @@
 5	seyder-eynsn	_	NOUN	N	_	3	xcomp	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__70
+# sent_id = 1946E-MARK,.70
 # X_ID = 1946E-MARK,3.72
 # text = modale verter efshr, avade, mistome, usv. zeynen bazundere seyder-eynsn .
 1	modale	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	2	amod	_	_
@@ -1538,7 +1538,7 @@
 12	seyder-eynsn	_	NOUN	N	_	10	xcomp	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__71
+# sent_id = 1946E-MARK,.71
 # X_ID = 1946E-MARK,3.73
 # text = die batsiung tsvishn atribut un dem substantiv, tsu velkhn %t%-1 er tsit zikh, iz benegeye verter-seyder a komplitsirter,
 1	die	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -1563,7 +1563,7 @@
 20	komplitsirter	_	ADJ	ADJ	Degree=Pos	16	xcomp	_	SpaceAfter=No
 21	,	_	PUNCT	PUNC	_	16	punct	_	_
 
-# sent_id = 1946e-mark__72
+# sent_id = 1946E-MARK,.72
 # X_ID = 1946E-MARK,3.74
 # text = un mir veln zikh opshteln oyf dem inyen a bisl shpeter .
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
@@ -1579,7 +1579,7 @@
 11	shpeter	_	ADV	ADVR	Degree=Cmp	5	advmod	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__73
+# sent_id = 1946E-MARK,.73
 # X_ID = 1946E-MARK,4.76
 # text = g. der grunt-kll fun verter-seyder in normaln dertseylzats
 1	g.	_	NUM	LS	_	3	dep	_	_
@@ -1591,7 +1591,7 @@
 7	normaln	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 8	dertseylzats	_	NOUN	N	_	5	obl	_	_
 
-# sent_id = 1946e-mark__74
+# sent_id = 1946E-MARK,.74
 # X_ID = 1946E-MARK,4.77
 # text = nokh dem vi mir hobn oyfgeklert dem bagrif seyder-eyns, ken men gebn zeyer a kurtser kll vegn dem verter-seyder in dem normaln, dem ruikn dertseylzats .
 1	nokh	_	ADP	P	_	2	case	_	_
@@ -1623,18 +1623,18 @@
 27	dertseylzats	_	NOUN	N-D	Definite=Def	20	obl	_	SpaceAfter=No
 28	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__75
+# sent_id = 1946E-MARK,.75
 # X_ID = 1946E-MARK,4.78
 # text = un der kll iz azoy eikrdik az er iz oykh khl oyf a teyl emotsional befarbene zatsn, oykh oyf freg- und oysruf-zatsn .
 1	un	_	CCONJ	CONJ	_	4	cc	_	_
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	kll	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
 4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-5	azoy	_	ADV	ADV	Degree=Pos	4	amod	_	_
-6	eikrdik	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	eikrdik	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	az	_	SCONJ	C	_	9	mark	_	_
 8	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-9	iz	_	VERB	VBF	VerbForm=Fin	5	amod	_	_
+9	iz	_	VERB	VBF	VerbForm=Fin	6	amod	_	_
 10	oykh	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 11	khl	_	NOUN	N	_	9	xcomp	_	_
 12	oyf	_	ADP	P	_	14	case	_	_
@@ -1651,7 +1651,7 @@
 23	oysruf-zatsn	_	NOUN	N	_	21	conj	_	SpaceAfter=No
 24	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__76
+# sent_id = 1946E-MARK,.76
 # X_ID = 1946E-MARK,4.79
 # text = der kll bashteyt sakh-hakol fun etlekkhe verter :
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -1663,7 +1663,7 @@
 7	verter	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 8	:	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__77
+# sent_id = 1946E-MARK,.77
 # X_ID = 1946E-MARK,4.80
 # text = der beygiker verb kumt oyfn tsveytn ort fun di seyder-eynsn .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -1678,7 +1678,7 @@
 10	seyder-eynsn	_	NOUN	N-D	Definite=Def	7	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__78
+# sent_id = 1946E-MARK,.78
 # X_ID = 1946E-MARK,4.81
 # text = ale frier gebrakhtn beysphiln vos men ken zey gefinen in kapitele b, bashtetikn ot dem kll .
 1	ale	_	DET	Q-NOM	Case=Nom	4	det	_	_
@@ -1700,7 +1700,7 @@
 17	kll	_	NOUN	N-D	Definite=Def	15	conj	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	14	punct	_	_
 
-# sent_id = 1946e-mark__79
+# sent_id = 1946E-MARK,.79
 # X_ID = 1946E-MARK,4.82
 # text = mir brengen ober nokh a gantse grupe bayshpiln kedey der kll zol vern in_gantsn klor :
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -1716,11 +1716,11 @@
 11	kll	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	13	nsubj	_	_
 12	zol	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 13	vern	_	VERB	VB	VerbForm=Inf	2	advcl	_	_
-14	in_gantsn	_	ADV	ADV	Degree=Pos	13	amod	_	_
-15	klor	_	ADJ	ADJ	Degree=Pos	14	amod	_	SpaceAfter=No
+14	in_gantsn	_	ADV	ADV	Degree=Pos	15	amod	_	_
+15	klor	_	ADJ	ADJ	Degree=Pos	13	amod	_	SpaceAfter=No
 16	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__80
+# sent_id = 1946E-MARK,.80
 # X_ID = 1946E-MARK,4.83
 # text = ikh vel geyn .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
@@ -1728,7 +1728,7 @@
 3	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__81
+# sent_id = 1946E-MARK,.81
 # X_ID = 1946E-MARK,4.84
 # text = ikh aleyn vel geyn .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
@@ -1737,7 +1737,7 @@
 4	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__82
+# sent_id = 1946E-MARK,.82
 # X_ID = 1946E-MARK,4.85
 # text = men tor nisht oyfvekn dos kind .
 1	men	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
@@ -1748,7 +1748,7 @@
 6	kind	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__83
+# sent_id = 1946E-MARK,.83
 # X_ID = 1946E-MARK,4.86
 # text = oyfvekn dos kind tor men nisht .
 1	oyfvekn	_	VERB	VB-PART	VerbForm=Inf	0	root	_	_
@@ -1759,7 +1759,7 @@
 6	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__84
+# sent_id = 1946E-MARK,.84
 # X_ID = 1946E-MARK,4.87
 # text = dos kind oyfvekn tor men nisht .
 1	dos	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
@@ -1770,7 +1770,7 @@
 6	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__85
+# sent_id = 1946E-MARK,.85
 # X_ID = 1946E-MARK,4.88
 # text = di tir fun shtub iz ofn a gantsn tog .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -1784,7 +1784,7 @@
 9	tog	_	NOUN	N-I	Definite=Ind	5	obl	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__86
+# sent_id = 1946E-MARK,.86
 # X_ID = 1946E-MARK,4.89
 # text = a gantsn tog iz ofn di tir fun shtub .
 1	a	_	DET	D	PronType=Art	3	det	_	_
@@ -1798,7 +1798,7 @@
 9	shtub	_	NOUN	N	_	7	obl	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__87
+# sent_id = 1946E-MARK,.87
 # X_ID = 1946E-MARK,4.90
 # text = di sheyne vunderlekhe meshiut fun shtualikn dem itum hobn zeyn yungn khaver in_gantsn farkisuft .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
@@ -1817,7 +1817,7 @@
 14	farkisuft	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	14	punct	_	_
 
-# sent_id = 1946e-mark__88
+# sent_id = 1946E-MARK,.88
 # X_ID = 1946E-MARK,4.91
 # text = azoy zogt tsu mir meyn bruder alihu .
 1	azoy	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -1829,7 +1829,7 @@
 7	alihu	_	PROPN	NPR	_	2	nsubj	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__89
+# sent_id = 1946E-MARK,.89
 # X_ID = 1946E-MARK,4.92
 # text = efsher vet er kumen .
 1	efsher	_	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -1838,7 +1838,7 @@
 4	kumen	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__90
+# sent_id = 1946E-MARK,.90
 # X_ID = 1946E-MARK,4.93
 # text = ot falt fun himl a likhtiker shtern .
 1	ot	_	ADV	FP	Degree=Pos	2	advmod	_	_
@@ -1850,7 +1850,7 @@
 7	shtern	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	2	nsubj	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__91
+# sent_id = 1946E-MARK,.91
 # X_ID = 1946E-MARK,4.94
 # text = oy krekhtst men .
 1	oy	_	INTJ	INTJ	_	2	dep	_	_
@@ -1858,7 +1858,7 @@
 3	men	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	SpaceAfter=No
 4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__92
+# sent_id = 1946E-MARK,.92
 # X_ID = 1946E-MARK,4.95
 # text = in di ale zatsn kumt farn beygikn verb nor eyn seyder-eyns .
 1	in	_	ADP	P	_	4	case	_	_
@@ -1874,7 +1874,7 @@
 11	seyder-eyns	_	NOUN	N	_	9	conj	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__93
+# sent_id = 1946E-MARK,.93
 # X_ID = 1946E-MARK,4.96
 # text = agev, eyder mir geyen vayter, zol %exp% do nokh gezogt vern, az der ufn aroysreydn, di intonatsie fun opteyln oder tsunoyfnemen in eynem, bashtimt tsi mir hobn tsu ton mit eyn seyder-eyns oder mit tsvey .
 1	agev	_	ADV	ADV	Degree=Pos	13	advmod	_	SpaceAfter=No
@@ -1919,7 +1919,7 @@
 40	tsvey	_	NOUN	N	_	37	conj	_	SpaceAfter=No
 41	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__94
+# sent_id = 1946E-MARK,.94
 # X_ID = 1946E-MARK,4.97
 # text = hert zikh tsu tsu dem, vi %t%-1 ir aleyn brengt aroys di beyde zatsn :
 1	hert	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -1939,7 +1939,7 @@
 15	zatsn	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	11	obj	_	SpaceAfter=No
 16	:	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__95
+# sent_id = 1946E-MARK,.95
 # X_ID = 1946E-MARK,4.98
 # text = a. dos kind oyfvekn tor men nisht .
 1	a.	_	NUM	LS	_	4	dep	_	_
@@ -1951,7 +1951,7 @@
 7	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__96
+# sent_id = 1946E-MARK,.96
 # X_ID = 1946E-MARK,4.99
 # text = b. dos kind tor men nisht oyfvekn .
 1	b.	_	NUM	LS	_	7	dep	_	_
@@ -1963,7 +1963,7 @@
 7	oyfvekn	_	VERB	VB-PART	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__97
+# sent_id = 1946E-MARK,.97
 # X_ID = 1946E-MARK,4.100
 # text = oykh in frages un in oysrufn iz miglekh der zelbiker seyder verter,
 1	oykh	_	ADV	ADV	Degree=Pos	7	obl	_	_
@@ -1980,7 +1980,7 @@
 12	verter	_	NOUN	N-NOM	Case=Nom	11	nmod:poss	_	SpaceAfter=No
 13	,	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__98
+# sent_id = 1946E-MARK,.98
 # X_ID = 1946E-MARK,4.101
 # text = un nor di intonatsie fun fregn oder fun emotsianeln oysrufn bashtimt dem kharakter fun a freg- oder an oysruf-zats,
 1	un	_	CCONJ	CONJ	_	11	cc	_	_
@@ -2004,7 +2004,7 @@
 19	oysruf-zats	_	NOUN	N-I	Definite=Ind	16	conj	_	SpaceAfter=No
 20	,	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__99
+# sent_id = 1946E-MARK,.99
 # X_ID = 1946E-MARK,4.102
 # text = lemoshl : 1a. ir esn vet gornisht kostn .
 1	lemoshl	for_example	X	H	_	8	dep	_	SpaceAfter=No
@@ -2017,7 +2017,7 @@
 8	kostn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__100
+# sent_id = 1946E-MARK,.100
 # X_ID = 1946E-MARK,4.103
 # text = 1b. ir esn vet gornisht kostn ?
 1	1b.	_	NUM	LS	_	6	dep	_	_
@@ -2028,7 +2028,7 @@
 6	kostn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__101
+# sent_id = 1946E-MARK,.101
 # X_ID = 1946E-MARK,4.104
 # text = 2a. ir arbet nit vi an eyzl a gantsn tog .
 1	2a.	_	NUM	LS	_	3	dep	_	_
@@ -2043,7 +2043,7 @@
 10	tog	_	NOUN	N-I	Definite=Ind	3	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__102
+# sent_id = 1946E-MARK,.102
 # X_ID = 1946E-MARK,4.105
 # text = 2b. ir arbet nit vi an eyzl a gantsn tog ?
 1	2b.	_	NUM	LS	_	3	dep	_	_
@@ -2058,7 +2058,7 @@
 10	tog	_	NOUN	N-I	Definite=Ind	3	obl	_	SpaceAfter=No
 11	?	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__103
+# sent_id = 1946E-MARK,.103
 # X_ID = 1946E-MARK,4.106
 # text = 3a. ir shpilt zikh mit berlen .
 1	3a.	_	NUM	LS	_	3	dep	_	_
@@ -2069,7 +2069,7 @@
 6	berlen	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__104
+# sent_id = 1946E-MARK,.104
 # X_ID = 1946E-MARK,4.107
 # text = 3b. ir shpilt zikh mit berlen %EXCL%
 1	3b.	_	NUM	LS	_	0	root	_	_
@@ -2080,7 +2080,7 @@
 6	berlen	_	NOUN	N	_	1	obl	_	SpaceAfter=No
 7	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__105
+# sent_id = 1946E-MARK,.105
 # X_ID = 1946E-MARK,4.108
 # text = hkll, in frages un in oysrufn kumt oykh der beygiker verb oyfn tsveytn ort :
 1	hkll	_	ADV	ADV	Degree=Pos	8	advmod	_	SpaceAfter=No
@@ -2100,7 +2100,7 @@
 15	ort	_	NOUN	N	_	8	obl	_	SpaceAfter=No
 16	:	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__106
+# sent_id = 1946E-MARK,.106
 # X_ID = 1946E-MARK,5.110
 # text = vos %t%-1 klert ir ?
 1	vos	_	PRON	WPRO	_	0	root	_	_
@@ -2109,7 +2109,7 @@
 4	ir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	SpaceAfter=No
 5	?	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__107
+# sent_id = 1946E-MARK,.107
 # X_ID = 1946E-MARK,5.111
 # text = vi_azoy %t%-1 iz er arayngekumen ?
 1	vi_azoy	_	ADV	WADV	Degree=Pos	0	root	_	_
@@ -2119,7 +2119,7 @@
 5	arayngekumen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
 6	?	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__108
+# sent_id = 1946E-MARK,.108
 # X_ID = 1946E-MARK,5.112
 # text = oy, ligt men in dr@ @erd %EXCL%
 1	oy	_	INTJ	INTJ	_	0	root	_	SpaceAfter=No
@@ -2131,7 +2131,7 @@
 7	@erd	_	NOUN	N-D	Definite=Def	3	obl	_	SpaceAfter=No
 8	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__109
+# sent_id = 1946E-MARK,.109
 # X_ID = 1946E-MARK,5.113
 # text = mit berlen shpilt ir zikh %EXCL%
 1	mit	_	ADP	P	_	2	case	_	_
@@ -2141,7 +2141,7 @@
 5	zikh	_	PRON	PRO-RFL	PronType=Reflex	2	expl:pv	_	SpaceAfter=No
 6	%EXCL%	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__110
+# sent_id = 1946E-MARK,.110
 # X_ID = 1946E-MARK,5.114
 # text = es iz klor fun di ale beysphiln, az in yidish shpilt nisht keyn role der khilek tsvishn a direktn un umdirektn verter-seyder .
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
@@ -2169,7 +2169,7 @@
 23	verter-seyder	_	NOUN	N	_	17	obl	_	SpaceAfter=No
 24	.	_	PUNCT	PUNC	_	12	punct	_	_
 
-# sent_id = 1946e-mark__111
+# sent_id = 1946E-MARK,.111
 # X_ID = 1946E-MARK,5.115
 # text = bekheyn, iz aza min untersheydn tsvishn a direkten un umdirekten verter-seyder lkhlutin iberik in der yidisher gramatik,
 1	bekheyn	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
@@ -2192,7 +2192,7 @@
 18	gramatik	_	NOUN	N-D	Definite=Def	3	obl	_	SpaceAfter=No
 19	,	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__112
+# sent_id = 1946E-MARK,.112
 # X_ID = 1946E-MARK,5.116
 # text = un oyb emetser firt es arayn baym lernen yidish iz es nit mer vi a simn az er iz an evd kneni bay a fremder gramatik .
 1	un	_	CCONJ	CONJ	_	10	cc	_	_
@@ -2223,7 +2223,7 @@
 26	gramatik	_	NOUN	N-I	Definite=Ind	20	obl	_	SpaceAfter=No
 27	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__113
+# sent_id = 1946E-MARK,.113
 # X_ID = 1946E-MARK,5.117
 # text = men darf anzeik zikh farshteln dem yidishn zats vi a keyt vu %t%-1 di ringen kenen zikh baytn mit zeyere erter
 1	men	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -2238,7 +2238,7 @@
 10	a	_	DET	D	PronType=Art	11	det	_	_
 11	keyt	_	NOUN	N-I	Definite=Ind	5	obl	_	_
 12	vu	_	ADV	WADV	Degree=Pos	18	advmod	_	_
-13	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	18	advmod	_	AdvType=Loc
+13	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	18	advmod	_	_
 14	di	_	DET	D-NOM	Case=Nom|PronType=Art	15	det	_	_
 15	ringen	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	18	nsubj	_	_
 16	kenen	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
@@ -2248,7 +2248,7 @@
 20	zeyere	_	PRON	PRO$	_	21	det:poss	_	_
 21	erter	_	NOUN	N	_	18	obl	_	_
 
-# sent_id = 1946e-mark__114
+# sent_id = 1946E-MARK,.114
 # X_ID = 1946E-MARK,5.118
 # text = ober eyn ring iz shtabil
 1	ober	_	CCONJ	CONJ	_	4	cc	_	_
@@ -2257,7 +2257,7 @@
 4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	shtabil	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 
-# sent_id = 1946e-mark__115
+# sent_id = 1946E-MARK,.115
 # X_ID = 1946E-MARK,5.119
 # text = %con% iz tsugefestikt tsum tsveytn ort .
 1	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
@@ -2268,7 +2268,7 @@
 6	ort	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__116
+# sent_id = 1946E-MARK,.116
 # X_ID = 1946E-MARK,5.120
 # text = der beygiker verb iz azoy vi di aks vos zi bavegt zikh nit un vos arum ir kenen zikh ibershteln ophitndik gevise tsugob-kllim di andere seyder-eynsn fun zats .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -2301,7 +2301,7 @@
 28	zats	_	NOUN	N	_	26	obl	_	SpaceAfter=No
 29	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__117
+# sent_id = 1946E-MARK,.117
 # X_ID = 1946E-MARK,5.121
 # text = biz itst hobn mir gehot tsu ton mit poshete zatsn .
 1	biz	_	ADP	P	_	2	case	_	_
@@ -2316,7 +2316,7 @@
 10	zatsn	_	NOUN	N	_	7	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__118
+# sent_id = 1946E-MARK,.118
 # X_ID = 1946E-MARK,5.122
 # text = ober oykh in di tsunoyfgezetste zatsn geveltikt der zelbiker printsip fun verter-seyder, oykh dortn vu %t%-1 mir hobn a hoyptzats un a bayzats .
 1	ober	_	CCONJ	CONJ	_	7	cc	_	_
@@ -2335,7 +2335,7 @@
 14	oykh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 15	dortn	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 16	vu	_	ADV	WADV	Degree=Pos	19	advmod	_	_
-17	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	19	advmod	_	AdvType=Loc
+17	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	19	advmod	_	_
 18	mir	_	PRON	PRO-NOM	Case=Nom	19	nsubj	_	_
 19	hobn	_	VERB	VBF	VerbForm=Fin	14	advcl	_	_
 20	a	_	DET	D-ACC	Case=Acc|PronType=Art	21	det	_	_
@@ -2345,7 +2345,7 @@
 24	bayzats	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	19	obj	_	SpaceAfter=No
 25	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__119
+# sent_id = 1946E-MARK,.119
 # X_ID = 1946E-MARK,5.123
 # text = ven der beyzats kumt nokh dem hoyptzats iz oyfn verter-seyder i fun hoyptzats i fun bayzats khl der zelbiker grund-kll .
 1	ven	_	SCONJ	C	_	4	mark	_	_
@@ -2370,7 +2370,7 @@
 20	grund-kll	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	8	nsubj	_	SpaceAfter=No
 21	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__120
+# sent_id = 1946E-MARK,.120
 # X_ID = 1946E-MARK,5.124
 # text = mir darfn bloyz nit fargesn az di konyunktsie vert nit arayngerekhnt in der tsol seyder-eynsn .
 1	mir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -2390,7 +2390,7 @@
 15	seyder-eynsn	_	NOUN	N	_	14	nmod:poss	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__121
+# sent_id = 1946E-MARK,.121
 # X_ID = 1946E-MARK,5.125
 # text = etlekhe bayshpiln oyf tsu ilustrirn :
 1	etlekhe	_	DET	Q	_	2	det	_	_
@@ -2400,7 +2400,7 @@
 5	ilustrirn	_	VERB	VB	VerbForm=Inf	2	obl	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__122
+# sent_id = 1946E-MARK,.122
 # X_ID = 1946E-MARK,5.126
 # text = ikh veys oyf zikher az moyshe vet morgen kumen tsu forn
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -2415,7 +2415,7 @@
 10	tsu	_	PART	TO	_	11	mark	_	_
 11	forn	_	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 
-# sent_id = 1946e-mark__123
+# sent_id = 1946E-MARK,.123
 # X_ID = 1946E-MARK,5.127
 # text = zi veys gornisht tsi es kumt a gast
 1	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -2427,7 +2427,7 @@
 7	a	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
 8	gast	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	6	nsubj	_	_
 
-# sent_id = 1946e-mark__124
+# sent_id = 1946E-MARK,.124
 # X_ID = 1946E-MARK,5.128
 # text = fun turem zet der vekhter vi es dernentsert zikh der kheyl fun soyne .
 1	fun	_	ADP	P	_	2	case	_	_
@@ -2445,7 +2445,7 @@
 13	soyne	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__125
+# sent_id = 1946E-MARK,.125
 # X_ID = 1946E-MARK,5.129
 # text = der dokter hot geheysn glaykh operirn, vayl keyn ander brirh iz shoyn nit geven .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -2465,7 +2465,7 @@
 15	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__126
+# sent_id = 1946E-MARK,.126
 # X_ID = 1946E-MARK,5.130
 # text = der zelbiker kll vegn beygikn verb oyfn tsveytn ort iz oykh khl oyf dem atributivn bayzats, hn oyf dem relativishn, hn oyf dem konyunktivishn,
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -2496,7 +2496,7 @@
 26	konyunktivishn	_	ADJ	ADJ	Degree=Pos	21	conj	_	SpaceAfter=No
 27	,	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__127
+# sent_id = 1946E-MARK,.127
 # X_ID = 1946E-MARK,5.131
 # text = lemoshl : di oytsres vos der yam hot zey bahaltn oyf eybik
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
@@ -2512,7 +2512,7 @@
 11	oyf	_	ADP	P	_	12	case	_	_
 12	eybik	_	ADV	ADV	Degree=Pos	10	obl	_	_
 
-# sent_id = 1946e-mark__128
+# sent_id = 1946E-MARK,.128
 # X_ID = 1946E-MARK,5.132
 # text = meyn freynd vos ikh hob im shoyn lang nit gezen
 1	meyn	_	PRON	PRO$	_	0	root	_	_
@@ -2526,20 +2526,20 @@
 9	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
 10	gezen	_	VERB	VBN	Tense=Past|VerbForm=Part	1	acl:relcl	_	_
 
-# sent_id = 1946e-mark__129
+# sent_id = 1946E-MARK,.129
 # X_ID = 1946E-MARK,5.133
 # text = di shtot vu %t%-1 der held iz geboyrn gevorn
 1	di	_	DET	D	PronType=Art	0	root	_	_
 2	shtot	_	NOUN	N-D	Definite=Def	1	conj	_	_
 3	vu	_	ADV	WADV	Degree=Pos	8	advmod	_	_
-4	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	8	advmod	_	AdvType=Loc
+4	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	8	advmod	_	_
 5	der	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	held	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	8	nsubj	_	_
 7	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
 8	geboyrn	_	VERB	VAN	Tense=Past|VerbForm=Part	1	acl:relcl	_	_
 9	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	8	dep	_	_
 
-# sent_id = 1946e-mark__130
+# sent_id = 1946E-MARK,.130
 # X_ID = 1946E-MARK,5.134
 # text = ven ober der bayzats kumt far dem hoyptzats, shpilt der gantser bayzats benegeye tsum hoyptzats di role fun eyn seyder-eyns .
 1	ven	_	SCONJ	C	_	5	mark	_	_
@@ -2565,7 +2565,7 @@
 21	seyder-eyns	_	NOUN	N-I	Definite=Ind	18	obl	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__131
+# sent_id = 1946E-MARK,.131
 # X_ID = 1946E-MARK,5.135
 # text = bekheyn, kumt yemolt der verb fun dem hoyptzats gleykh in onheyb,
 1	bekheyn	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
@@ -2582,7 +2582,7 @@
 12	onheyb	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 13	,	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__132
+# sent_id = 1946E-MARK,.132
 # X_ID = 1946E-MARK,5.136
 # text = lemoshl : ven ikh bin tsu im arayn, hob ikh im nokh getrofen in bet .
 1	lemoshl	for_example	X	H	_	14	dep	_	SpaceAfter=No
@@ -2603,7 +2603,7 @@
 16	bet	_	NOUN	N	_	14	obl	_	SpaceAfter=No
 17	.	_	PUNCT	PUNC	_	14	punct	_	_
 
-# sent_id = 1946e-mark__133
+# sent_id = 1946E-MARK,.133
 # X_ID = 1946E-MARK,5.137
 # text = vayl keyn ander brirh iz shoyn nit geven, hot der doktor geheysn glaykh operirn
 1	vayl	_	SCONJ	C	_	8	mark	_	_
@@ -2622,7 +2622,7 @@
 14	glaykh	_	ADV	ADV	Degree=Pos	15	advmod	_	_
 15	operirn	_	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 
-# sent_id = 1946e-mark__134
+# sent_id = 1946E-MARK,.134
 # X_ID = 1946E-MARK,5.138
 # text = az men klingt iz a khga
 1	az	_	SCONJ	C	_	3	mark	_	_
@@ -2632,7 +2632,7 @@
 5	a	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	khga	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	4	nsubj	_	_
 
-# sent_id = 1946e-mark__135
+# sent_id = 1946E-MARK,.135
 # X_ID = 1946E-MARK,6.140
 # text = dos eygene kumt oykh far in di bagleytzatsn, ven men tsitirt fremde reyd,
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -2651,7 +2651,7 @@
 14	reyd	_	NOUN	N-ACC	Case=Acc	12	obj	_	SpaceAfter=No
 15	,	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__136
+# sent_id = 1946E-MARK,.136
 # X_ID = 1946E-MARK,6.141
 # text = lemoshl : du host shoyn gegesn voremes hot er zi gefregt
 1	lemoshl	for_example	X	H	_	11	dep	_	SpaceAfter=No
@@ -2666,7 +2666,7 @@
 10	zi	_	PRON	PRO-DTV	Case=Dat	11	iobj	_	_
 11	gefregt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
-# sent_id = 1946e-mark__137
+# sent_id = 1946E-MARK,.137
 # X_ID = 1946E-MARK,6.142
 # text = neyn hot zi geentfert
 1	neyn	_	INTJ	INTJ	_	4	dep	_	_
@@ -2674,7 +2674,7 @@
 3	zi	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	geentfert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
-# sent_id = 1946e-mark__138
+# sent_id = 1946E-MARK,.138
 # X_ID = 1946E-MARK,6.143
 # text = d. der fiktiver subyekt es
 1	d.	_	NUM	LS	_	4	dep	_	_
@@ -2683,7 +2683,7 @@
 4	subyekt	_	NOUN	N	_	0	root	_	_
 5	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	4	expl	_	_
 
-# sent_id = 1946e-mark__139
+# sent_id = 1946E-MARK,.139
 # X_ID = 1946E-MARK,6.144
 # text = bshaykhut mitn grunt-kll fun verter-seyder vert oykh klor di funktsie fun dem vertele " es " vos %t%-1 darf in gevisn faln kumen in onheyb zats
 1	bshaykhut	_	ADP	P	_	3	case	_	_
@@ -2713,7 +2713,7 @@
 25	onheyb	_	NOUN	N	_	23	obl	_	_
 26	zats	_	NOUN	N	_	25	nmod:poss	_	_
 
-# sent_id = 1946e-mark__140
+# sent_id = 1946E-MARK,.140
 # X_ID = 1946E-MARK,6.145
 # text = ot dos vertele iz azoy vi a fiktiver subyekt, a fiktiver makhmes dem vos in zats iz faran an ander subyekt .
 1	ot	_	ADV	FP	Degree=Pos	3	advmod	_	_
@@ -2740,7 +2740,7 @@
 22	subyekt	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	18	nsubj	_	SpaceAfter=No
 23	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__141
+# sent_id = 1946E-MARK,.141
 # X_ID = 1946E-MARK,6.146
 # text = ober nit shtendik iz " es " der fiktiver subyekt .
 1	ober	_	CCONJ	CONJ	_	4	cc	_	_
@@ -2755,7 +2755,7 @@
 10	subyekt	_	NOUN	N-D	Definite=Def	4	xcomp	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__142
+# sent_id = 1946E-MARK,.142
 # X_ID = 1946E-MARK,6.147
 # text = " es " ken oykh zayn der eyntsiker un der emeser subyekt fun dem zats,
 1	"	_	PUNCT	PUNC	_	6	punct	_	_
@@ -2775,7 +2775,7 @@
 15	zats	_	NOUN	N-D	Definite=Def	8	obl	_	SpaceAfter=No
 16	,	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__143
+# sent_id = 1946E-MARK,.143
 # X_ID = 1946E-MARK,6.148
 # text = lemoshl : es regnt
 1	lemoshl	for_example	X	H	_	4	dep	_	SpaceAfter=No
@@ -2783,7 +2783,7 @@
 3	es	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	regnt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 
-# sent_id = 1946e-mark__144
+# sent_id = 1946E-MARK,.144
 # X_ID = 1946E-MARK,6.149
 # text = " es " iz der subyekt, regnt der predikat .
 1	"	_	PUNCT	PUNC	_	4	punct	_	_
@@ -2798,7 +2798,7 @@
 10	predikat	_	NOUN	N-D	Definite=Def	4	conj	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__145
+# sent_id = 1946E-MARK,.145
 # X_ID = 1946E-MARK,6.150
 # text = vos %t%-1 vert gezogt mit dem " es " ?
 1	vos	_	PRON	WPRO	_	4	obj	_	_
@@ -2812,7 +2812,7 @@
 9	"	_	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__146
+# sent_id = 1946E-MARK,.146
 # X_ID = 1946E-MARK,6.151
 # text = oyf an umbashtimtn ufn vert do aroysgebrakht an erkh dos eygene vos : dos gantse arumike, di droysndike velt oyf vi@ @fl %t%-1 zi kumt direkt in a kontakt mit di khushm
 1	oyf	_	ADP	P	_	4	case	_	_
@@ -2849,7 +2849,7 @@
 32	di	_	DET	D	PronType=Art	33	det	_	_
 33	khushm	_	NOUN	N-D	Definite=Def	30	obl	_	_
 
-# sent_id = 1946e-mark__147
+# sent_id = 1946E-MARK,.147
 # X_ID = 1946E-MARK,6.152
 # text = a tseytn dugma :
 1	a	_	DET	D	PronType=Art	3	det	_	_
@@ -2857,14 +2857,14 @@
 3	dugma	_	NOUN	N-I	Definite=Ind	0	root	_	SpaceAfter=No
 4	:	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__148
+# sent_id = 1946E-MARK,.148
 # X_ID = 1946E-MARK,6.153
 # text = es tut vey
 1	es	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	tut	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	vey	_	ADP	RP-N	_	2	compound:prt	_	_
 
-# sent_id = 1946e-mark__149
+# sent_id = 1946E-MARK,.149
 # X_ID = 1946E-MARK,6.154
 # text = " es " iz der subyekt,
 1	"	_	PUNCT	PUNC	_	4	punct	_	_
@@ -2875,7 +2875,7 @@
 6	subyekt	_	NOUN	N-D	Definite=Def	4	xcomp	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__150
+# sent_id = 1946E-MARK,.150
 # X_ID = 1946E-MARK,6.155
 # text = " tut vey " iz der predikat
 1	"	_	PUNCT	PUNC	_	5	punct	_	_
@@ -2886,7 +2886,7 @@
 6	der	_	DET	D	PronType=Art	7	det	_	_
 7	predikat	_	NOUN	N-D	Definite=Def	5	xcomp	_	_
 
-# sent_id = 1946e-mark__151
+# sent_id = 1946E-MARK,.151
 # X_ID = 1946E-MARK,6.156
 # text = un oykh do git " es " iber oykh an umbashtimtn fun a gantse velt, die ineveynikste velt vos %t%-1 farshtelt dos gefil fun vey ton
 1	un	_	CCONJ	CONJ	_	4	cc	_	_
@@ -2917,7 +2917,7 @@
 26	vey	_	ADP	RP-N	_	27	compound:prt	_	_
 27	ton	_	VERB	VB	VerbForm=Inf	24	obl	_	_
 
-# sent_id = 1946e-mark__152
+# sent_id = 1946E-MARK,.152
 # X_ID = 1946E-MARK,6.157
 # text = in yene faln, ven " es " iz an emeser subyekt, ken er kumen, vi ale andere subyektn, hn far hn nokh dem beygikn verb fun dem zats,
 1	in	_	ADP	P	_	3	case	_	_
@@ -2954,7 +2954,7 @@
 32	zats	_	NOUN	N-D	Definite=Def	29	obl	_	SpaceAfter=No
 33	,	_	PUNCT	PUNC	_	16	punct	_	_
 
-# sent_id = 1946e-mark__153
+# sent_id = 1946E-MARK,.153
 # X_ID = 1946E-MARK,6.158
 # text = lemoshl : 1a. es regnt a gantsn tog .
 1	lemoshl	for_example	X	H	_	5	dep	_	SpaceAfter=No
@@ -2967,7 +2967,7 @@
 8	tog	_	NOUN	N-I	Definite=Ind	5	obl	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__154
+# sent_id = 1946E-MARK,.154
 # X_ID = 1946E-MARK,6.159
 # text = 1b. a gantsn tog regnt es .
 1	1b.	_	NUM	LS	_	5	dep	_	_
@@ -2978,7 +2978,7 @@
 6	es	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__155
+# sent_id = 1946E-MARK,.155
 # X_ID = 1946E-MARK,6.160
 # text = 2a. es tut vey zeyer stark .
 1	2a.	_	NUM	LS	_	3	dep	_	_
@@ -2989,7 +2989,7 @@
 6	stark	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__156
+# sent_id = 1946E-MARK,.156
 # X_ID = 1946E-MARK,6.161
 # text = 2b. zeyer stark tut es vey .
 1	2b.	_	NUM	LS	_	4	dep	_	_
@@ -3000,7 +3000,7 @@
 6	vey	_	ADP	RP-N	_	4	compound:prt	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__157
+# sent_id = 1946E-MARK,.157
 # X_ID = 1946E-MARK,6.162
 # text = ober ven " es " iz a fiktiver subyekt, ken " es " kumen bloyz onheyb zats, farn beygikn verb .
 1	ober	_	CCONJ	CONJ	_	15	cc	_	_
@@ -3027,7 +3027,7 @@
 22	verb	_	NOUN	N	_	16	obl	_	SpaceAfter=No
 23	.	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__158
+# sent_id = 1946E-MARK,.158
 # X_ID = 1946E-MARK,6.163
 # text = un vi nor der emeser subyekt kumt in onheyb, oder ven an ander seyder-eyns farnemt dos ort onheyb zats, vert farshvundn der fiktiver subyekt,
 1	un	_	CCONJ	CONJ	_	22	cc	_	_
@@ -3058,7 +3058,7 @@
 26	subyekt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	22	nsubj	_	SpaceAfter=No
 27	,	_	PUNCT	PUNC	_	22	punct	_	_
 
-# sent_id = 1946e-mark__159
+# sent_id = 1946E-MARK,.159
 # X_ID = 1946E-MARK,6.164
 # text = un keyn " es " iz mer nisht in dem zats .
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
@@ -3074,7 +3074,7 @@
 11	zats	_	NOUN	N-D	Definite=Def	6	obl	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__160
+# sent_id = 1946E-MARK,.160
 # X_ID = 1946E-MARK,6.165
 # text = lemoshl : 3a. es tut mir vey der kop .
 1	lemoshl	for_example	X	H	_	5	dep	_	SpaceAfter=No
@@ -3088,7 +3088,7 @@
 9	kop	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__161
+# sent_id = 1946E-MARK,.161
 # X_ID = 1946E-MARK,6.166
 # text = 3b. der kop tut mir vey .
 1	3b.	_	NUM	LS	_	4	dep	_	_
@@ -3099,7 +3099,7 @@
 6	vey	_	ADP	RP-N	_	4	compound:prt	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__162
+# sent_id = 1946E-MARK,.162
 # X_ID = 1946E-MARK,6.167
 # text = 3g. mir tut vey der kop .
 1	3g.	_	NUM	LS	_	3	dep	_	_
@@ -3110,7 +3110,7 @@
 6	kop	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__163
+# sent_id = 1946E-MARK,.163
 # X_ID = 1946E-MARK,6.168
 # text = 4a. es iz nekhtn gekumen tsu forn der bruder fun shtot .
 1	4a.	_	NUM	LS	_	5	dep	_	_
@@ -3126,7 +3126,7 @@
 11	shtot	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__164
+# sent_id = 1946E-MARK,.164
 # X_ID = 1946E-MARK,6.169
 # text = 4b. nekhtn iz gekumen tsu forn der bruder fun shtot .
 1	4b.	_	NUM	LS	_	4	dep	_	_
@@ -3141,7 +3141,7 @@
 10	shtot	_	NOUN	N	_	4	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__165
+# sent_id = 1946E-MARK,.165
 # X_ID = 1946E-MARK,6.170
 # text = 4g. der bruder iz nekhtn gekumen tsu forn fun shtot .
 1	4g.	_	NUM	LS	_	6	dep	_	_
@@ -3156,7 +3156,7 @@
 10	shtot	_	NOUN	N	_	6	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__166
+# sent_id = 1946E-MARK,.166
 # X_ID = 1946E-MARK,6.171
 # text = 4d. fun shtot iz der bruder nekhtn gekumen tsu forn .
 1	4d.	_	NUM	LS	_	8	dep	_	_
@@ -3171,7 +3171,7 @@
 10	forn	_	VERB	VB	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__167
+# sent_id = 1946E-MARK,.167
 # X_ID = 1946E-MARK,6.172
 # text = vos zhe %t%-1 iz di funtsie fun dem fiktivn subyekt ?
 1	vos	_	PRON	WPRO	_	4	obj	_	_
@@ -3186,7 +3186,7 @@
 10	subyekt	_	NOUN	N-D	Definite=Def	6	obl	_	SpaceAfter=No
 11	?	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__168
+# sent_id = 1946E-MARK,.168
 # X_ID = 1946E-MARK,6.173
 # text = er farnemt dos erste ort in der rey seyder-eynsn, kedey der beygiker verb zol kenen kumen oyf zeyn geveytnlekhn tsveytn ort %EXCL%
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -3213,7 +3213,7 @@
 22	ort	_	NOUN	N	_	17	obl	_	SpaceAfter=No
 23	%EXCL%	_	PUNCT	PUNC	_	17	punct	_	_
 
-# sent_id = 1946e-mark__169
+# sent_id = 1946E-MARK,.169
 # X_ID = 1946E-MARK,7.174
 # text = un vi nor ot di slikhut nemt oyf zikh iber an ander seyder-eyns, iz iberik der fiktiver subyekt
 1	un	_	CCONJ	CONJ	_	15	cc	_	_
@@ -3236,7 +3236,7 @@
 18	fiktiver	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	19	amod	_	_
 19	subyekt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	15	nsubj	_	_
 
-# sent_id = 1946e-mark__170
+# sent_id = 1946E-MARK,.170
 # X_ID = 1946E-MARK,7.175
 # text = un " es " vert nit .
 1	un	_	CCONJ	CONJ	_	5	cc	_	SpaceAfter=No
@@ -3247,7 +3247,7 @@
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__171
+# sent_id = 1946E-MARK,.171
 # X_ID = 1946E-MARK,7.176
 # text = agev, ven der subyekt iz a perzonlekhe pronom, ken yemolt bkll nit gemolt zeyn keyn fiktiver subyekt " es ",
 1	agev	_	ADV	ADV	Degree=Pos	15	advmod	_	SpaceAfter=No
@@ -3274,7 +3274,7 @@
 22	"	_	PUNCT	PUNC	_	15	punct	_	SpaceAfter=No
 23	,	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__172
+# sent_id = 1946E-MARK,.172
 # X_ID = 1946E-MARK,7.177
 # text = lemoshl : 5a. der tate vet kumen .
 1	lemoshl	for_example	X	H	_	7	dep	_	SpaceAfter=No
@@ -3286,7 +3286,7 @@
 7	kumen	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__173
+# sent_id = 1946E-MARK,.173
 # X_ID = 1946E-MARK,7.178
 # text = 5b. es vet kumen der tate .
 1	5b.	_	NUM	LS	_	4	dep	_	_
@@ -3297,7 +3297,7 @@
 6	tate	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__174
+# sent_id = 1946E-MARK,.174
 # X_ID = 1946E-MARK,7.179
 # text = 6a. er vet kumen .
 1	6a.	_	NUM	LS	_	4	dep	_	_
@@ -3306,7 +3306,7 @@
 4	kumen	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__175
+# sent_id = 1946E-MARK,.175
 # X_ID = 1946E-MARK,7.180
 # text = 6b. vet er kumen .
 1	6b.	_	NUM	LS	_	4	dep	_	_
@@ -3315,7 +3315,7 @@
 4	kumen	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__176
+# sent_id = 1946E-MARK,.176
 # X_ID = 1946E-MARK,7.181
 # text = h. der fiktiver predikat iz
 1	h.	_	NUM	LS	_	4	dep	_	_
@@ -3324,7 +3324,7 @@
 4	predikat	_	NOUN	N	_	0	root	_	_
 5	iz	_	ADV	ADV	Degree=Pos	4	dep	_	_
 
-# sent_id = 1946e-mark__177
+# sent_id = 1946E-MARK,.177
 # X_ID = 1946E-MARK,7.182
 # text = di zelbike kvnh tsu kumen tsum geveyntlekhn verter-seyder mitn beygikn verb oyfn tseytn ort drikt zikh oykh oys in dem nitsn dos vertele " iz " vi a min fiktivn predikat beys es iz faran an anderer a tsveyter, an emeser predikat in dem zats .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -3375,7 +3375,7 @@
 46	zats	_	NOUN	N-D	Definite=Def	34	obl	_	SpaceAfter=No
 47	.	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__178
+# sent_id = 1946E-MARK,.178
 # X_ID = 1946E-MARK,7.183
 # text = der " iz " kumt vi a mitl gringer tsu makhn %ich%-1 di farbindung tsvishn a lengern bayzats un dem hoyptzats vos %t%-2 kumt nokh im .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	nsubj	_	SpaceAfter=No
@@ -3406,7 +3406,7 @@
 26	im	_	PRON	PRO	_	24	obl	_	SpaceAfter=No
 27	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__179
+# sent_id = 1946E-MARK,.179
 # X_ID = 1946E-MARK,7.184
 # text = shtamen shtamt der " iz " fun dem geredtn loyshn
 1	shtamen	_	VERB	VB-DBL	VerbForm=Inf	0	root	_	_
@@ -3420,7 +3420,7 @@
 9	geredtn	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	loyshn	_	NOUN	N-D	Definite=Def	1	obl	_	_
 
-# sent_id = 1946e-mark__180
+# sent_id = 1946E-MARK,.180
 # X_ID = 1946E-MARK,7.185
 # text = un %con% iz ober in_gantsn barekhtikt oykh in der geshribener shprakh .
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
@@ -3436,7 +3436,7 @@
 11	shprakh	_	NOUN	N-D	Definite=Def	6	obl	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__181
+# sent_id = 1946E-MARK,.181
 # X_ID = 1946E-MARK,7.186
 # text = lemoshl in aza zats : 1a. dos vos %t%-2 ikh hob im gezogt vegn dem bukh iz oder er hot fargesn oder er hot nit farshtanden, oder er hot lekht-kholile zikh nit tsugehert tsu dem .
 1	lemoshl	for_example	X	H	_	21	dep	_	_
@@ -3477,7 +3477,7 @@
 36	dem	_	DET	D	PronType=Art	34	obl	_	SpaceAfter=No
 37	.	_	PUNCT	PUNC	_	21	punct	_	_
 
-# sent_id = 1946e-mark__182
+# sent_id = 1946E-MARK,.182
 # X_ID = 1946E-MARK,7.187
 # text = der zats heybt zikh on mit a beyzats,
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -3490,7 +3490,7 @@
 8	beyzats	_	NOUN	N-I	Definite=Ind	3	obl	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__183
+# sent_id = 1946E-MARK,.183
 # X_ID = 1946E-MARK,7.188
 # text = darf der hoyptzats zikh onheybn mitn beygikn verb .
 1	darf	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
@@ -3503,7 +3503,7 @@
 8	verb	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__184
+# sent_id = 1946E-MARK,.184
 # X_ID = 1946E-MARK,7.189
 # text = iz %exp% take miglekh tsu zogn oykh azoy .
 1	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -3516,7 +3516,7 @@
 8	azoy	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__185
+# sent_id = 1946E-MARK,.185
 # X_ID = 1946E-MARK,7.190
 # text = 1b. dos vos %t%-2 ikh hob im gezogt vegn dem bukh hot er oder fargesn oder nit farshtanden .
 1	1b.	_	NUM	LS	_	15	dep	_	_
@@ -3539,7 +3539,7 @@
 18	farshtanden	_	VERB	VBN	Tense=Past|VerbForm=Part	15	dep	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__186
+# sent_id = 1946E-MARK,.186
 # X_ID = 1946E-MARK,7.191
 # text = mit vos zhe %t%-1 ken men barekhtikn dem nuskh 1a ?
 1	mit	_	ADP	P	_	2	case	_	_
@@ -3554,7 +3554,7 @@
 10	1a	_	VERB	REF	_	9	dep	_	SpaceAfter=No
 11	?	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__187
+# sent_id = 1946E-MARK,.187
 # X_ID = 1946E-MARK,7.192
 # text = er iz fuler un emfatisher,
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -3564,7 +3564,7 @@
 5	emfatisher	_	ADJ	ADJR	Degree=Pos	3	amod	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__188
+# sent_id = 1946E-MARK,.188
 # X_ID = 1946E-MARK,7.193
 # text = un vil men oyfhitn ot di eygnshaft iz keyn ander brirh %ich%-1 nisht saydn araynshteln dem " iz " .
 1	un	_	CCONJ	CONJ	_	8	cc	_	_
@@ -3588,7 +3588,7 @@
 19	"	_	PUNCT	PUNC	_	8	punct	_	SpaceAfter=No
 20	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__189
+# sent_id = 1946E-MARK,.189
 # X_ID = 1946E-MARK,7.194
 # text = oyb men zol oyfhitn di konstruktsie fun 1a un dokh durkhlozn dem " iz " bakumt zikh zeyer a shverer zats
 1	oyb	_	SCONJ	C	_	4	mark	_	_
@@ -3613,7 +3613,7 @@
 20	shverer	_	ADJ	ADJ	Degree=Pos	21	amod	_	_
 21	zats	_	NOUN	N-I	Definite=Ind	16	nsubj	_	_
 
-# sent_id = 1946e-mark__190
+# sent_id = 1946E-MARK,.190
 # X_ID = 1946E-MARK,7.195
 # text = un baym aroysredn im kumt %exp% oys tsu makhn zeyer a lange pauze nokhn bayzats .
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
@@ -3633,7 +3633,7 @@
 15	bayzats	_	NOUN	N	_	9	obl	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__191
+# sent_id = 1946E-MARK,.191
 # X_ID = 1946E-MARK,7.196
 # text = dem " iz " %exp% kumt oys %ich%-1 arayntsushteln oykh in andere faln,
 1	dem	_	DET	D	PronType=Art	6	obl	_	SpaceAfter=No
@@ -3651,7 +3651,7 @@
 13	faln	_	NOUN	N	_	9	obl	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__192
+# sent_id = 1946E-MARK,.192
 # X_ID = 1946E-MARK,7.197
 # text = lemoshl : 2a. deriber, iz nit nor vos ikh ze nit eyn keyn umglik in dem nor farkert, ikh ze eyn nutsn derin
 1	lemoshl	for_example	X	H	_	4	dep	_	SpaceAfter=No
@@ -3680,7 +3680,7 @@
 24	nutsn	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	22	obj	_	_
 25	derin	_	ADP	P	_	22	obl	_	_
 
-# sent_id = 1946e-mark__193
+# sent_id = 1946E-MARK,.193
 # X_ID = 1946E-MARK,7.198
 # text = farshteyt %exp% zikh, az es iz miglekh un biz gor gut aza nush :
 1	farshteyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -3699,7 +3699,7 @@
 14	nush	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	SpaceAfter=No
 15	:	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__194
+# sent_id = 1946E-MARK,.194
 # X_ID = 1946E-MARK,7.199
 # text = 2b. deriber ze ikh nit eyn keyn umglik in dem .
 1	2b.	_	NUM	LS	_	3	dep	_	_
@@ -3714,7 +3714,7 @@
 10	dem	_	DET	D	PronType=Art	3	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__195
+# sent_id = 1946E-MARK,.195
 # X_ID = 1946E-MARK,7.200
 # text = ober der zats 2b iz nit azoy bult un nit azoy shtark vi der nush 2a .
 1	ober	_	CCONJ	CONJ	_	5	cc	_	_
@@ -3735,7 +3735,7 @@
 16	2a	_	VERB	REF	_	15	dep	_	SpaceAfter=No
 17	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__196
+# sent_id = 1946E-MARK,.196
 # X_ID = 1946E-MARK,7.201
 # text = zogn vider : 2g. deriber ze ikh nit nor nit eyn keyn umglik . iz a bisl hamesne di farbindung : nit nor nit
 1	zogn	_	VERB	VB	VerbForm=Inf	15	advcl	_	_
@@ -3754,8 +3754,8 @@
 14	.	_	PUNCT	PUNC	_	15	punct	_	_
 15	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	a	_	DET	D	PronType=Art	17	det	_	_
-17	bisl	_	NOUN	N-I	Definite=Ind	15	amod	_	_
-18	hamesne	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+17	bisl	_	NOUN	N-I	Definite=Ind	18	obl	_	_
+18	hamesne	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
 19	di	_	DET	D-NOM	Case=Nom|PronType=Art	20	det	_	_
 20	farbindung	_	NOUN	N-NOM	Case=Nom	15	nsubj	_	SpaceAfter=No
 21	:	_	PUNCT	PUNC	_	20	punct	_	_
@@ -3763,7 +3763,7 @@
 23	nor	_	ADV	FP	Degree=Pos	22	advmod	_	_
 24	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	22	advmod	_	_
 
-# sent_id = 1946e-mark__197
+# sent_id = 1946E-MARK,.197
 # X_ID = 1946E-MARK,7.202
 # text = un take kedey zi oystsumeydn darf men onkumen tsu dem zats 2a, vu %t%-1 mir bagegenen dem " iz " .
 1	un	_	CCONJ	CONJ	_	8	cc	_	_
@@ -3780,7 +3780,7 @@
 12	2a	_	VERB	REF	_	11	dep	_	SpaceAfter=No
 13	,	_	PUNCT	PUNC	_	11	punct	_	_
 14	vu	_	ADV	WADV	Degree=Pos	17	advmod	_	_
-15	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	17	advmod	_	AdvType=Loc
+15	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	17	advmod	_	_
 16	mir	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
 17	bagegenen	_	VERB	VBF	VerbForm=Fin	11	acl:relcl	_	_
 18	dem	_	DET	D-ACC	Case=Acc|PronType=Art	17	obj	_	SpaceAfter=No
@@ -3789,7 +3789,7 @@
 21	"	_	PUNCT	PUNC	_	11	punct	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__198
+# sent_id = 1946E-MARK,.198
 # X_ID = 1946E-MARK,8.204
 # text = mir iz %exp% shoyn oysgekumen tsitirn fun kh. zhitlovskin :
 1	mir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
@@ -3803,7 +3803,7 @@
 9	zhitlovskin	_	PROPN	NPR	_	8	flat:name	_	SpaceAfter=No
 10	:	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__199
+# sent_id = 1946E-MARK,.199
 # X_ID = 1946E-MARK,8.205
 # text = 3. oyb es iz azoy iz demolt vern a_sakh frages vos %t%-1 hobn tsu ton mit dem rom avekgeshtelt in a gants ander baloykhtung .
 1	3.	_	NUM	LS	_	19	dep	_	_
@@ -3832,7 +3832,7 @@
 24	baloykhtung	_	NOUN	N	_	19	obl	_	SpaceAfter=No
 25	.	_	PUNCT	PUNC	_	19	punct	_	_
 
-# sent_id = 1946e-mark__200
+# sent_id = 1946E-MARK,.200
 # X_ID = 1946E-MARK,8.206
 # text = kh. zhitlovski hot baym iberzetsn heynen genitst aza zats :
 1	kh.	_	PROPN	NPR-SBJ	_	7	nsubj	_	_
@@ -3846,7 +3846,7 @@
 9	zats	_	NOUN	N-ACC	Case=Acc	7	obj	_	SpaceAfter=No
 10	:	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__201
+# sent_id = 1946E-MARK,.201
 # X_ID = 1946E-MARK,8.207
 # text = 4. mit frisherer luft, mit muzik un mit tents, iz ken men zey makhn %ich%-1 gezinter .
 1	4.	_	NUM	LS	_	16	dep	_	_
@@ -3869,7 +3869,7 @@
 18	gezinter	_	ADJ	ADJR	Degree=Pos	16	ccomp	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	16	punct	_	_
 
-# sent_id = 1946e-mark__202
+# sent_id = 1946E-MARK,.202
 # X_ID = 1946E-MARK,8.208
 # text = er hot derbey in a herh gefregt di shayle, tsi men meg in azelkhe faln nitsn dem " iz "
 1	er	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
@@ -3894,7 +3894,7 @@
 20	iz	_	ADV	ADV	Degree=Pos	18	dep	_	SpaceAfter=No
 21	"	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__203
+# sent_id = 1946E-MARK,.203
 # X_ID = 1946E-MARK,8.209
 # text = dos etsm kumen mit aza shayle veyzt oyf a feynem shprakh-khus,
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	7	nsubj	_	_
@@ -3910,7 +3910,7 @@
 11	shprakh-khus	_	NOUN	N-I	Definite=Ind	7	obl	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__204
+# sent_id = 1946E-MARK,.204
 # X_ID = 1946E-MARK,8.210
 # text = vorem in zats 4 filt dokh der " iz " nit oys di funktsie fun a fiktivn predikat,
 1	vorem	_	CCONJ	CONJ	_	5	cc	_	_
@@ -3933,7 +3933,7 @@
 18	predikat	_	NOUN	N-I	Definite=Ind	14	obl	_	SpaceAfter=No
 19	,	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__205
+# sent_id = 1946E-MARK,.205
 # X_ID = 1946E-MARK,8.211
 # text = glaykh nokh dem " iz " kumt dokh der beygiker verb " kon "
 1	glaykh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -3951,7 +3951,7 @@
 13	kon	_	AUX	MDF	VerbForm=Fin	11	dep	_	SpaceAfter=No
 14	"	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__206
+# sent_id = 1946E-MARK,.206
 # X_ID = 1946E-MARK,8.212
 # text = dr zhitlovskis entfer iz geven :
 1	dr	_	PROPN	NPR-SBJ	_	5	nsubj	_	_
@@ -3961,7 +3961,7 @@
 5	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__207
+# sent_id = 1946E-MARK,.207
 # X_ID = 1946E-MARK,8.213
 # text = oyb dos folk redt azoy iz meg men %ellps% .
 1	oyb	_	SCONJ	C	_	4	mark	_	_
@@ -3975,7 +3975,7 @@
 9	%ellps%	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__208
+# sent_id = 1946E-MARK,.208
 # X_ID = 1946E-MARK,8.214
 # text = me treft take in dem geredtn loyshn azelkhe konstruktsies .
 1	me	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -3989,7 +3989,7 @@
 9	konstruktsies	_	NOUN	N-ACC	Case=Acc	2	obj	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__209
+# sent_id = 1946E-MARK,.209
 # X_ID = 1946E-MARK,8.215
 # text = in di faln hot der " iz " gekrogn a neye funktsie,
 1	in	_	ADP	P	_	3	case	_	_
@@ -4006,7 +4006,7 @@
 12	funktsie	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	9	obj	_	SpaceAfter=No
 13	,	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__210
+# sent_id = 1946E-MARK,.210
 # X_ID = 1946E-MARK,8.216
 # text = " iz " iz do a min konyunktsie mit batayt : bekheyn .
 1	"	_	PUNCT	PUNC	_	4	punct	_	_
@@ -4023,7 +4023,7 @@
 12	bekheyn	_	ADV	ADV	Degree=Pos	10	nmod:poss	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__211
+# sent_id = 1946E-MARK,.211
 # X_ID = 1946E-MARK,8.217
 # text = vi %t%-1 men ken zen fun di ale zatsn mit " iz ", kumt der " iz " in farbindung mit a pauze,
 1	vi	_	ADV	WADV	Degree=Pos	5	advmod	_	_
@@ -4052,7 +4052,7 @@
 24	pauze	_	NOUN	N-I	Definite=Ind	21	obl	_	SpaceAfter=No
 25	,	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__212
+# sent_id = 1946E-MARK,.212
 # X_ID = 1946E-MARK,8.218
 # text = %con% kumt vi a ringele vos %t%-1 farbindt tsvey teyln fun a tsunoyfgezetstn zats .
 1	%con%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
@@ -4071,7 +4071,7 @@
 14	zats	_	NOUN	N-I	Definite=Ind	10	obl	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__213
+# sent_id = 1946E-MARK,.213
 # X_ID = 1946E-MARK,8.219
 # text = men ken ober dem " iz " nit shteln stam azoy oyfn tsveytn ort, ven es iz nisht keyn shum barekhtikung far dem vertele,
 1	men	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
@@ -4101,7 +4101,7 @@
 25	vertele	_	NOUN	N-D	Definite=Def	22	obl	_	SpaceAfter=No
 26	,	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__214
+# sent_id = 1946E-MARK,.214
 # X_ID = 1946E-MARK,8.220
 # text = lemoshl : 5a. in frankraykh iz di heldn matrosn, velkhe %t%-1 hobn zikh opgezogt aroystsutretn kegn rusland, matern zikh nokh alts in tfise .
 1	lemoshl	for_example	X	H	_	20	dep	_	SpaceAfter=No
@@ -4131,7 +4131,7 @@
 25	tfise	_	NOUN	N	_	20	obl	_	SpaceAfter=No
 26	.	_	PUNCT	PUNC	_	20	punct	_	_
 
-# sent_id = 1946e-mark__215
+# sent_id = 1946E-MARK,.215
 # X_ID = 1946E-MARK,8.221
 # text = 6a. in uriel iz di teatrale meystershaft velkhe %t%-1 bazirt zikh oyf ratsionalistishn ekstaz oder ekstatishn ratsionalism, dergreykht a groyse heykh un ongeshtrengtkeyt .
 1	6a.	_	NUM	LS	_	19	dep	_	_
@@ -4160,7 +4160,7 @@
 24	ongeshtrengtkeyt	_	NOUN	N	_	22	conj	_	SpaceAfter=No
 25	.	_	PUNCT	PUNC	_	19	punct	_	_
 
-# sent_id = 1946e-mark__216
+# sent_id = 1946E-MARK,.216
 # X_ID = 1946E-MARK,8.222
 # text = di zatsn 5 un 6 hob ikh genumen fun a. zaretskis praktishe yidishe gramatik moskve, 1926, z. 157 .
 1	di	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
@@ -4185,7 +4185,7 @@
 20	157	_	NUM	NUM	_	15	nummod	_	SpaceAfter=No
 21	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__217
+# sent_id = 1946E-MARK,.217
 # X_ID = 1946E-MARK,8.223
 # text = der mekhaber tsitirt dem zats 5 fun emes, dem zats 6 fun moyshe litvakovn
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -4204,7 +4204,7 @@
 14	moyshe	_	PROPN	NPR	_	11	obl	_	_
 15	litvakovn	_	PROPN	NPR	_	14	flat:name	_	_
 
-# sent_id = 1946e-mark__218
+# sent_id = 1946E-MARK,.218
 # X_ID = 1946E-MARK,8.224
 # text = un in beyde faln barekhtigt er di konstruktisie mit " iz " .
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
@@ -4221,7 +4221,7 @@
 12	"	_	PUNCT	PUNC	_	5	punct	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__219
+# sent_id = 1946E-MARK,.219
 # X_ID = 1946E-MARK,8.225
 # text = dos iz avade a toes .
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
@@ -4231,7 +4231,7 @@
 5	toes	_	NOUN	N-I	Definite=Ind	2	xcomp	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__220
+# sent_id = 1946E-MARK,.220
 # X_ID = 1946E-MARK,8.226
 # text = di zatsn darf men farrikhtn :
 1	di	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
@@ -4241,7 +4241,7 @@
 5	farrikhtn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__221
+# sent_id = 1946E-MARK,.221
 # X_ID = 1946E-MARK,8.227
 # text = 5b. in frankraykh matern zikh nokh alts in tfise di heldn matrosn, velkhe %t%-1 hobn zikh opgezogt aroystsutretn kegn rusland .
 1	5b.	_	NUM	LS	_	4	dep	_	_
@@ -4267,7 +4267,7 @@
 21	rusland	_	PROPN	NPR	_	19	obl	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__222
+# sent_id = 1946E-MARK,.222
 # X_ID = 1946E-MARK,8.228
 # text = 6b. di teatrale meystershaft velkhe %t%-1 bazirt zikh oyf ratsionalistishn ekstaz oder ekstatishn ratsionalism, dergreykht in uriel a groyse heykh un ongeshtrengtkeyt .
 1	6b.	_	NUM	LS	_	16	dep	_	_
@@ -4295,7 +4295,7 @@
 23	ongeshtrengtkeyt	_	NOUN	N	_	21	conj	_	SpaceAfter=No
 24	.	_	PUNCT	PUNC	_	16	punct	_	_
 
-# sent_id = 1946e-mark__223
+# sent_id = 1946E-MARK,.223
 # X_ID = 1946E-MARK,8.229
 # text = oder efsher oykh :
 1	oder	_	CCONJ	CONJ	_	0	root	_	_
@@ -4303,7 +4303,7 @@
 3	oykh	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
 4	:	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__224
+# sent_id = 1946E-MARK,.224
 # X_ID = 1946E-MARK,8.230
 # text = 6g. in uriel dergreykht a groyse heykh un ongeshtrengtkeyt . di teatrale meystershaft velkhe %t%-1 bazirt zikh oyf ratsionalistishn ekstaz oder ekstatishn ratsionalism .
 1	6g.	_	NUM	LS	_	4	dep	_	_
@@ -4331,7 +4331,7 @@
 23	ratsionalism	_	NOUN	N	_	20	conj	_	SpaceAfter=No
 24	.	_	PUNCT	PUNC	_	16	punct	_	_
 
-# sent_id = 1946e-mark__225
+# sent_id = 1946E-MARK,.225
 # X_ID = 1946E-MARK,8.231
 # text = hkll, men darf zeyn gevarnt baym nitsn dem fiktiven predikat " iz " .
 1	hkll	_	ADV	ADV	Degree=Pos	6	advmod	_	SpaceAfter=No
@@ -4350,7 +4350,7 @@
 14	"	_	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__226
+# sent_id = 1946E-MARK,.226
 # X_ID = 1946E-MARK,8.232
 # text = u. der toytologisher infinitiv
 1	u.	_	NUM	LS	_	4	dep	_	_
@@ -4358,7 +4358,7 @@
 3	toytologisher	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 4	infinitiv	_	NOUN	N-D	Definite=Def	0	root	_	_
 
-# sent_id = 1946e-mark__227
+# sent_id = 1946E-MARK,.227
 # X_ID = 1946E-MARK,8.233
 # text = der toytologisher infinitiv iz der min infinitiv vos %t%-1 kumt shtendik far dem beygikn verb un %t%-1 khazert iber dem shtot fun dem verb,
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -4387,7 +4387,7 @@
 24	verb	_	NOUN	N-D	Definite=Def	21	obl	_	SpaceAfter=No
 25	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__228
+# sent_id = 1946E-MARK,.228
 # X_ID = 1946E-MARK,8.234
 # text = lemoshl : hern hob ikh es nit gehert .
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
@@ -4400,7 +4400,7 @@
 8	gehert	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__229
+# sent_id = 1946E-MARK,.229
 # X_ID = 1946E-MARK,8.235
 # text = zogn hot men mir es nit gezogt .
 1	zogn	_	VERB	VB-DBL	VerbForm=Inf	0	root	_	_
@@ -4412,7 +4412,7 @@
 7	gezogt	_	VERB	VBN	Tense=Past|VerbForm=Part	1	dep	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__230
+# sent_id = 1946E-MARK,.230
 # X_ID = 1946E-MARK,8.236
 # text = ober veysn veys ikh es .
 1	ober	_	CCONJ	CONJ	_	2	cc	_	_
@@ -4422,7 +4422,7 @@
 5	es	_	PRON	PRO-ACC	Case=Acc	2	obj	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__231
+# sent_id = 1946E-MARK,.231
 # X_ID = 1946E-MARK,9.237
 # text = di konstruktsie, vos zi iz gekumen tsu undz fun loyshn-koydesh, iz an ufn aroystsuheybn unterstraykhn dem mmsutdikn inhalt fun dem verb .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -4450,7 +4450,7 @@
 23	verb	_	NOUN	N-D	Definite=Def	16	obl	_	SpaceAfter=No
 24	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__232
+# sent_id = 1946E-MARK,.232
 # X_ID = 1946E-MARK,9.238
 # text = ven mir fargleykhn di beyde zatsn : 1a. er arbet, ober es kumt keyn zakh nit aroys . 1b. arbetn arbet er, ober es kumt keyn zakh nit aroys . derfiln mir teykef vi_azoy %t%-1 der toytologisher infinitive helft undz zikh optsushteln un beser tsu farnemen dos vos %t%-2 der verb zogt undz .
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -4510,7 +4510,7 @@
 55	undz	_	PRON	PRO-DTV	Case=Dat	54	iobj	_	SpaceAfter=No
 56	.	_	PUNCT	PUNC	_	33	punct	_	_
 
-# sent_id = 1946e-mark__233
+# sent_id = 1946E-MARK,.233
 # X_ID = 1946E-MARK,9.239
 # text = ober do iz oykh faran a bayfunktsie .
 1	ober	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4522,7 +4522,7 @@
 7	bayfunktsie	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	3	nsubj	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__234
+# sent_id = 1946E-MARK,.234
 # X_ID = 1946E-MARK,9.240
 # text = der reyder vil aroysheybn dem verb,
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -4533,7 +4533,7 @@
 6	verb	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__235
+# sent_id = 1946E-MARK,.235
 # X_ID = 1946E-MARK,9.241
 # text = der inhalt fun verb iz im zeyer vikhtik,
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -4542,11 +4542,11 @@
 4	verb	_	NOUN	N	_	2	obl	_	_
 5	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	im	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
-7	zeyer	_	ADV	ADV	Degree=Pos	5	amod	_	_
-8	vikhtik	_	ADJ	ADJ	Degree=Pos	7	amod	_	SpaceAfter=No
+7	zeyer	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	vikhtik	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__236
+# sent_id = 1946E-MARK,.236
 # X_ID = 1946E-MARK,9.242
 # text = vil er onheybn mit dem verb
 1	vil	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
@@ -4556,7 +4556,7 @@
 5	dem	_	DET	D	PronType=Art	6	det	_	_
 6	verb	_	NOUN	N-D	Definite=Def	3	obl	_	_
 
-# sent_id = 1946e-mark__237
+# sent_id = 1946E-MARK,.237
 # X_ID = 1946E-MARK,9.243
 # text = hiut ober vi der grunt-kll fun verter-seyder farlangt az der beygiker verb zol kumen oyfn tsveytn ort, kumt mamesh tsu der hant der toytologisher infinitiv, vos nit tsulib dem iz er bashafn gevorn, nor er kon do tsu nits kumen .
 1	hiut	_	ADV	ADV	Degree=Pos	19	advmod	_	_
@@ -4604,7 +4604,7 @@
 43	kumen	_	VERB	VB	VerbForm=Inf	34	conj	_	SpaceAfter=No
 44	.	_	PUNCT	PUNC	_	19	punct	_	_
 
-# sent_id = 1946e-mark__238
+# sent_id = 1946E-MARK,.238
 # X_ID = 1946E-MARK,9.244
 # text = derfar take dermonen mir im in dem tsuzamenhang .
 1	derfar	_	ADP	P	_	3	obl	_	_
@@ -4617,7 +4617,7 @@
 8	tsuzamenhang	_	NOUN	N-D	Definite=Def	3	obl	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__239
+# sent_id = 1946E-MARK,.239
 # X_ID = 1946E-MARK,9.245
 # text = agev iz oykh do faran a min fiktive forem fun dem infinitiv .
 1	agev	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -4634,7 +4634,7 @@
 12	infinitiv	_	NOUN	N-D	Definite=Def	9	obl	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__240
+# sent_id = 1946E-MARK,.240
 # X_ID = 1946E-MARK,9.246
 # text = mir nitsn vi dem toytologishn infinitiv azelkhe formen vos khuts der konstruktsie zeynen zey gornit benimtse,
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -4655,7 +4655,7 @@
 16	benimtse	_	ADJ	ADJ	Degree=Pos	13	amod	_	SpaceAfter=No
 17	,	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__241
+# sent_id = 1946E-MARK,.241
 # X_ID = 1946E-MARK,9.247
 # text = lemoshl : gebn hob ikh shoyn gegebn .
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
@@ -4667,7 +4667,7 @@
 7	gegebn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__242
+# sent_id = 1946E-MARK,.242
 # X_ID = 1946E-MARK,9.248
 # text = ober gibn gib ikh .
 1	ober	_	CCONJ	CONJ	_	2	cc	_	_
@@ -4676,7 +4676,7 @@
 4	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	SpaceAfter=No
 5	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__243
+# sent_id = 1946E-MARK,.243
 # X_ID = 1946E-MARK,9.249
 # text = izn iz er .
 1	izn	_	VERB	VB-DBL	VerbForm=Inf	0	root	_	_
@@ -4684,7 +4684,7 @@
 3	er	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	SpaceAfter=No
 4	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__244
+# sent_id = 1946E-MARK,.244
 # X_ID = 1946E-MARK,9.250
 # text = binen bin ikh .
 1	binen	_	VERB	VB-DBL	VerbForm=Inf	0	root	_	_
@@ -4692,7 +4692,7 @@
 3	ikh	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	SpaceAfter=No
 4	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__245
+# sent_id = 1946E-MARK,.245
 # X_ID = 1946E-MARK,9.251
 # text = z. der beygiker verb oyfn erstn ort
 1	z.	_	NUM	LS	_	4	dep	_	_
@@ -4703,7 +4703,7 @@
 6	erstn	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	ort	_	NOUN	N	_	4	obl	_	_
 
-# sent_id = 1946e-mark__246
+# sent_id = 1946E-MARK,.246
 # X_ID = 1946E-MARK,9.252
 # text = mir zeynen shtendik tsugevoynt tsu dem az der beygikher verb zol kumen oyfn tsveytn ort .
 1	mir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
@@ -4723,7 +4723,7 @@
 15	ort	_	NOUN	N	_	12	obl	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__247
+# sent_id = 1946E-MARK,.247
 # X_ID = 1946E-MARK,9.253
 # text = dos git undz di miglekhkeyt oyf a gringn ufn arayntsubrengen a nayem ton, a gevisn emotsionale bafarbung, vi nor mir shteln avek dem verb glaykh onheyb zats .
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
@@ -4757,7 +4757,7 @@
 29	zats	_	NOUN	N	_	23	obl	_	SpaceAfter=No
 30	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__248
+# sent_id = 1946E-MARK,.248
 # X_ID = 1946E-MARK,9.254
 # text = beym lebedikn dertseyln, ven men vil dem enyin makhn %ich%-1 impetdiker, ven men vil onheybn oyf a geviser umgerikhtkeyt, vern mir nitsn an erkh azelkhe zatsn :
 1	beym	_	ADP	P-CL	_	3	case	_	_
@@ -4791,7 +4791,7 @@
 29	zatsn	_	NOUN	N-ACC	Case=Acc	23	obj	_	SpaceAfter=No
 30	:	_	PUNCT	PUNC	_	23	punct	_	_
 
-# sent_id = 1946e-mark__249
+# sent_id = 1946E-MARK,.249
 # X_ID = 1946E-MARK,9.255
 # text = kumen mir arayn tsu im,
 1	kumen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -4801,7 +4801,7 @@
 5	im	_	PRON	PRO	_	3	obl	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__250
+# sent_id = 1946E-MARK,.250
 # X_ID = 1946E-MARK,9.256
 # text = un er ligt nokh in bet .
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4812,7 +4812,7 @@
 6	bet	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__251
+# sent_id = 1946E-MARK,.251
 # X_ID = 1946E-MARK,9.257
 # text = reydn mir tsu im un tenhn,
 1	reydn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -4823,18 +4823,18 @@
 6	tenhn	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__252
+# sent_id = 1946E-MARK,.252
 # X_ID = 1946E-MARK,9.258
 # text = un er makht zikh nit visndik .
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	makht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	zikh	_	PRON	PRO-ACC	Case=Acc	5	nsubj	_	_
-5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	ccomp	_	_
-6	visndik	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+4	zikh	_	PRON	PRO-ACC	Case=Acc	6	nsubj	_	_
+5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	amod	_	_
+6	visndik	_	ADJ	ADJ	Degree=Pos	3	ccomp	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__253
+# sent_id = 1946E-MARK,.253
 # X_ID = 1946E-MARK,9.259
 # text = git er nit a shpring oyf
 1	git	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -4844,7 +4844,7 @@
 5	shpring	_	NOUN	N	_	4	dep	_	_
 6	oyf	_	ADP	RP	_	4	compound:prt	_	_
 
-# sent_id = 1946e-mark__254
+# sent_id = 1946E-MARK,.254
 # X_ID = 1946E-MARK,9.260
 # text = un %con% shist aroys : zeyt ir yoldn %EXCL%
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4857,7 +4857,7 @@
 8	yoldn	_	PROPN	NPR	_	6	xcomp	_	SpaceAfter=No
 9	%EXCL%	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__255
+# sent_id = 1946E-MARK,.255
 # X_ID = 1946E-MARK,9.261
 # text = shtendik ven mir hobn in a dertseylzats dem verb oyfn erstn ort, bakumt zikh der eyndruk az do iz epes a hemshekh, nit keyn onheyb, az men iz azoy vi arayn@ %ich%-1 @geshprungen in der mit, az logisherheyt iz shoyn do geven a frierdiker moment .
 1	shtendik	_	ADV	ADV	Degree=Pos	14	advmod	_	_
@@ -4911,7 +4911,7 @@
 49	moment	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	46	nsubj	_	SpaceAfter=No
 50	.	_	PUNCT	PUNC	_	14	punct	_	_
 
-# sent_id = 1946e-mark__256
+# sent_id = 1946E-MARK,.256
 # X_ID = 1946E-MARK,9.262
 # text = ven emetser heybt on : hob ikh gelebt aleyn in a vald iz der eyndruk baym herer aza, az epes hot er farhert, az der reyder hot shoyn gehot gezogt far vos oder vi_azoy %t%-1 er iz in vald gekumen .
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -4958,7 +4958,7 @@
 42	gekumen	_	VERB	VBN	Tense=Past|VerbForm=Part	32	dep	_	SpaceAfter=No
 43	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__257
+# sent_id = 1946E-MARK,.257
 # X_ID = 1946E-MARK,9.263
 # text = es ken oykh zeyn der eyndruk, az der erster moment iz nit genug vikhtik
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	4	expl	_	_
@@ -4974,10 +4974,10 @@
 11	moment	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	12	nsubj	_	_
 12	iz	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
 13	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
-14	genug	_	DET	Q	_	12	amod	_	_
-15	vikhtik	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
+14	genug	_	DET	Q	_	15	amod	_	_
+15	vikhtik	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
 
-# sent_id = 1946e-mark__258
+# sent_id = 1946E-MARK,.258
 # X_ID = 1946E-MARK,9.264
 # text = un deriber iz %exp% nit kedey zikh optsushteln oyf im .
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
@@ -4992,7 +4992,7 @@
 10	im	_	PRON	PRO	_	8	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__259
+# sent_id = 1946E-MARK,.259
 # X_ID = 1946E-MARK,9.265
 # text = es iz azoy vi %t%-1 men volt %ellps% glaykh aroyf oyfn tsveytn shtapl, iberhupfndik dem erstn .
 1	es	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -5014,7 +5014,7 @@
 17	erstn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	16	amod	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__260
+# sent_id = 1946E-MARK,.260
 # X_ID = 1946E-MARK,9.266
 # text = ikh breng do tsitatn fun folkslider vos %t%-1 ilustrirn undzere reyd :
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -5030,7 +5030,7 @@
 11	reyd	_	NOUN	N	_	10	conj	_	SpaceAfter=No
 12	:	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__261
+# sent_id = 1946E-MARK,.261
 # X_ID = 1946E-MARK,10.268
 # text = 1. %pro% vest krign a shener, a besere
 1	1.	_	NUM	LS	_	4	dep	_	_
@@ -5043,7 +5043,7 @@
 8	a	_	DET	D	PronType=Art	4	obj	_	_
 9	besere	_	ADJ	ADJR	Degree=Pos	8	amod	_	_
 
-# sent_id = 1946e-mark__262
+# sent_id = 1946E-MARK,.262
 # X_ID = 1946E-MARK,10.269
 # text = 2. loyft dos vaserl fun dem veldl,
 1	2.	_	NUM	LS	_	2	dep	_	_
@@ -5055,7 +5055,7 @@
 7	veldl	_	NOUN	N-D	Definite=Def	2	obl	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__263
+# sent_id = 1946E-MARK,.263
 # X_ID = 1946E-MARK,10.270
 # text = loyft es biz keyn dantsik
 1	loyft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5064,7 +5064,7 @@
 4	keyn	_	ADP	P	_	5	case	_	_
 5	dantsik	_	PROPN	NPR	_	1	obl	_	_
 
-# sent_id = 1946e-mark__264
+# sent_id = 1946E-MARK,.264
 # X_ID = 1946E-MARK,10.271
 # text = kumt a meydl on a sheynem kleydl nemt men zi nisht tsum tants .
 1	kumt	_	VERB	VBF	VerbForm=Fin	8	advcl	_	_
@@ -5082,7 +5082,7 @@
 13	tants	_	NOUN	N	_	8	obl	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__265
+# sent_id = 1946E-MARK,.265
 # X_ID = 1946E-MARK,10.272
 # text = 3. tsikh ikh mir in shtibele
 1	3.	_	NUM	LS	_	2	dep	_	_
@@ -5092,7 +5092,7 @@
 5	in	_	ADP	P	_	6	case	_	_
 6	shtibele	_	NOUN	N	_	2	obl	_	_
 
-# sent_id = 1946e-mark__266
+# sent_id = 1946E-MARK,.266
 # X_ID = 1946E-MARK,10.273
 # text = un %con% trakht nor vegn dir .
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
@@ -5103,7 +5103,7 @@
 6	dir	_	PRON	PRO	_	3	obl	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__267
+# sent_id = 1946E-MARK,.267
 # X_ID = 1946E-MARK,10.274
 # text = 4. gey ikh arayn in shtub,
 1	4.	_	NUM	LS	_	2	dep	_	_
@@ -5114,7 +5114,7 @@
 6	shtub	_	NOUN	N	_	4	obl	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__268
+# sent_id = 1946E-MARK,.268
 # X_ID = 1946E-MARK,10.275
 # text = s' iz mir fintster azoy vi in grub .
 1	s'	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -5127,7 +5127,7 @@
 8	grub	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__269
+# sent_id = 1946E-MARK,.269
 # X_ID = 1946E-MARK,10.276
 # text = 5. zits ikh mir bay der arbet,
 1	5.	_	NUM	LS	_	2	dep	_	_
@@ -5139,7 +5139,7 @@
 7	arbet	_	NOUN	N-D	Definite=Def	2	obl	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__270
+# sent_id = 1946E-MARK,.270
 # X_ID = 1946E-MARK,10.277
 # text = tut %exp% mir zeyer bang ;
 1	tut	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5149,7 +5149,7 @@
 5	bang	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
 6	;	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__271
+# sent_id = 1946E-MARK,.271
 # X_ID = 1946E-MARK,10.278
 # text = kumt men mir a bsurh zogn az meyn teyer lebn iz krank .
 1	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5166,7 +5166,7 @@
 12	krank	_	ADJ	ADJ	Degree=Pos	11	amod	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__272
+# sent_id = 1946E-MARK,.272
 # X_ID = 1946E-MARK,10.279
 # text = gey ikh mir aroys in shtetele
 1	gey	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5176,7 +5176,7 @@
 5	in	_	ADP	P	_	6	case	_	_
 6	shtetele	_	NOUN	N	_	4	obl	_	_
 
-# sent_id = 1946e-mark__273
+# sent_id = 1946E-MARK,.273
 # X_ID = 1946E-MARK,10.280
 # text = un %con% tu mikh umkukn ;
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
@@ -5186,7 +5186,7 @@
 5	umkukn	_	VERB	VB-PART	VerbForm=Inf	0	root	_	SpaceAfter=No
 6	;	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__274
+# sent_id = 1946E-MARK,.274
 # X_ID = 1946E-MARK,10.281
 # text = flit arop a sheyner foygl
 1	flit	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5195,7 +5195,7 @@
 4	sheyner	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	5	amod	_	_
 5	foygl	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	1	nsubj	_	_
 
-# sent_id = 1946e-mark__275
+# sent_id = 1946E-MARK,.275
 # X_ID = 1946E-MARK,10.282
 # text = un %con% tut meyn harts derkvikn .
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
@@ -5206,7 +5206,7 @@
 6	derkvikn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__276
+# sent_id = 1946E-MARK,.276
 # X_ID = 1946E-MARK,10.283
 # text = mir hobn oft far zikh a bfirut eliptishn zats, ven mir heybn on mitn beygikn verb .
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -5228,18 +5228,18 @@
 17	verb	_	NOUN	N	_	13	obl	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__277
+# sent_id = 1946E-MARK,.277
 # X_ID = 1946E-MARK,10.284
 # text = di eliptishe konstruktsie iz bazunder kharakteristish far dem tnay-zats un oykh far dem tsaytzats .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 2	eliptishe	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	amod	_	_
 3	konstruktsie	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
 4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-5	bazunder	_	ADV	ADV	Degree=Pos	4	amod	_	_
-6	kharakteristish	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	bazunder	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	kharakteristish	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	far	_	ADP	P	_	9	case	_	_
 8	dem	_	DET	D	PronType=Art	9	det	_	_
-9	tnay-zats	_	NOUN	N-D	Definite=Def	5	amod	_	_
+9	tnay-zats	_	NOUN	N-D	Definite=Def	6	amod	_	_
 10	un	_	CCONJ	CONJ	_	11	cc	_	_
 11	oykh	_	ADV	ADV	Degree=Pos	9	conj	_	_
 12	far	_	ADP	P	_	14	case	_	_
@@ -5247,7 +5247,7 @@
 14	tsaytzats	_	NOUN	N-D	Definite=Def	11	obl	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__278
+# sent_id = 1946E-MARK,.278
 # X_ID = 1946E-MARK,10.285
 # text = onshtot tsu zogn : 6a. oyb ikh vel im zen, vel ikh im zogn . hern mir zeyer oft un zogn aleyn zeyer oft di kirtsere forem : 6b. vel ikh im zen, vel ikh im zogn .
 1	onshtot	_	ADP	P	_	3	case	_	_
@@ -5291,7 +5291,7 @@
 39	zogn	_	VERB	VB	VerbForm=Inf	28	dep	_	SpaceAfter=No
 40	.	_	PUNCT	PUNC	_	17	punct	_	_
 
-# sent_id = 1946e-mark__279
+# sent_id = 1946E-MARK,.279
 # X_ID = 1946E-MARK,10.286
 # text = in dem tsveytn zats hobn mir agev dem zelbikn ritem fun zats hn in der erster hn in der tsveyter helft .
 1	in	_	ADP	P	_	4	case	_	_
@@ -5317,7 +5317,7 @@
 21	helft	_	NOUN	N-D	Definite=Def	16	conj	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__280
+# sent_id = 1946E-MARK,.280
 # X_ID = 1946E-MARK,10.287
 # text = do hobn mir yenem paralelism in ritem vos %t%-1 treft zikh azoy oft in dem geredtn loyshn .
 1	do	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -5339,7 +5339,7 @@
 17	loyshn	_	NOUN	N-D	Definite=Def	10	obl	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__281
+# sent_id = 1946E-MARK,.281
 # X_ID = 1946E-MARK,10.288
 # text = mir brengen vider etlekhe beyshpiln fun folkslider :
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -5351,7 +5351,7 @@
 7	folkslider	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 8	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__282
+# sent_id = 1946E-MARK,.282
 # X_ID = 1946E-MARK,10.289
 # text = 7. geyt di meydl tantsn, klagt zi
 1	7.	_	NUM	LS	_	7	dep	_	_
@@ -5363,14 +5363,14 @@
 7	klagt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	zi	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 
-# sent_id = 1946e-mark__283
+# sent_id = 1946E-MARK,.283
 # X_ID = 1946E-MARK,10.290
 # text = un %con% veynt
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
 2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	veynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 
-# sent_id = 1946e-mark__284
+# sent_id = 1946E-MARK,.284
 # X_ID = 1946E-MARK,10.291
 # text = 8. ves@ @tu nisht kenen keyn brivele shreybn, zols@ @tu mir khotsh lozn %arb% %ich%-1 grisn .
 1	8.	_	NUM	LS	_	14	dep	_	_
@@ -5392,7 +5392,7 @@
 17	grisn	_	VERB	VB	VerbForm=Inf	14	xcomp	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	17	punct	_	_
 
-# sent_id = 1946e-mark__285
+# sent_id = 1946E-MARK,.285
 # X_ID = 1946E-MARK,10.292
 # text = 9. ves@ @tu kumen tsu a vaserl, zols@ @tu zikh nisht trenken
 1	9.	_	NUM	LS	_	13	dep	_	_
@@ -5409,7 +5409,7 @@
 12	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
 13	trenken	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
-# sent_id = 1946e-mark__286
+# sent_id = 1946E-MARK,.286
 # X_ID = 1946E-MARK,10.293
 # text = ves@ @tu kumen tsu an ander meydele, zols@ @tu mikh gedenken .
 1	ves@	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
@@ -5426,7 +5426,7 @@
 12	gedenken	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	12	punct	_	_
 
-# sent_id = 1946e-mark__287
+# sent_id = 1946E-MARK,.287
 # X_ID = 1946E-MARK,10.294
 # text = in freg- un oysruf-zats iz der verb gants oft oyfn erstn ort,
 1	in	_	ADP	P	_	2	case	_	_
@@ -5443,7 +5443,7 @@
 12	ort	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 13	,	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__288
+# sent_id = 1946E-MARK,.288
 # X_ID = 1946E-MARK,10.295
 # text = ober vi %t%-1 men ken es zen fun di zatsn vos %t%-2 zaynen gebrakht gevorn in kapitele g muz der verb nit kumen oyfn erstn ort .
 1	ober	_	CCONJ	CONJ	_	23	cc	_	_
@@ -5474,7 +5474,7 @@
 26	ort	_	NOUN	N	_	23	obl	_	SpaceAfter=No
 27	.	_	PUNCT	PUNC	_	23	punct	_	_
 
-# sent_id = 1946e-mark__289
+# sent_id = 1946E-MARK,.289
 # X_ID = 1946E-MARK,10.296
 # text = men ken afilu nit formulirn keyn onveyz, az durkh dem vos der verb kumt oyfn erstn ort vert epes vos shtarker in der frage oder in dem oysruf .
 1	men	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -5497,8 +5497,8 @@
 18	ort	_	NOUN	N	_	15	obl	_	_
 19	vert	_	VERB	VBF	VerbForm=Fin	7	ccomp	_	_
 20	epes	_	DET	Q-NOM	Case=Nom	19	nsubj	_	_
-21	vos	_	DET	Q	_	19	amod	_	_
-22	shtarker	_	ADJ	ADJR	Degree=Pos	21	amod	_	_
+21	vos	_	DET	Q	_	22	amod	_	_
+22	shtarker	_	ADJ	ADJR	Degree=Pos	19	amod	_	_
 23	in	_	ADP	P	_	25	case	_	_
 24	der	_	DET	D	PronType=Art	25	det	_	_
 25	frage	_	NOUN	N-D	Definite=Def	19	obl	_	_
@@ -5508,7 +5508,7 @@
 29	oysruf	_	NOUN	N-D	Definite=Def	25	conj	_	SpaceAfter=No
 30	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__290
+# sent_id = 1946E-MARK,.290
 # X_ID = 1946E-MARK,10.297
 # text = es zeynen faran bloyz niuansn in batayt, ober nit in der shtarkeyt fun der freg- oder oysruf-intonatsie in azelkhe variantn :
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
@@ -5534,7 +5534,7 @@
 21	variantn	_	NOUN	N	_	16	obl	_	SpaceAfter=No
 22	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__291
+# sent_id = 1946E-MARK,.291
 # X_ID = 1946E-MARK,10.298
 # text = 10a. geyst shoyn aheym ?
 1	10a.	_	NUM	LS	_	0	root	_	_
@@ -5543,7 +5543,7 @@
 4	aheym	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
 5	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__292
+# sent_id = 1946E-MARK,.292
 # X_ID = 1946E-MARK,10.299
 # text = 10b. du geyst shoyn aheym ?
 1	10b.	_	NUM	LS	_	3	dep	_	_
@@ -5553,7 +5553,7 @@
 5	aheym	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
 6	?	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__293
+# sent_id = 1946E-MARK,.293
 # X_ID = 1946E-MARK,10.300
 # text = 10c. shoyn geys@ @tu aheym ?
 1	10c.	_	NUM	LS	_	3	dep	_	_
@@ -5563,7 +5563,7 @@
 5	aheym	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
 6	?	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__294
+# sent_id = 1946E-MARK,.294
 # X_ID = 1946E-MARK,10.301
 # text = 11a. gey shoyn aheym %EXCL%
 1	11a.	_	NUM	LS	_	0	root	_	_
@@ -5572,7 +5572,7 @@
 4	aheym	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
 5	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__295
+# sent_id = 1946E-MARK,.295
 # X_ID = 1946E-MARK,10.302
 # text = 11b. du gey shoyn aheym %EXCL%
 1	11b.	_	NUM	LS	_	0	root	_	_
@@ -5582,7 +5582,7 @@
 5	aheym	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
 6	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__296
+# sent_id = 1946E-MARK,.296
 # X_ID = 1946E-MARK,10.303
 # text = 11g. shoyn gey aheym %EXCL%
 1	11g.	_	NUM	LS	_	3	dep	_	_
@@ -5591,7 +5591,7 @@
 4	aheym	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
 5	%EXCL%	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__297
+# sent_id = 1946E-MARK,.297
 # X_ID = 1946E-MARK,10.304
 # text = ven mir hobn tsu ton mitn bafel-modus, lo@ @mir rasit-kl nemen in batrakht az di kurtse formen far der tsveyter perzon gey %EXCL% geyt %EXCL% zeynen in a gevisn zinen zatsverter, d.h. azelkhe verter vos %t%-1 zeynen gantse zatsn un vu %t%-2 der subyekt un predikat zaynen tsunoyfgeshmoltsn in eyn vort .
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -5637,7 +5637,7 @@
 41	zatsn	_	NOUN	N	_	39	xcomp	_	_
 42	un	_	CCONJ	CONJ	_	39	conj	_	_
 43	vu	_	ADV	WADV	Degree=Pos	50	advmod	_	_
-44	%t%-2	_	ADV	ADVP-LOC	Degree=Pos	50	advmod	_	AdvType=Loc
+44	%t%-2	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	50	advmod	_	_
 45	der	_	DET	D-NOM	Case=Nom|PronType=Art	46	det	_	_
 46	subyekt	_	NOUN	N-NOM	Case=Nom	50	nsubj	_	_
 47	un	_	CCONJ	CONJ	_	48	cc	_	_
@@ -5649,7 +5649,7 @@
 53	vort	_	NOUN	N-I	Definite=Ind	50	obl	_	SpaceAfter=No
 54	.	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__298
+# sent_id = 1946E-MARK,.298
 # X_ID = 1946E-MARK,11.305
 # text = men ken oykh batrakhtn ot di formen, un dos vet zeyn a_sakh posheter, vi normal eliptishe,
 1	men	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
@@ -5664,15 +5664,15 @@
 10	dos	_	DET	D-NOM	Case=Nom|PronType=Art	12	nsubj	_	_
 11	vet	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 12	zeyn	_	VERB	VB	VerbForm=Inf	4	parataxis	_	_
-13	a_sakh	_	DET	Q	_	12	amod	_	_
-14	posheter	_	ADJ	ADJR	Degree=Pos	13	amod	_	SpaceAfter=No
+13	a_sakh	_	DET	Q	_	14	amod	_	_
+14	posheter	_	ADJ	ADJR	Degree=Pos	12	amod	_	SpaceAfter=No
 15	,	_	PUNCT	PUNC	_	4	punct	_	_
 16	vi	_	ADP	P	_	17	case	_	_
 17	normal	_	ADV	ADV	Degree=Pos	4	obl	_	_
 18	eliptishe	_	ADJ	ADJ	Degree=Pos	17	amod	_	SpaceAfter=No
 19	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__299
+# sent_id = 1946E-MARK,.299
 # X_ID = 1946E-MARK,11.306
 # text = vorem men ken zey dokh shtendik oysbreytern .
 1	vorem	_	CCONJ	CONJ	_	7	cc	_	_
@@ -5684,7 +5684,7 @@
 7	oysbreytern	_	VERB	VB-PART	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__300
+# sent_id = 1946E-MARK,.300
 # X_ID = 1946E-MARK,11.307
 # text = men ken dokh anshtot " gey " zogn oykh : " du gey %EXCL% " anshot " geyt " oykh " ir geyt " %EXCL%
 1	men	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
@@ -5713,7 +5713,7 @@
 24	"	_	PUNCT	PUNC	_	8	punct	_	SpaceAfter=No
 25	%EXCL%	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__301
+# sent_id = 1946E-MARK,.301
 # X_ID = 1946E-MARK,11.308
 # text = ven mir hobn di bafel-formen mit " zoln ", iz %exp% nor far der driter perzon kharakteristish az in onheyb zats zol kumen der beygiker verb :
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -5745,7 +5745,7 @@
 27	verb	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	24	nsubj	_	SpaceAfter=No
 28	:	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__302
+# sent_id = 1946E-MARK,.302
 # X_ID = 1946E-MARK,11.309
 # text = zol er geyn %EXCL%
 1	zol	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
@@ -5753,7 +5753,7 @@
 3	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	%EXCL%	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__303
+# sent_id = 1946E-MARK,.303
 # X_ID = 1946E-MARK,11.310
 # text = zol zi geyn %EXCL%
 1	zol	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
@@ -5761,7 +5761,7 @@
 3	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	%EXCL%	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__304
+# sent_id = 1946E-MARK,.304
 # X_ID = 1946E-MARK,11.311
 # text = zoln zey geyn %EXCL%
 1	zoln	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
@@ -5769,7 +5769,7 @@
 3	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	%EXCL%	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__305
+# sent_id = 1946E-MARK,.305
 # X_ID = 1946E-MARK,11.312
 # text = ober far der tsveyter perzon iz a_ponim normaler un ofter : du zolst geyn %EXCL% ir zolt geyn %EXCL%
 1	ober	_	CCONJ	CONJ	_	6	cc	_	_
@@ -5792,7 +5792,7 @@
 18	geyn	_	VERB	VB	VerbForm=Inf	14	dep	_	SpaceAfter=No
 19	%EXCL%	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__306
+# sent_id = 1946E-MARK,.306
 # X_ID = 1946E-MARK,11.313
 # text = lo@ @mir bazunder fartseykhenen dem idiom : mir zol %exp% zeyn far dir %EXCL% mit dem fulkum festn verter-seyder .
 1	lo@	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -5816,7 +5816,7 @@
 19	verter-seyder	_	NOUN	N	_	4	obl	_	SpaceAfter=No
 20	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__307
+# sent_id = 1946E-MARK,.307
 # X_ID = 1946E-MARK,11.314
 # text = mir hobn gehot shoyn a bisl frier dem eliptishn tnay-zats vos %t%-1 heybt zikh on mitn beygikn verb oyfn erstn ort .
 1	mir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
@@ -5842,7 +5842,7 @@
 21	ort	_	NOUN	N	_	13	obl	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__308
+# sent_id = 1946E-MARK,.308
 # X_ID = 1946E-MARK,11.315
 # text = farn ummiglekhn tnay hobn mir dem hilfsverb volt voltsu voltn .
 1	farn	_	ADP	P-CL	_	3	case	_	_
@@ -5857,7 +5857,7 @@
 10	voltn	_	VERB	VLF	VerbForm=Fin	8	conj	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__309
+# sent_id = 1946E-MARK,.309
 # X_ID = 1946E-MARK,11.316
 # text = in dem hoyptzats hobn mir shtendik dem " volt " gleykh in onheyb,
 1	in	_	ADP	P	_	3	case	_	_
@@ -5875,7 +5875,7 @@
 13	onheyb	_	NOUN	N	_	4	obl	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__310
+# sent_id = 1946E-MARK,.310
 # X_ID = 1946E-MARK,11.317
 # text = lemoshl : zayn vort volt zeyn a brik, volt ikh moyre gehot aribertsugeyn .
 1	lemoshl	for_example	X	H	_	13	dep	_	SpaceAfter=No
@@ -5894,7 +5894,7 @@
 14	aribertsugeyn	_	VERB	VB-PART	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__311
+# sent_id = 1946E-MARK,.311
 # X_ID = 1946E-MARK,11.318
 # text = hot zikh ayngeshtelt a ntih az der " volt " zol farnemen dos erste ort in zats .
 1	hot	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
@@ -5916,15 +5916,15 @@
 17	zats	_	NOUN	N	_	15	obl	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__312
+# sent_id = 1946E-MARK,.312
 # X_ID = 1946E-MARK,11.319
 # text = dos iz bazunder kharakteristish far zatsn mit a vuntsh vos es iz ummiglekh az er zol mkuim vern,
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	bazunder	_	ADV	ADV	Degree=Pos	2	amod	_	_
-4	kharakteristish	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	bazunder	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	kharakteristish	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 5	far	_	ADP	P	_	6	case	_	_
-6	zatsn	_	NOUN	N	_	3	amod	_	_
+6	zatsn	_	NOUN	N	_	4	amod	_	_
 7	mit	_	ADP	P	_	9	case	_	_
 8	a	_	DET	D	PronType=Art	9	det	_	_
 9	vuntsh	_	NOUN	N-I	Definite=Ind	6	obl	_	_
@@ -5939,7 +5939,7 @@
 18	vern	_	VERB	VB	VerbForm=Inf	12	ccomp	_	SpaceAfter=No
 19	,	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__313
+# sent_id = 1946E-MARK,.313
 # X_ID = 1946E-MARK,11.320
 # text = lemoshl : volt ikh geven a rov,
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
@@ -5951,7 +5951,7 @@
 7	rov	_	NOUN	N-I	Definite=Ind	3	xcomp	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__314
+# sent_id = 1946E-MARK,.314
 # X_ID = 1946E-MARK,11.321
 # text = ken ikh nit keyn toyre .
 1	ken	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5961,7 +5961,7 @@
 5	toyre	_	PROPN	NPR	_	1	obj	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__315
+# sent_id = 1946E-MARK,.315
 # X_ID = 1946E-MARK,11.322
 # text = volt ikh geven a soykher,
 1	volt	_	VERB	VLF	VerbForm=Fin	0	root	_	_
@@ -5971,7 +5971,7 @@
 5	soykher	_	NOUN	N-I	Definite=Ind	1	xcomp	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__316
+# sent_id = 1946E-MARK,.316
 # X_ID = 1946E-MARK,11.323
 # text = hob ikh nit keyn soykhres .
 1	hob	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5981,7 +5981,7 @@
 5	soykhres	_	NOUN	N-ACC	Case=Acc	1	obj	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__317
+# sent_id = 1946E-MARK,.317
 # X_ID = 1946E-MARK,11.324
 # text = fun shtandpunkt fun verter-seyder iz di konyunktsie a nul,
 1	fun	_	ADP	P	_	2	case	_	_
@@ -5995,7 +5995,7 @@
 9	nul	_	NOUN	N-I	Definite=Ind	5	xcomp	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__318
+# sent_id = 1946E-MARK,.318
 # X_ID = 1946E-MARK,11.325
 # text = un ven a beyzats heybt zikh on mit " tsi ", iz ot der " tsi " nit mspie oyfn verter-seyder,
 1	un	_	CCONJ	CONJ	_	13	cc	_	_
@@ -6022,7 +6022,7 @@
 22	verter-seyder	_	NOUN	N	_	13	obl	_	SpaceAfter=No
 23	,	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__319
+# sent_id = 1946E-MARK,.319
 # X_ID = 1946E-MARK,11.326
 # text = lemoshl : ikh veys nit, tsi du vest morgn kumen ;
 1	lemoshl	for_example	X	H	_	4	dep	_	SpaceAfter=No
@@ -6038,7 +6038,7 @@
 11	kumen	_	VERB	VB	VerbForm=Inf	4	dep	_	SpaceAfter=No
 12	;	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__320
+# sent_id = 1946E-MARK,.320
 # X_ID = 1946E-MARK,11.327
 # text = ikh veys nit, tsi morgn ves@ @tu kumen .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -6052,7 +6052,7 @@
 9	kumen	_	VERB	VB	VerbForm=Inf	2	dep	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__321
+# sent_id = 1946E-MARK,.321
 # X_ID = 1946E-MARK,11.328
 # text = ober ven mir hobn a direkte frage vos %t%-1 heybt zikh on mitn fregpartikl " tsi ", iz %exp% oftr kedey es tsu batrakhtn vi a bazundern seyder-eyns .
 1	ober	_	CCONJ	CONJ	_	19	cc	_	_
@@ -6086,7 +6086,7 @@
 29	seyder-eyns	_	NOUN	N-I	Definite=Ind	25	obl	_	SpaceAfter=No
 30	.	_	PUNCT	PUNC	_	19	punct	_	_
 
-# sent_id = 1946e-mark__322
+# sent_id = 1946E-MARK,.322
 # X_ID = 1946E-MARK,11.329
 # text = yemolt ken men zogn az in di veyterdike zatsn fun folkslider kumt der beygiker verb oyfn tsveytn ort .
 1	yemolt	_	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -6109,7 +6109,7 @@
 18	ort	_	NOUN	N	_	12	obl	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__323
+# sent_id = 1946E-MARK,.323
 # X_ID = 1946E-MARK,11.330
 # text = tsi gedenks@ @tu, mayn tayer zis-lebn, ven mir hobn tsuzamen farbrakht ?
 1	tsi	_	SCONJ	C	_	0	root	_	_
@@ -6127,7 +6127,7 @@
 13	farbrakht	_	VERB	VBN	Tense=Past|VerbForm=Part	2	advcl	_	SpaceAfter=No
 14	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__324
+# sent_id = 1946E-MARK,.324
 # X_ID = 1946E-MARK,11.331
 # text = tsi hot ir gehert vos %t%-1 es hot zikh getrofn ?
 1	tsi	_	SCONJ	C	_	0	root	_	_
@@ -6142,7 +6142,7 @@
 10	getrofn	_	VERB	VBN	Tense=Past|VerbForm=Part	4	dep	_	SpaceAfter=No
 11	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__325
+# sent_id = 1946E-MARK,.325
 # X_ID = 1946E-MARK,11.332
 # text = tsi hot ir gezen mit ayere oygn ?
 1	tsi	_	SCONJ	C	_	0	root	_	_
@@ -6154,7 +6154,7 @@
 7	oygn	_	NOUN	N	_	4	obl	_	SpaceAfter=No
 8	?	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__326
+# sent_id = 1946E-MARK,.326
 # X_ID = 1946E-MARK,11.333
 # text = tsi hos@ @tu nisht dayn esn ?
 1	tsi	_	SCONJ	C	_	0	root	_	_
@@ -6165,7 +6165,7 @@
 6	esn	_	NOUN	N	_	5	conj	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__327
+# sent_id = 1946E-MARK,.327
 # X_ID = 1946E-MARK,11.334
 # text = tsi hos@ @tu nisht dayn trinken ?
 1	tsi	_	SCONJ	C	_	0	root	_	_
@@ -6176,7 +6176,7 @@
 6	trinken	_	NOUN	N	_	5	conj	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__328
+# sent_id = 1946E-MARK,.328
 # X_ID = 1946E-MARK,11.335
 # text = tsi host nisht dayn sheynem gang ?
 1	tsi	_	SCONJ	C	_	0	root	_	_
@@ -6187,7 +6187,7 @@
 6	gang	_	NOUN	N	_	4	conj	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__329
+# sent_id = 1946E-MARK,.329
 # X_ID = 1946E-MARK,11.336
 # text = tsi bis@ @tu geshtorbn, meyn tayer zis-lebn ?
 1	tsi	_	SCONJ	C	_	0	root	_	_
@@ -6200,7 +6200,7 @@
 8	zis-lebn	_	NOUN	N	_	6	conj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__330
+# sent_id = 1946E-MARK,.330
 # X_ID = 1946E-MARK,11.337
 # text = bis@ @tu nokh ergets do ?
 1	bis@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6210,7 +6210,7 @@
 5	do	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
 6	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__331
+# sent_id = 1946E-MARK,.331
 # X_ID = 1946E-MARK,11.338
 # text = men ken oykh zen in der ntih tsu dem freg-partikl " tsi " a puel-iutsa fun dem grunt-kll fun yidishn verter-seyder .
 1	men	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
@@ -6236,7 +6236,7 @@
 21	verter-seyder	_	NOUN	N	_	18	obl	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__332
+# sent_id = 1946E-MARK,.332
 # X_ID = 1946E-MARK,11.339
 # text = ober dokh ken men nit batrakhtn ot dem " tsi " vi a muz .
 1	ober	_	CCONJ	CONJ	_	6	cc	_	_
@@ -6255,7 +6255,7 @@
 14	muz	_	NOUN	N-I	Definite=Ind	7	obl	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__333
+# sent_id = 1946E-MARK,.333
 # X_ID = 1946E-MARK,11.340
 # text = un men ken nit opfregn di rikhtikeyt, di absolutn korektkeyt fun dem fregzats, vos %t%-1 heybt zikh gleykh on mitn beygikn verb, on shum " tsi " .
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
@@ -6290,7 +6290,7 @@
 30	"	_	PUNCT	PUNC	_	5	punct	_	SpaceAfter=No
 31	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__334
+# sent_id = 1946E-MARK,.334
 # X_ID = 1946E-MARK,11.341
 # text = in dem geredtn loyshn shviblt un griblt %exp% mit aza sll zatsn fun dem shnit : az men ken bshum ufn nit kukn oyf zey durkh shpakuln fun khsd .
 1	in	_	ADP	P	_	4	case	_	_
@@ -6324,7 +6324,7 @@
 29	khsd	_	NOUN	N	_	27	obl	_	SpaceAfter=No
 30	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__335
+# sent_id = 1946E-MARK,.335
 # X_ID = 1946E-MARK,11.342
 # text = hot ir shoyn gehert ?
 1	hot	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
@@ -6333,7 +6333,7 @@
 4	gehert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	?	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__336
+# sent_id = 1946E-MARK,.336
 # X_ID = 1946E-MARK,11.343
 # text = kumt ir morgn ?
 1	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6341,7 +6341,7 @@
 3	morgn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
 4	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__337
+# sent_id = 1946E-MARK,.337
 # X_ID = 1946E-MARK,11.344
 # text = hot er shoyn gegesn ?
 1	hot	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
@@ -6350,7 +6350,7 @@
 4	gegesn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	?	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__338
+# sent_id = 1946E-MARK,.338
 # X_ID = 1946E-MARK,11.345
 # text = vet ir epes trinkn ?
 1	vet	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
@@ -6359,7 +6359,7 @@
 4	trinkn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	?	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__339
+# sent_id = 1946E-MARK,.339
 # X_ID = 1946E-MARK,12.346
 # text = mir hobn genug fun dem shnit fregzats oykh in folkslider un in folks-mayses in dem nush vi %t%-1 zey zeynen farshribn gevorn .
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -6386,7 +6386,7 @@
 22	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	21	dep	_	SpaceAfter=No
 23	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__340
+# sent_id = 1946E-MARK,.340
 # X_ID = 1946E-MARK,12.347
 # text = mir brengen do etlekhe zatsn :
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -6396,7 +6396,7 @@
 5	zatsn	_	NOUN	N-ACC	Case=Acc	2	obj	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__341
+# sent_id = 1946E-MARK,.341
 # X_ID = 1946E-MARK,12.348
 # text = zog mir shusterl :
 1	zog	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -6404,7 +6404,7 @@
 3	shusterl	_	NOUN	N	_	1	vocative	_	SpaceAfter=No
 4	:	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__342
+# sent_id = 1946E-MARK,.342
 # X_ID = 1946E-MARK,12.349
 # text = hos@ @tu vos %t%-1 tsu kayen ?
 1	hos@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6415,7 +6415,7 @@
 6	kayen	_	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__343
+# sent_id = 1946E-MARK,.343
 # X_ID = 1946E-MARK,12.350
 # text = felt dir oyset, krigs@ @tu vu %t%-1 tsu layen ?
 1	felt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6425,12 +6425,12 @@
 5	krigs@	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
 6	@tu	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 7	vu	_	ADV	WADV	Degree=Pos	5	dep	_	_
-8	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	10	advmod	_	AdvType=Loc
+8	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	10	advmod	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
 10	layen	_	VERB	VB	VerbForm=Inf	7	xcomp	_	SpaceAfter=No
 11	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__344
+# sent_id = 1946E-MARK,.344
 # X_ID = 1946E-MARK,12.351
 # text = hos@ @tu mir emes lib ?
 1	hos@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6440,7 +6440,7 @@
 5	lib	_	ADP	RP-ADJ	_	1	compound:prt	_	SpaceAfter=No
 6	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__345
+# sent_id = 1946E-MARK,.345
 # X_ID = 1946E-MARK,12.352
 # text = zets zikh lebn mir %EXCL%
 1	zets	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -6449,7 +6449,7 @@
 4	mir	_	PRON	PRO	_	1	obl	_	SpaceAfter=No
 5	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__346
+# sent_id = 1946E-MARK,.346
 # X_ID = 1946E-MARK,12.353
 # text = hos@ @tu breh khasene tsu hobn ?
 1	hos@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6460,7 +6460,7 @@
 6	hobn	_	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__347
+# sent_id = 1946E-MARK,.347
 # X_ID = 1946E-MARK,12.354
 # text = to shik zhe a shidekhn tsu mir %EXCL%
 1	to	_	ADV	ADV	Degree=Pos	0	root	_	_
@@ -6472,7 +6472,7 @@
 7	mir	_	PRON	PRO	_	1	obl	_	SpaceAfter=No
 8	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__348
+# sent_id = 1946E-MARK,.348
 # X_ID = 1946E-MARK,12.355
 # text = gedenks@ @tu, gedenks@ @tu, far dem toyer ?
 1	gedenks@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6486,7 +6486,7 @@
 9	toyer	_	NOUN	N-D	Definite=Def	1	obl	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__349
+# sent_id = 1946E-MARK,.349
 # X_ID = 1946E-MARK,12.356
 # text = ikh hob dir gezogt a sod in oyer .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
@@ -6499,7 +6499,7 @@
 8	oyer	_	NOUN	N	_	4	obl	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__350
+# sent_id = 1946E-MARK,.350
 # X_ID = 1946E-MARK,12.357
 # text = gendzelekh, gendzelekh, gendzelekh, hot ets nisht gezen a meydele mit a zeydn kleydele ?
 1	gendzelekh	_	NOUN	N	_	0	root	_	SpaceAfter=No
@@ -6520,7 +6520,7 @@
 16	kleydele	_	NOUN	N-I	Definite=Ind	12	obl	_	SpaceAfter=No
 17	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__351
+# sent_id = 1946E-MARK,.351
 # X_ID = 1946E-MARK,12.358
 # text = vilst ikh zol hobn nokh an arger mazel ?
 1	vilst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6533,7 +6533,7 @@
 8	mazel	_	NOUN	N-I	Definite=Ind	5	conj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__352
+# sent_id = 1946E-MARK,.352
 # X_ID = 1946E-MARK,12.359
 # text = bist krank tsu geyn arbetn, fardinen gelt ?
 1	bist	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6546,7 +6546,7 @@
 8	gelt	_	NOUN	N-ACC	Case=Acc	7	obj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__353
+# sent_id = 1946E-MARK,.353
 # X_ID = 1946E-MARK,12.360
 # text = veys@ @tu vos ?
 1	veys@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6554,7 +6554,7 @@
 3	vos	_	DET	Q-ACC	Case=Acc	1	obj	_	SpaceAfter=No
 4	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__354
+# sent_id = 1946E-MARK,.354
 # X_ID = 1946E-MARK,12.361
 # text = na dir derfar tsen gildn .
 1	na	_	INTJ	INTJ	_	0	root	_	_
@@ -6564,7 +6564,7 @@
 5	gildn	_	NOUN	N-NOM	Case=Nom	1	nsubj	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__355
+# sent_id = 1946E-MARK,.355
 # X_ID = 1946E-MARK,12.362
 # text = di erste drey tsitatn zeynen genumen fun folkslider, di iberike fun dem opteyl vunder-mayses in dem folklor-band fun yivo .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
@@ -6589,7 +6589,7 @@
 20	yivo	_	PROPN	NPR	_	18	obl	_	SpaceAfter=No
 21	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__356
+# sent_id = 1946E-MARK,.356
 # X_ID = 1946E-MARK,12.363
 # text = %exp% farshteyt zikh, az azelkhe zatsn ken men fun umetum tsunoyfnemen hoyfnvayz .
 1	%exp%	_	NOUN	NP-SBJ-1	_	2	xcomp	_	_
@@ -6607,7 +6607,7 @@
 13	hoyfnvayz	_	ADV	ADV	Degree=Pos	12	advmod	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	12	punct	_	_
 
-# sent_id = 1946e-mark__357
+# sent_id = 1946E-MARK,.357
 # X_ID = 1946E-MARK,12.364
 # text = di letstn tsvey hob ikh genumen mit a kivn, vayl azelkhe zatsn ken men dokh hern in a yidish_redndiker svive oyf trit un shrit
 1	di	_	DET	D-ACC	Case=Acc|PronType=Art	6	obj	_	_
@@ -6636,7 +6636,7 @@
 24	un	_	CCONJ	CONJ	_	25	cc	_	_
 25	shrit	_	NOUN	N	_	23	conj	_	_
 
-# sent_id = 1946e-mark__358
+# sent_id = 1946E-MARK,.358
 # X_ID = 1946E-MARK,12.365
 # text = hkll, der freg-partikel " tsi " iz nisht keyn muz,
 1	hkll	_	ADV	ADV	Degree=Pos	8	advmod	_	SpaceAfter=No
@@ -6652,7 +6652,7 @@
 11	muz	_	NOUN	N	_	8	xcomp	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__359
+# sent_id = 1946E-MARK,.359
 # X_ID = 1946E-MARK,12.366
 # text = un men ken zeyer voyl onheybn dem fregzats mit dem beygikn verb .
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
@@ -6669,7 +6669,7 @@
 12	verb	_	NOUN	N-D	Definite=Def	6	obl	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__360
+# sent_id = 1946E-MARK,.360
 # X_ID = 1946E-MARK,12.367
 # text = kh. der beygiker verb oyfn dritn ort
 1	kh.	_	NUM	LS	_	4	dep	_	_
@@ -6680,7 +6680,7 @@
 6	dritn	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	ort	_	NOUN	N	_	4	obl	_	_
 
-# sent_id = 1946e-mark__361
+# sent_id = 1946E-MARK,.361
 # X_ID = 1946E-MARK,12.368
 # text = der beygiker verb ken nit kumen stam azoy oyfn dritn ort fun zats, vi der driter seyder-eyns .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -6703,18 +6703,18 @@
 18	seyder-eyns	_	NOUN	N-D	Definite=Def	6	obl	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__362
+# sent_id = 1946E-MARK,.362
 # X_ID = 1946E-MARK,12.369
 # text = dos iz nor miglekh in gevise faln
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	nor	_	PART	FP	Degree=Pos	2	amod	_	_
-4	miglekh	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	nor	_	PART	FP	Degree=Pos	4	amod	_	_
+4	miglekh	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 5	in	_	ADP	P	_	7	case	_	_
 6	gevise	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	faln	_	NOUN	N	_	2	obl	_	_
 
-# sent_id = 1946e-mark__363
+# sent_id = 1946E-MARK,.363
 # X_ID = 1946E-MARK,12.370
 # text = un dertsu iz neytik a gants eygnartike, a bazundere, a kharakteristishe intonatsie .
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6733,7 +6733,7 @@
 14	intonatsie	_	NOUN	N-I	Definite=Ind	5	conj	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__364
+# sent_id = 1946E-MARK,.364
 # X_ID = 1946E-MARK,12.371
 # text = ot di intonatsie heybt shtark aroys dos vort vos %t%-1 kumt oyfn erstn oder oyfn tsveytn ort in zats .
 1	ot	_	ADV	FP	Degree=Pos	3	advmod	_	_
@@ -6757,7 +6757,7 @@
 19	zats	_	NOUN	N	_	17	obl	_	SpaceAfter=No
 20	.	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__365
+# sent_id = 1946E-MARK,.365
 # X_ID = 1946E-MARK,12.372
 # text = heyst es, az der beygiker verb kumt oyfn dritn ort, ven men vil spetsiel untershtraykhn an ander vort inem zats,
 1	heyst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -6784,7 +6784,7 @@
 22	zats	_	NOUN	N	_	20	obl	_	SpaceAfter=No
 23	,	_	PUNCT	PUNC	_	17	punct	_	_
 
-# sent_id = 1946e-mark__366
+# sent_id = 1946E-MARK,.366
 # X_ID = 1946E-MARK,12.373
 # text = un deriber kumt men on tsu a verter-seyder vos %t%-1 iz nit geveyntlekh, vos %t%-2 iz a stirh tsu dem grunt-kll .
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
@@ -6811,7 +6811,7 @@
 22	grunt-kll	_	NOUN	N-D	Definite=Def	19	obl	_	SpaceAfter=No
 23	.	_	PUNCT	PUNC	_	17	punct	_	_
 
-# sent_id = 1946e-mark__367
+# sent_id = 1946E-MARK,.367
 # X_ID = 1946E-MARK,12.374
 # text = di bazundere intonatsie, vos zi makht miglekh dem nit_geveyntlekhn verter-seyder, iz a mitl az der herer zol gleykh tsugetsoygn vern tsu dem vos %t%-2 der reyder vil aroysheybn .
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -6846,7 +6846,7 @@
 30	aroysheybn	_	VERB	VB-PART	VerbForm=Inf	24	acl:relcl	_	SpaceAfter=No
 31	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__368
+# sent_id = 1946E-MARK,.368
 # X_ID = 1946E-MARK,12.375
 # text = ven men zogt : vos %t%-1 er hot ibergelebt %EXCL% kumt der beygiker verb oyfn dritn ort .
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -6868,7 +6868,7 @@
 17	ort	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__369
+# sent_id = 1946E-MARK,.369
 # X_ID = 1946E-MARK,12.376
 # text = un dos vort " er " krigt oyf zikh a zeyer shtarkn aktsent fun dem zats .
 1	un	_	CCONJ	CONJ	_	7	cc	_	_
@@ -6889,7 +6889,7 @@
 16	zats	_	NOUN	N-D	Definite=Def	13	obl	_	SpaceAfter=No
 17	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__370
+# sent_id = 1946E-MARK,.370
 # X_ID = 1946E-MARK,12.377
 # text = ven men zogt : sara kluger %t%-1 du bist %EXCL% kumt oykh der beygiker verb oyfn dritn ort .
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -6912,7 +6912,7 @@
 18	ort	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__371
+# sent_id = 1946E-MARK,.371
 # X_ID = 1946E-MARK,12.378
 # text = un dos same aktsentirte vort iz do " kluger " .
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
@@ -6927,7 +6927,7 @@
 10	"	_	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__372
+# sent_id = 1946E-MARK,.372
 # X_ID = 1946E-MARK,12.379
 # text = ven men zogt : er shlogt zikh rak, zi tantst nor, aktsentirt men nit di adverbn " rak " un " nor "
 1	ven	_	SCONJ	C	_	3	mark	_	_
@@ -6956,7 +6956,7 @@
 24	nor	_	PART	FP	Degree=Pos	20	dep	_	SpaceAfter=No
 25	"	_	PUNCT	PUNC	_	14	punct	_	_
 
-# sent_id = 1946e-mark__373
+# sent_id = 1946E-MARK,.373
 # X_ID = 1946E-MARK,12.380
 # text = ober ven men shtelt zey avek oyfn erstn ort un es kumt oys dem beygikn verb tsu shteln oyfn dritn ort bekumen zikh zatsn mit shtark aktsentirte " rk " un " nor " .
 1	ober	_	CCONJ	CONJ	_	22	cc	_	_
@@ -6995,7 +6995,7 @@
 34	"	_	PUNCT	PUNC	_	22	punct	_	SpaceAfter=No
 35	.	_	PUNCT	PUNC	_	22	punct	_	_
 
-# sent_id = 1946e-mark__374
+# sent_id = 1946E-MARK,.374
 # X_ID = 1946E-MARK,13.382
 # text = hert zikh tsu vi %t%-1 ir brengt aroys :
 1	hert	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -7008,7 +7008,7 @@
 8	aroys	_	ADV	ADV	Degree=Pos	7	advmod	_	SpaceAfter=No
 9	:	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__375
+# sent_id = 1946E-MARK,.375
 # X_ID = 1946E-MARK,13.383
 # text = rak er shlogt zikh %EXCL%
 1	rak	_	ADV	ADV	Degree=Pos	0	root	_	_
@@ -7017,7 +7017,7 @@
 4	zikh	_	PRON	PRO-RFL	PronType=Reflex	1	expl:pv	_	SpaceAfter=No
 5	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__376
+# sent_id = 1946E-MARK,.376
 # X_ID = 1946E-MARK,13.384
 # text = nor zi tantst %EXCL%
 1	nor	_	PART	FP	Degree=Pos	0	root	_	_
@@ -7025,7 +7025,7 @@
 3	tantst	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
 4	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__377
+# sent_id = 1946E-MARK,.377
 # X_ID = 1946E-MARK,13.385
 # text = dem eygenem untersheyd ken men gring derfiln tsvishn : er atemt koym koym er atemt
 1	dem	_	DET	D-ACC	Case=Acc|PronType=Art	3	det	_	_
@@ -7044,7 +7044,7 @@
 14	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 15	atemt	_	VERB	VBF	VerbForm=Fin	11	dep	_	_
 
-# sent_id = 1946e-mark__378
+# sent_id = 1946E-MARK,.378
 # X_ID = 1946E-MARK,13.386
 # text = lo@ @mir geben nokh tsvey por zatsn
 1	lo@	_	VERB	VBI	Mood=Imp	0	root	_	_
@@ -7055,7 +7055,7 @@
 6	por	_	NOUN	N	_	4	conj	_	_
 7	zatsn	_	NOUN	N	_	4	nmod:poss	_	_
 
-# sent_id = 1946e-mark__379
+# sent_id = 1946E-MARK,.379
 # X_ID = 1946E-MARK,13.387
 # text = 1a. tomer kumt a gast, vos %t%-1 ves@ @tu ton ?
 1	1a.	_	NUM	LS	_	0	root	_	_
@@ -7071,7 +7071,7 @@
 11	ton	_	VERB	VB	VerbForm=Inf	1	conj	_	SpaceAfter=No
 12	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__380
+# sent_id = 1946E-MARK,.380
 # X_ID = 1946E-MARK,13.388
 # text = 1b. a gast tomer kumt, vos %t%-1 ves@ @tu ton ?
 1	1b.	_	NUM	LS	_	0	root	_	_
@@ -7087,7 +7087,7 @@
 11	ton	_	VERB	VB	VerbForm=Inf	1	conj	_	SpaceAfter=No
 12	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__381
+# sent_id = 1946E-MARK,.381
 # X_ID = 1946E-MARK,13.389
 # text = 2a. im aleyn iz %exp% oykh gegangen shlekht in di gesheftn .
 1	2a.	_	NUM	LS	_	7	dep	_	_
@@ -7103,7 +7103,7 @@
 11	gesheftn	_	NOUN	N-D	Definite=Def	7	obl	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__382
+# sent_id = 1946E-MARK,.382
 # X_ID = 1946E-MARK,13.390
 # text = 2b. im aleyn in di gesheftn iz %exp% oykh gegangen shlekht .
 1	2b.	_	NUM	LS	_	10	dep	_	_
@@ -7119,7 +7119,7 @@
 11	shlekht	_	ADV	ADV	Degree=Pos	10	advmod	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__383
+# sent_id = 1946E-MARK,.383
 # X_ID = 1946E-MARK,13.391
 # text = in 1b iz dos same aktsentirte vort " a gast ", in 2b der seyder-eyns : in di gesheftn ;
 1	in	_	ADP	P	_	2	case	_	_
@@ -7144,7 +7144,7 @@
 20	gesheftn	_	NOUN	N	_	16	dep	_	SpaceAfter=No
 21	;	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__384
+# sent_id = 1946E-MARK,.384
 # X_ID = 1946E-MARK,13.392
 # text = in 1b iz ez der erster seyder-eyns, in 2b der tsveyter .
 1	in	_	ADP	P	_	2	case	_	_
@@ -7161,7 +7161,7 @@
 12	tsveyter	_	ADJ	ADJ	Degree=Pos	10	obl	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__385
+# sent_id = 1946E-MARK,.385
 # X_ID = 1946E-MARK,13.393
 # text = beym avekrukn dem beygikn verb oyfn dritn ort ken %exp% zikh oykh bakumen az a zatsglid zol blaybn azoy vi hengen in der luftn un zayn shaykut tsum vort tsu velkhn %t%-2 es tsit zikh zol oybn oyf nit zayn klor .
 1	beym	_	ADP	P-CL	_	2	case	_	_
@@ -7207,7 +7207,7 @@
 41	klor	_	ADJ	ADJ	Degree=Pos	40	amod	_	SpaceAfter=No
 42	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__386
+# sent_id = 1946E-MARK,.386
 # X_ID = 1946E-MARK,13.394
 # text = mir gefinen, lemoshl, bay sholem-aleykem : shtark geyn ahin %ich%-1 vil ikh nit
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -7226,7 +7226,7 @@
 14	ikh	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 15	nit	_	ADV	NEG-1	_	10	advmod	_	_
 
-# sent_id = 1946e-mark__387
+# sent_id = 1946E-MARK,.387
 # X_ID = 1946E-MARK,13.395
 # text = " shtark " tsit zikh tsum predikat " vil "
 1	"	_	PUNCT	PUNC	_	4	punct	_	_
@@ -7240,7 +7240,7 @@
 9	vil	_	AUX	MDF	VerbForm=Fin	7	dep	_	SpaceAfter=No
 10	"	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__388
+# sent_id = 1946E-MARK,.388
 # X_ID = 1946E-MARK,13.396
 # text = ober do zeynen di verter opgerisn eyns fun andern, beys zey voltn gedarft kumen bskhnut in dem geveyntlekhn verter-seyder :
 1	ober	_	CCONJ	CONJ	_	6	cc	_	_
@@ -7265,7 +7265,7 @@
 20	verter-seyder	_	NOUN	N-D	Definite=Def	15	obl	_	SpaceAfter=No
 21	:	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__389
+# sent_id = 1946E-MARK,.389
 # X_ID = 1946E-MARK,13.397
 # text = ikh vil nit stark geyn ahin .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -7276,7 +7276,7 @@
 6	ahin	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__390
+# sent_id = 1946E-MARK,.390
 # X_ID = 1946E-MARK,13.398
 # text = azoy ober vi der mekhaber hot gevolt untershtraykhn i " geyn ahin " i " shtark ", hot er gemuzt onkumen tsu dem tsitirtn zats .
 1	azoy	_	ADV	ADV	Degree=Pos	22	advmod	_	_
@@ -7307,7 +7307,7 @@
 26	zats	_	NOUN	N-D	Definite=Def	22	obl	_	SpaceAfter=No
 27	.	_	PUNCT	PUNC	_	22	punct	_	_
 
-# sent_id = 1946e-mark__391
+# sent_id = 1946E-MARK,.391
 # X_ID = 1946E-MARK,13.399
 # text = shoyn on pirusim gibn mir nokh a rey zatsn vu %t%-1 der beygiker verb kumt oyfn dritn ort .
 1	shoyn	_	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -7320,7 +7320,7 @@
 8	rey	_	NOUN	N-I	Definite=Ind	6	conj	_	_
 9	zatsn	_	NOUN	N	_	6	nmod:poss	_	_
 10	vu	_	ADV	WADV	Degree=Pos	15	advmod	_	_
-11	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	15	advmod	_	AdvType=Loc
+11	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	15	advmod	_	_
 12	der	_	DET	D-NOM	Case=Nom|PronType=Art	14	det	_	_
 13	beygiker	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	14	amod	_	_
 14	verb	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	15	nsubj	_	_
@@ -7330,7 +7330,7 @@
 18	ort	_	NOUN	N	_	15	obl	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	15	punct	_	_
 
-# sent_id = 1946e-mark__392
+# sent_id = 1946E-MARK,.392
 # X_ID = 1946E-MARK,13.400
 # text = mir betn bloys nit leynenen ot di veyterdike dugmaut mit di oygn, nor zey aroysreydn oyfn kol :
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -7353,7 +7353,7 @@
 18	kol	_	NOUN	N	_	16	obl	_	SpaceAfter=No
 19	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__393
+# sent_id = 1946E-MARK,.393
 # X_ID = 1946E-MARK,13.401
 # text = di starkste gefiln in hartsn bahalt .
 1	di	_	DET	D-ACC	Case=Acc|PronType=Art	3	det	_	_
@@ -7364,7 +7364,7 @@
 6	bahalt	_	VERB	VBI	Mood=Imp	3	dep	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__394
+# sent_id = 1946E-MARK,.394
 # X_ID = 1946E-MARK,13.402
 # text = di nakht, vi a kishuf-makherin, lozt zikh pamelekh arop opatasn
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -7380,7 +7380,7 @@
 11	arop	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 12	opatasn	_	VERB	REF	_	8	dep	_	_
 
-# sent_id = 1946e-mark__395
+# sent_id = 1946E-MARK,.395
 # X_ID = 1946E-MARK,13.403
 # text = mamesh er tsitert far freyd .
 1	mamesh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -7390,7 +7390,7 @@
 5	freyd	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__396
+# sent_id = 1946E-MARK,.396
 # X_ID = 1946E-MARK,13.404
 # text = a_ponim di mame iz nokh nit geven in der heym .
 1	a_ponim	_	ADV	ADV	Degree=Pos	7	advmod	_	_
@@ -7405,7 +7405,7 @@
 10	heym	_	NOUN	N-D	Definite=Def	7	obl	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__397
+# sent_id = 1946E-MARK,.397
 # X_ID = 1946E-MARK,13.405
 # text = kheyml, derzeendik dem tatn, hot zikh shtark ibergeshrokn .
 1	kheyml	_	PROPN	NPR-SBJ	_	10	nsubj	_	SpaceAfter=No
@@ -7420,7 +7420,7 @@
 10	ibergeshrokn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	10	punct	_	_
 
-# sent_id = 1946e-mark__398
+# sent_id = 1946E-MARK,.398
 # X_ID = 1946E-MARK,13.406
 # text = mikh, ven ikh vil zikh nor shlogn, vet keyner nit bazign .
 1	mikh	_	PRON	PRO-ACC	Case=Acc	13	obj	_	SpaceAfter=No
@@ -7438,7 +7438,7 @@
 13	bazign	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__399
+# sent_id = 1946E-MARK,.399
 # X_ID = 1946E-MARK,13.407
 # text = in moyl bey zey beydn iz nito a tson .
 1	in	_	ADP	P	_	2	case	_	_
@@ -7452,7 +7452,7 @@
 9	tson	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	6	nsubj	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__400
+# sent_id = 1946E-MARK,.400
 # X_ID = 1946E-MARK,13.408
 # text = es zaynen faran dray spetsiele faln, ven der beygiker verb kumt in a fregzats oyfn dritn ort .
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
@@ -7475,7 +7475,7 @@
 18	ort	_	NOUN	N	_	12	obl	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__401
+# sent_id = 1946E-MARK,.401
 # X_ID = 1946E-MARK,13.409
 # text = 1. ven men vil aroysheybn dos vort vos %t%-1 iz bazunder vikhtik far dem freger,
 1	1.	_	NUM	LS	_	5	dep	_	_
@@ -7488,47 +7488,47 @@
 8	vos	_	SCONJ	C	_	10	mark	_	_
 9	%t%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 10	iz	_	VERB	VBF	VerbForm=Fin	7	acl:relcl	_	_
-11	bazunder	_	ADV	ADV	Degree=Pos	10	amod	_	_
-12	vikhtik	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	bazunder	_	ADV	ADV	Degree=Pos	12	amod	_	_
+12	vikhtik	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 13	far	_	ADP	P	_	15	case	_	_
 14	dem	_	DET	D	PronType=Art	15	det	_	_
 15	freger	_	NOUN	N-D	Definite=Def	10	obl	_	SpaceAfter=No
 16	,	_	PUNCT	PUNC	_	5	punct	_	_
 
-# sent_id = 1946e-mark__402
+# sent_id = 1946E-MARK,.402
 # X_ID = 1946E-MARK,13.410
 # text = lemoshl : 3a. vu %t%-1 bis@ @tu nekhtn geven ?
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
 2	:	_	PUNCT	PUNC	_	3	punct	_	_
 3	3a.	_	NUM	LS	_	0	root	_	_
 4	vu	_	ADV	WADV	Degree=Pos	3	advmod	_	_
-5	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	9	advmod	_	AdvType=Loc
+5	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	9	advmod	_	_
 6	bis@	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 7	@tu	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 8	nekhtn	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 9	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__403
+# sent_id = 1946E-MARK,.403
 # X_ID = 1946E-MARK,13.411
 # text = der geveyntlekher seyder
 1	der	_	DET	D	PronType=Art	3	det	_	_
 2	geveyntlekher	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 3	seyder	_	NOUN	N-D	Definite=Def	0	root	_	_
 
-# sent_id = 1946e-mark__404
+# sent_id = 1946E-MARK,.404
 # X_ID = 1946E-MARK,13.412
 # text = 3b. nekhtn vu %t%-1 bis@ @tu geven ?
 1	3b.	_	NUM	LS	_	0	root	_	_
 2	nekhtn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
 3	vu	_	ADV	WADV	Degree=Pos	1	advmod	_	_
-4	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	7	advmod	_	AdvType=Loc
+4	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	7	advmod	_	_
 5	bis@	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 6	@tu	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
 8	?	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__405
+# sent_id = 1946E-MARK,.405
 # X_ID = 1946E-MARK,13.413
 # text = dos vort " nekhtn " vert aroysgehoybn .
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -7540,7 +7540,7 @@
 7	aroysgehoybn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	6	ccomp	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__406
+# sent_id = 1946E-MARK,.406
 # X_ID = 1946E-MARK,13.414
 # text = 4a. ver fun aykh %t%-1 vet geyn in vald ?
 1	4a.	_	NUM	LS	_	0	root	_	_
@@ -7554,14 +7554,14 @@
 9	vald	_	NOUN	N	_	7	obl	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__407
+# sent_id = 1946E-MARK,.407
 # X_ID = 1946E-MARK,13.415
 # text = der geveyntlekher seyder
 1	der	_	DET	D	PronType=Art	3	det	_	_
 2	geveyntlekher	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 3	seyder	_	NOUN	N-D	Definite=Def	0	root	_	_
 
-# sent_id = 1946e-mark__408
+# sent_id = 1946E-MARK,.408
 # X_ID = 1946E-MARK,13.416
 # text = 4b. in vald, ver fun aykh %t%-1 vet geyn ?
 1	4b.	_	NUM	LS	_	0	root	_	_
@@ -7576,7 +7576,7 @@
 10	geyn	_	VERB	VB	VerbForm=Inf	1	conj	_	SpaceAfter=No
 11	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__409
+# sent_id = 1946E-MARK,.409
 # X_ID = 1946E-MARK,13.417
 # text = der seyder-eyns " in vald " vert untergeshtrokhn .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
@@ -7589,7 +7589,7 @@
 8	untergeshtrokhn	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__410
+# sent_id = 1946E-MARK,.410
 # X_ID = 1946E-MARK,13.418
 # text = 2. ven men tsit tsunoyf in eyn frage tsvey bazundere frages,
 1	2.	_	NUM	LS	_	4	dep	_	_
@@ -7605,7 +7605,7 @@
 11	frages	_	NOUN	N-ACC	Case=Acc	4	obj	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__411
+# sent_id = 1946E-MARK,.411
 # X_ID = 1946E-MARK,14.419
 # text = lemoshl : 5a. ver %t%-1 vet geyn mit aykh ?
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
@@ -7619,11 +7619,11 @@
 9	aykh	_	PRON	PRO	_	7	obl	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__412
+# sent_id = 1946E-MARK,.412
 # X_ID = 1946E-MARK,14.420
 # text = vuhin %t%-1 vet men geyn mit aykh ?
 1	vuhin	_	ADV	WADV	Degree=Pos	0	root	_	_
-2	%t%-1	_	ADV	ADVP-DIR	Degree=Pos	5	advmod	_	AdvType=Loc
+2	%t%-1	_	ADV	ADVP-DIR	AdvType=Loc|Degree=Pos	5	advmod	_	_
 3	vet	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 4	men	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 5	geyn	_	VERB	VB	VerbForm=Inf	1	conj	_	_
@@ -7631,21 +7631,21 @@
 7	aykh	_	PRON	PRO	_	5	obl	_	SpaceAfter=No
 8	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__413
+# sent_id = 1946E-MARK,.413
 # X_ID = 1946E-MARK,14.421
 # text = 5b. ver vuhin %t%-1 %t%-2 vet geyn mit aykh ?
 1	5b.	_	NUM	LS	_	0	root	_	_
 2	ver	_	PRON	WPRO	_	1	obj	_	_
 3	vuhin	_	ADV	WADV	Degree=Pos	1	advmod	_	_
 4	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
-5	%t%-2	_	ADV	ADVP-DIR	Degree=Pos	7	advmod	_	AdvType=Loc
+5	%t%-2	_	ADV	ADVP-DIR	AdvType=Loc|Degree=Pos	7	advmod	_	_
 6	vet	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
 7	geyn	_	VERB	VB	VerbForm=Inf	1	conj	_	_
 8	mit	_	ADP	P	_	9	case	_	_
 9	aykh	_	PRON	PRO	_	7	obl	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__414
+# sent_id = 1946E-MARK,.414
 # X_ID = 1946E-MARK,14.422
 # text = 6a. far vos %t%-1 hot er es geton ?
 1	6a.	_	NUM	LS	_	0	root	_	_
@@ -7658,7 +7658,7 @@
 8	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__415
+# sent_id = 1946E-MARK,.415
 # X_ID = 1946E-MARK,14.423
 # text = vi_azoy %t%-1 hot er es geton ?
 1	vi_azoy	_	ADV	WADV	Degree=Pos	0	root	_	_
@@ -7669,7 +7669,7 @@
 6	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	6	punct	_	_
 
-# sent_id = 1946e-mark__416
+# sent_id = 1946E-MARK,.416
 # X_ID = 1946E-MARK,14.424
 # text = 6b. far vos un vi_azoy %t%-1 hot er es geton ?
 1	6b.	_	NUM	LS	_	0	root	_	_
@@ -7684,7 +7684,7 @@
 10	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
 11	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__417
+# sent_id = 1946E-MARK,.417
 # X_ID = 1946E-MARK,14.425
 # text = 3. beym iberfregn, afilu ven der freger khazert aleyn iber zeyn frage,
 1	3.	_	NUM	LS	_	9	dep	_	_
@@ -7702,7 +7702,7 @@
 13	frage	_	NOUN	N	_	12	conj	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__418
+# sent_id = 1946E-MARK,.418
 # X_ID = 1946E-MARK,14.426
 # text = lemoshl : 7a. fun vanen %t%-1 kumt ir ?
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
@@ -7715,7 +7715,7 @@
 8	ir	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	3	punct	_	_
 
-# sent_id = 1946e-mark__419
+# sent_id = 1946E-MARK,.419
 # X_ID = 1946E-MARK,14.427
 # text = 7b. fun vanen %t%-1 ir kumt ?
 1	7b.	_	NUM	LS	_	0	root	_	_
@@ -7726,12 +7726,12 @@
 6	kumt	_	VERB	VBF	VerbForm=Fin	1	conj	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	1	punct	_	_
 
-# sent_id = 1946e-mark__420
+# sent_id = 1946E-MARK,.420
 # X_ID = 1946E-MARK,14.428
 # text = 8a. vu %t%-1 zaynen di klezmer ? fregt khtsns tsd
 1	8a.	_	NUM	LS	_	0	root	_	_
 2	vu	_	ADV	WADV	Degree=Pos	1	advmod	_	_
-3	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	4	advmod	_	AdvType=Loc
+3	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	4	advmod	_	_
 4	zaynen	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
 5	di	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	klezmer	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	SpaceAfter=No
@@ -7740,14 +7740,14 @@
 9	khtsns	_	NOUN	N$	_	8	nsubj	_	_
 10	tsd	_	NOUN	N	_	9	conj	_	_
 
-# sent_id = 1946e-mark__421
+# sent_id = 1946E-MARK,.421
 # X_ID = 1946E-MARK,14.429
 # text = 8b. di klezmer vu %t%-1 zaynen %pro% fregt khtsns tsd sholem-aleykhem
 1	8b.	_	NUM	LS	_	8	dep	_	_
 2	di	_	DET	D	PronType=Art	3	det	_	_
 3	klezmer	_	NOUN	N-D	Definite=Def	8	dep	_	_
 4	vu	_	ADV	WADV	Degree=Pos	3	advmod	_	_
-5	%t%-1	_	ADV	ADVP-LOC	Degree=Pos	6	advmod	_	AdvType=Loc
+5	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	6	advmod	_	_
 6	zaynen	_	VERB	VBF	VerbForm=Fin	3	conj	_	_
 7	%pro%	_	NOUN	NP-SBJ-RSP	_	6	nsubj	_	_
 8	fregt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -7755,7 +7755,7 @@
 10	tsd	_	NOUN	N	_	9	conj	_	_
 11	sholem-aleykhem	_	VERB	REF	_	8	dep	_	_
 
-# sent_id = 1946e-mark__422
+# sent_id = 1946E-MARK,.422
 # X_ID = 1946E-MARK,14.430
 # text = 9a. vos %t%-1 tut men mit di kinder ?
 1	9a.	_	NUM	LS	_	0	root	_	_
@@ -7768,7 +7768,7 @@
 8	kinder	_	NOUN	N-D	Definite=Def	4	obl	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__423
+# sent_id = 1946E-MARK,.423
 # X_ID = 1946E-MARK,14.431
 # text = 9b. mit di kinder vos %t%-1 tut men ?
 1	9b.	_	NUM	LS	_	0	root	_	_
@@ -7781,7 +7781,7 @@
 8	men	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	7	punct	_	_
 
-# sent_id = 1946e-mark__424
+# sent_id = 1946E-MARK,.424
 # X_ID = 1946E-MARK,14.432
 # text = di beyde zatsn 9a un 9b vern aroysgezogt fun dem zelbikn freger, zen_sholem-aleykhem,_funem_yarid,_kapitl_35
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
@@ -7799,7 +7799,7 @@
 13	,	_	PUNCT	PUNC	_	7	punct	_	_
 14	zen_sholem-aleykhem,_funem_yarid,_kapitl_35	_	VERB	REF	_	7	dep	_	_
 
-# sent_id = 1946e-mark__425
+# sent_id = 1946E-MARK,.425
 # X_ID = 1946E-MARK,14.433
 # text = beym veln oyfhitn an eygnartike ritmishkeyt, a min ritmishn paralelism beym farbindn tuung un puel-iutsa oder teze un antiteze kumt %exp% oys tsu shteln dem verb oyfn dritn ort .
 1	beym	_	ADP	P-CL	_	2	case	_	_
@@ -7834,7 +7834,7 @@
 30	ort	_	NOUN	N	_	22	obl	_	SpaceAfter=No
 31	.	_	PUNCT	PUNC	_	21	punct	_	_
 
-# sent_id = 1946e-mark__426
+# sent_id = 1946E-MARK,.426
 # X_ID = 1946E-MARK,14.434
 # text = mir betn zikh tsuhern tsum ritem fun di zatsn .
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -7848,7 +7848,7 @@
 9	zatsn	_	NOUN	N-D	Definite=Def	6	obl	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__427
+# sent_id = 1946E-MARK,.427
 # X_ID = 1946E-MARK,14.435
 # text = vos mer %t%-1 men lebt oyf der velt, alts viniker veys men .
 1	vos	_	PRON	WPRO	_	5	obj	_	_
@@ -7866,7 +7866,7 @@
 13	men	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	12	punct	_	_
 
-# sent_id = 1946e-mark__428
+# sent_id = 1946E-MARK,.428
 # X_ID = 1946E-MARK,14.436
 # text = vos vintsiker %t%-1 ir vet fregn shayles, alts gezinter vet es zeyn far aykh .
 1	vos	_	PRON	WPRO	_	6	obj	_	_
@@ -7877,8 +7877,8 @@
 6	fregn	_	VERB	VB	VerbForm=Inf	13	obl	_	_
 7	shayles	_	NOUN	N-ACC	Case=Acc	6	obj	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	13	punct	_	_
-9	alts	_	DET	Q	_	13	amod	_	_
-10	gezinter	_	ADJ	ADJR	Degree=Pos	9	amod	_	_
+9	alts	_	DET	Q	_	10	amod	_	_
+10	gezinter	_	ADJ	ADJR	Degree=Pos	13	amod	_	_
 11	vet	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 12	es	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 13	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -7886,7 +7886,7 @@
 15	aykh	_	PRON	PRO	_	13	obl	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	13	punct	_	_
 
-# sent_id = 1946e-mark__429
+# sent_id = 1946E-MARK,.429
 # X_ID = 1946E-MARK,14.437
 # text = es ken zikh trefn az bloyz zeyer a komplitsirte ritmishe figur zol miglekh makhn dem beygiken verb oyfn driten ort %ich%-2,
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	4	expl	_	_
@@ -7912,7 +7912,7 @@
 21	%ich%-2	_	X	ADJP-PRD	Degree=Pos	14	ccomp	_	SpaceAfter=No
 22	,	_	PUNCT	PUNC	_	4	punct	_	_
 
-# sent_id = 1946e-mark__430
+# sent_id = 1946E-MARK,.430
 # X_ID = 1946E-MARK,14.438
 # text = lemoshl in dem shprikhvort eyn tate tsen kinder, derner tsen kinder eyn tate, iz shver
 1	lemoshl	for_example	X	H	_	4	dep	_	_
@@ -7933,7 +7933,7 @@
 16	iz	_	VERB	VBF	VerbForm=Fin	10	conj	_	_
 17	shver	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
 
-# sent_id = 1946e-mark__431
+# sent_id = 1946E-MARK,.431
 # X_ID = 1946E-MARK,14.439
 # text = do zeynen faran etlekhe durkhlozn :
 1	do	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -7943,7 +7943,7 @@
 5	durkhlozn	_	NOUN	N-NOM	Case=Nom	2	nsubj	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__432
+# sent_id = 1946E-MARK,.432
 # X_ID = 1946E-MARK,14.440
 # text = az eyn tate hot tsen kinder, zogt men im derner zey
 1	az	_	SCONJ	C	_	4	mark	_	_
@@ -7959,7 +7959,7 @@
 11	derner	_	VERB	VBI	Mood=Imp	8	ccomp	_	_
 12	zey	_	PRON	PRO-ACC	Case=Acc	11	obj	_	_
 
-# sent_id = 1946e-mark__433
+# sent_id = 1946E-MARK,.433
 # X_ID = 1946E-MARK,14.441
 # text = ober tsen kinder eyn tatn tsu dernern iz shver .
 1	ober	_	CCONJ	CONJ	_	8	cc	_	_
@@ -7973,7 +7973,7 @@
 9	shver	_	ADJ	ADJ	Degree=Pos	8	amod	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__434
+# sent_id = 1946E-MARK,.434
 # X_ID = 1946E-MARK,14.442
 # text = in der poezie, zeltener a_sakh afilu in folkslider, trefn mir dem beygikn verb oyfn dritn ort on genugnike motivn .
 1	in	_	ADP	P	_	3	case	_	_
@@ -7999,7 +7999,7 @@
 21	motivn	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	11	punct	_	_
 
-# sent_id = 1946e-mark__435
+# sent_id = 1946E-MARK,.435
 # X_ID = 1946E-MARK,14.443
 # text = yemolt bekumen zikh umberekhtikt shvere zatsn .
 1	yemolt	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -8010,7 +8010,7 @@
 6	zatsn	_	NOUN	N	_	4	conj	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__436
+# sent_id = 1946E-MARK,.436
 # X_ID = 1946E-MARK,14.444
 # text = mir brengn bloyz tsvey :
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
@@ -8019,7 +8019,7 @@
 4	tsvey	_	NUM	NUM	_	3	nummod	_	SpaceAfter=No
 5	:	_	PUNCT	PUNC	_	2	punct	_	_
 
-# sent_id = 1946e-mark__437
+# sent_id = 1946E-MARK,.437
 # X_ID = 1946E-MARK,14.445
 # text = un bey mir, orem shneyderl, dos shvakh hertsele tristset folkslid
 1	un	_	CCONJ	CONJ	_	11	cc	_	_
@@ -8035,7 +8035,7 @@
 11	tristset	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 12	folkslid	_	VERB	REF	_	11	dep	_	_
 
-# sent_id = 1946e-mark__438
+# sent_id = 1946E-MARK,.438
 # X_ID = 1946E-MARK,14.446
 # text = oyf a boym in grinem vald a vunderlekher foygl shalt porets
 1	oyf	_	ADP	P	_	3	case	_	_
@@ -8050,7 +8050,7 @@
 10	shalt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 11	porets	_	VERB	REF	_	10	dep	_	_
 
-# sent_id = 1946e-mark__439
+# sent_id = 1946E-MARK,.439
 # X_ID = 1946E-MARK,14.447
 # text = in di beyde zatsn ken men azoy leyenen di teyln biz dem beygiken verb, az es zol zikh bakumen vi %t%-1 nit iz a legitimer fal der verb oyfn dritn ort .
 1	in	_	ADP	P	_	4	case	_	_
@@ -8087,7 +8087,7 @@
 32	ort	_	NOUN	N	_	20	obl	_	SpaceAfter=No
 33	.	_	PUNCT	PUNC	_	8	punct	_	_
 
-# sent_id = 1946e-mark__440
+# sent_id = 1946E-MARK,.440
 # X_ID = 1946E-MARK,14.448
 # text = veyter ober tor der beygiker verb keyn_mol nit kumen %EXCL%
 1	veyter	_	ADV	ADV	Degree=Pos	9	advmod	_	_
@@ -8101,7 +8101,7 @@
 9	kumen	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 10	%EXCL%	_	PUNCT	PUNC	_	9	punct	_	_
 
-# sent_id = 1946e-mark__441
+# sent_id = 1946E-MARK,.441
 # X_ID = 1946E-MARK,14.449
 # text = un keyn shum motiv fun gram, oder fun ritem, oder fun a bazundere kvnh ken nit barekhtikn dem verb oyfn fertn ort, vi %t%-1 mir hobn im,
 1	un	_	CCONJ	CONJ	_	19	cc	_	_
@@ -8136,7 +8136,7 @@
 30	im	_	PRON	PRO-ACC	Case=Acc	29	obj	_	SpaceAfter=No
 31	,	_	PUNCT	PUNC	_	19	punct	_	_
 
-# sent_id = 1946e-mark__442
+# sent_id = 1946E-MARK,.442
 # X_ID = 1946E-MARK,14.450
 # text = lemoshl : meyn utsrl shoyn shlofn vil porets
 1	lemoshl	for_example	X	H	_	6	dep	_	SpaceAfter=No
@@ -8148,7 +8148,7 @@
 7	vil	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
 8	porets	_	VERB	REF	_	6	dep	_	_
 
-# sent_id = 1946e-mark__443
+# sent_id = 1946E-MARK,.443
 # X_ID = 1946E-MARK,14.451
 # text = dem veg durkhgelofn on ind iz a shtume nister
 1	dem	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
@@ -8161,7 +8161,7 @@
 8	shtume	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	3	nsubj	_	_
 9	nister	_	VERB	REF	_	3	dep	_	_
 
-# sent_id = 1946e-mark__444
+# sent_id = 1946E-MARK,.444
 # X_ID = 1946E-MARK,14.452
 # text = shtum, vi a yugnt-kholem, in di berg zings@ @tu roznfeld
 1	shtum	_	ADJ	ADJ	Degree=Pos	10	amod	_	SpaceAfter=No
@@ -8177,7 +8177,7 @@
 11	@tu	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 12	roznfeld	_	VERB	REF	_	10	dep	_	_
 
-# sent_id = 1946e-mark__445
+# sent_id = 1946E-MARK,.445
 # X_ID = 1946E-MARK,14.453
 # text = erst shpeter nokh tsat hkukhbim der sms di shul hot farmakht ihuas
 1	erst	_	ADV	ADV	Degree=Pos	11	advmod	_	_
@@ -8193,7 +8193,7 @@
 11	farmakht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 12	ihuas	_	VERB	REF	_	11	dep	_	_
 
-# sent_id = 1946e-mark__446
+# sent_id = 1946E-MARK,.446
 # X_ID = 1946E-MARK,15.455
 # text = un oyb men ken nit barekhtikn dem verb oyfn fertn ort, un oft_mol oykh nit oyfn dritn, in der poetisher shprakh, iz %exp% el akht kmh ukmh in der posheter tseytung-notits un in dem publitsistishn artikl, tsi in der visnshaftlekher fraze .
 1	un	_	CCONJ	CONJ	_	25	cc	_	_
@@ -8243,7 +8243,6 @@
 45	fraze	_	NOUN	N-D	Definite=Def	34	conj	_	SpaceAfter=No
 46	.	_	PUNCT	PUNC	_	25	punct	_	_
 
-# sent_id = 1946e-mark__447
 1	vegn	_	ADP	P	_	3	case	_	_
 2	andere	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 3	problemen	_	NOUN	N	_	0	root	_	_

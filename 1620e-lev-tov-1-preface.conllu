@@ -222,8 +222,8 @@
 6	%t%-1	_	NOUN	NP-SBJ	_	8	nsubj	_	_
 7	gleykh	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 8	ver	_	VERB	VBF	VerbForm=Fin	4	acl:relcl	_	_
-9	hlb	_	ADV	ADV	Degree=Pos	8	amod	_	_
-10	blint	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	hlb	_	ADV	ADV	Degree=Pos	10	amod	_	_
+10	blint	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.13
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.15

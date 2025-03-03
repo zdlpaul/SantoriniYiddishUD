@@ -278,8 +278,8 @@
 28	vos	_	SCONJ	C	_	30	mark	_	_
 29	zey	_	PRON	PRO	_	30	nsubj	_	_
 30	zenin	_	VERB	VBF	VerbForm=Fin	23	acl:relcl	_	_
-31	zeyer	_	ADV	ADV	Degree=Pos	30	amod	_	_
-32	gelernt	_	ADJ	ADJ	Degree=Pos	31	amod	_	_
+31	zeyer	_	ADV	ADV	Degree=Pos	32	amod	_	_
+32	gelernt	_	ADJ	ADJ	Degree=Pos	30	amod	_	_
 
 # sent_id = 1848E-JUDAH,.11
 # X_ID = 1848E-JUDAH,634.13
@@ -2202,8 +2202,8 @@
 6	es	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 7	zol	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
 8	far	_	ADP	P	_	9	case	_	_
-9	all	_	DET	Q	_	11	amod	_	_
-10	gut	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	all	_	DET	Q	_	10	amod	_	_
+10	gut	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	zeyn	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 
 # sent_id = 1848E-JUDAH,.111

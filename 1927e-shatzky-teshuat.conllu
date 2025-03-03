@@ -460,10 +460,10 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 2	iz	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
 3	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	zeyn	_	PRON	PRO$	_	3	obl	_	_
-5	gants	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-6	lebn	_	NOUN	N	_	4	conj	_	_
-7	kl	all	X	H	_	4	appos	_	_
+4	zeyn	_	PRON	PRO$	_	6	det:poss	_	_
+5	gants	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	lebn	_	NOUN	N	_	3	obl	_	_
+7	kl	all	X	H	_	6	appos	_	_
 8	imi	days	X	H	_	7	dep	_	_
 9	a	_	DET	D	PronType=Art	11	det	_	_
 10	groyser	_	ADJ	ADJ	Degree=Pos	11	amod	_	_

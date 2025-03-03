@@ -2329,9 +2329,9 @@
 9	turn	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
 10	der	_	DET	D-ACC	Case=Acc|PronType=Art	9	dep	_	_
 11	var	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
-12	gr	_	ADV	ADV	Degree=Pos	10	amod	_	_
-13	hukh	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-14	sbeim	seventy	X	H	_	12	obl	_	_
+12	gr	_	ADV	ADV	Degree=Pos	13	amod	_	_
+13	hukh	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+14	sbeim	seventy	X	H	_	13	obl	_	_
 15	melut	heights	X	H	_	14	dep	_	_
 16	bmzrkh	in_east	X	H	_	14	dep	_	_
 

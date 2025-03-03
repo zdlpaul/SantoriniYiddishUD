@@ -890,8 +890,8 @@
 6	mir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
 7	do	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 8	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
-9	gants	_	ADV	ADV	Degree=Pos	5	amod	_	_
-10	klor	_	ADJ	ADJ	Degree=Pos	9	amod	_	SpaceAfter=No
+9	gants	_	ADV	ADV	Degree=Pos	10	amod	_	_
+10	klor	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.47
@@ -2715,16 +2715,16 @@
 8	loy	not	X	H	_	5	xcomp	_	_
 9	aleykhem	to_you	X	H	_	8	dep	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	5	punct	_	_
-11	epes	_	DET	Q	_	5	amod	_	SpaceAfter=No
-12	,	_	PUNCT	PUNC	_	11	punct	_	_
-13	vi	_	ADV	WADV	Degree=Pos	11	amod	_	_
+11	epes	_	DET	Q	_	18	amod	_	SpaceAfter=No
+12	,	_	PUNCT	PUNC	_	18	punct	_	_
+13	vi	_	ADV	WADV	Degree=Pos	18	amod	_	_
 14	%t%-1	_	ADV	ADVP	Degree=Pos	15	advmod	_	_
 15	ruft	_	VERB	VBF	VerbForm=Fin	13	conj	_	_
 16	me	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 17	es	_	PRON	PRO-ACC	Case=Acc	15	obj	_	_
-18	tsemist	_	ADJ	ADJ	Degree=Pos	11	amod	_	SpaceAfter=No
-19	,	_	PUNCT	PUNC	_	11	punct	_	_
-20	gor	_	ADV	ADV	Degree=Pos	11	amod	_	_
+18	tsemist	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+19	,	_	PUNCT	PUNC	_	18	punct	_	_
+20	gor	_	ADV	ADV	Degree=Pos	18	amod	_	_
 21	tsetrogt	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.143
@@ -3143,8 +3143,8 @@
 6	der	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
 7	derlernter	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	8	amod	_	_
 8	material	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	nsubj	_	_
-9	tsu	_	ADV	ADV	Degree=Pos	2	amod	_	_
-10	kleyn	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	tsu	_	ADV	ADV	Degree=Pos	10	amod	_	_
+10	kleyn	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.165
 # X_ID = 1928E-ZARETSKI-MENDELE,26.170

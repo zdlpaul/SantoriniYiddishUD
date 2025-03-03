@@ -615,12 +615,12 @@
 3	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	veybr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	_
-6	ebin	_	ADV	ADV	Degree=Pos	3	amod	_	_
+6	ebin	_	ADV	ADV	Degree=Pos	9	amod	_	_
 7	azu	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 8	vaul	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-9	shuldig	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+9	shuldig	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 10	tsu	_	PART	TO	_	11	mark	_	_
-11	visn	_	VERB	VB	VerbForm=Inf	6	amod	_	_
+11	visn	_	VERB	VB	VerbForm=Inf	9	amod	_	_
 12	ali	_	DET	Q-ACC	Case=Acc	13	det	_	_
 13	dinim	_	NOUN	N-ACC	Case=Acc	11	obj	_	_
 14	bifrat	_	ADV	ADV	Degree=Pos	16	advmod	_	_
@@ -635,7 +635,7 @@
 23	uhitr	and_permission	X	H	_	22	dep	_	_
 24	az	_	ADP	P	_	26	case	_	_
 25	di	_	DET	D	PronType=Art	26	det	_	_
-26	mnin	_	NOUN	N-D	Definite=Def	6	amod	_	_
+26	mnin	_	NOUN	N-D	Definite=Def	9	amod	_	_
 
 # sent_id = 1589E-ESTER-PREFACE,.27
 # X_ID = 1589E-ESTER-PREFACE,3.30

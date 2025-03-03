@@ -2026,9 +2026,9 @@
 1	den	_	CCONJ	CONJ	_	3	cc	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	tsu	_	ADV	ADV	Degree=Pos	3	amod	_	_
-5	shvakh	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-6	der_tsu	_	ADP	P	_	4	amod	_	_
+4	tsu	_	ADV	ADV	Degree=Pos	5	amod	_	_
+5	shvakh	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+6	der_tsu	_	ADP	P	_	5	amod	_	_
 
 # sent_id = 1620E-LEV-TOV-1,.116
 # X_ID = 1620E-LEV-TOV-1,5l.121
@@ -4152,8 +4152,8 @@
 34	udr	_	CCONJ	CONJ	_	36	cc	_	_
 35	du	_	PRON	PRO-NOM	Case=Nom	36	nsubj	_	_
 36	bist	_	VERB	VBF	VerbForm=Fin	23	ccomp	_	_
-37	nakh	_	ADV	ADV	Degree=Pos	36	amod	_	_
-38	ergr	_	ADJ	ADJR	Degree=Pos	37	amod	_	_
+37	nakh	_	ADV	ADV	Degree=Pos	38	amod	_	_
+38	ergr	_	ADJ	ADJR	Degree=Pos	36	amod	_	_
 39	has@	_	AUX	HVF	VerbForm=Fin	45	aux	_	_
 40	@tu	_	PRON	PRO-NOM	Case=Nom	45	nsubj	_	_
 41	dakh	_	ADV	ADV	Degree=Pos	45	advmod	_	_

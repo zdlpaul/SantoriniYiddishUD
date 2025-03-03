@@ -3973,8 +3973,8 @@
 # text = zi zeynin zeyer frum given
 1	zi	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 2	zeynin	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-3	zeyer	_	ADV	ADV	Degree=Pos	5	amod	_	_
-4	frum	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	zeyer	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	frum	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 5	given	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1834E-UKRAINE-2,.262
@@ -4189,8 +4189,8 @@
 21	mir	_	PRON	PRO-DTV	Case=Dat	20	iobj	_	_
 22	dos	_	DET	D-NOM	Case=Nom|PronType=Art	23	det	_	_
 23	harts	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	20	nsubj	_	_
-24	zeyer	_	ADV	ADV	Degree=Pos	20	amod	_	_
-25	shver	_	ADJ	ADJ	Degree=Pos	24	amod	_	_
+24	zeyer	_	ADV	ADV	Degree=Pos	25	amod	_	_
+25	shver	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
 
 # sent_id = 1834E-UKRAINE-2,.275
 # X_ID = 1834E-UKRAINE-2,44.277
@@ -6113,8 +6113,8 @@
 4	fun	_	ADP	P	_	5	case	_	_
 5	brod	_	NOUN	N	_	3	obl	_	_
 6	zeynen	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
-7	der_fun	_	ADP	P	_	9	amod	_	_
-8	givar	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	der_fun	_	ADP	P	_	8	amod	_	_
+8	givar	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 9	givarin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1834E-UKRAINE-2,.393
@@ -6501,10 +6501,10 @@
 8	der	_	DET	D-NOM	Case=Nom|PronType=Art	9	det	_	_
 9	palkarnik	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	10	nsubj	_	_
 10	iz	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
-11	zeyer	_	ADV	ADV	Degree=Pos	10	amod	_	_
-12	brugz	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	zeyer	_	ADV	ADV	Degree=Pos	12	amod	_	_
+12	brugz	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 13	oyf	_	ADP	P	_	14	case	_	_
-14	dem	_	DET	D	PronType=Art	11	amod	_	_
+14	dem	_	DET	D	PronType=Art	12	amod	_	_
 15	habin	_	AUX	HVF	VerbForm=Fin	18	aux	_	_
 16	zey	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
 17	givalt	_	AUX	MDN	Tense=Past|VerbForm=Part	18	aux	_	_

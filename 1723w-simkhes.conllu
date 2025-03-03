@@ -366,9 +366,9 @@
 31	tsu	_	PART	TO	_	32	mark	_	_
 32	zeyn	_	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 33	driber	_	ADP	P	_	32	obl	_	_
-34	ale	_	DET	Q	_	32	obl	_	_
-35	deyne	_	PRON	PRO$	_	34	det:poss	_	_
-36	tog	_	NOUN	N	_	34	conj	_	SpaceAfter=No
+34	ale	_	DET	Q	_	36	det	_	_
+35	deyne	_	PRON	PRO$	_	36	det:poss	_	_
+36	tog	_	NOUN	N	_	32	obl	_	SpaceAfter=No
 37	.	_	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = 1723W-SIMKHES,.23
@@ -426,9 +426,9 @@
 1	den	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 2	hes@	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
 3	@tu	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-4	ale	_	DET	Q	_	9	obl	_	_
-5	deyne	_	PRON	PRO$	_	4	det:poss	_	_
-6	tog	_	NOUN	N	_	4	conj	_	_
+4	ale	_	DET	Q	_	6	det	_	_
+5	deyne	_	PRON	PRO$	_	6	det:poss	_	_
+6	tog	_	NOUN	N	_	9	obl	_	_
 7	genugen	_	DET	Q-ACC	Case=Acc	8	det	_	_
 8	reykhtum	_	NOUN	N-ACC	Case=Acc	9	obj	_	_
 9	gehot	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -708,15 +708,15 @@
 1	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
 2	genzen_ey	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	3	nsubj	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	nokh	_	ADV	ADV	Degree=Pos	3	amod	_	_
-5	eyn@	_	NUM	NUM	_	4	nummod	_	_
-6	@mol	_	NOUN	N	_	4	conj	_	_
-7	azo	_	ADV	ADV	Degree=Pos	4	amod	_	_
-8	gros	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	nokh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+5	eyn@	_	NUM	NUM	_	8	obl	_	_
+6	@mol	_	NOUN	N	_	5	conj	_	_
+7	azo	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	gros	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 9	als	_	ADP	P	_	12	case	_	_
 10	meyn	_	PRON	PRO$	_	12	det:poss	_	_
 11	gants	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-12	leyb	_	NOUN	N	_	4	amod	_	_
+12	leyb	_	NOUN	N	_	8	amod	_	_
 13	un	_	CCONJ	CONJ	_	14	cc	_	_
 14	leben	_	NOUN	N	_	12	conj	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	3	punct	_	_
@@ -1176,8 +1176,8 @@
 11	,	_	PUNCT	PUNC	_	7	punct	_	_
 12	veyl	_	SCONJ	C	_	16	mark	_	_
 13	zi	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
-14	azo	_	ADV	ADV	Degree=Pos	16	amod	_	_
-15	gevont	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
+14	azo	_	ADV	ADV	Degree=Pos	15	amod	_	_
+15	gevont	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
 16	iz	_	VERB	VBF	VerbForm=Fin	7	advcl	_	SpaceAfter=No
 17	.	_	PUNCT	PUNC	_	1	punct	_	_
 

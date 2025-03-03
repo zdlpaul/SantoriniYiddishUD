@@ -232,12 +232,12 @@
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
 2	maneg	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	_
 3	is	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	niks	_	DET	Q	_	3	amod	_	_
-5	beser	_	ADJ	ADJR	Degree=Pos	4	amod	_	_
+4	niks	_	DET	Q	_	5	amod	_	_
+5	beser	_	ADJ	ADJR	Degree=Pos	3	amod	_	_
 6	als	_	ADP	P	_	9	case	_	_
 7	der	_	DET	D	PronType=Art	9	det	_	_
 8	gemaner	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-9	man	_	NOUN	N-D	Definite=Def	4	amod	_	_
+9	man	_	NOUN	N-D	Definite=Def	5	amod	_	_
 
 # sent_id = 1798W-DISKURS,.22
 # X_ID = 1798W-DISKURS,164.24
@@ -386,8 +386,8 @@
 5	dos	_	SCONJ	C	_	10	mark	_	_
 6	ir	_	PRON	PRO-NOM	Case=Nom	7	nmod	_	_
 7	leyt	_	NOUN	N-NOM	Case=Nom	10	nsubj	_	_
-8	epes	_	DET	Q	_	10	amod	_	_
-9	gebesert	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	epes	_	DET	Q	_	9	amod	_	_
+9	gebesert	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	zeyt	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 
 # sent_id = 1798W-DISKURS,.33

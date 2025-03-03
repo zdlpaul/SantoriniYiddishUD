@@ -49,9 +49,9 @@
 7	gat	_	PROPN	NPR-D	_	1	obl	_	_
 8	bin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
-10	gar	_	ADV	ADV	Degree=Pos	8	amod	_	_
+10	gar	_	ADV	ADV	Degree=Pos	12	amod	_	_
 11	vaul	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-12	bekant	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+12	bekant	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 
 # sent_id = 1750W-MOSES,.5
 # X_ID = 1750W-MOSES,697.7
@@ -186,8 +186,8 @@
 8	emrm	_	PROPN	NPR	_	6	dep	_	_
 9	bin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 10	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-11	vaul	_	ADV	ADV	Degree=Pos	9	amod	_	_
-12	bkant	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	vaul	_	ADV	ADV	Degree=Pos	12	amod	_	_
+12	bkant	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 
 # sent_id = 1750W-MOSES,.14
 # X_ID = 1750W-MOSES,697.16
@@ -1448,8 +1448,8 @@
 2	zeynn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 4	fun	_	ADP	P	_	5	case	_	_
-5	mir	_	PRON	PRO	_	2	amod	_	_
-6	fr_hulin	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	mir	_	PRON	PRO	_	6	amod	_	_
+6	fr_hulin	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 
 # sent_id = 1750W-MOSES,.84
 # X_ID = 1750W-MOSES,701.89
@@ -1459,9 +1459,9 @@
 3	makh	_	VERB	VBI	Mood=Imp	0	root	_	_
 4	dikh	_	PRON	PRO	_	3	obl	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
-6	%ich%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
-7	azu	_	ADV	ADV	Degree=Pos	3	ccomp	_	_
-8	grus	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+6	%ich%-1	_	NOUN	NP-SBJ	_	8	nsubj	_	_
+7	azu	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	grus	_	ADJ	ADJ	Degree=Pos	3	ccomp	_	_
 
 # sent_id = 1750W-MOSES,.85
 # X_ID = 1750W-MOSES,701.90
@@ -2277,9 +2277,9 @@
 # X_ID = 1750W-MOSES,703.139
 # text = iud etlikhi khdsim dr_nakh bin ikh oyf den brg sini anoyf gigangin deyn turh hkdush tsu antfngin
 1	iud	10	NUM	LS	_	12	dep	_	_
-2	etlikhi	_	DET	Q	_	12	obl	_	_
-3	khdsim	_	NOUN	N	_	2	conj	_	_
-4	dr_nakh	_	ADP	P	_	2	case	_	_
+2	etlikhi	_	DET	Q	_	3	det	_	_
+3	khdsim	_	NOUN	N	_	12	obl	_	_
+4	dr_nakh	_	ADP	P	_	3	case	_	_
 5	bin	_	AUX	BEF	VerbForm=Fin	12	cop	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 7	oyf	_	ADP	P	_	10	case	_	_

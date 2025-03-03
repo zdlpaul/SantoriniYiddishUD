@@ -265,9 +265,9 @@
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	12	expl	_	_
 2	iz	_	AUX	BEF	VerbForm=Fin	12	cop	_	_
 3	givis	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-4	al	_	DET	Q	_	12	obl	_	_
-5	zeyn	_	PRON	PRO$	_	4	det:poss	_	_
-6	tag	_	NOUN	N	_	4	conj	_	_
+4	al	_	DET	Q	_	6	det	_	_
+5	zeyn	_	PRON	PRO$	_	6	det:poss	_	_
+6	tag	_	NOUN	N	_	12	obl	_	_
 7	keyn	_	DET	Q-NOM	Case=Nom	10	det	_	_
 8	zelkhis	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	amod	_	_
 9	tsub	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	amod	_	_

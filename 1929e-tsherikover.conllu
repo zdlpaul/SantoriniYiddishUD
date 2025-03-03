@@ -131,11 +131,11 @@
 16	zi	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
 17	iz	_	VERB	VBF	VerbForm=Fin	14	ccomp	_	_
 18	dem	_	DET	D-DTV	Case=Dat|PronType=Art	19	det	_	_
-19	eulm	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	17	amod	_	_
-20	kmet	_	ADV	ADV	Degree=Pos	19	amod	_	_
+19	eulm	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	23	iobj	_	_
+20	kmet	_	ADV	ADV	Degree=Pos	23	amod	_	_
 21	vi	_	ADV	WADV	Degree=Pos	20	advmod	_	_
 22	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	20	advmod	_	_
-23	bakant	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
+23	bakant	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
 24	bezunders	_	ADV	ADV	Degree=Pos	17	advmod	_	_
 25	der	_	DET	D	PronType=Art	17	det	_	_
 26	erster	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
@@ -158,8 +158,8 @@
 43	velkhe	_	PRON	WPRO	_	45	obj	_	_
 44	s	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	45	expl	_	_
 45	iz	_	VERB	VBF	VerbForm=Fin	42	acl:relcl	_	_
-46	zeyer	_	ADV	ADV	Degree=Pos	45	amod	_	_
-47	shver	_	ADJ	ADJ	Degree=Pos	46	amod	_	_
+46	zeyer	_	ADV	ADV	Degree=Pos	47	amod	_	_
+47	shver	_	ADJ	ADJ	Degree=Pos	45	amod	_	_
 48	%t%-3	_	NOUN	NP-ACC	_	45	xcomp	_	_
 49	itst	_	ADV	ADV	Degree=Pos	48	advmod	_	_
 50	tsu	_	PART	TO	_	48	mark	_	_

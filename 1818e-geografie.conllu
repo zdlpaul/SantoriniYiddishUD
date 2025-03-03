@@ -70,12 +70,12 @@
 9	vaserin	_	NOUN	N	_	6	obl	_	_
 10	tsu_zamin	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 11	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-12	entfr	_	CCONJ	CONJ	_	11	amod	_	_
-13	rund	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
+12	entfr	_	CCONJ	CONJ	_	13	amod	_	_
+13	rund	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 14	keylekhdik	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
 15	udr	_	CCONJ	CONJ	_	17	cc	_	_
 16	in	_	ADP	P	_	17	case	_	_
-17	gistalt	_	NOUN	N	_	12	amod	_	_
+17	gistalt	_	NOUN	N	_	13	amod	_	_
 18	der_fun	_	ADP	P	_	17	obl	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.5
@@ -109,9 +109,9 @@
 10	vasir	_	NOUN	N	_	9	conj	_	_
 11	vi	_	ADP	P	_	12	case	_	_
 12	erd	_	NOUN	N	_	9	obl	_	_
-13	bald	_	ADV	ADV	Degree=Pos	16	obl	_	_
-14	tsvey	_	NUM	NUM	_	13	nummod	_	_
-15	mal	_	NOUN	N	_	13	conj	_	_
+13	bald	_	ADV	ADV	Degree=Pos	14	advmod	_	_
+14	tsvey	_	NUM	NUM	_	16	obl	_	_
+15	mal	_	NOUN	N	_	14	conj	_	_
 16	za	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 17	fil	_	DET	Q	_	16	det	_	_
 
@@ -669,10 +669,10 @@
 8	vas	_	SCONJ	C	_	10	mark	_	_
 9	%t%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 10	iz	_	VERB	VBF	VerbForm=Fin	6	acl:relcl	_	_
-11	gants	_	ADV	ADV	Degree=Pos	10	amod	_	_
-12	gidikht	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	gants	_	ADV	ADV	Degree=Pos	12	amod	_	_
+12	gidikht	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 13	mit	_	ADP	P	_	14	case	_	_
-14	inzlen	_	NOUN	N	_	11	amod	_	_
+14	inzlen	_	NOUN	N	_	12	amod	_	_
 15	grusi	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
 16	un	_	CCONJ	CONJ	_	17	cc	_	_
 17	kleyni	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
@@ -1513,9 +1513,9 @@
 2	ertr	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	_
 3	zeynen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	nakh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	zeyer	_	ADV	ADV	Degree=Pos	3	amod	_	_
+5	zeyer	_	ADV	ADV	Degree=Pos	7	amod	_	_
 6	veynig	_	DET	Q	_	5	det	_	_
-7	bekant	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+7	bekant	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.83
 # X_ID = 1818E-GEOGRAFIE,7.90
@@ -2531,8 +2531,8 @@
 9	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 10	220_mileyon	_	NUM	NUM	_	9	xcomp	_	_
 11	rubl	_	NOUN	N	_	10	conj	_	_
-12	ale	_	DET	Q	_	10	obl	_	_
-13	yar	_	NOUN	N	_	12	conj	_	_
+12	ale	_	DET	Q	_	13	det	_	_
+13	yar	_	NOUN	N	_	10	obl	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.164
 # X_ID = 1818E-GEOGRAFIE,11.175

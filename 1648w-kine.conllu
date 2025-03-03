@@ -231,8 +231,8 @@
 2	zi	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
 4	zeyn	_	VERB	VB	VerbForm=Inf	1	xcomp	_	_
-5	tsu	_	ADV	ADV	Degree=Pos	4	amod	_	_
-6	teyar	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	tsu	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	teyar	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 
 # sent_id = 1648W-KINE,.14
 # X_ID = 1648W-KINE,198.16
@@ -1831,14 +1831,14 @@
 # sent_id = 1648W-KINE,.125
 # X_ID = 1648W-KINE,204.33.160
 # text = un di brkhh el hskhith gar hukh gimkht
-1	un	_	CCONJ	CONJ	_	6	cc	_	_
-2	di	_	DET	D-ACC	Case=Acc|PronType=Art	6	nsubj	_	_
+1	un	_	CCONJ	CONJ	_	7	cc	_	_
+2	di	_	DET	D-ACC	Case=Acc|PronType=Art	7	nsubj	_	_
 3	brkhh	blessing	X	H	_	2	dep	_	_
 4	el	on	X	H	_	2	dep	_	_
 5	hskhith	the_slaughter	X	H	_	2	dep	_	_
-6	gar	_	ADV	ADV	Degree=Pos	0	root	_	_
-7	hukh	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
-8	gimkht	_	VERB	VBN	Tense=Past|VerbForm=Part	6	dep	_	_
+6	gar	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	hukh	_	ADJ	ADJ	Degree=Pos	0	root	_	_
+8	gimkht	_	VERB	VBN	Tense=Past|VerbForm=Part	7	dep	_	_
 
 # sent_id = 1648W-KINE,.126
 # X_ID = 1648W-KINE,204.33.161
@@ -2476,8 +2476,8 @@
 # sent_id = 1648W-KINE,.173
 # X_ID = 1648W-KINE,206.47.222
 # text = kmh snim zenn mir nun in bitrn glut
-1	kmh	a_few	X	H	_	3	dep	_	_
-2	snim	years	NOUN	N	_	1	conj	_	_
+1	kmh	a_few	X	H	_	2	dep	_	_
+2	snim	years	NOUN	N	_	3	obl	_	_
 3	zenn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	mir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 5	nun	_	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -2897,11 +2897,11 @@
 8	gibarn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
 10	zehn	_	VERB	VB	VerbForm=Inf	8	obl	_	_
-11	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	13	nsubj	_	_
+11	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	15	nsubj	_	_
 12	falk	_	NOUN	N	_	11	conj	_	_
-13	azu	_	ADV	ADV	Degree=Pos	10	ccomp	_	_
+13	azu	_	ADV	ADV	Degree=Pos	15	amod	_	_
 14	shentlikh	_	ADV	ADV	Degree=Pos	13	advmod	_	_
-15	far_larn	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+15	far_larn	_	ADJ	ADJ	Degree=Pos	10	ccomp	_	_
 
 # sent_id = 1648W-KINE,.207
 # X_ID = 1648W-KINE,207.56.265

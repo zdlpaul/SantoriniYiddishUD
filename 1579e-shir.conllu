@@ -376,12 +376,12 @@
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	deytsh	_	NOUN	N	_	2	obl	_	SpaceAfter=No
 4	...	_	PUNCT	PUNC	_	2	punct	_	_
-5	gar	_	ADV	ADV	Degree=Pos	2	xcomp	_	_
-6	groys	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-7	zeyn	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-8	deyni	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
+5	gar	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	groys	_	ADJ	ADJ	Degree=Pos	2	xcomp	_	_
+7	zeyn	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+8	deyni	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	nsubj	_	_
 9	verk	_	NOUN	N	_	8	conj	_	_
-10	du	_	PRON	PRO	_	5	vocative	_	_
+10	du	_	PRON	PRO	_	6	vocative	_	_
 11	gut	_	PROPN	NPR	_	10	dep	_	_
 
 # sent_id = 1579E-SHIR,.23
@@ -392,8 +392,8 @@
 3	zer	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	zeyn	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
 5	zi	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-6	%t%-1	_	X	ADVP	Degree=Pos	4	amod	_	_
-7	tif	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	%t%-1	_	X	ADVP	Degree=Pos	7	dep	_	_
+7	tif	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 8	deyni	_	PRON	PRO$	_	4	obl	_	_
 9	gidnkin	_	NOUN	N	_	8	conj	_	_
 
@@ -3125,8 +3125,8 @@
 # text = der vert nakh kestlikhr zeyn
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	nsubj	_	_
 2	vert	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
-3	nakh	_	ADV	ADV	Degree=Pos	5	amod	_	_
-4	kestlikhr	_	ADJ	ADJR	Degree=Pos	3	amod	_	_
+3	nakh	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	kestlikhr	_	ADJ	ADJR	Degree=Pos	5	amod	_	_
 5	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1579E-SHIR,.181
@@ -3678,8 +3678,8 @@
 3	itlikhr	_	DET	Q-NOM	Case=Nom	4	det	_	_
 4	trapfn	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	5	nsubj	_	_
 5	var	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-6	mekhtig	_	ADV	ADV	Degree=Pos	5	amod	_	_
-7	grus	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	mekhtig	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	grus	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 8	biz	_	SCONJ	C	_	13	mark	_	_
 9	di	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 10	khkhmim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	13	nsubj	_	_
@@ -4104,9 +4104,9 @@
 2	yukhnn	_	PROPN	NPR	_	1	flat:name	_	_
 3	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	nsubj	_	_
 4	zagt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-5	al	_	DET	Q	_	15	obl	_	_
-6	zeyn	_	PRON	PRO$	_	5	det:poss	_	_
-7	tag	_	NOUN	N	_	5	conj	_	_
+5	al	_	DET	Q	_	7	det	_	_
+6	zeyn	_	PRON	PRO$	_	7	det:poss	_	_
+7	tag	_	NOUN	N	_	15	obl	_	_
 8	ht	_	AUX	HVF	VerbForm=Fin	15	aux	_	_
 9	zikh	_	PRON	PRO-RFL	PronType=Reflex	15	expl:pv	_	_
 10	dr	_	DET	D-NOM	Case=Nom|PronType=Art	11	det	_	_
