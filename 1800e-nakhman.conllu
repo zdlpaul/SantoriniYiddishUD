@@ -182,8 +182,8 @@
 9	tsum	_	ADP	P-CL	_	10	case	_	_
 10	kval	_	NOUN	N	_	3	obl	_	_
 11	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-12	gur	_	ADV	ADV	Degree=Pos	11	amod	_	_
-13	vild	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
+12	gur	_	ADV	ADV	Degree=Pos	13	amod	_	_
+13	vild	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 
 # sent_id = 1800E-NAKHMAN,.14
 # X_ID = 1800E-NAKHMAN,173.16

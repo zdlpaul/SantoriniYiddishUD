@@ -2281,8 +2281,8 @@
 5	vos	_	SCONJ	C	_	7	mark	_	_
 6	du	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 7	bist	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
-8	epes	_	DET	Q	_	7	amod	_	_
-9	broyges	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	epes	_	DET	Q	_	9	amod	_	_
+9	broyges	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 10	un	_	CCONJ	CONJ	_	12	cc	_	_
 11	%con%	_	NOUN	NP-SBJ	_	12	nsubj	_	_
 12	fregst	_	VERB	VBF	VerbForm=Fin	7	conj	_	_
@@ -2664,10 +2664,10 @@
 6	bin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 7	efsher	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 8	bald	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-9	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
-10	shtark	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	azoy	_	ADV	ADV	Degree=Pos	10	amod	_	_
+10	shtark	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 11	vi	_	ADP	P	_	12	case	_	_
-12	hersh-ber	_	PROPN	NPR	_	9	amod	_	SpaceAfter=No
+12	hersh-ber	_	PROPN	NPR	_	10	amod	_	SpaceAfter=No
 13	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.198
@@ -2808,8 +2808,8 @@
 3	%t%-1	_	NOUN	NP-ADV	_	8	obl	_	_
 4	bist	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
 5	du	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
-6	azoy	_	ADV	ADV	Degree=Pos	8	amod	_	_
-7	royt	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	azoy	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	royt	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 8	gevorn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	8	punct	_	_
 
@@ -3081,18 +3081,18 @@
 # sent_id = 1910E-GRINE-FELDER,.227
 # X_ID = 1910E-GRINE-FELDER,69.235
 # text = tsine: sterele, narele, vos %t%-1 bist du azoy tseshrokn ?
-1	tsine:	_	PROPN	NPR	_	10	dep	_	_
-2	sterele	_	PROPN	NPR	_	10	vocative	_	SpaceAfter=No
-3	,	_	PUNCT	PUNC	_	10	punct	_	_
-4	narele	_	NOUN	N	_	10	vocative	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	10	punct	_	_
-6	vos	_	PRON	WPRO	_	10	obj	_	_
-7	%t%-1	_	NOUN	NP-ADV	_	10	obl	_	_
-8	bist	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
-9	du	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
-10	azoy	_	ADV	ADV	Degree=Pos	0	root	_	_
-11	tseshrokn	_	ADJ	ADJ	Degree=Pos	10	amod	_	SpaceAfter=No
-12	?	_	PUNCT	PUNC	_	10	punct	_	_
+1	tsine:	_	PROPN	NPR	_	11	dep	_	_
+2	sterele	_	PROPN	NPR	_	11	vocative	_	SpaceAfter=No
+3	,	_	PUNCT	PUNC	_	11	punct	_	_
+4	narele	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	11	punct	_	_
+6	vos	_	PRON	WPRO	_	11	obj	_	_
+7	%t%-1	_	NOUN	NP-ADV	_	11	obl	_	_
+8	bist	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
+9	du	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+10	azoy	_	ADV	ADV	Degree=Pos	11	amod	_	_
+11	tseshrokn	_	ADJ	ADJ	Degree=Pos	0	root	_	SpaceAfter=No
+12	?	_	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.228
 # X_ID = 1910E-GRINE-FELDER,69.236
@@ -3284,8 +3284,8 @@
 5	mit	_	ADP	P	_	6	case	_	_
 6	dir	_	PRON	PRO	_	7	obl	_	_
 7	zayn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-8	%ich%-1	_	ADP	PP	_	7	amod	_	_
-9	broyges	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	%ich%-1	_	ADP	PP	_	9	amod	_	_
+9	broyges	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 10	oyf	_	ADP	P	_	11	case	_	_
 11	shtendik	_	ADV	ADV	Degree=Pos	7	obl	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	11	punct	_	_
@@ -3364,8 +3364,8 @@
 2	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
 3	%exp%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
 4	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	azoy	_	ADV	ADV	Degree=Pos	4	amod	_	_
-6	gut	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	gut	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	ven	_	SCONJ	C	_	9	mark	_	_
 8	keyner	_	DET	Q-NOM	Case=Nom	9	nsubj	_	_
 9	veyst	_	VERB	VBF	VerbForm=Fin	4	advcl	_	_
@@ -4108,8 +4108,8 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	zet	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	oys	_	ADP	RP	_	3	compound:prt	_	_
-5	azoy	_	ADV	ADV	Degree=Pos	3	amod	_	_
-6	modne	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+5	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	modne	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.302
@@ -4966,8 +4966,8 @@
 7	oyf	_	ADP	P	_	8	case	_	_
 8	shtendik	_	ADV	ADV	Degree=Pos	5	obl	_	_
 9	mit	_	ADP	P	_	10	case	_	_
-10	dir	_	PRON	PRO	_	5	amod	_	_
-11	broyges	_	ADJ	ADJ	Degree=Pos	10	amod	_	SpaceAfter=No
+10	dir	_	PRON	PRO	_	11	amod	_	_
+11	broyges	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
 12	.	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.370
@@ -7556,8 +7556,8 @@
 # text = 's i' epes shver ?
 1	's	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	i'	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	epes	_	DET	Q	_	2	amod	_	_
-4	shver	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
+3	epes	_	DET	Q	_	4	amod	_	_
+4	shver	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
 5	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.564
@@ -7648,8 +7648,8 @@
 15	dort	_	ADV	ADV	Degree=Pos	16	advmod	_	_
 16	iz	_	VERB	VBF	VerbForm=Fin	10	advcl	_	_
 17	%exp%	_	NOUN	NP-SBJ	_	16	nsubj	_	_
-18	azoy	_	ADV	ADV	Degree=Pos	16	amod	_	_
-19	gut	_	ADJ	ADJ	Degree=Pos	18	amod	_	SpaceAfter=No
+18	azoy	_	ADV	ADV	Degree=Pos	19	amod	_	_
+19	gut	_	ADJ	ADJ	Degree=Pos	16	amod	_	SpaceAfter=No
 20	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.571
@@ -7774,8 +7774,8 @@
 # text = 's i' zeyer gut, vos a got iz faranen oyf der velt .
 1	's	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	xcomp	_	_
 2	i'	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	zeyer	_	ADV	ADV	Degree=Pos	2	amod	_	_
-4	gut	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
+3	zeyer	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	gut	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	2	punct	_	_
 6	vos	_	SCONJ	C	_	1	mark	_	_
 7	a	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
@@ -8204,8 +8204,8 @@
 11	velt	_	NOUN	N-D	Definite=Def	12	obl	_	_
 12	iz	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 13	%exp%	_	NOUN	NP-SBJ	_	12	nsubj	_	_
-14	epes	_	DET	Q	_	12	amod	_	_
-15	modne	_	ADJ	ADJ	Degree=Pos	14	amod	_	SpaceAfter=No
+14	epes	_	DET	Q	_	15	amod	_	_
+15	modne	_	ADJ	ADJ	Degree=Pos	12	amod	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	12	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.611
@@ -8556,11 +8556,11 @@
 2	yid	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	4	nsubj	_	_
 3	badarf	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
 4	zayn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-5	azoy	_	ADV	ADV	Degree=Pos	4	amod	_	_
-6	shtark	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	shtark	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	vi	_	ADP	P	_	9	case	_	_
 8	a	_	DET	D	PronType=Art	9	det	_	_
-9	goy	_	NOUN	N-I	Definite=Ind	5	amod	_	SpaceAfter=No
+9	goy	_	NOUN	N-I	Definite=Ind	6	amod	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.634
@@ -8590,8 +8590,8 @@
 # text = 's iz tsu lang,
 1	's	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	tsu	_	ADV	ADV	Degree=Pos	2	amod	_	_
-4	lang	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
+3	tsu	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	lang	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.636
@@ -8694,9 +8694,9 @@
 11	az	_	SCONJ	C	_	13	mark	_	_
 12	ikh	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 13	bin	_	VERB	VBF	VerbForm=Fin	8	ccomp	_	_
-14	tsu	_	ADV	ADV	Degree=Pos	13	amod	_	_
+14	tsu	_	ADV	ADV	Degree=Pos	16	amod	_	_
 15	fil	_	DET	Q	_	14	det	_	_
-16	tselozn	_	ADJ	ADJ	Degree=Pos	14	amod	_	SpaceAfter=No
+16	tselozn	_	ADJ	ADJ	Degree=Pos	13	amod	_	SpaceAfter=No
 17	.	_	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.643
@@ -9088,8 +9088,8 @@
 # text = 's iz zeyer sheyn, az men hot zikh lib ...
 1	's	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	zeyer	_	ADV	ADV	Degree=Pos	2	amod	_	_
-4	sheyn	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
+3	zeyer	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	sheyn	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	2	punct	_	_
 6	az	_	SCONJ	C	_	8	mark	_	_
 7	men	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
@@ -9558,8 +9558,8 @@
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	mayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
 5	nomen	_	NOUN	N	_	4	conj	_	_
-6	azoy	_	ADV	ADV	Degree=Pos	3	amod	_	_
-7	lang	_	ADJ	ADJ	Degree=Pos	6	amod	_	SpaceAfter=No
+6	azoy	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	lang	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
 8	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.709
@@ -10838,8 +10838,8 @@
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	%exp%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
 4	do	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-5	tsu	_	ADV	ADV	Degree=Pos	2	amod	_	_
-6	gut	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+5	tsu	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	gut	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.811
@@ -12164,8 +12164,8 @@
 # text = ikh ken gantsene nekht mit an oyg nisht tsumakhn, zint du host mir dertseylt .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 2	ken	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
-3	gantsene	_	ADJ	ADJ	Degree=Pos	9	obl	_	_
-4	nekht	_	NOUN	N	_	3	conj	_	_
+3	gantsene	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	nekht	_	NOUN	N	_	9	obl	_	_
 5	mit	_	ADP	P	_	7	case	_	_
 6	an	_	DET	D	PronType=Art	7	det	_	_
 7	oyg	_	NOUN	N-I	Definite=Ind	9	obl	_	_
@@ -13382,11 +13382,11 @@
 3	efsher	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	nokh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 5	a	_	DET	D	PronType=Art	6	det	_	_
-6	mol	_	NOUN	N-I	Definite=Ind	2	amod	_	_
-7	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
-8	shtark	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	mol	_	NOUN	N-I	Definite=Ind	8	obl	_	_
+7	azoy	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	shtark	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 9	vi	_	ADP	P	_	10	case	_	_
-10	ikh	_	PRON	PRO	_	6	amod	_	SpaceAfter=No
+10	ikh	_	PRON	PRO	_	8	amod	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.999
@@ -13406,11 +13406,11 @@
 3	efsher	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	nokh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 5	a	_	DET	D	PronType=Art	6	det	_	_
-6	mol	_	NOUN	N-I	Definite=Ind	2	amod	_	_
-7	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
-8	grob	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	mol	_	NOUN	N-I	Definite=Ind	8	obl	_	_
+7	azoy	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	grob	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 9	vi	_	ADP	P	_	10	case	_	_
-10	mayne	_	PRON	PRO$	_	6	amod	_	SpaceAfter=No
+10	mayne	_	PRON	PRO$	_	8	amod	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1001
@@ -21306,8 +21306,8 @@
 4	me	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 5	vert	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	a	_	DET	D	PronType=Art	7	det	_	_
-7	bisl	_	NOUN	N-I	Definite=Ind	5	amod	_	_
-8	fargrebt	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	bisl	_	NOUN	N-I	Definite=Ind	8	obl	_	_
+8	fargrebt	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 9	oyfn	_	ADP	P-CL	_	10	case	_	_
 10	yishev	_	NOUN	N	_	5	obl	_	SpaceAfter=No
 11	;	_	PUNCT	PUNC	_	5	punct	_	_

@@ -1690,12 +1690,12 @@
 5	"	_	PUNCT	PUNC	_	6	punct	_	_
 6	vortshtelung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
 7	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-8	gants	_	ADV	ADV	Degree=Pos	7	amod	_	_
+8	gants	_	ADV	ADV	Degree=Pos	10	amod	_	_
 9	gut	_	ADV	ADV	Degree=Pos	8	advmod	_	_
-10	bekant	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+10	bekant	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 11	in	_	ADP	P	_	13	case	_	SpaceAfter=No
 12	"	_	PUNCT	PUNC	_	13	punct	_	_
-13	daytsh	_	NOUN	N	_	8	amod	_	SpaceAfter=No
+13	daytsh	_	NOUN	N	_	10	amod	_	SpaceAfter=No
 14	"	_	PUNCT	PUNC	_	7	punct	_	_
 15	paralel	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 16	mit	_	ADP	P	_	20	case	_	_
@@ -1897,17 +1897,17 @@
 29	vos	_	SCONJ	C	_	31	mark	_	_
 30	%t%-2	_	NOUN	NP-SBJ	_	31	nsubj	_	_
 31	iz	_	VERB	VBF	VerbForm=Fin	14	acl:relcl	_	_
-32	azoy	_	ADV	ADV	Degree=Pos	31	amod	_	_
-33	ongestekt	_	ADJ	ADJ	Degree=Pos	32	amod	_	_
+32	azoy	_	ADV	ADV	Degree=Pos	33	amod	_	_
+33	ongestekt	_	ADJ	ADJ	Degree=Pos	31	amod	_	_
 34	mit	_	ADP	P	_	35	case	_	_
-35	hebreish	_	NOUN	N	_	32	amod	_	SpaceAfter=No
-36	,	_	PUNCT	PUNC	_	32	punct	_	_
+35	hebreish	_	NOUN	N	_	33	amod	_	SpaceAfter=No
+36	,	_	PUNCT	PUNC	_	33	punct	_	_
 37	az	_	SCONJ	C	_	42	mark	_	_
 38	uf	_	ADP	P	_	39	case	_	_
 39	trit	_	NOUN	N	_	42	obl	_	_
 40	un	_	CCONJ	CONJ	_	41	cc	_	_
 41	shrit	_	NOUN	N	_	39	conj	_	_
-42	flekht	_	VERB	VBF	VerbForm=Fin	32	amod	_	_
+42	flekht	_	VERB	VBF	VerbForm=Fin	33	amod	_	_
 43	zi	_	PRON	PRO-NOM	Case=Nom	42	nsubj	_	_
 44	arayn	_	ADV	ADV	Degree=Pos	42	advmod	_	_
 45	in	_	ADP	P	_	47	case	_	_
@@ -2310,11 +2310,11 @@
 2	toplung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	ober	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	gut	_	ADV	ADV	Degree=Pos	3	amod	_	_
-6	bakant	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	gut	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	bakant	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 7	in	_	ADP	P	_	9	case	_	_
 8	daytshishe	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-9	tekstn	_	NOUN	N	_	5	amod	_	_
+9	tekstn	_	NOUN	N	_	6	amod	_	_
 10	oykh	_	ADV	ADV	Degree=Pos	9	advmod	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	9	punct	_	_
 12	bifrat	_	ADV	ADV	Degree=Pos	14	advmod	_	_
@@ -2608,10 +2608,10 @@
 # X_ID = 1932E-SHTIF,58.121
 # text = ober nokh neenter un ibertsaygndiker, iz, ashtayger, di ukraynishe
 1	ober	_	CCONJ	CONJ	_	7	cc	_	_
-2	nokh	_	ADV	ADV	Degree=Pos	7	amod	_	_
-3	neenter	_	ADJ	ADJR	Degree=Pos	2	amod	_	_
+2	nokh	_	ADV	ADV	Degree=Pos	3	amod	_	_
+3	neenter	_	ADJ	ADJR	Degree=Pos	7	amod	_	_
 4	un	_	CCONJ	CONJ	_	5	cc	_	_
-5	ibertsaygndiker	_	ADJ	ADJR	Degree=Pos	2	amod	_	SpaceAfter=No
+5	ibertsaygndiker	_	ADJ	ADJR	Degree=Pos	3	amod	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	7	punct	_	_
 7	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	7	punct	_	_

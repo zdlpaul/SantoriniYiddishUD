@@ -238,8 +238,8 @@
 10	ir	_	PRON	PRO	_	9	dep	_	_
 11	andrs	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 12	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	9	advmod	_	_
-13	tsu	_	ADV	ADV	Degree=Pos	9	amod	_	_
-14	kurts	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+13	tsu	_	ADV	ADV	Degree=Pos	14	amod	_	_
+14	kurts	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 15	ds	_	DET	D-NOM	Case=Nom|PronType=Art	16	det	_	_
 16	tsil	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	9	nsubj	_	_
 
@@ -269,10 +269,10 @@
 1	un'	_	CCONJ	CONJ	_	3	cc	_	_
 2	ds	_	DET	D	PronType=Art	3	xcomp	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	verlikh	_	ADV	ADV	Degree=Pos	3	amod	_	_
+4	verlikh	_	ADV	ADV	Degree=Pos	7	amod	_	_
 5	un'	_	CCONJ	CONJ	_	6	cc	_	_
 6	gut	_	ADV	ADV	Degree=Pos	4	conj	_	_
-7	var	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+7	var	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 8	ds	_	SCONJ	C	_	2	mark	_	_
 9	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	10	expl	_	_
 10	iz	_	VERB	VBF	VerbForm=Fin	2	conj	_	_
@@ -696,8 +696,8 @@
 15	vaurt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	%exp%	_	NOUN	NP-SBJ	_	15	nsubj	_	_
 17	im	_	PRON	PRO-DTV	Case=Dat	15	iobj	_	_
-18	nurt	_	PART	FP	Degree=Pos	15	amod	_	_
-19	kiltr	_	ADJ	ADJR	Degree=Pos	18	amod	_	_
+18	nurt	_	PART	FP	Degree=Pos	19	amod	_	_
+19	kiltr	_	ADJ	ADJR	Degree=Pos	15	amod	_	_
 
 # sent_id = 1507W-BOVO,.43
 # X_ID = 1507W-BOVO,5.51
@@ -1417,9 +1417,9 @@
 # X_ID = 1507W-BOVO,13.113
 # text = oyf busheyt gr gisheyd er vard
 1	oyf	_	ADP	P	_	2	case	_	_
-2	busheyt	_	NOUN	N	_	6	amod	_	_
-3	gr	_	ADV	ADV	Degree=Pos	2	amod	_	_
-4	gisheyd	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	busheyt	_	NOUN	N	_	4	amod	_	_
+3	gr	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	gisheyd	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 5	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	vard	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 
@@ -2314,9 +2314,9 @@
 9	da	_	ADV	ADV	Degree=Pos	10	advmod	_	_
 10	bigund	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 11	zi	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
-12	zikh	_	PRON	PRO-ACC	Case=Acc	13	nsubj	_	_
-13	gr	_	ADV	ADV	Degree=Pos	16	ccomp	_	_
-14	krnk	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+12	zikh	_	PRON	PRO-ACC	Case=Acc	14	nsubj	_	_
+13	gr	_	ADV	ADV	Degree=Pos	14	amod	_	_
+14	krnk	_	ADJ	ADJ	Degree=Pos	16	ccomp	_	_
 15	tsu	_	PART	TO	_	16	mark	_	_
 16	makhn	_	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 
@@ -2377,8 +2377,8 @@
 5	dis	_	DET	D	PronType=Art	6	obl	_	_
 6	bin	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 7	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-8	%ich%-1	_	NOUN	NP	_	6	amod	_	_
-9	eygn	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	%ich%-1	_	NOUN	NP	_	9	obl	_	_
+9	eygn	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 
 # sent_id = 1507W-BOVO,.173
 # X_ID = 1507W-BOVO,24.200
@@ -3524,8 +3524,8 @@
 14	di	_	PRON	WPRO	_	20	obj	_	_
 15	%t%-2	_	NOUN	NP-SBJ	_	20	nsubj	_	_
 16	stets	_	ADV	ADV	Degree=Pos	20	advmod	_	_
-17	gvidun	_	PROPN	NPR-DTV	_	20	amod	_	_
-18	gitrueya	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+17	gvidun	_	PROPN	NPR-DTV	_	18	dep	_	_
+18	gitrueya	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
 19	varn	_	AUX	BEF	VerbForm=Fin	20	cop	_	_
 20	givezn	_	VERB	VBN	Tense=Past|VerbForm=Part	13	acl:relcl	_	_
 
@@ -4431,8 +4431,8 @@
 5	pferd	_	NOUN	N-I	Definite=Ind	2	obl	_	_
 6	ds	_	DET	D-NOM	Case=Nom|PronType=Art	5	dep	_	_
 7	var	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-8	gr	_	ADV	ADV	Degree=Pos	6	amod	_	_
-9	hukh	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	gr	_	ADV	ADV	Degree=Pos	9	amod	_	_
+9	hukh	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 
 # sent_id = 1507W-BOVO,.320
 # X_ID = 1507W-BOVO,50.373
@@ -4735,8 +4735,8 @@
 2	vern	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
 3	givezn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	zunst	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	gants	_	ADV	ADV	Degree=Pos	3	amod	_	_
-6	vr_lurn	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	gants	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	vr_lurn	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
 
 # sent_id = 1507W-BOVO,.345
 # X_ID = 1507W-BOVO,54.402
@@ -4936,8 +4936,8 @@
 2	vert	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	krig	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	nsubj	_	_
-5	menkhi	_	DET	Q	_	2	obl	_	_
-6	tgn	_	NOUN	N	_	5	conj	_	_
+5	menkhi	_	DET	Q	_	6	det	_	_
+6	tgn	_	NOUN	N	_	2	obl	_	_
 7	az	_	SCONJ	C	_	14	mark	_	_
 8	%t%-1	_	ADV	ADVP	Degree=Pos	14	advmod	_	_
 9	ir	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
@@ -5618,12 +5618,12 @@
 3	shrey	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	gr	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 5	loyt	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-6	drey	_	NUM	NUM	_	11	obl	_	_
+6	drey	_	NUM	NUM	_	3	obl	_	_
 7	tg	_	NOUN	N	_	6	conj	_	_
 8	un'	_	CCONJ	CONJ	_	9	cc	_	_
-9	drey	_	NUM	NUM	_	11	conj	_	_
+9	drey	_	NUM	NUM	_	6	conj	_	_
 10	nkht	_	NOUN	N	_	9	conj	_	_
-11	gr	_	ADV	ADV	Degree=Pos	3	obl	_	_
+11	gr	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 12	ebn	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 
 # sent_id = 1507W-BOVO,.409
@@ -6252,9 +6252,9 @@
 6	tsu_mul	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 8	kent	_	VERB	VBF	VerbForm=Fin	2	acl:relcl	_	_
-9	azu	_	ADV	ADV	Degree=Pos	14	amod	_	_
-10	gr	_	ADV	ADV	Degree=Pos	9	amod	_	_
-11	yemrklikh	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	azu	_	ADV	ADV	Degree=Pos	11	amod	_	_
+10	gr	_	ADV	ADV	Degree=Pos	11	amod	_	_
+11	yemrklikh	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
 12	var	_	AUX	BEF	VerbForm=Fin	14	cop	_	_
 13	er	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 14	givarn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -8176,12 +8176,12 @@
 4	an	_	ADP	RP	_	3	compound:prt	_	_
 5	tsu	_	PART	TO	_	6	mark	_	_
 6	yehn	_	VERB	VB	VerbForm=Inf	3	xcomp	_	_
-7	keyn	_	DET	Q	_	6	dep	_	_
-8	pfenig	_	NOUN	N	_	7	conj	_	_
-9	minr	_	DET	QR	_	7	det	_	_
+7	keyn	_	DET	Q	_	8	det	_	_
+8	pfenig	_	NOUN	N	_	6	dep	_	_
+9	minr	_	DET	QR	_	8	det	_	_
 10	ven	_	ADP	P	_	12	case	_	_
 11	hundrt	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-12	dukutn	_	NOUN	N	_	7	obl	_	_
+12	dukutn	_	NOUN	N	_	8	obl	_	_
 
 # sent_id = 1507W-BOVO,.601
 # X_ID = 1507W-BOVO,95.699
@@ -8554,8 +8554,8 @@
 # sent_id = 1507W-BOVO,.629
 # X_ID = 1507W-BOVO,100.732
 # text = eynr iln hukh makht er %ich%-1 es oyf springn vun der erd
-1	eynr	_	DET	D	PronType=Art	3	obl	_	_
-2	iln	_	NOUN	N	_	1	conj	_	_
+1	eynr	_	DET	D	PronType=Art	2	det	_	_
+2	iln	_	NOUN	N	_	3	obl	_	_
 3	hukh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	makht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_

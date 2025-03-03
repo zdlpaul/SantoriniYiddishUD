@@ -99,9 +99,9 @@
 # X_ID = 1692E-VILNA,211.10
 # text = un tsvey mol tsvey_un_tsvntsig iz fir_un_firtsig iz m"d
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
-2	tsvey	_	NUM	NUM-NOM	Case=Nom	3	nummod	_	_
-3	mol	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
-4	tsvey_un_tsvntsig	_	NUM	NUM	_	3	nummod	_	_
+2	tsvey	_	NUM	NUM-NOM	Case=Nom	5	nsubj	_	_
+3	mol	_	NOUN	N-NOM	Case=Nom	2	conj	_	_
+4	tsvey_un_tsvntsig	_	NUM	NUM	_	2	nummod	_	_
 5	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	fir_un_firtsig	_	NUM	NUM-NOM	Case=Nom	5	xcomp	_	_
 7	iz	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
@@ -403,11 +403,11 @@
 2	var	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	elilh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	nsubj	_	_
-5	nokh	_	ADV	ADV	Degree=Pos	2	amod	_	_
-6	eyn_zu	_	ADV	ADV	Degree=Pos	5	amod	_	_
-7	hrb	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	nokh	_	ADV	ADV	Degree=Pos	7	amod	_	_
+6	eyn_zu	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	hrb	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 8	un	_	CCONJ	CONJ	_	9	cc	_	_
-9	shver	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+9	shver	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 
 # sent_id = 1692E-VILNA,.28
 # X_ID = 1692E-VILNA,212.32
@@ -929,10 +929,10 @@
 7	enk	_	PRON	PRO	_	5	obl	_	_
 8	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	unts	_	PRON	PRO-DTV	Case=Dat	8	iobj	_	_
-10	nor	_	PART	FP	Degree=Pos	8	amod	_	_
-11	bng	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+10	nor	_	PART	FP	Degree=Pos	11	amod	_	_
+11	bng	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 12	un	_	CCONJ	CONJ	_	13	cc	_	_
-13	eng	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+13	eng	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 
 # sent_id = 1692E-VILNA,.60
 # X_ID = 1692E-VILNA,214.66
@@ -1581,8 +1581,8 @@
 5	vers@	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
 6	@tu	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 7	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-8	%ich%-1	_	ADP	PP	_	7	amod	_	_
-9	gleykh	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	%ich%-1	_	ADP	PP	_	9	amod	_	_
+9	gleykh	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 
 # sent_id = 1692E-VILNA,.99
 # X_ID = 1692E-VILNA,216.107

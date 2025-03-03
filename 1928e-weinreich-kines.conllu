@@ -320,9 +320,9 @@
 8	az	_	SCONJ	C	_	10	mark	_	_
 9	zey	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 10	zeynen	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
-11	kmet	_	ADV	ADV	Degree=Pos	10	amod	_	_
+11	kmet	_	ADV	ADV	Degree=Pos	13	amod	_	_
 12	vi	_	ADP	P	_	11	case	_	_
-13	identish	_	ADJ	ADJ	Degree=Pos	11	amod	_	SpaceAfter=No
+13	identish	_	ADJ	ADJ	Degree=Pos	10	amod	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1928E-WEINREICH-KINES,.17
@@ -581,10 +581,10 @@
 4	shilderung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 6	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-7	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
-8	frtimdik	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	azoy	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	frtimdik	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 9	un	_	CCONJ	CONJ	_	10	cc	_	_
-10	lebedik	_	ADJ	ADJ	Degree=Pos	7	amod	_	SpaceAfter=No
+10	lebedik	_	ADJ	ADJ	Degree=Pos	8	amod	_	SpaceAfter=No
 11	;	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1928E-WEINREICH-KINES,.27
@@ -1012,8 +1012,8 @@
 13	shvedn	_	NOUN	N-NOM	Case=Nom	9	dep	_	_
 14	zolt	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 15	vern	_	VERB	VB	VerbForm=Inf	13	dep	_	_
-16	tsu	_	ADV	ADV	Degree=Pos	13	amod	_	_
-17	shtark	_	ADJ	ADJ	Degree=Pos	16	amod	_	SpaceAfter=No
+16	tsu	_	ADV	ADV	Degree=Pos	17	amod	_	_
+17	shtark	_	ADJ	ADJ	Degree=Pos	13	amod	_	SpaceAfter=No
 18	,	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1928E-WEINREICH-KINES,.45

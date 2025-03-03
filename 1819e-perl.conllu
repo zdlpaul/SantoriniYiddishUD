@@ -59,8 +59,8 @@
 3	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
 4	bey	_	ADP	P	_	5	case	_	_
 5	im	_	PRON	PRO	_	8	obl	_	_
-6	zeyer	_	ADV	ADV	Degree=Pos	8	amod	_	_
-7	khsub	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	zeyer	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	khsub	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 8	given	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1819E-PERL,.6
@@ -109,8 +109,8 @@
 2	%con%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 3	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 4	oyf	_	ADP	P	_	5	case	_	_
-5	ir	_	PRON	PRO	_	7	amod	_	_
-6	brugz	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	ir	_	PRON	PRO	_	6	amod	_	_
+6	brugz	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	givarin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1819E-PERL,.10
@@ -400,8 +400,8 @@
 3	shlas	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 5	given	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	zeyer	_	ADV	ADV	Degree=Pos	5	amod	_	_
-7	sheyn	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	zeyer	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	sheyn	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 
 # sent_id = 1819E-PERL,.29
 # X_ID = 1819E-PERL,102.31
@@ -914,9 +914,9 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	zukht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	zi	_	PRON	PRO-ACC	Case=Acc	3	obj	_	_
-5	kmh	a_few	X	H	_	3	obl	_	_
-6	ukmh	and_a_few	X	H	_	5	dep	_	_
-7	snim	_	NOUN	N	_	5	conj	_	_
+5	kmh	a_few	X	H	_	7	dep	_	_
+6	ukmh	and_a_few	X	H	_	7	dep	_	_
+7	snim	_	NOUN	N	_	3	obl	_	_
 
 # sent_id = 1819E-PERL,.70
 # X_ID = 1819E-PERL,103.72
@@ -1425,8 +1425,8 @@
 3	zikh	_	PRON	PRO-RFL	PronType=Reflex	2	expl:pv	_	_
 4	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	itsr_hre	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	nsubj	_	_
-6	zeyer	_	ADV	ADV	Degree=Pos	2	amod	_	_
-7	mtgbr	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	zeyer	_	ADV	ADV	Degree=Pos	7	amod	_	_
+7	mtgbr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 
 # sent_id = 1819E-PERL,.109
 # X_ID = 1819E-PERL,104.111
@@ -1650,9 +1650,9 @@
 2	%con%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
 3	hat	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 4	gishlafin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	kmh	a_few	X	H	_	4	obl	_	_
-6	snim	years	X	H	_	5	dep	_	_
-7	zibitsig	_	NUM	NUM	_	5	appos	_	_
+5	kmh	a_few	X	H	_	7	dep	_	_
+6	snim	years	X	H	_	7	dep	_	_
+7	zibitsig	_	NUM	NUM	_	4	obl	_	_
 8	yor	_	NOUN	N	_	7	conj	_	_
 
 # sent_id = 1819E-PERL,.130
@@ -2304,8 +2304,8 @@
 12	%t%-1	_	ADP	PP	_	11	obl	_	_
 13	iz	_	AUX	BEF	VerbForm=Fin	14	cop	_	_
 14	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	_
-15	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	14	amod	_	_
-16	mentshlikh	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
+15	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	16	amod	_	_
+16	mentshlikh	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
 
 # sent_id = 1819E-PERL,.176
 # X_ID = 1819E-PERL,106.179

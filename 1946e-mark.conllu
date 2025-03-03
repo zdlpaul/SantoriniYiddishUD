@@ -182,8 +182,8 @@
 10	in	_	ADP	P	_	12	case	_	_
 11	dem	_	DET	D	PronType=Art	12	det	_	_
 12	loshn	_	NOUN	N-D	Definite=Def	8	obl	_	_
-13	alts	_	DET	Q	_	15	amod	_	_
-14	vikhtiker	_	ADJ	ADJR	Degree=Pos	13	amod	_	_
+13	alts	_	DET	Q	_	14	amod	_	_
+14	vikhtiker	_	ADJ	ADJR	Degree=Pos	15	amod	_	_
 15	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	der	_	DET	D-NOM	Case=Nom|PronType=Art	17	det	_	_
 17	verter-seyder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	15	nsubj	_	_
@@ -1630,11 +1630,11 @@
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	kll	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
 4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-5	azoy	_	ADV	ADV	Degree=Pos	4	amod	_	_
-6	eikrdik	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	eikrdik	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	az	_	SCONJ	C	_	9	mark	_	_
 8	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-9	iz	_	VERB	VBF	VerbForm=Fin	5	amod	_	_
+9	iz	_	VERB	VBF	VerbForm=Fin	6	amod	_	_
 10	oykh	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 11	khl	_	NOUN	N	_	9	xcomp	_	_
 12	oyf	_	ADP	P	_	14	case	_	_
@@ -1716,8 +1716,8 @@
 11	kll	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	13	nsubj	_	_
 12	zol	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 13	vern	_	VERB	VB	VerbForm=Inf	2	advcl	_	_
-14	in_gantsn	_	ADV	ADV	Degree=Pos	13	amod	_	_
-15	klor	_	ADJ	ADJ	Degree=Pos	14	amod	_	SpaceAfter=No
+14	in_gantsn	_	ADV	ADV	Degree=Pos	15	amod	_	_
+15	klor	_	ADJ	ADJ	Degree=Pos	13	amod	_	SpaceAfter=No
 16	:	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1946E-MARK,.80
@@ -3754,8 +3754,8 @@
 14	.	_	PUNCT	PUNC	_	15	punct	_	_
 15	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	a	_	DET	D	PronType=Art	17	det	_	_
-17	bisl	_	NOUN	N-I	Definite=Ind	15	amod	_	_
-18	hamesne	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+17	bisl	_	NOUN	N-I	Definite=Ind	18	obl	_	_
+18	hamesne	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
 19	di	_	DET	D-NOM	Case=Nom|PronType=Art	20	det	_	_
 20	farbindung	_	NOUN	N-NOM	Case=Nom	15	nsubj	_	SpaceAfter=No
 21	:	_	PUNCT	PUNC	_	20	punct	_	_
@@ -4542,8 +4542,8 @@
 4	verb	_	NOUN	N	_	2	obl	_	_
 5	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	im	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
-7	zeyer	_	ADV	ADV	Degree=Pos	5	amod	_	_
-8	vikhtik	_	ADJ	ADJ	Degree=Pos	7	amod	_	SpaceAfter=No
+7	zeyer	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	vikhtik	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1946E-MARK,.236
@@ -4829,9 +4829,9 @@
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	makht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	zikh	_	PRON	PRO-ACC	Case=Acc	5	nsubj	_	_
-5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	ccomp	_	_
-6	visndik	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+4	zikh	_	PRON	PRO-ACC	Case=Acc	6	nsubj	_	_
+5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	amod	_	_
+6	visndik	_	ADJ	ADJ	Degree=Pos	3	ccomp	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1946E-MARK,.253
@@ -4974,8 +4974,8 @@
 11	moment	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	12	nsubj	_	_
 12	iz	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
 13	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
-14	genug	_	DET	Q	_	12	amod	_	_
-15	vikhtik	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
+14	genug	_	DET	Q	_	15	amod	_	_
+15	vikhtik	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
 
 # sent_id = 1946E-MARK,.258
 # X_ID = 1946E-MARK,9.264
@@ -5235,11 +5235,11 @@
 2	eliptishe	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	amod	_	_
 3	konstruktsie	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
 4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-5	bazunder	_	ADV	ADV	Degree=Pos	4	amod	_	_
-6	kharakteristish	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	bazunder	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	kharakteristish	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	far	_	ADP	P	_	9	case	_	_
 8	dem	_	DET	D	PronType=Art	9	det	_	_
-9	tnay-zats	_	NOUN	N-D	Definite=Def	5	amod	_	_
+9	tnay-zats	_	NOUN	N-D	Definite=Def	6	amod	_	_
 10	un	_	CCONJ	CONJ	_	11	cc	_	_
 11	oykh	_	ADV	ADV	Degree=Pos	9	conj	_	_
 12	far	_	ADP	P	_	14	case	_	_
@@ -5497,8 +5497,8 @@
 18	ort	_	NOUN	N	_	15	obl	_	_
 19	vert	_	VERB	VBF	VerbForm=Fin	7	ccomp	_	_
 20	epes	_	DET	Q-NOM	Case=Nom	19	nsubj	_	_
-21	vos	_	DET	Q	_	19	amod	_	_
-22	shtarker	_	ADJ	ADJR	Degree=Pos	21	amod	_	_
+21	vos	_	DET	Q	_	22	amod	_	_
+22	shtarker	_	ADJ	ADJR	Degree=Pos	19	amod	_	_
 23	in	_	ADP	P	_	25	case	_	_
 24	der	_	DET	D	PronType=Art	25	det	_	_
 25	frage	_	NOUN	N-D	Definite=Def	19	obl	_	_
@@ -5664,8 +5664,8 @@
 10	dos	_	DET	D-NOM	Case=Nom|PronType=Art	12	nsubj	_	_
 11	vet	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 12	zeyn	_	VERB	VB	VerbForm=Inf	4	parataxis	_	_
-13	a_sakh	_	DET	Q	_	12	amod	_	_
-14	posheter	_	ADJ	ADJR	Degree=Pos	13	amod	_	SpaceAfter=No
+13	a_sakh	_	DET	Q	_	14	amod	_	_
+14	posheter	_	ADJ	ADJR	Degree=Pos	12	amod	_	SpaceAfter=No
 15	,	_	PUNCT	PUNC	_	4	punct	_	_
 16	vi	_	ADP	P	_	17	case	_	_
 17	normal	_	ADV	ADV	Degree=Pos	4	obl	_	_
@@ -5921,10 +5921,10 @@
 # text = dos iz bazunder kharakteristish far zatsn mit a vuntsh vos es iz ummiglekh az er zol mkuim vern,
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	bazunder	_	ADV	ADV	Degree=Pos	2	amod	_	_
-4	kharakteristish	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	bazunder	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	kharakteristish	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 5	far	_	ADP	P	_	6	case	_	_
-6	zatsn	_	NOUN	N	_	3	amod	_	_
+6	zatsn	_	NOUN	N	_	4	amod	_	_
 7	mit	_	ADP	P	_	9	case	_	_
 8	a	_	DET	D	PronType=Art	9	det	_	_
 9	vuntsh	_	NOUN	N-I	Definite=Ind	6	obl	_	_
@@ -6708,8 +6708,8 @@
 # text = dos iz nor miglekh in gevise faln
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	nor	_	PART	FP	Degree=Pos	2	amod	_	_
-4	miglekh	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	nor	_	PART	FP	Degree=Pos	4	amod	_	_
+4	miglekh	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 5	in	_	ADP	P	_	7	case	_	_
 6	gevise	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	faln	_	NOUN	N	_	2	obl	_	_
@@ -7488,8 +7488,8 @@
 8	vos	_	SCONJ	C	_	10	mark	_	_
 9	%t%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 10	iz	_	VERB	VBF	VerbForm=Fin	7	acl:relcl	_	_
-11	bazunder	_	ADV	ADV	Degree=Pos	10	amod	_	_
-12	vikhtik	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	bazunder	_	ADV	ADV	Degree=Pos	12	amod	_	_
+12	vikhtik	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 13	far	_	ADP	P	_	15	case	_	_
 14	dem	_	DET	D	PronType=Art	15	det	_	_
 15	freger	_	NOUN	N-D	Definite=Def	10	obl	_	SpaceAfter=No
@@ -7877,8 +7877,8 @@
 6	fregn	_	VERB	VB	VerbForm=Inf	13	obl	_	_
 7	shayles	_	NOUN	N-ACC	Case=Acc	6	obj	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	13	punct	_	_
-9	alts	_	DET	Q	_	13	amod	_	_
-10	gezinter	_	ADJ	ADJR	Degree=Pos	9	amod	_	_
+9	alts	_	DET	Q	_	10	amod	_	_
+10	gezinter	_	ADJ	ADJR	Degree=Pos	13	amod	_	_
 11	vet	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 12	es	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 13	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_

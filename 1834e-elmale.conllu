@@ -461,10 +461,10 @@
 8	gizagt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 9	lo@	_	VERB	VBI	Mood=Imp	8	ccomp	_	_
 10	@mir	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
-11	eyn	_	DET	D	PronType=Art	15	obl	_	_
-12	kleyni	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
-13	seh	time	X	H	_	11	dep	_	_
-14	nshmh	soul	X	H	_	11	dep	_	_
+11	eyn	_	DET	D	PronType=Art	12	det	_	_
+12	kleyni	_	ADJ	ADJ	Degree=Pos	15	obl	_	_
+13	seh	time	X	H	_	12	dep	_	_
+14	nshmh	soul	X	H	_	12	dep	_	_
 15	leydin	_	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 16	oyb	_	SCONJ	C	_	19	mark	_	_
 17	mir	_	PRON	PRO-NOM	Case=Nom	19	nsubj	_	_
@@ -1150,8 +1150,8 @@
 4	got	_	PROPN	NPR	_	6	dep	_	_
 5	du	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	bist	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-7	zeyer	_	ADV	ADV	Degree=Pos	6	amod	_	_
-8	gut	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	zeyer	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	gut	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 
 # sent_id = 1834E-ELMALE,.68
 # X_ID = 1834E-ELMALE,52.73
@@ -1582,8 +1582,8 @@
 6	ubtulut	and_young_women	X	H	_	3	dep	_	_
 7	hat	_	AUX	HVF	VerbForm=Fin	15	aux	_	_
 8	men	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
-9	di	_	DET	D	PronType=Art	15	obl	_	_
-10	tsvantsig	_	NUM	NUM-D	Definite=Def	9	nummod	_	_
+9	di	_	DET	D	PronType=Art	10	det	_	_
+10	tsvantsig	_	NUM	NUM-D	Definite=Def	15	obl	_	_
 11	in	_	ADP	P	_	13	case	_	_
 12	der	_	DET	D	PronType=Art	13	det	_	_
 13	maskva	_	NOUN	N-D	Definite=Def	14	obl	_	_

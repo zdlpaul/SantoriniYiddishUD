@@ -420,8 +420,8 @@
 14	bishafin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 15	der	_	PRON	WPRO	_	19	obj	_	_
 16	%t%-2	_	NOUN	NP-SBJ	_	19	nsubj	_	_
-17	niks	_	DET	Q	_	19	amod	_	_
-18	un_far_genklikh	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+17	niks	_	DET	Q	_	18	amod	_	_
+18	un_far_genklikh	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
 19	izt	_	VERB	VBF	VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
 20	,	_	PUNCT	PUNC	_	14	punct	_	_
 
@@ -575,8 +575,8 @@
 15	izt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	nar	_	ADV	FP	Degree=Pos	18	advmod	_	_
 17	eyn	_	DET	D	PronType=Art	18	det	_	_
-18	tseyt	_	NOUN	N-I	Definite=Ind	15	amod	_	_
-19	lng	_	ADJ	ADJ	Degree=Pos	18	amod	_	SpaceAfter=No
+18	tseyt	_	NOUN	N-I	Definite=Ind	19	obl	_	_
+19	lng	_	ADJ	ADJ	Degree=Pos	15	amod	_	SpaceAfter=No
 20	,	_	PUNCT	PUNC	_	15	punct	_	_
 
 # sent_id = 1705W-GLIKL,.30
@@ -1245,9 +1245,9 @@
 2	visin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	uns	_	PRON	PRO	_	2	obl	_	_
 4	yu	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-5	keyn	_	DET	Q	_	2	obl	_	_
-6	rge	UNKNOWN	X	H	_	5	dep	_	_
-7	ein	_	NUM	NUM	_	5	nummod	_	_
+5	keyn	_	DET	Q	_	7	det	_	_
+6	rge	UNKNOWN	X	H	_	7	dep	_	_
+7	ein	_	NUM	NUM	_	2	obl	_	_
 8	%ich%-1	_	NOUN	NP-SBJ	_	9	nsubj	_	_
 9	zikhir	_	ADJ	ADJ	Degree=Pos	2	ccomp	_	_
 10	daz	_	SCONJ	C	_	12	mark	_	_
@@ -1574,11 +1574,11 @@
 6	zu	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 7	verin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	mir	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-9	fil	_	DET	Q	_	7	amod	_	_
-10	ergir	_	ADJ	ADJR	Degree=Pos	9	amod	_	_
+9	fil	_	DET	Q	_	10	amod	_	_
+10	ergir	_	ADJ	ADJR	Degree=Pos	7	amod	_	_
 11	alis	_	ADP	P	_	13	case	_	_
 12	die	_	DET	D	PronType=Art	13	det	_	_
-13	bhmut	_	NOUN	N-D	Definite=Def	9	amod	_	SpaceAfter=No
+13	bhmut	_	NOUN	N-D	Definite=Def	10	amod	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1705W-GLIKL,.77
@@ -1914,9 +1914,9 @@
 # text = %con% bin keyn b' snim kan tsu mits givezin alis ikh beu"h di bsurh reh %ich%-1 bikumin das er das tseytlikhi gizegnit un' %con% in das ibigi gangin izt,
 1	%con%	_	NOUN	NP-SBJ	_	9	nsubj	_	_
 2	bin	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
-3	keyn	_	DET	Q	_	9	obl	_	_
-4	b'	_	NUM	NUM	_	3	nummod	_	_
-5	snim	_	NOUN	N	_	3	conj	_	_
+3	keyn	_	DET	Q	_	4	det	_	_
+4	b'	_	NUM	NUM	_	9	obl	_	_
+5	snim	_	NOUN	N	_	4	conj	_	_
 6	kan	here	ADV	H	_	9	advmod	_	_
 7	tsu	_	ADP	P	_	8	case	_	_
 8	mits	_	PROPN	NPR	_	6	obl	_	_
@@ -1958,9 +1958,9 @@
 10	lb	heart	X	H	_	9	dep	_	_
 11	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	12	nsubj	_	_
 12	izt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-13	lmkum	to_place	X	H	_	12	amod	_	_
-14	b"h	blessed_he	X	H	_	13	amod	_	_
-15	bikant	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+13	lmkum	to_place	X	H	_	15	dep	_	_
+14	b"h	blessed_he	X	H	_	15	dep	_	_
+15	bikant	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
 
 # sent_id = 1705W-GLIKL,.91
 # X_ID = 1705W-GLIKL,309.98
@@ -2043,10 +2043,10 @@
 1	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
 3	nun	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	lerkh	approximately	X	H	_	2	amod	_	_
-5	i"g	_	NUM	NUM	_	4	nummod	_	_
-6	snim	_	NOUN	N	_	4	conj	_	_
-7	alt	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	lerkh	approximately	X	H	_	5	dep	_	_
+5	i"g	_	NUM	NUM	_	7	obl	_	_
+6	snim	_	NOUN	N	_	5	conj	_	_
+7	alt	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 8	zeyn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
 
 # sent_id = 1705W-GLIKL,.95
@@ -2263,9 +2263,9 @@
 10	bel_mu"m	_	NOUN	N	_	11	xcomp	_	_
 11	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	_
 12	un'	_	CCONJ	CONJ	_	16	cc	_	_
-13	gar	_	ADV	ADV	Degree=Pos	16	amod	_	_
+13	gar	_	ADV	ADV	Degree=Pos	15	amod	_	_
 14	vaul	_	ADV	ADV	Degree=Pos	13	advmod	_	_
-15	gilitn	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+15	gilitn	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
 16	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	_
 17	mank	from_UNKNOWN	X	H	_	16	obl	_	_
 18	ihudi'	Jews	X	H	_	17	dep	_	_
@@ -2510,8 +2510,8 @@
 3	es	_	PRON	PRO	_	8	obl	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	kreditarin	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	8	nsubj	_	_
-6	%ich%-2	_	NOUN	NP	_	8	amod	_	_
-7	givar	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	%ich%-2	_	NOUN	NP	_	7	obl	_	_
+7	givar	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 8	givarin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 9	un'	_	CCONJ	CONJ	_	14	cc	_	_
 10	g'	_	NUM	NUM-ACC	Case=Acc	11	nummod	_	_
@@ -2615,9 +2615,9 @@
 # X_ID = 1705W-GLIKL,311.134
 # text = alzu eyn g' sbueut in den misrablin stant gilebt
 1	alzu	_	ADV	ADV	Degree=Pos	9	advmod	_	_
-2	eyn	_	DET	D	PronType=Art	4	det	_	_
-3	g'	_	NUM	NUM	_	4	nummod	_	_
-4	sbueut	_	NOUN	N-I	Definite=Ind	9	obl	_	_
+2	eyn	_	DET	D	PronType=Art	3	det	_	_
+3	g'	_	NUM	NUM	_	9	obl	_	_
+4	sbueut	_	NOUN	N-I	Definite=Ind	3	conj	_	_
 5	in	_	ADP	P	_	8	case	_	_
 6	den	_	DET	D	PronType=Art	8	det	_	_
 7	misrablin	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
@@ -3429,10 +3429,10 @@
 8	velkhis	_	PRON	WPRO	_	17	obj	_	_
 9	%t%-2	_	NOUN	NP-SBJ	_	17	nsubj	_	_
 10	mir	_	PRON	PRO-DTV	Case=Dat	17	iobj	_	_
-11	nokh	_	ADV	ADV	Degree=Pos	17	amod	_	_
-12	ergir	_	ADJ	ADJR	Degree=Pos	11	amod	_	_
+11	nokh	_	ADV	ADV	Degree=Pos	12	amod	_	_
+12	ergir	_	ADJ	ADJR	Degree=Pos	17	amod	_	_
 13	alis	_	ADP	P	_	14	case	_	_
-14	hitts	_	NOUN	N	_	11	amod	_	_
+14	hitts	_	NOUN	N	_	12	amod	_	_
 15	un	_	CCONJ	CONJ	_	16	cc	_	_
 16	kelt	_	NOUN	N	_	14	conj	_	_
 17	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	6	acl:relcl	_	_

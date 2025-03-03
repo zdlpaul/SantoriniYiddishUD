@@ -401,8 +401,8 @@
 6	lebedike	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
 7	reyd	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
 8	iz	_	VERB	VBF	VerbForm=Fin	2	advcl	_	_
-9	tekhnish	_	ADV	ADV	Degree=Pos	8	amod	_	_
-10	umbakvem	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	tekhnish	_	ADV	ADV	Degree=Pos	10	amod	_	_
+10	umbakvem	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 11	me	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 12	volt	_	VERB	VLF	VerbForm=Fin	14	dep	_	_
 13	gedarft	_	AUX	MDN	Tense=Past|VerbForm=Part	14	aux	_	_
@@ -1971,8 +1971,8 @@
 17	mir	_	PRON	PRO-DTV	Case=Dat	16	iobj	_	_
 18	nokh	_	ADV	ADV	Degree=Pos	16	advmod	_	_
 19	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	16	advmod	_	_
-20	gants	_	ADV	ADV	Degree=Pos	16	amod	_	_
-21	klar	_	ADJ	ADJ	Degree=Pos	20	amod	_	SpaceAfter=No
+20	gants	_	ADV	ADV	Degree=Pos	21	amod	_	_
+21	klar	_	ADJ	ADJ	Degree=Pos	16	amod	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = 1927E-ZARETSKI-SHOLEM,.107
@@ -2462,12 +2462,12 @@
 2	gruntgezets	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	do	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	nokh	_	ADV	ADV	Degree=Pos	3	amod	_	_
-6	boyleter	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
-7	,	_	PUNCT	PUNC	_	5	punct	_	_
+5	nokh	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	boyleter	_	ADJ	ADJ	Degree=Pos	3	amod	_	SpaceAfter=No
+7	,	_	PUNCT	PUNC	_	6	punct	_	_
 8	vi	_	ADP	P	_	10	case	_	_
 9	bam	_	ADP	P-CL	_	10	case	_	_
-10	hoyptzats	_	NOUN	N	_	5	amod	_	SpaceAfter=No
+10	hoyptzats	_	NOUN	N	_	6	amod	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1927E-ZARETSKI-SHOLEM,.134

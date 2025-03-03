@@ -679,8 +679,8 @@
 5	mikh	_	PRON	PRO-RFL	PronType=Reflex	7	expl:pv	_	_
 6	dreyn	_	ADP	P	_	7	obl	_	_
 7	ver	_	VERB	VBF	VerbForm=Fin	1	advcl	_	_
-8	i	_	ADV	ADV	Degree=Pos	11	amod	_	_
-9	ergr	_	ADJ	ADJR	Degree=Pos	8	amod	_	_
+8	i	_	ADV	ADV	Degree=Pos	9	amod	_	_
+9	ergr	_	ADJ	ADJR	Degree=Pos	11	amod	_	_
 10	es	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 11	vert	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	11	punct	_	_
@@ -2104,8 +2104,8 @@
 16	daz	_	DET	D-NOM	Case=Nom|PronType=Art	17	nsubj	_	_
 17	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 18	mir	_	PRON	PRO-DTV	Case=Dat	17	iobj	_	_
-19	gar	_	ADV	ADV	Degree=Pos	17	amod	_	_
-20	leyd	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
+19	gar	_	ADV	ADV	Degree=Pos	20	amod	_	_
+20	leyd	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.135
 # X_ID = 1XXXX-COURT-TESTIMONY,48_1463_x.184
@@ -2175,8 +2175,8 @@
 29	dz	_	DET	D-NOM	Case=Nom|PronType=Art	30	nsubj	_	_
 30	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 31	mir	_	PRON	PRO-DTV	Case=Dat	30	iobj	_	_
-32	gr	_	ADV	ADV	Degree=Pos	30	amod	_	_
-33	leyd	_	ADJ	ADJ	Degree=Pos	32	amod	_	_
+32	gr	_	ADV	ADV	Degree=Pos	33	amod	_	_
+33	leyd	_	ADJ	ADJ	Degree=Pos	30	amod	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.138
 # X_ID = 1XXXX-COURT-TESTIMONY,49_1463_x.188
@@ -3373,9 +3373,9 @@
 21	un	_	CCONJ	CONJ	_	30	cc	_	_
 22	dz	_	SCONJ	C	_	30	mark	_	_
 23	ikh	_	PRON	PRO-NOM	Case=Nom	30	nsubj	_	_
-24	al	_	DET	Q	_	30	obl	_	_
-25	meyn	_	PRON	PRO$	_	24	det:poss	_	_
-26	tag	_	NOUN	N	_	24	conj	_	_
+24	al	_	DET	Q	_	26	det	_	_
+25	meyn	_	PRON	PRO$	_	26	det:poss	_	_
+26	tag	_	NOUN	N	_	30	obl	_	_
 27	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	30	advmod	_	_
 28	tsu	_	ADP	P	_	29	case	_	_
 29	ir	_	PRON	PRO	_	30	obl	_	_
@@ -4093,8 +4093,8 @@
 4	mir	_	PRON	PRO-DTV	Case=Dat	6	iobj	_	_
 5	nakh	_	ADP	RP	_	6	compound:prt	_	_
 6	gngn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-7	etlikh	_	DET	Q	_	6	obl	_	_
-8	vaukhn	_	NOUN	N	_	7	conj	_	_
+7	etlikh	_	DET	Q	_	8	det	_	_
+8	vaukhn	_	NOUN	N	_	6	obl	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.249
 # X_ID = 1XXXX-COURT-TESTIMONY,68_1558_w.318
@@ -4553,8 +4553,8 @@
 14	svagir	_	NOUN	N	_	15	conj	_	_
 15	yunh	_	PROPN	NPR	_	19	nsubj	_	_
 16	hn"l	aforesaid	X	H	_	15	amod	_	_
-17	%t%-2	_	NOUN	NP	_	19	amod	_	_
-18	suldig	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+17	%t%-2	_	NOUN	NP	_	18	obl	_	_
+18	suldig	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
 19	iz	_	VERB	VBF	VerbForm=Fin	10	acl:relcl	_	_
 20	dheynu	_	ADV	ADV	Degree=Pos	32	advmod	_	_
 21	mhlk	from_part	X	H	_	32	dep	_	_
@@ -5049,9 +5049,9 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.317
 # X_ID = 1XXXX-COURT-TESTIMONY,80_1559_e.398
 # text = etlikhi vaukhn der_nakh hab ikh abrhm hn"l gizehn un_mutig
-1	etlikhi	_	DET	Q	_	8	obl	_	_
-2	vaukhn	_	NOUN	N	_	1	conj	_	_
-3	der_nakh	_	ADP	P	_	1	case	_	_
+1	etlikhi	_	DET	Q	_	2	det	_	_
+2	vaukhn	_	NOUN	N	_	8	obl	_	_
+3	der_nakh	_	ADP	P	_	2	case	_	_
 4	hab	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 5	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 6	abrhm	_	PROPN	NPR-ACC	_	8	dep	_	_
@@ -5342,8 +5342,8 @@
 2	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 3	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	yung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
-5	gar	_	ADV	ADV	Degree=Pos	7	amod	_	_
-6	vild	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	gar	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	vild	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	un'	_	CCONJ	CONJ	_	11	cc	_	_
 9	zikh	_	PRON	PRO-RFL	PronType=Reflex	11	expl:pv	_	_
@@ -9387,8 +9387,8 @@
 4	gizagt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	mir	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 6	habn	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
-7	unzrin	_	PRON	PRO$	_	9	obl	_	_
-8	libn_tag	_	NOUN	N	_	7	conj	_	_
+7	unzrin	_	PRON	PRO$	_	8	det:poss	_	_
+8	libn_tag	_	NOUN	N	_	9	obl	_	_
 9	der_hart	_	VERB	VBN	Tense=Past|VerbForm=Part	4	ccomp	_	_
 10	an	_	ADP	P	_	12	case	_	_
 11	dem	_	DET	D	PronType=Art	12	det	_	_
@@ -9844,8 +9844,8 @@
 # text = dz er zeyn tag nit veys dz er hat min feterin %ich%-1 %ich%-2 giht fun fatir hlbin az r' hirs hn"l
 1	dz	_	SCONJ	C	_	6	mark	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-3	zeyn	_	PRON	PRO$	_	6	obl	_	_
-4	tag	_	NOUN	N	_	3	conj	_	_
+3	zeyn	_	PRON	PRO$	_	4	det:poss	_	_
+4	tag	_	NOUN	N	_	6	obl	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 6	veys	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 7	dz	_	SCONJ	C	_	14	mark	_	_
@@ -12995,8 +12995,8 @@
 # text = er hat gentsin leyb keyn simn mer guhat es zey den an fingr in heft in untn untr di bitsim eyn heft in kis
 1	er	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 2	hat	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
-3	gentsin	_	DET	Q	_	8	obl	_	_
-4	leyb	_	NOUN	N	_	3	conj	_	_
+3	gentsin	_	DET	Q	_	4	det	_	_
+4	leyb	_	NOUN	N	_	8	obl	_	_
 5	keyn	_	DET	Q-ACC	Case=Acc	6	det	_	_
 6	simn	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
 7	mer	_	ADV	QR	_	6	advmod	_	_
@@ -13820,9 +13820,9 @@
 1	nor	_	CCONJ	CONJ	_	7	cc	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 3	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-4	vas	_	DET	Q	_	7	amod	_	_
-5	gresir	_	ADJ	ADJR	Degree=Pos	4	amod	_	_
-6	%ich%-1	_	ADP	PP	_	4	amod	_	_
+4	vas	_	DET	Q	_	5	obl	_	_
+5	gresir	_	ADJ	ADJR	Degree=Pos	7	amod	_	_
+6	%ich%-1	_	ADP	PP	_	5	amod	_	_
 7	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	az	_	ADP	P	_	9	case	_	_
 9	di	_	PRON	PRO	_	7	obl	_	_
@@ -14512,9 +14512,9 @@
 2	rukhb	UNKNOWN	X	H	_	8	dep	_	_
 3	hhrits	the_UNKNOWN	X	H	_	2	dep	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
-5	azoy	_	ADV	ADV	Degree=Pos	8	amod	_	_
-6	breyt	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-7	%ich%-1	_	ADP	PP	_	5	amod	_	_
+5	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	breyt	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+7	%ich%-1	_	ADP	PP	_	6	amod	_	_
 8	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 9	az	_	ADP	P	_	10	dep	_	_
 10	hbrit	the_UNKNOWN	X	H	_	8	obl	_	_
@@ -14579,8 +14579,8 @@
 # text = es iz nar im_zikher
 1	es	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	nar	_	PART	FP	Degree=Pos	2	amod	_	_
-4	im_zikher	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	nar	_	PART	FP	Degree=Pos	4	amod	_	_
+4	im_zikher	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.960
 # X_ID = 1XXXX-COURT-TESTIMONY,183_1641_w.1145
@@ -16164,8 +16164,8 @@
 1	%pro%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
 2	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
 3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
-4	gnts	_	ADV	ADV	Degree=Pos	6	amod	_	_
-5	klahr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	gnts	_	ADV	ADV	Degree=Pos	5	amod	_	_
+5	klahr	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 6	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1067
@@ -16850,8 +16850,8 @@
 10	frsaut	_	NOUN	N	_	9	conj	_	_
 11	mlakhvitsa	from_Lakhvitsa	X	H	_	9	obl	_	_
 12	in	_	CCONJ	CONJ	_	15	cc	_	_
-13	etlikhe	_	DET	Q	_	15	obl	_	_
-14	vokhn	_	NOUN	N	_	13	conj	_	_
+13	etlikhe	_	DET	Q	_	14	det	_	_
+14	vokhn	_	NOUN	N	_	15	obl	_	_
 15	gizoyamt	_	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	_
 16	in	_	ADP	P	_	18	case	_	_
 17	di	_	DET	D	PronType=Art	18	det	_	_
@@ -17596,8 +17596,8 @@
 # text = er iz zeyer shtark gvezin
 1	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 2	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-3	zeyer	_	ADV	ADV	Degree=Pos	5	amod	_	_
-4	shtark	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	zeyer	_	ADV	ADV	Degree=Pos	4	amod	_	_
+4	shtark	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 5	gvezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1163
@@ -17930,10 +17930,10 @@
 # X_ID = 1XXXX-COURT-TESTIMONY,206_1649_w.1393
 # text = bin etlkhi imim akhr zh bin %pro% gngin in der gs
 1	bin	_	AUX	BEF	VerbForm=Fin	8	dep	_	_
-2	etlkhi	_	DET	Q	_	8	obl	_	_
-3	imim	_	NOUN	N	_	2	conj	_	_
-4	akhr	after	X	H	_	2	dep	_	_
-5	zh	this	X	H	_	2	dep	_	_
+2	etlkhi	_	DET	Q	_	3	det	_	_
+3	imim	_	NOUN	N	_	8	obl	_	_
+4	akhr	after	X	H	_	3	dep	_	_
+5	zh	this	X	H	_	3	dep	_	_
 6	bin	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
 7	%pro%	_	NOUN	NP-SBJ	_	8	nsubj	_	_
 8	gngin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -18294,8 +18294,8 @@
 8	gtsundn	_	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	_
 9	iz	_	AUX	BEF	VerbForm=Fin	13	cop	_	_
 10	%exp%	_	NOUN	NP-SBJ	_	13	nsubj	_	_
-11	zeyer	_	ADV	ADV	Degree=Pos	13	amod	_	_
-12	heys	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	zeyer	_	ADV	ADV	Degree=Pos	12	amod	_	_
+12	heys	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
 13	gvezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1209
@@ -20471,8 +20471,8 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	mir	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-4	niks	_	DET	Q	_	2	amod	_	_
-5	shuldig	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	niks	_	DET	Q	_	5	amod	_	_
+5	shuldig	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1361
 # X_ID = 1XXXX-COURT-TESTIMONY,223_1651_w.1587
@@ -22932,8 +22932,8 @@
 6	glegn	_	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	_	_
 7	iz	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
 8	er	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-9	zer	_	ADV	ADV	Degree=Pos	11	amod	_	_
-10	krnk	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	zer	_	ADV	ADV	Degree=Pos	10	amod	_	_
+10	krnk	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	givordn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1528
@@ -24341,8 +24341,8 @@
 4	ez	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 5	iz	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 6	tsu_var	_	ADV	ADV	Degree=Pos	9	advmod	_	_
-7	etvas	_	DET	Q	_	9	amod	_	_
-8	broyn	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	etvas	_	DET	Q	_	8	amod	_	_
+8	broyn	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 9	gvezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	9	punct	_	_
 

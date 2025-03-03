@@ -1053,10 +1053,10 @@
 32	zeyn	_	VERB	VBF	VerbForm=Fin	26	acl:relcl	_	_
 33	un	_	CCONJ	CONJ	_	42	cc	_	_
 34	%t%-1	_	NOUN	NP-SBJ	_	42	nsubj	_	_
-35	gntsi	_	ADJ	ADJ	Degree=Pos	42	obl	_	_
-36	teg	_	NOUN	N	_	35	conj	_	_
+35	gntsi	_	ADJ	ADJ	Degree=Pos	36	amod	_	_
+36	teg	_	NOUN	N	_	42	obl	_	_
 37	un	_	CCONJ	CONJ	_	38	cc	_	_
-38	nkht	_	NOUN	N	_	35	conj	_	_
+38	nkht	_	NOUN	N	_	36	conj	_	_
 39	ibr	_	ADP	P	_	41	case	_	_
 40	iri	_	PRON	PRO$	_	41	det:poss	_	_
 41	sfrim	_	NOUN	N	_	42	obl	_	_
@@ -1337,10 +1337,10 @@
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	im	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
 4	als	_	ADV	Q	_	2	advmod	_	_
-5	tsu	_	ADV	ADV	Degree=Pos	2	amod	_	_
-6	tayer	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	tsu	_	ADV	ADV	Degree=Pos	6	amod	_	_
+6	tayer	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 7	un	_	CCONJ	CONJ	_	8	cc	_	_
-8	hukh	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+8	hukh	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 9	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	nsubj	_	_
 10	bar	_	NOUN	N	_	9	conj	_	_
 
