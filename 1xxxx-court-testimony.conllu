@@ -11524,12 +11524,12 @@
 # text = der hat eyn feyn eyn veys leyb %ich%-1 oyf zikh gihat un ukh eyn huhi naz
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	11	nsubj	_	_
 2	hat	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
-3	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
-4	feyn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	5	amod	_	_
-5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	11	obj	_	_
-6	veys	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	5	amod	_	_
-7	leyb	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	5	conj	_	_
-8	%ich%-1	_	SCONJ	CONJP	_	5	conj	_	_
+3	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
+4	feyn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
+5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
+6	veys	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
+7	leyb	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	11	obj	_	_
+8	%ich%-1	_	SCONJ	CONJP	_	7	conj	_	_
 9	oyf	_	ADP	P	_	10	case	_	_
 10	zikh	_	PRON	PRO	_	11	obl	_	_
 11	gihat	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -12638,8 +12638,8 @@
 5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 6	lng	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
 7	hemd	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
-8	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	7	dep	_	_
-9	oys_gineyts	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	8	amod	_	_
+8	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	9	det	_	_
+9	oys_gineyts	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	appos	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.846
 # X_ID = 1XXXX-COURT-TESTIMONY,162_1640_e.1010
@@ -13030,8 +13030,8 @@
 7	eyn	_	DET	D	PronType=Art	9	det	_	_
 8	royt	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 9	flekil	_	NOUN	N	_	12	obl	_	_
-10	eyn	_	DET	D	PronType=Art	9	dep	_	_
-11	silvgr	_	NOUN	N-I	Definite=Ind	10	conj	_	_
+10	eyn	_	DET	D	PronType=Art	11	det	_	_
+11	silvgr	_	NOUN	N-I	Definite=Ind	9	appos	_	_
 12	droys	_	ADP	P	_	5	conj	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.870

@@ -8221,8 +8221,8 @@
 8	durkh	_	ADP	RP	_	7	compound:prt	_	_
 9	a	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 10	yid	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	_
-11	a	_	DET	D-NOM	Case=Nom|PronType=Art	10	dep	_	_
-12	fremder	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	11	amod	_	SpaceAfter=No
+11	a	_	DET	D-NOM	Case=Nom|PronType=Art	12	det	_	_
+12	fremder	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	appos	_	SpaceAfter=No
 13	,	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.612
@@ -13602,8 +13602,8 @@
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	a	_	DET	D	PronType=Art	5	det	_	_
 5	moyd	_	NOUN	N-I	Definite=Ind	3	xcomp	_	_
-6	a	_	DET	D	PronType=Art	5	dep	_	_
-7	fayer	_	NOUN	N-I	Definite=Ind	6	conj	_	SpaceAfter=No
+6	a	_	DET	D	PronType=Art	7	det	_	_
+7	fayer	_	NOUN	N-I	Definite=Ind	5	appos	_	SpaceAfter=No
 8	;	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1016
@@ -16629,8 +16629,8 @@
 4	a	_	DET	D	PronType=Art	5	det	_	_
 5	lamdn	_	NOUN	N-I	Definite=Ind	2	xcomp	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	5	punct	_	_
-7	a	_	DET	D	PronType=Art	5	dep	_	_
-8	frumer	_	ADJ	ADJ	Degree=Pos	7	amod	_	SpaceAfter=No
+7	a	_	DET	D	PronType=Art	8	det	_	_
+8	frumer	_	ADJ	ADJ	Degree=Pos	5	appos	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1234
@@ -16933,8 +16933,8 @@
 5	bin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	a	_	DET	D	PronType=Art	7	det	_	_
 7	yid	_	NOUN	N-I	Definite=Ind	5	xcomp	_	_
-8	an	_	DET	D	PronType=Art	7	dep	_	_
-9	amorets	_	NOUN	N-I	Definite=Ind	8	conj	_	SpaceAfter=No
+8	an	_	DET	D	PronType=Art	9	det	_	_
+9	amorets	_	NOUN	N-I	Definite=Ind	7	appos	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1260
@@ -17993,8 +17993,8 @@
 1	dovid-noyekh:	_	PROPN	NPR	_	3	dep	_	_
 2	a	_	DET	D	PronType=Art	3	det	_	_
 3	berie	_	NOUN	N-I	Definite=Ind	0	root	_	_
-4	a	_	DET	D	PronType=Art	3	dep	_	_
-5	meydl	_	NOUN	N-I	Definite=Ind	4	conj	_	SpaceAfter=No
+4	a	_	DET	D	PronType=Art	5	det	_	_
+5	meydl	_	NOUN	N-I	Definite=Ind	3	appos	_	SpaceAfter=No
 6	;	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1344

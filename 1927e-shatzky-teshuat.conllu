@@ -67,17 +67,17 @@
 7	tsvey	_	NUM	NUM-NOM	Case=Nom	8	nummod	_	_
 8	hkdmut	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
 9	eyne	_	PRON	PRO-NOM	Case=Nom	8	acl	_	_
-10	a	_	DET	D	PronType=Art	12	det	_	_
-11	hebreyaishe	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-12	a	_	DET	D	PronType=Art	9	xcomp	_	_
-13	klenere	_	ADJ	ADJR	Degree=Pos	12	amod	_	_
+10	a	_	DET	D	PronType=Art	13	det	_	_
+11	hebreyaishe	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+12	a	_	DET	D	PronType=Art	13	det	_	_
+13	klenere	_	ADJ	ADJR	Degree=Pos	9	xcomp	_	_
 14	un	_	CCONJ	CONJ	_	16	cc	_	_
 15	di	_	DET	D-NOM	Case=Nom|PronType=Art	16	det	_	_
 16	tsveyte	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	9	acl	_	_
-17	a	_	DET	D	PronType=Art	19	det	_	_
-18	yidishe	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
-19	a	_	DET	D	PronType=Art	16	xcomp	_	_
-20	gresere	_	ADJ	ADJR	Degree=Pos	19	amod	_	_
+17	a	_	DET	D	PronType=Art	20	det	_	_
+18	yidishe	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
+19	a	_	DET	D	PronType=Art	20	det	_	_
+20	gresere	_	ADJ	ADJR	Degree=Pos	16	xcomp	_	_
 
 # sent_id = 1927E-SHATZKY-TESHUAT,.6
 # X_ID = 1927E-SHATZKY-TESHUAT,12.8
@@ -857,8 +857,8 @@
 9	mit	_	ADP	P	_	11	case	_	_
 10	a	_	DET	D	PronType=Art	11	det	_	_
 11	feter	_	NOUN	N-I	Definite=Ind	8	obl	_	_
-12	a	_	DET	D	PronType=Art	11	dep	_	_
-13	kdus	_	NOUN	N-I	Definite=Ind	12	conj	_	_
+12	a	_	DET	D	PronType=Art	13	det	_	_
+13	kdus	_	NOUN	N-I	Definite=Ind	11	appos	_	_
 14	fun	_	ADP	P	_	15	case	_	_
 15	tsuzmir	_	PROPN	NPR	_	11	obl	_	_
 16	un	_	CCONJ	CONJ	_	20	cc	_	_

@@ -71,8 +71,8 @@
 8	in	_	ADP	P	_	10	case	_	_
 9	a	_	DET	D	PronType=Art	10	det	_	_
 10	zats	_	NOUN	N-I	Definite=Ind	6	obl	_	_
-11	a	_	DET	D	PronType=Art	10	dep	_	_
-12	forzetsung	_	NOUN	N-I	Definite=Ind	11	conj	_	_
+11	a	_	DET	D	PronType=Art	12	det	_	_
+12	forzetsung	_	NOUN	N-I	Definite=Ind	10	appos	_	_
 13	me	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 14	ken	_	AUX	MDF	VerbForm=Fin	15	aux	_	_
 15	tsugebn	_	VERB	VB-PART	VerbForm=Inf	6	parataxis	_	SpaceAfter=No

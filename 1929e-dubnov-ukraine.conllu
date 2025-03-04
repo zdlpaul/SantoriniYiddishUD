@@ -813,11 +813,11 @@
 4	an	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	anderer	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	nsubj	_	_
 6	oykh	_	ADV	ADV	Degree=Pos	5	dep	_	_
-7	an	_	DET	D	PronType=Art	10	det	_	_
-8	anomim	_	ADJ	ADJ	Degree=Pos	10	amod	_	SpaceAfter=No
-9	...	_	PUNCT	PUNC	_	10	punct	_	_
-10	a	_	DET	D	PronType=Art	6	xcomp	_	_
-11	yid	_	NOUN	N-I	Definite=Ind	10	conj	_	_
+7	an	_	DET	D	PronType=Art	11	det	_	_
+8	anomim	_	ADJ	ADJ	Degree=Pos	11	amod	_	SpaceAfter=No
+9	...	_	PUNCT	PUNC	_	11	punct	_	_
+10	a	_	DET	D	PronType=Art	11	det	_	_
+11	yid	_	NOUN	N-I	Definite=Ind	6	xcomp	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.33
 # X_ID = 1929E-DUBNOV-UKRAINE,29.36

@@ -514,8 +514,8 @@
 1	un'	_	CCONJ	CONJ	_	9	cc	_	_
 2	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	feynt	_	NOUN	N-NOM	Case=Nom	9	nsubj	_	_
-4	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	dep	_	_
-5	mtsreym	_	PROPN	NPR-D	_	4	dep	_	_
+4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
+5	mtsreym	_	PROPN	NPR-D	_	3	appos	_	_
 6	valtin	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
 7	akh	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 8	nakh	_	ADP	RP	_	9	compound:prt	_	_
@@ -550,7 +550,7 @@
 1	un'	_	CCONJ	CONJ	_	6	cc	_	_
 2	di	_	DET	D	PronType=Art	3	det	_	_
 3	feynt	_	NOUN	N-D	Definite=Def	6	obl	_	_
-4	mtsreym	_	PROPN	NPR	_	3	dep	_	_
+4	mtsreym	_	PROPN	NPR	_	3	appos	_	_
 5	zi	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	der_trankn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 
@@ -699,8 +699,8 @@
 7	den	_	DET	D	PronType=Art	9	det	_	_
 8	tsvey	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 9	berg	_	NOUN	N	_	5	obl	_	_
-10	di	_	DET	D	PronType=Art	9	dep	_	_
-11	hukhin	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+10	di	_	DET	D	PronType=Art	11	det	_	_
+11	hukhin	_	ADJ	ADJ	Degree=Pos	9	appos	_	_
 
 # sent_id = 1579E-SHIR,.43
 # X_ID = 1579E-SHIR,9.46
@@ -828,8 +828,8 @@
 3	zikh	_	PRON	PRO-RFL	PronType=Reflex	13	expl:pv	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	amureym	_	NOUN	N-NOM	Case=Nom	13	nsubj	_	_
-6	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	dep	_	_
-7	feynt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	conj	_	_
+6	di	_	DET	D-NOM	Case=Nom|PronType=Art	7	det	_	_
+7	feynt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	appos	_	_
 8	htin	_	AUX	HVF	VerbForm=Fin	13	aux	_	_
 9	nun	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 10	azu	_	ADV	ADV	Degree=Pos	13	dep	_	_
@@ -1873,8 +1873,8 @@
 7	ihushe	_	PROPN	NPR-D	_	5	obl	_	_
 8	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	9	det	_	_
 9	mkhh	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
-10	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	9	dep	_	_
-11	grusi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	10	amod	_	_
+10	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
+11	grusi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	9	appos	_	_
 12	in	_	ADP	P	_	13	case	_	_
 13	gkheun	_	PROPN	NPR	_	5	obl	_	_
 
@@ -3781,8 +3781,8 @@
 24	den	_	ADP	P	_	26	case	_	_
 25	neyart	_	ADV	FP	Degree=Pos	26	advmod	_	_
 26	regn	_	NOUN	N	_	20	obl	_	_
-27	eyn	_	DET	D	PronType=Art	26	dep	_	_
-28	biviliklikhr	_	ADJ	ADJ	Degree=Pos	27	amod	_	_
+27	eyn	_	DET	D	PronType=Art	28	det	_	_
+28	biviliklikhr	_	ADJ	ADJ	Degree=Pos	26	appos	_	_
 
 # sent_id = 1579E-SHIR,.212
 # X_ID = 1579E-SHIR,15.220

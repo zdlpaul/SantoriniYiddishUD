@@ -943,8 +943,8 @@
 4	lozn	_	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 5	dem	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
 6	msumd	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
-7	dem	_	DET	D-ACC	Case=Acc|PronType=Art	6	dep	_	_
-8	iberdruker	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	7	conj	_	_
+7	dem	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
+8	iberdruker	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	6	appos	_	_
 9	un	_	CCONJ	CONJ	_	12	cc	_	_
 10	%con%	_	NOUN	NP-SBJ	_	12	nsubj	_	_
 11	zikh	_	PRON	PRO-RFL	PronType=Reflex	12	expl:pv	_	_

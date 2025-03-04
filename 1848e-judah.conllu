@@ -1306,10 +1306,10 @@
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	a	_	DET	D	PronType=Art	5	det	_	_
 5	ferfasung	_	NOUN	N-I	Definite=Ind	3	xcomp	_	_
-6	a	_	DET	D	PronType=Art	5	dep	_	_
-7	khuk	_	NOUN	N-I	Definite=Ind	6	conj	_	_
+6	a	_	DET	D	PronType=Art	7	det	_	_
+7	khuk	_	NOUN	N-I	Definite=Ind	5	appos	_	_
 8	un	_	CCONJ	CONJ	_	9	cc	_	_
-9	mspt	_	NOUN	N	_	6	conj	_	_
+9	mspt	_	NOUN	N	_	7	conj	_	_
 10	far	_	ADP	P	_	13	case	_	_
 11	dem	_	DET	D	PronType=Art	13	det	_	_
 12	gantsin	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
