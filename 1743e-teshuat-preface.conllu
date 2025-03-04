@@ -706,7 +706,7 @@
 8	mir	_	PRON	PRO-DTV	Case=Dat	11	iobj	_	_
 9	etvaz	_	DET	Q-ACC	Case=Acc	11	obj	_	_
 10	dran	_	ADP	P	_	11	obl	_	_
-11	shengn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+11	shengn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 
 # sent_id = 1743E-TESHUAT-PREFACE,.31
 # X_ID = 1743E-TESHUAT-PREFACE,17.5.37

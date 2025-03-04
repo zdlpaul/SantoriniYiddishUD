@@ -1880,7 +1880,7 @@
 10	der	_	DET	D	PronType=Art	11	det	_	_
 11	nshmh	_	NOUN	N-D	Definite=Def	13	obl	_	_
 12	nakh	_	ADP	P	_	11	case	_	_
-13	tsihn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+13	tsihn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 
 # sent_id = 1620E-LEV-TOV-1,.106
 # X_ID = 1620E-LEV-TOV-1,5l.111
@@ -1974,7 +1974,7 @@
 11	er	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 12	drum	_	ADP	P	_	13	case	_	_
 13	%ich%-1	_	SCONJ	CP-THT	_	14	obl	_	_
-14	esn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+14	esn	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 15	un	_	CCONJ	CONJ	_	16	cc	_	_
 16	trinkn	_	VERB	VB	VerbForm=Inf	14	conj	_	_
 17	dz	_	SCONJ	C	_	21	mark	_	_
@@ -2268,7 +2268,7 @@
 8	der	_	DET	D-NOM	Case=Nom|PronType=Art	9	det	_	_
 9	hr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	11	nsubj	_	_
 10	hin	_	ADV	RP-ADV	_	11	advmod	_	_
-11	git	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+11	git	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 12	da	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 13	iz	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
 14	der	_	DET	D-NOM	Case=Nom|PronType=Art	15	det	_	_

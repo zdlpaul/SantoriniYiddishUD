@@ -189,9 +189,9 @@
 5	der	_	DET	D	PronType=Art	6	det	_	_
 6	kloyz	_	NOUN	N-D	Definite=Def	12	obl	_	_
 7	dr_veyl	_	SCONJ	C	_	12	mark	_	_
-8	za	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-9	eyn	_	DET	D	PronType=Art	10	det	_	_
-10	tsrh	_	NOUN	N-I	Definite=Ind	12	nsubj	_	_
+8	za	_	X	AD-NOMV	_	10	dep	_	_
+9	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
+10	tsrh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	12	nsubj	_	_
 11	iz	_	AUX	BEF	VerbForm=Fin	12	cop	_	_
 12	kumn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
@@ -575,7 +575,7 @@
 1	vidr	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 2	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	3	det	_	_
 3	kul	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
-4	%ich%-1	_	X	IP-MAT-THT	_	3	dep	_	_
+4	%ich%-1	_	X	IP-MAT-THT	_	3	ccomp	_	_
 5	gimkht	_	VERB	VBN	Tense=Past|VerbForm=Part	7	dep	_	_
 6	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	7	expl	_	_
 7	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -800,9 +800,9 @@
 11	zelkhi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	12	amod	_	_
 12	rbnim	_	NOUN	N-NOM	Case=Nom	18	nsubj	_	_
 13	%ich%-2	_	NOUN	NP-PRN	_	12	appos	_	_
-14	azu	_	ADV	ADV	Degree=Pos	18	dep	_	_
-15	eyn	_	DET	D	PronType=Art	14	det	_	_
-16	tut	_	NOUN	N-I	Definite=Ind	14	conj	_	_
+14	azu	_	X	AD-ACCV	_	16	dep	_	_
+15	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	16	det	_	_
+16	tut	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	18	obj	_	_
 17	zeln	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
 18	nemn	_	VERB	VB	VerbForm=Inf	9	advcl	_	_
 19	eyn	_	ADP	RP	_	18	compound:prt	_	_
@@ -2256,9 +2256,9 @@
 # text = lazt eykh nakh eyn kidush visn lan vas %t%-1 eyn sktsh msrtt ir virtn hat gitan
 1	lazt	_	VERB	VBI	Mood=Imp	0	root	_	_
 2	eykh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-3	nakh	_	ADV	ADV	Degree=Pos	6	dep	_	_
-4	eyn	_	DET	D	PronType=Art	3	det	_	_
-5	kidush	_	NOUN	N-I	Definite=Ind	3	conj	_	_
+3	nakh	_	X	AD-ACCV	_	5	dep	_	_
+4	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
+5	kidush	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	6	obj	_	_
 6	visn	_	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 7	lan	_	X	X	_	6	dep	_	_
 8	vas	_	PRON	WPRO	_	16	obj	_	_
@@ -2284,14 +2284,14 @@
 8	iri	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	det:poss	_	_
 9	kleydr	_	NOUN	N	_	11	obj	_	_
 10	an	_	ADP	RP	_	11	compound:prt	_	_
-11	tan	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+11	tan	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 12	un	_	CCONJ	CONJ	_	18	cc	_	_
 13	%con%	_	NOUN	NP-SBJ	_	18	nsubj	_	_
 14	zelt	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
 15	mit	_	ADP	P	_	16	case	_	_
 16	ir	_	PRON	PRO	_	18	obl	_	_
 17	der_fun	_	ADP	P	_	18	obl	_	_
-18	gan	_	VERB	VB	VerbForm=Inf	11	dep	_	_
+18	gan	_	VERB	VB	VerbForm=Inf	11	ccomp	_	_
 
 # sent_id = 1648W-KINE,.160
 # X_ID = 1648W-KINE,205.43.205
@@ -2586,7 +2586,7 @@
 3	gimeynt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	zi	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 5	zeyn	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-6	antrunn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	_
+6	antrunn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	_
 
 # sent_id = 1648W-KINE,.183
 # X_ID = 1648W-KINE,206.49.234

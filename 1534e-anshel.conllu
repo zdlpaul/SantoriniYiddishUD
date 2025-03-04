@@ -357,10 +357,10 @@
 19	am	_	ADP	P-CL	_	21	case	_	_
 20	virtn	_	ADJ	ADJ	Degree=Pos	21	amod	_	_
 21	irt	_	NOUN	N	_	17	conj	_	_
-22	abr	_	ADV	ADV	Degree=Pos	17	dep	_	_
-23	eyn	_	DET	D	PronType=Art	22	det	_	_
-24	andr	_	ADJ	ADJ	Degree=Pos	22	amod	_	_
-25	daytsh	_	NOUN	N-I	Definite=Ind	22	conj	_	_
+22	abr	_	X	AD-ACCV	_	25	dep	_	_
+23	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	25	det	_	_
+24	andr	_	X	AD-ACCJ	_	25	dep	_	_
+25	daytsh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	17	obj	_	_
 
 # sent_id = 1534E-ANSHEL,.14
 # X_ID = 1534E-ANSHEL,1r.16
@@ -876,7 +876,7 @@
 26	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	29	advmod	_	_
 27	azu	_	ADV	ADV	Degree=Pos	29	advmod	_	_
 28	bld	_	ADV	ADV	Degree=Pos	27	advmod	_	_
-29	vrshuldigin	_	VERB	VB	VerbForm=Inf	21	dep	_	_
+29	vrshuldigin	_	VERB	VB	VerbForm=Inf	21	ccomp	_	_
 
 # sent_id = 1534E-ANSHEL,.35
 # X_ID = 1534E-ANSHEL,1l.38
@@ -950,7 +950,7 @@
 6	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 7	zul	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
 8	yu	_	ADV	ADV	Degree=Pos	9	advmod	_	_
-9	lian	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+9	lian	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 10	di	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
 11	mfrsi	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	9	obj	_	_
 12	i	_	SCONJ	C	_	15	mark	_	_

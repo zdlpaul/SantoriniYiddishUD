@@ -2649,7 +2649,7 @@
 7	dos	_	DET	D-ACC	Case=Acc|PronType=Art	10	obj	_	_
 8	in	_	ADP	P	_	9	case	_	_
 9	zinen	_	NOUN	N	_	10	obl	_	_
-10	hobn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+10	hobn	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 11	in	_	ADP	P	_	13	case	_	_
 12	unzer	_	PRON	PRO$	_	13	det:poss	_	_
 13	tseytung-sprakh	_	NOUN	N	_	10	obl	_	SpaceAfter=No

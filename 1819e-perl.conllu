@@ -197,7 +197,7 @@
 10	gizehin	_	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	_
 11	der	_	DET	D-NOM	Case=Nom|PronType=Art	12	det	_	_
 12	mlekh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	13	nsubj	_	_
-13	hat	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+13	hat	_	VERB	VBF	VerbForm=Fin	10	ccomp	_	_
 14	groys	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	15	amod	_	_
 15	tser	_	NOUN	N-ACC	Case=Acc	13	obj	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	3	punct	_	_
@@ -533,7 +533,7 @@
 3	gizehin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	mlkh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-6	zitst	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+6	zitst	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 7	dort	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 8	un	_	ADP	P	_	10	case	_	_
 9	eyn	_	DET	D	PronType=Art	10	det	_	_
@@ -541,12 +541,12 @@
 11	un	_	CCONJ	CONJ	_	14	cc	_	_
 12	eyn_skh	_	DET	Q-NOM	Case=Nom	13	det	_	_
 13	kheyles	_	NOUN	N-NOM	Case=Nom	14	nsubj	_	_
-14	shteyen	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+14	shteyen	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
 15	arum	_	ADP	P	_	16	case	_	_
 16	im	_	PRON	PRO	_	14	obl	_	_
 17	un	_	CCONJ	CONJ	_	19	cc	_	_
 18	eyn_skh	_	DET	Q-NOM	Case=Nom	19	nsubj	_	_
-19	shpilin	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+19	shpilin	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
 20	oyf	_	ADP	P	_	21	case	_	_
 21	klim	_	NOUN	N	_	19	obl	_	_
 22	fr	_	ADP	P	_	23	case	_	_
@@ -559,7 +559,7 @@
 29	sheyn	_	ADJ	ADJ	Degree=Pos	28	amod	_	_
 30	un	_	CCONJ	CONJ	_	31	cc	_	_
 31	feyn	_	ADJ	ADJ	Degree=Pos	28	amod	_	_
-32	given	_	VERB	VBN	Tense=Past|VerbForm=Part	6	dep	_	_
+32	given	_	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	_
 
 # sent_id = 1819E-PERL,.41
 # X_ID = 1819E-PERL,103.43
@@ -640,10 +640,10 @@
 4	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	mlkh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
 6	hat	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
-7	giheysin	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	_
+7	giheysin	_	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	_
 8	men	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 9	zal	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
-10	brengin	_	VERB	VB	VerbForm=Inf	7	dep	_	_
+10	brengin	_	VERB	VB	VerbForm=Inf	7	ccomp	_	_
 11	di	_	DET	D-ACC	Case=Acc|PronType=Art	12	det	_	_
 12	mlkhh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	10	obj	_	_
 
@@ -759,7 +759,7 @@
 3	hat	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 4	gizehin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	eynir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-6	ligt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+6	ligt	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 7	in	_	ADP	P	_	9	case	_	_
 8	eyn	_	DET	D	PronType=Art	9	det	_	_
 9	vinkli	_	NOUN	N-I	Definite=Ind	6	obl	_	_
@@ -2043,7 +2043,7 @@
 3	der_zehin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	fatsheyle	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-6	ligt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+6	ligt	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 7	lebin	_	ADP	P	_	8	case	_	_
 8	im	_	PRON	PRO	_	6	obl	_	_
 
@@ -2625,9 +2625,9 @@
 1	zey	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	loyfn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	oys	_	ADP	RP	_	2	compound:prt	_	_
-4	gar	_	ADV	ADV	Degree=Pos	2	dep	_	_
-5	di	_	DET	D	PronType=Art	4	det	_	_
-6	velt	_	NOUN	N-D	Definite=Def	4	conj	_	_
+4	gar	_	X	AD-ACCV	_	6	dep	_	_
+5	di	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
+6	velt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	2	obj	_	_
 
 # sent_id = 1819E-PERL,.199
 # X_ID = 1819E-PERL,106.202
@@ -2680,7 +2680,7 @@
 5	zey	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 6	habn	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
-8	gizehin	_	VERB	VBN	Tense=Past|VerbForm=Part	4	dep	_	_
+8	gizehin	_	VERB	VBN	Tense=Past|VerbForm=Part	4	ccomp	_	_
 
 # sent_id = 1819E-PERL,.203
 # X_ID = 1819E-PERL,106.206
@@ -2866,10 +2866,10 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	vidir	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	gifunin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	zeyer	_	ADV	ADV	Degree=Pos	4	dep	_	_
-6	eyn	_	DET	D	PronType=Art	5	det	_	_
-7	grusin	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-8	mentsh	_	NOUN	N-I	Definite=Ind	5	conj	_	_
+5	zeyer	_	X	AD-ACCV	_	8	dep	_	_
+6	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
+7	grusin	_	X	AD-ACCJ	_	8	dep	_	_
+8	mentsh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	_
 9	khn"l	as_is_mentioned_before	X	H	_	4	dep	_	_
 
 # sent_id = 1819E-PERL,.218
@@ -2948,7 +2948,7 @@
 9	mptsir	_	ADP	RP-H	_	10	compound:prt	_	_
 10	given	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 11	es	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-12	iz	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+12	iz	_	VERB	VBF	VerbForm=Fin	10	ccomp	_	_
 13	bvday	_	ADV	ADV	Degree=Pos	12	advmod	_	_
 14	yu	_	ADV	ADV	Degree=Pos	12	advmod	_	_
 15	da	_	ADV	ADV	Degree=Pos	12	advmod	_	_
@@ -3015,7 +3015,7 @@
 3	im	_	PRON	PRO-DTV	Case=Dat	4	iobj	_	_
 4	gienfrt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	zey	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-6	veysin	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+6	veysin	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 8	fun	_	ADP	P	_	10	case	_	_
 9	dem	_	DET	D	PronType=Art	10	det	_	_
@@ -3091,7 +3091,7 @@
 3	hat	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 4	gizagt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	es	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-6	iz	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+6	iz	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 7	bvdai	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 8	yu	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 9	da	_	ADV	ADV	Degree=Pos	6	advmod	_	_
@@ -3134,9 +3134,9 @@
 2	zey	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	loyfin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	oys	_	ADP	RP	_	3	compound:prt	_	_
-5	gar	_	ADV	ADV	Degree=Pos	3	dep	_	_
-6	di	_	DET	D	PronType=Art	5	det	_	_
-7	velt	_	NOUN	N-D	Definite=Def	5	conj	_	_
+5	gar	_	X	AD-ACCV	_	7	dep	_	_
+6	di	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
+7	velt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	3	obj	_	_
 
 # sent_id = 1819E-PERL,.238
 # X_ID = 1819E-PERL,107.241
@@ -3238,7 +3238,7 @@
 6	vet	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
 7	im	_	PRON	PRO	_	9	obl	_	_
 8	tsu_lib	_	ADP	P	_	7	case	_	_
-9	tan	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+9	tan	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 
 # sent_id = 1819E-PERL,.247
 # X_ID = 1819E-PERL,108.250

@@ -1496,9 +1496,9 @@
 24	steyt	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
 25	iz	_	AUX	BEF	VerbForm=Fin	24	cop	_	_
 26	nakh	_	ADV	ADV	Degree=Pos	24	advmod	_	_
-27	azoy	_	ADV	ADV	Degree=Pos	29	advmod	_	_
-28	eyn	_	DET	D	PronType=Art	29	det	_	_
-29	tsrh	_	NOUN	N-I	Definite=Ind	24	obl	_	_
+27	azoy	_	X	AD-NOMV	_	29	dep	_	_
+28	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	29	det	_	_
+29	tsrh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	24	obl	_	_
 30	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	24	advmod	_	_
 31	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	24	dep	_	_
 32	in	_	ADP	P	_	33	case	_	_
@@ -1724,7 +1724,7 @@
 8	in	_	ADP	P	_	9	case	_	_
 9	brunm	_	NOUN	N	_	10	obl	_	_
 10	areyn	_	ADV	ADV	Degree=Pos	11	advmod	_	_
-11	varfin	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+11	varfin	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 
 # sent_id = 1834E-UKRAINE-2,.113
 # X_ID = 1834E-UKRAINE-2,40.115
@@ -1971,9 +1971,9 @@
 # sent_id = 1834E-UKRAINE-2,.131
 # X_ID = 1834E-UKRAINE-2,40.133
 # text = nokh eyn ihudi iz givezin
-1	nokh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-2	eyn	_	DET	D	PronType=Art	3	det	_	_
-3	ihudi	_	NOUN	N-I	Definite=Ind	5	nsubj	_	_
+1	nokh	_	X	AD-NOMV	_	3	dep	_	_
+2	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
+3	ihudi	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	5	nsubj	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 5	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
@@ -2251,7 +2251,7 @@
 3	gemeynt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	zey	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 5	velin	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-6	bleybin	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+6	bleybin	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 7	lebn	_	ADP	RP-V	_	6	compound:prt	_	_
 
 # sent_id = 1834E-UKRAINE-2,.150
@@ -2351,8 +2351,8 @@
 31	r'	_	PROPN	NPR	_	28	dep	_	_
 32	bers	_	PROPN	NPR	_	28	dep	_	_
 33	mzalkvi	from_Zalkvi	X	H	_	28	dep	_	_
-34	azoy	_	ADV	ADV	Degree=Pos	39	dep	_	_
-35	eyn	_	DET	D	PronType=Art	34	det	_	_
+34	azoy	_	X	AD-ACCV	_	39	dep	_	_
+35	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	34	det	_	_
 36	mith	death	X	H	_	34	dep	_	_
 37	khmurh	UNKNOWN	X	H	_	34	dep	_	_
 38	an	_	ADP	RP	_	39	compound:prt	_	_
@@ -4104,7 +4104,7 @@
 7	velin	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
 8	kenin	_	AUX	MD	VerbForm=Inf	10	aux	_	_
 9	aribr	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-10	shifn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+10	shifn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 11	zey	_	PRON	PRO-ACC	Case=Acc	10	obj	_	_
 12	ibr	_	ADP	P	_	14	case	_	_
 13	dem	_	DET	D	PronType=Art	14	det	_	_
@@ -5205,7 +5205,7 @@
 4	zogt	_	VERB	VBF	VerbForm=Fin	16	advcl	_	_
 5	anders	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	ir	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-7	zeyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+7	zeyt	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 8	dos	_	DET	D	PronType=Art	9	det	_	_
 9	khil	_	NOUN	N-D	Definite=Def	7	xcomp	_	_
 10	fun	_	ADP	P	_	11	case	_	_
@@ -5287,8 +5287,8 @@
 3	habin	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 4	di	_	DET	D-DTV	Case=Dat|PronType=Art	5	det	_	_
 5	ihudim	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	8	iobj	_	_
-6	gar	_	ADV	ADV	Degree=Pos	8	dep	_	_
-7	nit	_	DET	Q	_	6	det	_	_
+6	gar	_	ADV	ADV	Degree=Pos	8	obj	_	_
+7	nit	_	DET	Q-ACC	Case=Acc	6	det	_	_
 8	gitan	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1834E-UKRAINE-2,.345

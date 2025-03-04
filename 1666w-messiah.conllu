@@ -590,7 +590,7 @@
 15	libh	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	16	amod	_	_
 16	gat	_	PROPN	NPR-D	_	13	nsubj	_	_
 17	mir	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
-18	habn	_	VERB	VBF	VerbForm=Fin	13	dep	_	_
+18	habn	_	VERB	VBF	VerbForm=Fin	13	ccomp	_	_
 19	unzrn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	20	det:poss	_	_
 20	mlkh	_	NOUN	N	_	18	obj	_	_
 
@@ -2170,8 +2170,8 @@
 # sent_id = 1666W-MESSIAH,.159
 # X_ID = 1666W-MESSIAH,40.201
 # text = nakh mer hbin oyz spet unzr bridr gshribn
-1	nakh	_	ADV	ADV	Degree=Pos	8	dep	_	_
-2	mer	_	DET	QR	_	1	det	_	_
+1	nakh	_	ADV	ADV	Degree=Pos	8	obj	_	_
+2	mer	_	DET	QR-ACC	Case=Acc	1	det	_	_
 3	hbin	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 4	oyz	_	ADP	P	_	5	case	_	_
 5	spet	_	NOUN	N	_	8	obl	_	_
@@ -2194,7 +2194,7 @@
 10	verin	_	AUX	RDF	VerbForm=Fin	13	aux	_	_
 11	mir	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 12	zukhh	_	ADP	RP-H	_	13	compound:prt	_	_
-13	zeyn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+13	zeyn	_	VERB	VB	VerbForm=Inf	6	ccomp	_	_
 14	krbnut	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
 15	tsu	_	PART	TO	_	16	mark	_	_
 16	senkin	_	VERB	VB	VerbForm=Inf	13	xcomp	_	_
@@ -2283,7 +2283,7 @@
 13	itbrkh	may_be_blessed	X	H	_	12	dep	_	_
 14	zal	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
 15	mshikh	_	PROPN	NPR-ACC	_	16	dep	_	_
-16	sikn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+16	sikn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 17	tsu	_	PART	TO	_	18	advcl	_	_
 18	lizn	_	VERB	VB	VerbForm=Inf	16	advcl	_	_
 19	oyz	_	ADP	RP	_	18	compound:prt	_	_
@@ -2385,7 +2385,7 @@
 14	armh	_	ADJ	ADJ-DTV	Case=Dat|Degree=Pos	15	amod	_	_
 15	leyt	_	NOUN	N-DTV	Case=Dat	17	iobj	_	_
 16	vaul	_	ADV	ADV	Degree=Pos	17	advmod	_	_
-17	teyln	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+17	teyln	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 18	mit	_	ADV	RP-ADV	_	17	advmod	_	_
 19	das	_	SCONJ	C	_	23	mark	_	_
 20	zi	_	PRON	PRO-NOM	Case=Nom	23	nsubj	_	_
@@ -2429,7 +2429,7 @@
 9	arts	_	NOUN	N	_	12	obl	_	_
 10	isral	_	PROPN	NPR	_	9	dep	_	_
 11	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
-12	habn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+12	habn	_	VERB	VB	VerbForm=Inf	1	ccomp	_	_
 13	%t%-1	_	ADP	PP	_	12	dep	_	_
 14	tsu	_	PART	TO	_	15	mark	_	_
 15	lebn	_	VERB	VB	VerbForm=Inf	13	xcomp	_	_

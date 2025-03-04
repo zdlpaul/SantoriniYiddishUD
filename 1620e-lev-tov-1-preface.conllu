@@ -40,7 +40,7 @@
 4	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
 5	nimnt	_	DET	Q-ACC	Case=Acc	7	obj	_	_
 6	%ich%-1	_	SCONJ	CP-REL	_	5	acl:relcl	_	_
-7	giroyan	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+7	giroyan	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 8	der	_	PRON	WPRO	_	13	obj	_	_
 9	%t%-2	_	NOUN	NP-SBJ	_	13	nsubj	_	_
 10	es	_	PRON	PRO-ACC	Case=Acc	13	obj	_	_
@@ -124,7 +124,7 @@
 12	kenn	_	NOUN	N	_	15	obl	_	_
 13	un	_	CCONJ	CONJ	_	14	cc	_	_
 14	leyann	_	NOUN	N	_	12	conj	_	_
-15	ligt	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+15	ligt	_	VERB	VBF	VerbForm=Fin	10	ccomp	_	_
 16	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	15	nsubj	_	_
 17	dran	_	ADP	P	_	15	obl	_	_
 
@@ -1065,9 +1065,9 @@
 6	der_veyl	_	ADV	ADV	Degree=Pos	12	advmod	_	_
 7	dz	_	SCONJ	C	_	12	mark	_	_
 8	zi	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-9	azu	_	ADV	ADV	Degree=Pos	12	dep	_	_
-10	eyn	_	DET	D	PronType=Art	9	det	_	_
-11	givaunit	_	NOUN	N-I	Definite=Ind	9	conj	_	_
+9	azu	_	X	AD-ACCV	_	11	dep	_	_
+10	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
+11	givaunit	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	12	obj	_	_
 12	habn	_	VERB	VBF	VerbForm=Fin	2	advcl	_	_
 13	az	_	SCONJ	C	_	17	mark	_	_
 14	%t%-1	_	ADV	ADVP	Degree=Pos	17	advmod	_	_
@@ -1115,7 +1115,7 @@
 10	meynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 11	er	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 12	ez	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
-13	zey	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+13	zey	_	VERB	VBF	VerbForm=Fin	10	ccomp	_	_
 14	im	_	PRON	PRO-DTV	Case=Dat	13	iobj	_	_
 15	musr	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
 

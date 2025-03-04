@@ -97,9 +97,9 @@
 3	,	_	PUNCT	PUNC	_	5	punct	_	_
 4	do	_	DET	DR	_	5	obl	_	_
 5	zitst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-6	nokh	_	ADV	ADV	Degree=Pos	8	advmod	_	_
-7	an	_	DET	D	PronType=Art	8	det	_	_
-8	mensh	_	NOUN	N-I	Definite=Ind	5	nsubj	_	_
+6	nokh	_	X	AD-NOMV	_	8	dep	_	_
+7	an	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
+8	mensh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	5	nsubj	_	_
 9	%ich%-1	_	NOUN	NP	_	5	obl	_	_
 10	in	_	ADP	P	_	9	case	_	_
 
@@ -405,6 +405,6 @@
 1	den	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	vas@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	@tu	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-4	gor	_	ADV	ADV	Degree=Pos	2	dep	_	_
-5	niks	_	DET	Q	_	4	det	_	_
+4	gor	_	ADV	ADV	Degree=Pos	2	obj	_	_
+5	niks	_	DET	Q-ACC	Case=Acc	4	det	_	_
 

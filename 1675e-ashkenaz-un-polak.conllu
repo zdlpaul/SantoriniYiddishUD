@@ -229,7 +229,7 @@
 9	gar	_	ADV	ADV	Degree=Pos	7	conj	_	_
 10	gnts	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	11	amod	_	_
 11	ashknz	_	PROPN	NPR	_	12	nsubj	_	_
-12	iz	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+12	iz	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 13	eyn	_	DET	D	PronType=Art	14	det	_	_
 14	stat	_	NOUN	N-I	Definite=Ind	12	xcomp	_	_
 
@@ -1142,7 +1142,7 @@
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 6	mer	_	DET	QR	_	8	dep	_	_
 7	an	_	ADP	RP	_	8	compound:prt	_	_
-8	tsindn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+8	tsindn	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.78
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,543.82
@@ -1170,7 +1170,7 @@
 9	fr	_	ADP	P	_	10	case	_	_
 10	gelt	_	NOUN	N	_	8	obl	_	_
 11	er	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-12	est	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+12	est	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 13	keyns	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	12	obj	_	_
 14	veyl	_	SCONJ	C	_	16	mark	_	_
 15	er	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
@@ -1459,8 +1459,8 @@
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.102
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,544.107
 # text = nakh eyns ligt mir in meyn magn
-1	nakh	_	ADV	ADV	Degree=Pos	3	nsubj	_	_
-2	eyns	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+1	nakh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+2	eyns	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	nsubj	_	_
 3	ligt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	mir	_	PRON	PRO-DTV	Case=Dat	3	iobj	_	_
 5	in	_	ADP	P	_	7	case	_	_
@@ -1518,7 +1518,7 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	meynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	far_lamt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+4	far_lamt	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 5	un'	_	CCONJ	CONJ	_	6	cc	_	_
 6	fr_krumt	_	VERB	VBF	VerbForm=Fin	4	conj	_	_
 
@@ -1703,8 +1703,8 @@
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.118
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,544.123
 # text = nakh eyns muz ikh eykh zagn
-1	nakh	_	ADV	ADV	Degree=Pos	6	dep	_	_
-2	eyns	_	PRON	PRO	_	1	nmod	_	_
+1	nakh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+2	eyns	_	PRON	PRO-ACC	Case=Acc	6	obj	_	_
 3	muz	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
 4	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 5	eykh	_	PRON	PRO-DTV	Case=Dat	6	iobj	_	_
@@ -2033,7 +2033,7 @@
 8	mn	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 9	vert	_	AUX	RDF	VerbForm=Fin	11	aux	_	_
 10	zi	_	PRON	PRO-ACC	Case=Acc	11	obj	_	_
-11	vergn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+11	vergn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 12	zi	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 13	loyfn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 14	in	_	ADP	P	_	15	case	_	_
@@ -2477,8 +2477,8 @@
 # text = er nemt nakh eyni dr_tsu
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	nemt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	nakh	_	ADV	ADV	Degree=Pos	2	dep	_	_
-4	eyni	_	PRON	PRO	_	3	nmod	_	_
+3	nakh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+4	eyni	_	PRON	PRO-ACC	Case=Acc	2	obj	_	_
 5	dr_tsu	_	ADP	P	_	2	obl	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.175
@@ -3107,7 +3107,7 @@
 11	er	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 12	meynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 13	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	14	expl	_	_
-14	ver	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
+14	ver	_	VERB	VBF	VerbForm=Fin	12	ccomp	_	_
 15	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	14	advmod	_	_
 16	fr_hndn	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
 17	zeyns	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	18	det:poss	_	_
@@ -3149,7 +3149,7 @@
 3	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 4	vil	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
 5	ashknz	_	PROPN	NPR-ACC	_	6	dep	_	_
-6	fapin	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+6	fapin	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 7	az	_	SCONJ	C	_	14	mark	_	_
 8	mn	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 9	im	_	PRON	PRO-DTV	Case=Dat	14	iobj	_	_
@@ -3209,7 +3209,7 @@
 2	meynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	uksn	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
-5	kumn	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+5	kumn	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 6	in	_	ADP	P	_	7	case	_	_
 7	stal	_	NOUN	N	_	5	obl	_	_
 8	gbratn	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
@@ -3502,7 +3502,7 @@
 3	,	_	PUNCT	PUNC	_	2	punct	_	_
 4	andri	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	5	amod	_	_
 5	leyt	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
-6	zeyn	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+6	zeyn	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 7	az	_	ADP	P	_	9	case	_	_
 8	daz	_	DET	D	PronType=Art	9	det	_	_
 9	fikh	_	NOUN	N-D	Definite=Def	6	obl	_	_
@@ -3639,7 +3639,7 @@
 3	meynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 5	ver	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
-6	zeyn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+6	zeyn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 7	krub	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 8	gnts	_	ADV	ADV	Degree=Pos	6	amod	_	_
 9	un'	_	CCONJ	CONJ	_	10	cc	_	_
@@ -3980,7 +3980,7 @@
 3	valt	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
 4	zagn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 5	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-6	ver	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+6	ver	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 7	den	_	DET	D-DTV	Case=Dat|PronType=Art	9	det	_	_
 8	pregr	_	ADJ	ADJ-DTV	Case=Dat|Degree=Pos	9	amod	_	_
 9	khkhm	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	6	iobj	_	_
@@ -4030,7 +4030,7 @@
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	gloyb	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	zi	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	zeyn	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+4	zeyn	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 5	kligr	_	ADJ	ADJR	Degree=Pos	4	amod	_	_
 6	un'	_	CCONJ	CONJ	_	7	cc	_	_
 7	nakh	_	ADV	ADV	Degree=Pos	5	amod	_	_

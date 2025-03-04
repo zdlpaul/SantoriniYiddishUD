@@ -184,7 +184,7 @@
 8	fun	_	ADP	P	_	9	case	_	_
 9	da	_	ADV	ADV	Degree=Pos	11	obl	_	_
 10	ab	_	ADP	RP	_	11	compound:prt	_	_
-11	rukin	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+11	rukin	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 12	gimuzt	_	AUX	MDN	Tense=Past|VerbForm=Part	11	aux	_	_
 13	vegn	_	ADP	P	_	15	case	_	_
 14	eyni	_	DET	D	PronType=Art	15	det	_	_
@@ -1233,7 +1233,7 @@
 14	mekhtin	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 15	ire	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	16	det:poss	_	_
 16	kinder	_	NOUN	N	_	17	nsubj	_	_
-17	gshmad	_	VERB	VAN	Tense=Past|VerbForm=Part	7	dep	_	_
+17	gshmad	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
 18	verin	_	AUX	RD	VerbForm=Inf	17	aux	_	_
 
 # sent_id = 1783E-UKRAINE-1,.88
@@ -1282,9 +1282,9 @@
 20	nur	_	ADV	FP	Degree=Pos	23	advmod	_	_
 21	gelt	_	NOUN	N-ACC	Case=Acc	23	obj	_	_
 22	gnug	_	ADV	Q-ACC	Case=Acc	21	advmod	_	_
-23	brengin	_	VERB	VB	VerbForm=Inf	13	dep	_	_
+23	brengin	_	VERB	VB	VerbForm=Inf	13	ccomp	_	_
 24	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	25	expl	_	_
-25	gsikht	_	VERB	VBF	VerbForm=Fin	23	dep	_	_
+25	gsikht	_	VERB	VBF	VerbForm=Fin	23	ccomp	_	_
 26	keyn	_	DET	Q-DTV-NEG	Case=Dat|PronType=Neg	25	iobj	_	_
 27	nikhts	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	25	nsubj	_	_
 
@@ -1909,7 +1909,7 @@
 6	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 7	zal	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
 8	dakh	_	ADV	ADV	Degree=Pos	9	advmod	_	_
-9	helfin	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+9	helfin	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 
 # sent_id = 1783E-UKRAINE-1,.137
 # X_ID = 1783E-UKRAINE-1,35.143
@@ -2233,8 +2233,8 @@
 3	abr	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	makhtin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	zikh	_	PRON	PRO-RFL	PronType=Reflex	4	expl:pv	_	_
-6	gar	_	ADV	ADV	Degree=Pos	4	dep	_	_
-7	nikhts	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
+6	gar	_	ADV	ADV	Degree=Pos	4	obj	_	_
+7	nikhts	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	det	_	_
 8	drus	_	ADP	P	_	4	obl	_	_
 
 # sent_id = 1783E-UKRAINE-1,.164

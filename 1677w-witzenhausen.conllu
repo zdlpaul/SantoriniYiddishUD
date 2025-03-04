@@ -49,11 +49,11 @@
 46	drum	_	ADP	P	_	47	dep	_	_
 47	%ich%-2	_	X	IP-MAT-THT	_	49	dep	_	_
 48	fil	_	DET	Q-ACC	Case=Acc	49	obj	_	_
-49	genumen	_	VERB	VBN	Tense=Past|VerbForm=Part	38	dep	_	_
+49	genumen	_	VERB	VBN	Tense=Past|VerbForm=Part	38	ccomp	_	_
 50	er	_	PRON	PRO-NOM	Case=Nom	53	nsubj	_	_
 51	hot	_	AUX	HVF	VerbForm=Fin	53	aux	_	_
 52	velen	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	53	aux	_	_
-53	zen	_	VERB	VB	VerbForm=Inf	49	dep	_	_
+53	zen	_	VERB	VB	VerbForm=Inf	49	ccomp	_	_
 54	oyb	_	SCONJ	C	_	59	mark	_	_
 55	zi	_	PRON	PRO-NOM	Case=Nom	59	nsubj	_	_
 56	ale	_	ADV	Q	_	59	advmod	_	_

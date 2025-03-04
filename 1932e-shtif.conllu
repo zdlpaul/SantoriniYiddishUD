@@ -2942,7 +2942,7 @@
 10	"	_	PUNCT	PUNC	_	11	punct	_	_
 11	velkher	_	PRON	WPRO	_	8	obl	_	SpaceAfter=No
 12	"	_	PUNCT	PUNC	_	13	punct	_	_
-13	tref	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
+13	tref	_	VERB	VBF	VerbForm=Fin	5	ccomp	_	_
 14	zikh	_	PRON	PRO-RFL	PronType=Reflex	13	expl:pv	_	_
 15	in	_	ADP	P	_	18	case	_	_
 16	di	_	DET	D	PronType=Art	18	det	_	_

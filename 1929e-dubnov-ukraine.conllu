@@ -832,9 +832,9 @@
 8	in	_	ADP	P	_	10	case	_	_
 9	demzelbikn	_	DET	D	PronType=Art	10	det	_	_
 10	stil	_	NOUN	N	_	4	obl	_	_
-11	nakh	_	ADV	ADV	Degree=Pos	4	dep	_	_
-12	askh	_	DET	Q	_	11	det	_	_
-13	frtim	_	NOUN	N	_	11	conj	_	_
+11	nakh	_	ADV	ADV	Degree=Pos	13	advmod	_	_
+12	askh	_	DET	Q-ACC	Case=Acc	13	det	_	_
+13	frtim	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
 14	barikhut	_	X	X	_	15	dep	_	_
 15	dertseylt	_	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	_
 16	bazundere	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	17	amod	_	_

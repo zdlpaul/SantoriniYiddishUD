@@ -5,7 +5,7 @@
 2	habin	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
 3	gimeynt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	mir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-5	zeynn	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+5	zeynn	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 6	foygil_freya	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 
 # sent_id = 1717E-POZNAN,.2
@@ -73,7 +73,7 @@
 1	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	zagin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	zi	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	kumin	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+4	kumin	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 5	nar	_	ADV	FP	Degree=Pos	7	advmod	_	_
 6	oys	_	ADP	RP	_	7	compound:prt	_	_
 7	spehin	_	VERB	VB	VerbForm=Inf	4	advcl	_	_
@@ -111,7 +111,7 @@
 4	gmeynt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	zi	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 6	vern	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
-7	nemn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+7	nemn	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 8	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	det:poss	_	_
 9	hub	_	NOUN	N	_	7	obj	_	_
 10	un	_	CCONJ	CONJ	_	11	cc	_	_
@@ -127,7 +127,7 @@
 5	gitrakht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	zi	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 7	vern	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
-8	nemn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+8	nemn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 9	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	det:poss	_	_
 10	blut	_	NOUN	N	_	8	obj	_	_
 
@@ -397,7 +397,7 @@
 2	verin	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
 3	alz	_	DET	Q-ACC	Case=Acc	5	obj	_	_
 4	oys	_	ADP	RP	_	5	compound:prt	_	_
-5	reysin	_	VERB	VB	VerbForm=Inf	9	dep	_	_
+5	reysin	_	VERB	VB	VerbForm=Inf	9	ccomp	_	_
 6	kh"v	have_mercy_and_peace	X	H	_	9	dep	_	_
 7	habin	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
 8	mir	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
@@ -493,7 +493,7 @@
 10	fatr	_	NOUN	N	_	13	obj	_	_
 11	un	_	CCONJ	CONJ	_	12	cc	_	_
 12	mutr	_	NOUN	N	_	10	conj	_	_
-13	hrg'in	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+13	hrg'in	_	VERB	VB	VerbForm=Inf	6	ccomp	_	_
 14	iz	_	AUX	BEF	VerbForm=Fin	17	cop	_	_
 15	ez	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
 16	avek	_	ADV	RP-ADV	_	17	advmod	_	_
@@ -889,7 +889,7 @@
 10	zaln	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 11	zeyn	_	AUX	BE	VerbForm=Inf	13	cop	_	_
 12	an	_	ADP	RP	_	13	compound:prt	_	_
-13	gbreyt	_	VERB	VAN	Tense=Past|VerbForm=Part	7	dep	_	_
+13	gbreyt	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
 
 # sent_id = 1717E-POZNAN,.62
 # X_ID = 1717E-POZNAN,86.66
@@ -943,7 +943,7 @@
 16	hek	_	NOUN	N	_	19	obj	_	_
 17	val	_	ADV	ADV	Degree=Pos	19	advmod	_	_
 18	an	_	ADP	RP	_	19	compound:prt	_	_
-19	sarfin	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+19	sarfin	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 20	zi	_	PRON	PRO-NOM	Case=Nom	28	nsubj	_	_
 21	zalin	_	AUX	MDF	VerbForm=Fin	28	aux	_	_
 22	zikh	_	PRON	PRO-RFL	PronType=Reflex	28	expl:pv	_	_
@@ -952,7 +952,7 @@
 25	ihudim	_	NOUN	N-D	Definite=Def	28	obl	_	_
 26	%ich%-2	_	NOUN	NP-PRN	_	25	appos	_	_
 27	nukm_unutr	_	ADP	RP-H	_	28	compound:prt	_	_
-28	zeyn	_	VERB	VB	VerbForm=Inf	19	dep	_	_
+28	zeyn	_	VERB	VB	VerbForm=Inf	19	ccomp	_	_
 29	%ich%-1	_	NOUN	NP-ACC	_	31	dep	_	_
 30	tsu	_	PART	TO	_	31	mark	_	_
 31	fr_tilgn	_	VERB	VB	VerbForm=Inf	28	xcomp	_	_

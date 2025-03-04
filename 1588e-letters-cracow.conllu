@@ -85,7 +85,7 @@
 4	giferkht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	ez	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 6	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
-7	gisehn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+7	gisehn	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.7
 # X_ID = 1588E-LETTERS-CRACOW,51.10
@@ -148,7 +148,7 @@
 14	t"u	15	NUM	NUM-ACC	Case=Acc	15	nummod	_	_
 15	vail	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	17	obj	_	_
 16	an	_	ADP	RP	_	17	compound:prt	_	_
-17	givardin	_	VERB	VBN	Tense=Past|VerbForm=Part	10	dep	_	_
+17	givardin	_	VERB	VBN	Tense=Past|VerbForm=Part	10	ccomp	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.12
 # X_ID = 1588E-LETTERS-CRACOW,51.15
@@ -200,10 +200,10 @@
 # sent_id = 1588E-LETTERS-CRACOW,.16
 # X_ID = 1588E-LETTERS-CRACOW,51.19
 # text = oykh di elnt heyt hab ikh fr_kuft bed u' sak ukhtsi kh"a ...
-1	oykh	_	ADV	ADV	Degree=Pos	7	dep	_	_
-2	di	_	DET	D	PronType=Art	1	det	_	_
-3	elnt	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-4	heyt	_	NOUN	N-D	Definite=Def	1	conj	_	_
+1	oykh	_	X	AD-ACCV	_	4	dep	_	_
+2	di	_	DET	D-ACC	Case=Acc|PronType=Art	4	det	_	_
+3	elnt	_	X	AD-ACCJ	_	4	dep	_	_
+4	heyt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	7	obj	_	_
 5	hab	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 7	fr_kuft	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -960,7 +960,7 @@
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	hlt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	ir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	kent	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+4	kent	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 5	mikh	_	PRON	PRO-ACC	Case=Acc	4	obj	_	_
 6	vaul	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 7	dz	_	SCONJ	C	_	14	mark	_	_
@@ -1344,8 +1344,8 @@
 6	lebn	_	PROPN	NPR	_	5	flat:name	_	_
 7	drft	_	VERB	MDF	VerbForm=Fin	0	root	_	_
 8	ir	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-9	gar	_	ADV	ADV	Degree=Pos	12	dep	_	_
-10	niks	_	DET	Q	_	9	det	_	_
+9	gar	_	ADV	ADV	Degree=Pos	12	obj	_	_
+10	niks	_	DET	Q-ACC	Case=Acc	9	det	_	_
 11	tsu	_	PART	TO	_	12	mark	_	_
 12	zargn	_	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 13	fr	_	ADP	P	_	14	case	_	_
@@ -1379,8 +1379,8 @@
 5	vil	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
 6	%pro%	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 7	ir	_	PRON	PRO-DTV	Case=Dat	10	iobj	_	_
-8	nakh	_	ADV	ADV	Degree=Pos	10	dep	_	_
-9	vaz	_	DET	Q	_	8	det	_	_
+8	nakh	_	ADV	ADV	Degree=Pos	10	obj	_	_
+9	vaz	_	DET	Q-ACC	Case=Acc	8	det	_	_
 10	leyan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.95
@@ -1455,7 +1455,7 @@
 7	mkhukh	because_of	X	H	_	10	dep	_	_
 8	al	on	X	H	_	7	dep	_	_
 9	hpuel	the_reality	X	H	_	7	dep	_	_
-10	zeyn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+10	zeyn	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.99
 # X_ID = 1588E-LETTERS-CRACOW,53.103
@@ -1616,7 +1616,7 @@
 7	mskurt	UNKNOWN	X	H	_	6	dep	_	_
 8	esrt	ten	X	H	_	6	dep	_	_
 9	mugi'm	_	ADP	RP-H	_	10	compound:prt	_	_
-10	gevezin	_	VERB	VBN	Tense=Past|VerbForm=Part	2	dep	_	SpaceAfter=No
+10	gevezin	_	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.109
@@ -1795,7 +1795,7 @@
 23	het	_	AUX	HVF	VerbForm=Fin	26	aux	_	_
 24	zer	_	ADV	ADV	Degree=Pos	26	obl	_	_
 25	fil	_	DET	Q	_	24	det	_	_
-26	gistndin	_	VERB	VBN	Tense=Past|VerbForm=Part	21	dep	_	_
+26	gistndin	_	VERB	VBN	Tense=Past|VerbForm=Part	21	ccomp	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.121
 # X_ID = 1588E-LETTERS-CRACOW,54.125
@@ -1967,12 +1967,12 @@
 9	zult	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 10	got	_	PROPN	NPR-ACC	_	12	dep	_	_
 11	an	_	ADP	RP	_	12	compound:prt	_	_
-12	zehn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+12	zehn	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 13	un	_	CCONJ	CONJ	_	17	cc	_	_
 14	%con%	_	NOUN	NP-SBJ	_	17	nsubj	_	_
 15	zult	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 16	der_tsu	_	ADP	P	_	17	obl	_	_
-17	tun	_	VERB	VB	VerbForm=Inf	12	dep	_	_
+17	tun	_	VERB	VB	VerbForm=Inf	12	ccomp	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.131
 # X_ID = 1588E-LETTERS-CRACOW,66.137
@@ -2333,14 +2333,14 @@
 4	zeit	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 5	al	_	ADV	Q	_	7	advmod	_	_
 6	eyn_vek	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-7	gilufn	_	VERB	VBN	Tense=Past|VerbForm=Part	2	dep	_	_
+7	gilufn	_	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	_	_
 8	un	_	CCONJ	CONJ	_	14	cc	_	_
 9	di	_	DET	D-ACC	Case=Acc|PronType=Art	10	det	_	_
 10	hkhrzes	_	NOUN	N-ACC	Case=Acc	14	obj	_	_
 11	ali	_	ADV	Q-ACC	Case=Acc	10	advmod	_	_
 12	%ich%-2	_	SCONJ	CP-REL	_	10	acl:relcl	_	_
 13	vaul	_	ADV	ADV	Degree=Pos	14	advmod	_	_
-14	givist	_	VERB	VBN	Tense=Past|VerbForm=Part	7	dep	_	_
+14	givist	_	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	_
 15	di	_	PRON	WPRO	_	19	obj	_	_
 16	%t%-3	_	NOUN	NP-ACC	_	19	dep	_	_
 17	men	_	PRON	PRO-NOM	Case=Nom	19	nsubj	_	_

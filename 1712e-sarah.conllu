@@ -381,7 +381,7 @@
 11	zaln	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
 12	fr	_	ADP	P	_	13	case	_	_
 13	mir	_	PRON	PRO	_	14	obl	_	_
-14	betn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+14	betn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 15	az	_	SCONJ	C	_	22	mark	_	_
 16	meyni	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	18	det:poss	_	_
 17	beydi	_	DET	Q	_	18	det	_	_
@@ -429,7 +429,7 @@
 17	ir	_	PRON	PRO-NOM	Case=Nom	20	nsubj	_	_
 18	zalt	_	AUX	MDF	VerbForm=Fin	20	aux	_	_
 19	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	20	advmod	_	_
-20	shmuesin	_	VERB	VB	VerbForm=Inf	11	dep	_	_
+20	shmuesin	_	VERB	VB	VerbForm=Inf	11	ccomp	_	_
 21	in	_	ADP	P	_	22	case	_	_
 22	shul	_	NOUN	N	_	20	obl	_	_
 

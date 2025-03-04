@@ -1011,7 +1011,7 @@
 12	,	_	PUNCT	PUNC	_	9	punct	_	_
 13	shvedn	_	NOUN	N-NOM	Case=Nom	15	nsubj	_	_
 14	zolt	_	AUX	MDF	VerbForm=Fin	15	aux	_	_
-15	vern	_	VERB	VB	VerbForm=Inf	9	dep	_	_
+15	vern	_	VERB	VB	VerbForm=Inf	9	ccomp	_	_
 16	tsu	_	ADV	ADV	Degree=Pos	17	amod	_	_
 17	shtark	_	ADJ	ADJ	Degree=Pos	15	amod	_	SpaceAfter=No
 18	,	_	PUNCT	PUNC	_	5	punct	_	_
@@ -1428,14 +1428,14 @@
 24	,	_	PUNCT	PUNC	_	21	punct	_	_
 25	er	_	PRON	PRO-NOM	Case=Nom	27	nsubj	_	_
 26	zol	_	AUX	MDF	VerbForm=Fin	27	aux	_	_
-27	beshteminm	_	VERB	VB	VerbForm=Inf	21	dep	_	_
+27	beshteminm	_	VERB	VB	VerbForm=Inf	21	ccomp	_	_
 28	ale	_	DET	Q-ACC	Case=Acc	30	det	_	_
 29	frierdike	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	30	amod	_	_
 30	privilegies	_	NOUN	N-ACC	Case=Acc	27	obj	_	_
 31	un	_	CCONJ	CONJ	_	34	cc	_	_
 32	akhuts	_	ADP	P	_	33	case	_	_
 33	dem	_	DET	D	PronType=Art	34	obl	_	_
-34	farvern	_	VERB	VB	VerbForm=Inf	27	dep	_	_
+34	farvern	_	VERB	VB	VerbForm=Inf	27	ccomp	_	_
 35	yidn	_	NOUN	N-ACC	Case=Acc	34	obj	_	_
 36	tsu	_	PART	TO	_	37	mark	_	_
 37	vaoynen	_	VERB	VB	VerbForm=Inf	34	xcomp	_	_
@@ -1467,7 +1467,7 @@
 19	zol	_	AUX	MDF	VerbForm=Fin	22	aux	_	_
 20	aroys@	_	ADV	ADV	Degree=Pos	22	advmod	_	_
 21	%ich%-2	_	ADP	PP	_	20	obl	_	_
-22	@shikn	_	VERB	VB	VerbForm=Inf	7	dep	_	_
+22	@shikn	_	VERB	VB	VerbForm=Inf	7	ccomp	_	_
 23	ale	_	DET	Q-ACC	Case=Acc	24	det	_	_
 24	yidn	_	NOUN	N-ACC	Case=Acc	22	obj	_	_
 25	fun	_	ADP	P	_	26	case	_	_

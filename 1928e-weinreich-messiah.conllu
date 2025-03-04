@@ -301,10 +301,10 @@
 5	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 6	ober	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 7	tsugekumen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	_
-8	nokh	_	ADV	ADV	Degree=Pos	11	advmod	_	_
-9	a	_	DET	D	PronType=Art	11	det	_	_
-10	spetsiele	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
-11	sibh	_	NOUN	N-I	Definite=Ind	7	nsubj	_	_
+8	nokh	_	X	AD-NOMV	_	11	dep	_	_
+9	a	_	DET	D-NOM	Case=Nom|PronType=Art	11	det	_	_
+10	spetsiele	_	X	AD-NOMJ	_	11	dep	_	_
+11	sibh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	7	nsubj	_	_
 
 # sent_id = 1928E-WEINREICH-MESSIAH,.18
 # X_ID = 1928E-WEINREICH-MESSIAH,219.20
@@ -974,7 +974,7 @@
 6	tsum	_	ADP	P-CL	_	7	case	_	_
 7	onhoyb	_	NOUN	N	_	5	obl	_	_
 8	mir	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-9	veysn	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+9	veysn	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 10	vegn	_	ADP	P	_	11	case	_	_
 11	im	_	PRON	PRO	_	9	obl	_	_
 12	gornit	_	DET	Q-ACC	Case=Acc	9	obj	_	_

@@ -57,7 +57,7 @@
 7	libr	_	ADV	ADVR	Degree=Cmp	10	advmod	_	_
 8	den	_	DET	D-ACC	Case=Acc|PronType=Art	9	det	_	_
 9	hlz	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	10	obj	_	_
-10	brekhn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+10	brekhn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 11	i	_	SCONJ	C	_	15	mark	_	_
 12	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 13	den	_	DET	D-ACC	Case=Acc|PronType=Art	14	det	_	_
@@ -157,7 +157,7 @@
 7	gutts	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	6	amod	_	_
 8	der_fun	_	ADP	P	_	10	obl	_	_
 9	her	_	ADV	RP-ADV	_	10	advmod	_	_
-10	kumen	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+10	kumen	_	VERB	VB	VerbForm=Inf	1	ccomp	_	_
 
 # sent_id = 1792W-HISTORIE,.13
 # X_ID = 1792W-HISTORIE,552.16
@@ -176,7 +176,7 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	1	punct	_	_
 4	ashknz	_	PROPN	NPR-SBJ	_	5	nsubj	_	_
-5	izt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+5	izt	_	VERB	VBF	VerbForm=Fin	1	ccomp	_	_
 6	eyn	_	DET	D	PronType=Art	8	det	_	_
 7	shinh	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 8	mdinh	_	NOUN	N	_	5	xcomp	_	_
@@ -190,9 +190,9 @@
 1	nemt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	zikh	_	PRON	PRO-RFL	PronType=Reflex	1	expl:pv	_	_
-4	nakh	_	ADV	ADV	Degree=Pos	1	dep	_	_
-5	eyn	_	DET	D	PronType=Art	4	det	_	_
-6	vab	_	NOUN	N-I	Definite=Ind	4	conj	_	_
+4	nakh	_	X	AD-ACCV	_	6	dep	_	_
+5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
+6	vab	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	1	obj	_	_
 
 # sent_id = 1792W-HISTORIE,.16
 # X_ID = 1792W-HISTORIE,552.19
@@ -433,7 +433,7 @@
 9	tsvey	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	veybr	_	NOUN	N-D	Definite=Def	6	obl	_	_
 11	gt	_	PROPN	NPR-DTV	_	12	dep	_	_
-12	gebn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+12	gebn	_	VERB	VB	VerbForm=Inf	1	ccomp	_	_
 
 # sent_id = 1792W-HISTORIE,.37
 # X_ID = 1792W-HISTORIE,553.41

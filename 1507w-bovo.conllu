@@ -19,7 +19,7 @@
 4	alih	_	PROPN	NPR-SBJ	_	7	nsubj	_	_
 5	bhur@	_	PROPN	NPR	_	4	flat:name	_	_
 6	@s	_	PRON	PRO-ACC	Case=Acc	7	obj	_	_
-7	gimekht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+7	gimekht	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 
 # sent_id = 1507W-BOVO,.3
 # X_ID = 1507W-BOVO,Title.5
@@ -2618,7 +2618,7 @@
 4	mn	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 5	zult	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
 6	oyf	_	ADP	RP	_	7	compound:prt	_	_
-7	trumbitn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+7	trumbitn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 
 # sent_id = 1507W-BOVO,.191
 # X_ID = 1507W-BOVO,27.221
@@ -3638,7 +3638,7 @@
 1	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	meyntn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	ver	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+4	ver	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 5	nukh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	az	_	ADP	P	_	8	case	_	_
 7	vur	_	ADP	P	_	8	case	_	_
@@ -5636,7 +5636,7 @@
 5	di	_	DET	D	PronType=Art	7	det	_	_
 6	boyz	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	hoyt	_	NOUN	N-D	Definite=Def	4	appos	_	_
-8	mn	_	PRON	PRO-NOM	Case=Nom	2	dep	_	_
+8	mn	_	PRON	PRO-NOM	Case=Nom	2	ccomp	_	_
 9	vur	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
 10	hurn	_	VERB	VAG	Tense=Pres|VerbForm=Part	8	amod	_	_
 11	ds	_	DET	D-ACC	Case=Acc|PronType=Art	12	det	_	_

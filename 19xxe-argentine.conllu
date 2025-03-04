@@ -406,7 +406,7 @@
 7	iber@	_	ADP	P	_	9	case	_	_
 8	@a@	_	DET	D	PronType=Art	9	det	_	_
 9	@yor	_	NOUN	N	_	10	obl	_	_
-10	derlebn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+10	derlebn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 11	tsu	_	PART	TO	_	12	mark	_	_
 12	derlangen	_	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 13	zayne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	15	det:poss	_	_
