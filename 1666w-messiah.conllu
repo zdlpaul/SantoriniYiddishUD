@@ -2170,8 +2170,8 @@
 # sent_id = 1666W-MESSIAH,.159
 # X_ID = 1666W-MESSIAH,40.201
 # text = nakh mer hbin oyz spet unzr bridr gshribn
-1	nakh	_	ADV	ADV	Degree=Pos	8	obj	_	_
-2	mer	_	DET	QR-ACC	Case=Acc	1	det	_	_
+1	nakh	_	ADV	ADV	Degree=Pos	8	dep	_	_
+2	mer	_	DET	QR	_	1	det	_	_
 3	hbin	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 4	oyz	_	ADP	P	_	5	case	_	_
 5	spet	_	NOUN	N	_	8	obl	_	_

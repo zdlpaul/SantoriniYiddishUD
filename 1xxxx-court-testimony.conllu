@@ -22049,9 +22049,9 @@
 # X_ID = 1XXXX-COURT-TESTIMONY,235_1654_w.1709
 # text = zundr aleyn mai rkhl z"l hat er den fkdun gebn un' tsu ir gizagt mimayle hibt mir den fkdun oyf
 1	zundr	_	CCONJ	CONJ	_	10	cc	_	_
-2	aleyn	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-3	mai	_	PROPN	NPR-DTV	_	10	iobj	_	_
-4	rkhl	_	PROPN	NPR-DTV	_	3	flat:name	_	_
+2	aleyn	_	ADV	ADV	Degree=Pos	10	dep	_	_
+3	mai	_	PROPN	NPR	_	2	dep	_	_
+4	rkhl	_	PROPN	NPR	_	2	dep	_	_
 5	z"l	memory_to_blessing	X	H	_	10	dep	_	_
 6	hat	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
 7	er	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
@@ -23170,8 +23170,8 @@
 # X_ID = 1XXXX-COURT-TESTIMONY,247_1679_w.1793
 # text = zundr aleyn stm ap gikuft bli sum tnai beltm
 1	zundr	_	X	X	_	5	dep	_	_
-2	aleyn	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-3	stm	_	PROPN	NPR-DTV	_	5	iobj	_	_
+2	aleyn	_	ADV	ADV	Degree=Pos	5	dep	_	_
+3	stm	_	PROPN	NPR	_	2	dep	_	_
 4	ap	_	ADP	RP	_	5	compound:prt	_	_
 5	gikuft	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	bli	without	X	H	_	8	dep	_	_

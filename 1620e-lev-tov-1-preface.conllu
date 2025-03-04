@@ -1065,7 +1065,7 @@
 6	der_veyl	_	ADV	ADV	Degree=Pos	12	advmod	_	_
 7	dz	_	SCONJ	C	_	12	mark	_	_
 8	zi	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-9	azu	_	X	AD-ACCV	_	11	dep	_	_
+9	azu	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 10	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
 11	givaunit	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	12	obj	_	_
 12	habn	_	VERB	VBF	VerbForm=Fin	2	advcl	_	_

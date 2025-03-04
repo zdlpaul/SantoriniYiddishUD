@@ -1607,9 +1607,9 @@
 11	ken	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 12	men	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 13	gebn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-14	zeyer	_	X	AD-ACCV	_	17	dep	_	_
+14	zeyer	_	ADV	ADV	Degree=Pos	17	advmod	_	_
 15	a	_	DET	D-ACC	Case=Acc|PronType=Art	17	det	_	_
-16	kurtser	_	X	AD-ACCJ	_	17	dep	_	_
+16	kurtser	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	17	amod	_	_
 17	kll	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	13	obj	_	_
 18	vegn	_	ADP	P	_	20	case	_	_
 19	dem	_	DET	D	PronType=Art	20	det	_	_
@@ -3625,9 +3625,9 @@
 7	oys	_	ADP	RP	_	5	compound:prt	_	_
 8	tsu	_	PART	TO	_	9	mark	_	_
 9	makhn	_	VERB	VB	VerbForm=Inf	5	xcomp	_	_
-10	zeyer	_	X	AD-ACCV	_	13	dep	_	_
+10	zeyer	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 11	a	_	DET	D-ACC	Case=Acc|PronType=Art	13	det	_	_
-12	lange	_	X	AD-ACCJ	_	13	dep	_	_
+12	lange	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	13	amod	_	_
 13	pauze	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	9	obj	_	_
 14	nokhn	_	ADP	P-CL	_	15	case	_	_
 15	bayzats	_	NOUN	N	_	9	obl	_	SpaceAfter=No
@@ -6527,9 +6527,9 @@
 2	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	zol	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
 4	hobn	_	VERB	VB	VerbForm=Inf	1	ccomp	_	_
-5	nokh	_	X	AD-ACCV	_	8	dep	_	_
+5	nokh	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 6	an	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
-7	arger	_	X	AD-ACCJ	_	8	dep	_	_
+7	arger	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	8	amod	_	_
 8	mazel	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	1	punct	_	_
 

@@ -200,9 +200,9 @@
 # sent_id = 1588E-LETTERS-CRACOW,.16
 # X_ID = 1588E-LETTERS-CRACOW,51.19
 # text = oykh di elnt heyt hab ikh fr_kuft bed u' sak ukhtsi kh"a ...
-1	oykh	_	X	AD-ACCV	_	4	dep	_	_
+1	oykh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 2	di	_	DET	D-ACC	Case=Acc|PronType=Art	4	det	_	_
-3	elnt	_	X	AD-ACCJ	_	4	dep	_	_
+3	elnt	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	4	amod	_	_
 4	heyt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	7	obj	_	_
 5	hab	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_

@@ -819,9 +819,9 @@
 # text = ven er nokh azo fil hot, iz er nit reykh genugen, vi %t%-1 %exp% shon oben gemelt iz .
 1	ven	_	SCONJ	C	_	6	mark	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-3	nokh	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	6	obj	_	_
-4	azo	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	3	advmod	_	_
-5	fil	_	DET	Q	_	3	det	_	_
+3	nokh	_	ADV	ADV	Degree=Pos	6	obj	_	_
+4	azo	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+5	fil	_	DET	Q-ACC	Case=Acc	3	det	_	_
 6	hot	_	VERB	VBF	VerbForm=Fin	8	advcl	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	8	punct	_	_
 8	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_

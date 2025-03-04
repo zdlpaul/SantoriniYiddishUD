@@ -2351,7 +2351,7 @@
 31	r'	_	PROPN	NPR	_	28	dep	_	_
 32	bers	_	PROPN	NPR	_	28	dep	_	_
 33	mzalkvi	from_Zalkvi	X	H	_	28	dep	_	_
-34	azoy	_	X	AD-ACCV	_	39	dep	_	_
+34	azoy	_	ADV	ADV	Degree=Pos	39	obj	_	_
 35	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	34	det	_	_
 36	mith	death	X	H	_	34	dep	_	_
 37	khmurh	UNKNOWN	X	H	_	34	dep	_	_

@@ -800,7 +800,7 @@
 11	zelkhi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	12	amod	_	_
 12	rbnim	_	NOUN	N-NOM	Case=Nom	18	nsubj	_	_
 13	%ich%-2	_	NOUN	NP-PRN	_	12	appos	_	_
-14	azu	_	X	AD-ACCV	_	16	dep	_	_
+14	azu	_	ADV	ADV	Degree=Pos	16	advmod	_	_
 15	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	16	det	_	_
 16	tut	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	18	obj	_	_
 17	zeln	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
@@ -2256,7 +2256,7 @@
 # text = lazt eykh nakh eyn kidush visn lan vas %t%-1 eyn sktsh msrtt ir virtn hat gitan
 1	lazt	_	VERB	VBI	Mood=Imp	0	root	_	_
 2	eykh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-3	nakh	_	X	AD-ACCV	_	5	dep	_	_
+3	nakh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 4	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
 5	kidush	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	6	obj	_	_
 6	visn	_	VERB	VB	VerbForm=Inf	1	xcomp	_	_

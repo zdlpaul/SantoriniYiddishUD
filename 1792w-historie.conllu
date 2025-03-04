@@ -190,7 +190,7 @@
 1	nemt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	zikh	_	PRON	PRO-RFL	PronType=Reflex	1	expl:pv	_	_
-4	nakh	_	X	AD-ACCV	_	6	dep	_	_
+4	nakh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
 6	vab	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	1	obj	_	_
 

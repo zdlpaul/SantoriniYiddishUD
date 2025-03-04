@@ -357,9 +357,9 @@
 19	am	_	ADP	P-CL	_	21	case	_	_
 20	virtn	_	ADJ	ADJ	Degree=Pos	21	amod	_	_
 21	irt	_	NOUN	N	_	17	conj	_	_
-22	abr	_	X	AD-ACCV	_	25	dep	_	_
+22	abr	_	ADV	ADV	Degree=Pos	25	advmod	_	_
 23	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	25	det	_	_
-24	andr	_	X	AD-ACCJ	_	25	dep	_	_
+24	andr	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	25	amod	_	_
 25	daytsh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	17	obj	_	_
 
 # sent_id = 1534E-ANSHEL,.14

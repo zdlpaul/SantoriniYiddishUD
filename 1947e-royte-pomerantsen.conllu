@@ -707,7 +707,7 @@
 3	zi	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 4	oykh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 5	gekrogn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	nokh	_	X	AD-ACCV	_	8	dep	_	_
+6	nokh	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 7	a	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
 8	polke	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	5	obj	_	SpaceAfter=No
 9	%EXCL%	_	PUNCT	PUNC	_	5	punct	_	SpaceAfter=No
@@ -14246,7 +14246,7 @@
 8	vel	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
 9	dir	_	PRON	PRO-DTV	Case=Dat	10	iobj	_	_
 10	fregn	_	VERB	VB	VerbForm=Inf	1	ccomp	_	_
-11	nokh	_	X	AD-ACCV	_	13	dep	_	_
+11	nokh	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 12	a	_	DET	D-ACC	Case=Acc|PronType=Art	13	det	_	_
 13	retenish	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	10	obj	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	10	punct	_	_
@@ -19820,8 +19820,8 @@
 31	shtraf	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	28	obj	_	_
 32	un	_	CCONJ	CONJ	_	33	cc	_	_
 33	efsher	_	ADV	ADV	Degree=Pos	28	conj	_	_
-34	gor	_	ADV	ADV	Degree=Pos	33	dep	_	_
-35	turme	_	NOUN	N-ACC	Case=Acc	34	conj	_	SpaceAfter=No
+34	gor	_	ADV	ADV	Degree=Pos	35	advmod	_	_
+35	turme	_	NOUN	N-ACC	Case=Acc	33	obj	_	SpaceAfter=No
 36	.	_	PUNCT	PUNC	_	1	punct	_	SpaceAfter=No
 37	"	_	PUNCT	PUNC	_	1	punct	_	_
 
@@ -19978,10 +19978,10 @@
 3	zogt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	men	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 5	on	_	ADP	RP	_	3	compound:prt	_	_
-6	aza	_	ADV	ADV	Degree=Pos	3	dep	_	_
-7	bsure_roe	news_harm	NOUN	N-ACC	Case=Acc	6	conj	_	_
-8	der	_	DET	D-ACC	Case=Acc|PronType=Art	3	dep	_	_
-9	vayb	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	8	conj	_	SpaceAfter=No
+6	aza	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+7	bsure_roe	news_harm	NOUN	N-ACC	Case=Acc	3	obj	_	_
+8	der	_	DET	D-DTV	Case=Dat|PronType=Art	9	det	_	_
+9	vayb	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	3	iobj	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.1390
@@ -25666,7 +25666,7 @@
 10	kent	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 11	mir	_	PRON	PRO-DTV	Case=Dat	12	iobj	_	_
 12	zogn	_	VERB	VB	VerbForm=Inf	1	ccomp	_	_
-13	nokh	_	X	AD-ACCV	_	15	dep	_	_
+13	nokh	_	ADV	ADV	Degree=Pos	15	advmod	_	_
 14	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	15	det	_	_
 15	vort	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	12	obj	_	SpaceAfter=No
 16	,	_	PUNCT	PUNC	_	15	punct	_	_
@@ -25905,7 +25905,7 @@
 # text = nu, nokh eyn vort kent ir mir zogn . "
 1	nu	_	INTJ	INTJ	_	9	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	9	punct	_	_
-3	nokh	_	X	AD-ACCV	_	5	dep	_	_
+3	nokh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 4	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
 5	vort	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	9	obj	_	_
 6	kent	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
@@ -26012,9 +26012,9 @@
 4	gegebn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	dem	_	DET	D-DTV	Case=Dat|PronType=Art	6	det	_	_
 6	meshulekh	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	4	iobj	_	_
-7	take	_	X	AD-ACCV	_	10	dep	_	_
+7	take	_	ADV	ADV	Degree=Pos	10	advmod	_	_
 8	a	_	DET	D-ACC	Case=Acc|PronType=Art	10	det	_	_
-9	fayne	_	X	AD-ACCJ	_	10	dep	_	_
+9	fayne	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	10	amod	_	_
 10	nedove	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	4	punct	_	_
 
@@ -33008,7 +33008,7 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	varft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	arayn	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	nokh	_	X	AD-ACCV	_	7	dep	_	_
+5	nokh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 6	a	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 7	finefkopikene	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	3	obj	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	3	punct	_	_
@@ -34369,7 +34369,7 @@
 10	arayn@	_	ADV	ADV	Degree=Pos	12	advmod	_	_
 11	%ich%-1	_	ADP	PP	_	10	obl	_	_
 12	@varfn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
-13	nokh	_	X	AD-ACCV	_	15	dep	_	_
+13	nokh	_	ADV	ADV	Degree=Pos	15	advmod	_	_
 14	a	_	DET	D-ACC	Case=Acc|PronType=Art	15	det	_	_
 15	mentshn	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	12	obj	_	_
 16	in	_	ADP	P	_	17	case	_	_
@@ -44000,9 +44000,9 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 2	hot	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
 3	gefirt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	gor	_	X	AD-ACCV	_	7	dep	_	_
+4	gor	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 5	di	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
-6	groyse	_	X	AD-ACCJ	_	7	dep	_	_
+6	groyse	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
 7	gesheftn	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	3	obj	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3049
@@ -74268,7 +74268,7 @@
 2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	est	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	oyf	_	ADP	RP	_	3	compound:prt	_	_
-5	nokh	_	X	AD-ACCV	_	7	dep	_	_
+5	nokh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 6	a	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 7	marants	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	3	obj	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	3	punct	_	_
@@ -80744,7 +80744,7 @@
 5	az	_	SCONJ	C	_	7	mark	_	_
 6	er	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 7	hot	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
-8	nokh	_	X	AD-ACCV	_	10	dep	_	_
+8	nokh	_	ADV	ADV	Degree=Pos	10	advmod	_	_
 9	a	_	DET	D-ACC	Case=Acc|PronType=Art	10	det	_	_
 10	slikhe	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	7	obj	_	_
 11	oykh	_	ADV	ADV	Degree=Pos	7	advmod	_	SpaceAfter=No
@@ -81371,9 +81371,9 @@
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
 2	sider	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	_
 3	hot	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	zeyer	_	X	AD-ACCV	_	7	dep	_	_
+4	zeyer	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 5	a	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
-6	breytn	_	X	AD-ACCJ	_	7	dep	_	_
+6	breytn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
 7	peyresh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	3	obj	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	3	punct	_	_
 

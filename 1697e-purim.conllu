@@ -4383,8 +4383,8 @@
 5	brengt	_	VERB	VBF	VerbForm=Fin	6	advcl	_	_
 6	fardrin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 7	zi	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-8	nakh	_	ADV	ADV	Degree=Pos	6	obj	_	_
-9	min	_	DET	QR-ACC	Case=Acc	8	det	_	_
+8	nakh	_	ADV	ADV	Degree=Pos	6	dep	_	_
+9	min	_	DET	QR	_	8	det	_	_
 
 # sent_id = 1697E-PURIM,.300
 # X_ID = 1697E-PURIM,444.567
@@ -7666,7 +7666,7 @@
 2	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 3	vil	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 4	dir	_	PRON	PRO-DTV	Case=Dat	8	iobj	_	_
-5	nakh	_	X	AD-ACCV	_	7	dep	_	_
+5	nakh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 6	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 7	psuk	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	8	obj	_	_
 8	zagin	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -7811,9 +7811,9 @@
 # text = ven du nakh zu fil vilst gebin
 1	ven	_	SCONJ	C	_	7	mark	_	_
 2	du	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-3	nakh	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	7	obj	_	_
-4	zu	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	3	advmod	_	_
-5	fil	_	DET	Q	_	3	det	_	_
+3	nakh	_	ADV	ADV	Degree=Pos	7	obj	_	_
+4	zu	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+5	fil	_	DET	Q-ACC	Case=Acc	3	det	_	_
 6	vilst	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
 7	gebin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 

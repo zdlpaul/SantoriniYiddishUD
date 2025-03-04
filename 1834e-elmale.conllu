@@ -815,7 +815,7 @@
 8	di	_	DET	D-NOM	Case=Nom|PronType=Art	9	det	_	_
 9	rseim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	_
 10	habin	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
-11	azoy	_	X	AD-ACCV	_	13	dep	_	_
+11	azoy	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 12	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	13	det	_	_
 13	hrigh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	14	obj	_	_
 14	gimakht	_	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	_
@@ -1414,9 +1414,9 @@
 7	gikent	_	AUX	MDN	Tense=Past|VerbForm=Part	9	aux	_	_
 8	tsu	_	ADP	RP	_	9	compound:prt	_	_
 9	zehen	_	VERB	VB	VerbForm=Inf	0	root	_	_
-10	azoy	_	X	AD-ACCV	_	13	dep	_	_
+10	azoy	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 11	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	13	det	_	_
-12	groysi	_	X	AD-ACCJ	_	13	dep	_	_
+12	groysi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	13	amod	_	_
 13	tsrh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	9	obj	_	_
 
 # sent_id = 1834E-ELMALE,.84

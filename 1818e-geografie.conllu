@@ -322,11 +322,11 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	hat	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	abr	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	ukh	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	8	advmod	_	_
-5	nukh	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	8	advmod	_	_
-6	fil	_	DET	Q	_	8	det	_	_
-7	andere	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-8	nemin	_	NOUN	N	_	2	obj	_	_
+4	ukh	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+5	nukh	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+6	fil	_	DET	Q-ACC	Case=Acc	8	det	_	_
+7	andere	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	8	amod	_	_
+8	nemin	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.19
 # X_ID = 1818E-GEOGRAFIE,4.23
