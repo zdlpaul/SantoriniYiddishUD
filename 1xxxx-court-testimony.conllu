@@ -16954,7 +16954,7 @@
 20	velkhr	_	PRON	WPRO	_	23	obj	_	_
 21	%t%-3	_	NOUN	NP-SBJ	_	23	nsubj	_	_
 22	vert	_	AUX	RDF	VerbForm=Fin	23	aux	_	_
-23	gifindn	_	VERB	VB	VerbForm=Inf	16	dep	_	_
+23	gifindn	_	VERB	VB	VerbForm=Inf	36	obl	_	_
 24	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	25	det	_	_
 25	hurg	_	NOUN	N-ACC	Case=Acc	23	obj	_	_
 26	fun	_	ADP	P	_	28	case	_	_
@@ -16962,12 +16962,12 @@
 28	hrugi	_	NOUN	N-D	Definite=Def	25	obl	_	_
 29	gzirh	_	NOUN	N	_	28	conj	_	_
 30	hn"l	aforesaid	X	H	_	28	amod	_	_
-31	da	_	ADV	ADV	Degree=Pos	23	advmod	_	_
-32	velin	_	AUX	MDF	VerbForm=Fin	23	aux	_	_
-33	zi	_	PRON	PRO-NOM	Case=Nom	23	obl	_	_
+31	da	_	ADV	ADV	Degree=Pos	36	advmod	_	_
+32	velin	_	AUX	MDF	VerbForm=Fin	36	aux	_	_
+33	zi	_	PRON	PRO-NOM	Case=Nom	36	nsubj	_	_
 34	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	35	det	_	_
-35	talr	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	23	obj	_	_
-36	gebin	_	VERB	VB	VerbForm=Inf	23	dep	_	_
+35	talr	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	36	obj	_	_
+36	gebin	_	VERB	VB	VerbForm=Inf	16	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1119
 # X_ID = 1XXXX-COURT-TESTIMONY,200_1638_e.1322

@@ -145,21 +145,21 @@
 8	da	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 9	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 10	ksi	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	11	nsubj	_	_
-11	stit	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+11	stit	_	VERB	VBF	VerbForm=Fin	25	advcl	_	_
 12	gshribn	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 13	mitn	_	ADV	ADV	Degree=Pos	16	advmod	_	_
 14	in	_	ADP	P	_	16	case	_	_
 15	den	_	DET	D	PronType=Art	16	det	_	_
 16	eneyn	_	NOUN	N-D	Definite=Def	11	obl	_	_
-17	zalt	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
-18	ir	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-19	vidr	_	ADV	ADV	Degree=Pos	11	advmod	_	_
+17	zalt	_	AUX	MDF	VerbForm=Fin	25	aux	_	_
+18	ir	_	PRON	PRO-NOM	Case=Nom	25	nsubj	_	_
+19	vidr	_	ADV	ADV	Degree=Pos	25	advmod	_	_
 20	fun	_	ADP	P	_	22	case	_	_
 21	den	_	DET	D	PronType=Art	22	det	_	_
-22	psuk	_	NOUN	N-D	Definite=Def	11	obl	_	_
+22	psuk	_	NOUN	N-D	Definite=Def	25	obl	_	_
 23	%ich%-2	_	SCONJ	CP-REL	_	22	acl:relcl	_	_
-24	an	_	ADP	RP	_	11	compound:prt	_	_
-25	hibn	_	VERB	VB	VerbForm=Inf	11	dep	_	_
+24	an	_	ADP	RP	_	25	compound:prt	_	_
+25	hibn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
 26	vau	_	ADV	WADV	Degree=Pos	33	advmod	_	_
 27	di	_	DET	D-NOM	Case=Nom|PronType=Art	28	det	_	_
 28	ksi	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	33	nsubj	_	_
@@ -167,14 +167,14 @@
 30	der	_	DET	D-NOM	Case=Nom|PronType=Art	31	det	_	_
 31	hirts	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	28	conj	_	_
 32	droyf	_	ADP	P	_	33	obl	_	_
-33	git	_	VERB	VBF	VerbForm=Fin	11	acl:relcl	_	_
+33	git	_	VERB	VBF	VerbForm=Fin	25	acl:relcl	_	_
 34	dr_vartn	_	ADV	ADV	Degree=Pos	40	advmod	_	_
 35	dz	_	SCONJ	C	_	40	mark	_	_
 36	man	_	PRON	PRO-NOM	Case=Nom	40	nsubj	_	_
 37	den	_	DET	D-ACC	Case=Acc|PronType=Art	38	det	_	_
 38	eneyn	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	40	obj	_	_
 39	vaul	_	ADV	ADV	Degree=Pos	40	advmod	_	_
-40	fr_stit	_	VERB	VBF	VerbForm=Fin	11	advcl	_	_
+40	fr_stit	_	VERB	VBF	VerbForm=Fin	25	advcl	_	_
 
 # sent_id = 1600E-MAGID-PREFACE,.8
 # X_ID = 1600E-MAGID-PREFACE,3b.10

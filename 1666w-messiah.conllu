@@ -525,11 +525,11 @@
 # sent_id = 1666W-MESSIAH,.35
 # X_ID = 1666W-MESSIAH,9.46
 # text = tut eykh nit zoymn bridr meyn
-1	tut	_	VERB	DOI	Mood=Imp	0	root	_	_
-2	eykh	_	PRON	PRO-RFL	PronType=Reflex	1	expl:pv	_	_
-3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
-4	zoymn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
-5	bridr	_	NOUN	N	_	1	vocative	_	_
+1	tut	_	VERB	DOI	Mood=Imp	4	xcomp	_	_
+2	eykh	_	PRON	PRO-RFL	PronType=Reflex	4	expl:pv	_	_
+3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
+4	zoymn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+5	bridr	_	NOUN	N	_	4	vocative	_	_
 6	meyn	_	PRON	PRO$	_	5	det:poss	_	_
 
 # sent_id = 1666W-MESSIAH,.36
@@ -2119,12 +2119,12 @@
 # X_ID = 1666W-MESSIAH,39.197
 # text = %pro% bit oykh, libn kindr hat eynr oyf den andrin eyn bizn mkhsbh tut oykh far_gebin dz ir mit gutin hrtsin nakh iruslim kumt mit freydn dart tsu lebn
 1	%pro%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
-2	bit	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	bit	_	VERB	VBF	VerbForm=Fin	17	parataxis	_	_
 3	oykh	_	PRON	PRO-ACC	Case=Acc	2	obj	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	2	punct	_	_
-5	libn	_	ADJ	ADJ	Degree=Pos	2	vocative	_	_
+4	,	_	PUNCT	PUNC	_	17	punct	_	_
+5	libn	_	ADJ	ADJ	Degree=Pos	17	vocative	_	_
 6	kindr	_	NOUN	N	_	5	conj	_	_
-7	hat	_	VERB	VBF	VerbForm=Fin	2	advcl	_	_
+7	hat	_	VERB	VBF	VerbForm=Fin	17	advcl	_	_
 8	eynr	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 9	oyf	_	ADP	P	_	11	case	_	_
 10	den	_	DET	D	PronType=Art	11	det	_	_
@@ -2132,9 +2132,9 @@
 12	eyn	_	DET	D	PronType=Art	11	det	_	_
 13	bizn	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 14	mkhsbh	_	NOUN	N	_	11	conj	_	_
-15	tut	_	VERB	DOI	Mood=Imp	2	ccomp	_	_
-16	oykh	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-17	far_gebin	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+15	tut	_	VERB	DOI	Mood=Imp	17	xcomp	_	_
+16	oykh	_	PRON	PRO-DTV	Case=Dat	17	iobj	_	_
+17	far_gebin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 18	dz	_	SCONJ	C	_	25	mark	_	_
 19	ir	_	PRON	PRO-NOM	Case=Nom	25	nsubj	_	_
 20	mit	_	ADP	P	_	22	case	_	_
@@ -2142,7 +2142,7 @@
 22	hrtsin	_	NOUN	N	_	25	obl	_	_
 23	nakh	_	ADP	P	_	24	case	_	_
 24	iruslim	_	PROPN	NPR	_	25	obl	_	_
-25	kumt	_	VERB	VBF	VerbForm=Fin	2	advcl	_	_
+25	kumt	_	VERB	VBF	VerbForm=Fin	17	advcl	_	_
 26	mit	_	ADP	P	_	27	case	_	_
 27	freydn	_	NOUN	N	_	30	obl	_	_
 28	dart	_	ADV	ADV	Degree=Pos	30	advmod	_	_
@@ -3996,17 +3996,17 @@
 # sent_id = 1666W-MESSIAH,.287
 # X_ID = 1666W-MESSIAH,75.364
 # text = tut oykh vaul tsu breytn dz mir bld nakh iruslim kumn, itlikhr bitseytn
-1	tut	_	VERB	DOI	Mood=Imp	0	root	_	_
-2	oykh	_	PRON	PRO-ACC	Case=Acc	1	obj	_	_
-3	vaul	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-4	tsu	_	ADP	RP	_	1	compound:prt	_	_
-5	breytn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+1	tut	_	VERB	DOI	Mood=Imp	5	xcomp	_	_
+2	oykh	_	PRON	PRO-ACC	Case=Acc	5	obj	_	_
+3	vaul	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+4	tsu	_	ADP	RP	_	5	compound:prt	_	_
+5	breytn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	dz	_	SCONJ	C	_	11	mark	_	_
 7	mir	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 8	bld	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 9	nakh	_	ADP	P	_	10	case	_	_
 10	iruslim	_	PROPN	NPR	_	11	obl	_	_
-11	kumn	_	VERB	VBF	VerbForm=Fin	1	advcl	_	SpaceAfter=No
+11	kumn	_	VERB	VBF	VerbForm=Fin	5	advcl	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	11	punct	_	_
 13	itlikhr	_	DET	Q-NOM	Case=Nom	11	conj	_	_
 14	bitseytn	_	NOUN	N-NOM	Case=Nom	7	conj	_	_

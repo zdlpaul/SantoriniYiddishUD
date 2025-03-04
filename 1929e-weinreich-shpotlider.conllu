@@ -610,9 +610,9 @@
 7	nor	_	ADV	FP	Degree=Pos	8	advmod	_	_
 8	eyn	_	NUM	NUM	_	4	nsubj	_	_
 9	tenh	_	NOUN	N	_	8	conj	_	_
-10	zey	_	PRON	PRO-NOM	Case=Nom	8	dep	_	_
-11	zeynen	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
-12	fmoim	_	NOUN	N	_	10	xcomp	_	_
+10	zey	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+11	zeynen	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
+12	fmoim	_	NOUN	N	_	11	xcomp	_	_
 
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.27
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,539.29

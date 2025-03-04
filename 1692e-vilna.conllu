@@ -1354,11 +1354,11 @@
 # sent_id = 1692E-VILNA,.84
 # X_ID = 1692E-VILNA,215.91
 # text = un tu zi nit fr_tretin
-1	un	_	CCONJ	CONJ	_	0	root	_	_
-2	tu	_	VERB	DOI	Mood=Imp	1	xcomp	_	_
-3	zi	_	PRON	PRO-ACC	Case=Acc	1	obj	_	_
-4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
-5	fr_tretin	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+1	un	_	CCONJ	CONJ	_	5	cc	_	_
+2	tu	_	VERB	DOI	Mood=Imp	5	xcomp	_	_
+3	zi	_	PRON	PRO-ACC	Case=Acc	5	obj	_	_
+4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
+5	fr_tretin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1692E-VILNA,.85
 # X_ID = 1692E-VILNA,215.92
@@ -1629,13 +1629,13 @@
 # sent_id = 1692E-VILNA,.103
 # X_ID = 1692E-VILNA,216.111
 # text = un tut di reyd veyter nit mern
-1	un	_	CCONJ	CONJ	_	2	cc	_	_
-2	tut	_	VERB	DOI	Mood=Imp	0	root	_	_
+1	un	_	CCONJ	CONJ	_	7	cc	_	_
+2	tut	_	VERB	DOI	Mood=Imp	7	xcomp	_	_
 3	di	_	DET	D-ACC	Case=Acc|PronType=Art	4	det	_	_
-4	reyd	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	2	obj	_	_
-5	veyter	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
-7	mern	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+4	reyd	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	7	obj	_	_
+5	veyter	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
+7	mern	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1692E-VILNA,.104
 # X_ID = 1692E-VILNA,216.112
@@ -2728,14 +2728,14 @@
 # sent_id = 1692E-VILNA,.168
 # X_ID = 1692E-VILNA,220.180
 # text = meyn kind tu zetigh rid veytr nit mern
-1	meyn	_	PRON	PRO$	_	3	vocative	_	_
+1	meyn	_	PRON	PRO$	_	8	vocative	_	_
 2	kind	_	NOUN	N	_	1	conj	_	_
-3	tu	_	VERB	DOI	Mood=Imp	0	root	_	_
+3	tu	_	VERB	DOI	Mood=Imp	8	xcomp	_	_
 4	zetigh	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	5	amod	_	_
-5	rid	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
-6	veytr	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
-8	mern	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+5	rid	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
+6	veytr	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
+8	mern	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1692E-VILNA,.169
 # X_ID = 1692E-VILNA,220.181

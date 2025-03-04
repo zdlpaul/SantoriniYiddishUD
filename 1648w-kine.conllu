@@ -216,13 +216,13 @@
 # sent_id = 1648W-KINE,.12
 # X_ID = 1648W-KINE,198.14
 # text = tut eyn mtsuh koyfn gshvind dr_tsu loyfn
-1	tut	_	VERB	DOI	Mood=Imp	0	root	_	_
+1	tut	_	VERB	DOI	Mood=Imp	4	xcomp	_	_
 2	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	3	det	_	_
-3	mtsuh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	1	obj	_	_
-4	koyfn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
-5	gshvind	_	ADV	ADV	Degree=Pos	1	ccomp	_	_
-6	dr_tsu	_	ADP	P	_	5	obl	_	_
-7	loyfn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+3	mtsuh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	_
+4	koyfn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+5	gshvind	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+6	dr_tsu	_	ADP	P	_	7	obl	_	_
+7	loyfn	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 
 # sent_id = 1648W-KINE,.13
 # X_ID = 1648W-KINE,198.15
@@ -900,16 +900,16 @@
 # sent_id = 1648W-KINE,.54
 # X_ID = 1648W-KINE,201.14.70
 # text = drum tut shreyan az %t%-1 eyn froy tut shver kreysn
-1	drum	_	ADP	P	_	0	root	_	_
-2	tut	_	VERB	DOI	Mood=Imp	1	xcomp	_	_
-3	shreyan	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+1	drum	_	ADP	P	_	3	obl	_	_
+2	tut	_	VERB	DOI	Mood=Imp	3	xcomp	_	_
+3	shreyan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 4	az	_	SCONJ	C	_	10	mark	_	_
 5	%t%-1	_	ADV	ADVP	Degree=Pos	10	advmod	_	_
 6	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	7	det	_	_
 7	froy	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	10	nsubj	_	_
 8	tut	_	VERB	DOF	VerbForm=Fin	10	ccomp	_	_
 9	shver	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-10	kreysn	_	VERB	VB	VerbForm=Inf	1	advcl	_	_
+10	kreysn	_	VERB	VB	VerbForm=Inf	3	advcl	_	_
 
 # sent_id = 1648W-KINE,.55
 # X_ID = 1648W-KINE,201.15.72
@@ -2806,12 +2806,12 @@
 # sent_id = 1648W-KINE,.200
 # X_ID = 1648W-KINE,207.54.256
 # text = al rkhum tu unzr tsrut zehn
-1	al	_	DET	Q	_	0	root	_	_
+1	al	_	DET	Q	_	6	vocative	_	_
 2	rkhum	_	NOUN	N	_	1	conj	_	_
-3	tu	_	VERB	DOI	Mood=Imp	1	xcomp	_	_
+3	tu	_	VERB	DOI	Mood=Imp	6	xcomp	_	_
 4	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
-5	tsrut	_	NOUN	N	_	1	obj	_	_
-6	zehn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+5	tsrut	_	NOUN	N	_	6	obj	_	_
+6	zehn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1648W-KINE,.201
 # X_ID = 1648W-KINE,207.54.257
@@ -2825,17 +2825,17 @@
 # sent_id = 1648W-KINE,.202
 # X_ID = 1648W-KINE,207.54.258
 # text = brakh hba tu tsu uns yehn vidr in arts isral pflntsn un zehn
-1	brakh	blessing	X	H	_	0	root	_	_
+1	brakh	blessing	X	H	_	6	dep	_	_
 2	hba	the_coming	X	H	_	1	dep	_	_
-3	tu	_	VERB	DOI	Mood=Imp	1	xcomp	_	_
+3	tu	_	VERB	DOI	Mood=Imp	6	xcomp	_	_
 4	tsu	_	ADP	P	_	5	case	_	_
-5	uns	_	PRON	PRO	_	1	obl	_	_
-6	yehn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
-7	vidr	_	ADV	ADV	Degree=Pos	1	ccomp	_	_
+5	uns	_	PRON	PRO	_	6	obl	_	_
+6	yehn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+7	vidr	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 8	in	_	ADP	P	_	9	case	_	_
-9	arts	_	NOUN	N	_	7	obl	_	_
+9	arts	_	NOUN	N	_	11	obl	_	_
 10	isral	_	PROPN	NPR	_	9	dep	_	_
-11	pflntsn	_	VERB	VB	VerbForm=Inf	7	dep	_	_
+11	pflntsn	_	VERB	VB	VerbForm=Inf	6	ccomp	_	_
 12	un	_	CCONJ	CONJ	_	13	cc	_	_
 13	zehn	_	VERB	VB	VerbForm=Inf	11	conj	_	_
 
@@ -3634,11 +3634,11 @@
 # sent_id = 1648W-KINE,.262
 # X_ID = 1648W-KINE,210.72.336
 # text = tut nakh eyer kindr fragn
-1	tut	_	VERB	DOI	Mood=Imp	0	root	_	_
+1	tut	_	VERB	DOI	Mood=Imp	5	xcomp	_	_
 2	nakh	_	ADP	P	_	4	case	_	_
 3	eyer	_	PRON	PRO$	_	4	det:poss	_	_
-4	kindr	_	NOUN	N	_	1	obl	_	_
-5	fragn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+4	kindr	_	NOUN	N	_	5	obl	_	_
+5	fragn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1648W-KINE,.263
 # X_ID = 1648W-KINE,210.72.337

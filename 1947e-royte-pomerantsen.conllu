@@ -56156,11 +56156,11 @@
 9	iz	_	VERB	VBF	VerbForm=Fin	5	ccomp	_	_
 10	shlekht	_	ADJ	ADJ	Degree=Pos	9	amod	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	9	punct	_	_
-12	es	_	PRON	PRO-NOM	Case=Nom	9	dep	_	_
-13	iz	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
+12	es	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
+13	iz	_	VERB	VBF	VerbForm=Fin	9	dep	_	_
 14	a	_	DET	D	PronType=Art	16	det	_	_
 15	sakonedike	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
-16	krenk	_	NOUN	N-I	Definite=Ind	12	xcomp	_	SpaceAfter=No
+16	krenk	_	NOUN	N-I	Definite=Ind	13	xcomp	_	SpaceAfter=No
 17	,	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3885
@@ -76471,10 +76471,10 @@
 12	a	_	DET	D-ACC	Case=Acc|PronType=Art	13	det	_	_
 13	toes	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	11	obj	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	5	punct	_	_
-15	leye	_	PROPN	NPR	_	5	dep	_	_
-16	iz	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
-17	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	15	advmod	_	_
-18	andersh	_	ADJ	ADJ	Degree=Pos	15	xcomp	_	_
+15	leye	_	PROPN	NPR	_	16	nsubj	_	_
+16	iz	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
+17	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	16	advmod	_	_
+18	andersh	_	ADJ	ADJ	Degree=Pos	16	xcomp	_	_
 19	vi	_	ADP	P	_	20	case	_	_
 20	draytsn	_	NUM	NUM	_	18	obl	_	SpaceAfter=No
 21	.	_	PUNCT	PUNC	_	1	punct	_	_
