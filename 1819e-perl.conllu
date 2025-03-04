@@ -3530,11 +3530,11 @@
 5	tsum	_	ADP	P-CL	_	6	dep	_	_
 6	sni	second	X	H	_	4	obl	_	_
 7	lmlkhut	to_kingship	X	H	_	6	dep	_	_
-8	bansher	_	SCONJ	C	_	30	advcl	_	_
-9	azu	_	ADV	ADV	Degree=Pos	12	advmod	_	_
+8	bansher	_	SCONJ	C	_	9	mark	_	_
+9	azu	_	ADV	ADV	Degree=Pos	30	advcl	_	_
 10	eyn	_	DET	D	PronType=Art	12	det	_	_
 11	langi	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-12	tseyt	_	NOUN	N	_	8	xcomp	_	_
+12	tseyt	_	NOUN	N	_	9	xcomp	_	_
 13	vas	_	SCONJ	C	_	16	mark	_	_
 14	%t%-1	_	NOUN	NP-MSR	_	16	obl	_	_
 15	du	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_

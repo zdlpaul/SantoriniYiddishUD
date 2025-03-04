@@ -20000,8 +20000,8 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.1322
 # X_ID = 1XXXX-COURT-TESTIMONY,221_c1650_w.1546
 # text = vau nit makh den yud tut
-1	vau	_	SCONJ	C	_	3	advcl	_	_
-2	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	xcomp	_	_
+1	vau	_	SCONJ	C	_	2	mark	_	_
+2	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advcl	_	_
 3	makh	_	VERB	VBI	Mood=Imp	0	root	_	_
 4	den	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	yud	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
