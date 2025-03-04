@@ -49,8 +49,8 @@
 8	,	_	PUNCT	PUNC	_	2	punct	_	_
 9	ob	_	SCONJ	C	_	17	mark	_	_
 10	ikh	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
-11	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	17	obj	_	_
-12	zakh	_	NOUN	N	_	11	conj	_	_
+11	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	det:poss	_	_
+12	zakh	_	NOUN	N	_	17	obj	_	_
 13	kont	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 14	tsu	_	ADP	P	_	15	case	_	_
 15	guet	_	NOUN	N	_	17	obl	_	_

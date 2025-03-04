@@ -55,9 +55,9 @@
 8	altorf	_	PROPN	NPR	_	6	obl	_	_
 9	do	_	ADV	ADV	Degree=Pos	15	advmod	_	_
 10	ist	_	AUX	BEF	VerbForm=Fin	15	cop	_	_
-11	mein	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	15	nsubj	_	_
-12	fater	_	NOUN	N	_	11	conj	_	_
-13	zelig	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	mein	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	12	det:poss	_	_
+12	fater	_	NOUN	N	_	15	nsubj	_	_
+13	zelig	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
 14	ab	_	ADP	RP	_	15	compound:prt	_	_
 15	gangen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 16	mit	_	ADP	P	_	17	case	_	_
@@ -223,8 +223,8 @@
 1	mer	_	ADV	QR	_	6	advmod	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	6	punct	_	_
 3	haben	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
-4	unzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	nsubj	_	_
-5	for_muner	_	NOUN	N	_	4	conj	_	_
+4	unzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	det:poss	_	_
+5	for_muner	_	NOUN	N	_	6	nsubj	_	_
 6	gegeben	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 7	meinem	_	PRON	PRO$-DTV	Case=Dat|PronType=Poss	8	det:poss	_	_
 8	stief_fater	_	NOUN	N	_	6	iobj	_	_
@@ -243,8 +243,8 @@
 21	ghoyrt	_	VERB	VBF	VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
 22	,	_	PUNCT	PUNC	_	6	punct	_	_
 23	as	_	SCONJ	C	_	27	mark	_	_
-24	mein	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	27	nsubj	_	_
-25	fater	_	NOUN	N	_	24	conj	_	_
+24	mein	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	25	det:poss	_	_
+25	fater	_	NOUN	N	_	27	nsubj	_	_
 26	ist	_	AUX	BEF	VerbForm=Fin	27	cop	_	_
 27	gevest	_	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	_
 28	ayn	_	DET	D	PronType=Art	30	det	_	_
@@ -330,9 +330,9 @@
 1	un	_	CCONJ	CONJ	_	7	cc	_	_
 2	%con%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 3	hot	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
-4	mein	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	obj	_	_
-5	arme	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-6	geshvistrikh	_	NOUN	N	_	4	conj	_	_
+4	mein	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
+5	arme	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	geshvistrikh	_	NOUN	N	_	7	obj	_	_
 7	gehalten	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	az	_	ADP	P	_	10	case	_	_
 9	ayn	_	DET	D	PronType=Art	10	det	_	_
@@ -378,15 +378,15 @@
 6	man	_	NOUN	N-DTV	Case=Dat	8	iobj	_	_
 7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 8	verden	_	VERB	VB	VerbForm=Inf	0	root	_	_
-9	mein	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	nsubj	_	_
-10	gelihen	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-11	gelt	_	NOUN	N	_	9	conj	_	_
+9	mein	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	11	det:poss	_	_
+10	gelihen	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	gelt	_	NOUN	N	_	8	nsubj	_	_
 12	das	_	PRON	WPRO	_	17	obj	_	_
 13	%t%-1	_	NOUN	NP-ACC	_	17	dep	_	_
 14	ikh	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
 15	oft	_	ADV	ADV	Degree=Pos	17	advmod	_	_
 16	hab	_	AUX	HVF	VerbForm=Fin	17	aux	_	_
-17	gefodert	_	VERB	VBN	Tense=Past|VerbForm=Part	9	acl:relcl	_	_
+17	gefodert	_	VERB	VBN	Tense=Past|VerbForm=Part	11	acl:relcl	_	_
 18	zelbs	_	ADV	ADV	Degree=Pos	17	advmod	_	_
 19	un'	_	CCONJ	CONJ	_	21	cc	_	_
 20	%con%	_	NOUN	NP-SBJ	_	21	nsubj	_	_
@@ -435,8 +435,8 @@
 # X_ID = 1518W-GOETZ,160.25
 # text = do mayn geshvistrikh ist bei im gevest do hot er zikh alzo arm gemakht
 1	do	_	SCONJ	C	_	7	mark	_	_
-2	mayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	nsubj	_	_
-3	geshvistrikh	_	NOUN	N	_	2	conj	_	_
+2	mayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	geshvistrikh	_	NOUN	N	_	7	nsubj	_	_
 4	ist	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 5	bei	_	ADP	P	_	6	case	_	_
 6	im	_	PRON	PRO	_	7	obl	_	_
@@ -780,15 +780,15 @@
 22	mir	_	PRON	PRO-DTV	Case=Dat	23	nmod	_	_
 23	%ich%-2	_	NOUN	NP-PRN	_	24	iobj	_	_
 24	geshikht	_	VERB	VBF	VerbForm=Fin	19	acl:relcl	_	_
-25	mir	_	PRON	PRO	_	24	appos	_	_
-26	armen	_	ADJ	ADJ	Degree=Pos	25	amod	_	_
-27	man	_	NOUN	N	_	25	conj	_	_
+25	mir	_	PRON	PRO	_	27	nmod	_	_
+26	armen	_	ADJ	ADJ	Degree=Pos	27	amod	_	_
+27	man	_	NOUN	N	_	24	appos	_	_
 28	fon	_	ADP	P	_	30	case	_	_
 29	dem	_	DET	D	PronType=Art	30	det	_	_
 30	mendel	_	PROPN	NPR	_	24	obl	_	SpaceAfter=No
 31	,	_	PUNCT	PUNC	_	30	punct	_	_
-32	meinem	_	PRON	PRO$	_	30	appos	_	_
-33	stief_fater	_	NOUN	N	_	32	conj	_	_
+32	meinem	_	PRON	PRO$	_	33	det:poss	_	_
+33	stief_fater	_	NOUN	N	_	30	appos	_	_
 
 1	es	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 2	mokht	_	AUX	MDF	VerbForm=Fin	6	aux	_	_

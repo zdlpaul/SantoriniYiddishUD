@@ -50,8 +50,8 @@
 47	gnts	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	46	amod	_	_
 48	esrim	twenty	X	H	_	46	dep	_	_
 49	uarbe	and_four	X	H	_	48	dep	_	_
-50	gnts	_	ADJ	ADJ	Degree=Pos	45	obl	_	_
-51	doyts	_	NOUN	N	_	50	conj	_	_
+50	gnts	_	ADJ	ADJ	Degree=Pos	51	amod	_	_
+51	doyts	_	NOUN	N	_	45	obl	_	_
 
 # sent_id = 1534E-ANSHEL,.2
 # X_ID = 1534E-ANSHEL,1r.4
@@ -146,8 +146,8 @@
 23	kpitln	_	NOUN	N-D	Definite=Def	28	obl	_	_
 24	hab	_	AUX	HVF	VerbForm=Fin	28	aux	_	_
 25	ikh	_	PRON	PRO-NOM	Case=Nom	28	nsubj	_	_
-26	meyni	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	28	obj	_	_
-27	simnim	_	NOUN	N	_	26	conj	_	_
+26	meyni	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	27	det:poss	_	_
+27	simnim	_	NOUN	N	_	28	obj	_	_
 28	gimkht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 29	oyf	_	ADP	P	_	31	case	_	_
 30	iklkhm	_	DET	Q	_	31	det	_	_
@@ -156,13 +156,13 @@
 33	vart	_	NOUN	N	_	31	conj	_	_
 34	angitseygt	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	28	conj	_	_
 35	ds	_	DET	D-ACC	Case=Acc|PronType=Art	36	det	_	_
-36	sfr	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	39	obj	_	_
+36	sfr	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	34	obj	_	_
 37	un	_	CCONJ	CONJ	_	39	cc	_	_
 38	ds	_	DET	D-ACC	Case=Acc|PronType=Art	39	det	_	_
-39	kpitl	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	34	obj	_	_
+39	kpitl	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	36	conj	_	_
 40	un	_	CCONJ	CONJ	_	42	cc	_	_
 41	den	_	DET	D	PronType=Art	42	det	_	_
-42	psuk	_	NOUN	N-D	Definite=Def	39	conj	_	_
+42	psuk	_	NOUN	N-D	Definite=Def	36	conj	_	_
 
 # sent_id = 1534E-ANSHEL,.5
 # X_ID = 1534E-ANSHEL,1r.7
@@ -700,9 +700,9 @@
 9	gnts	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	8	amod	_	_
 10	esrim	twenty	X	H	_	8	dep	_	_
 11	uarbe	and_four	X	H	_	10	dep	_	_
-12	sir	_	ADV	ADV	Degree=Pos	13	advmod	_	_
-13	gnts	_	ADJ	ADJ	Degree=Pos	7	obl	_	_
-14	doyts	_	NOUN	N	_	13	conj	_	_
+12	sir	_	ADV	ADV	Degree=Pos	14	advmod	_	_
+13	gnts	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
+14	doyts	_	NOUN	N	_	7	obl	_	_
 15	oyf	_	ADP	P	_	17	case	_	_
 16	ali	_	DET	Q	_	17	det	_	_
 17	vartr	_	NOUN	N	_	7	obl	_	_
@@ -799,16 +799,16 @@
 9	%con%	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 10	het	_	VERB	VBF	VerbForm=Fin	7	conj	_	_
 11	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	12	det	_	_
-12	vipa	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	15	obj	_	_
+12	vipa	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	10	obj	_	_
 13	uder	_	CCONJ	CONJ	_	15	cc	_	_
 14	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	15	det	_	_
-15	tokhtr	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	10	obj	_	_
+15	tokhtr	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	12	conj	_	_
 16	di	_	PRON	WPRO	_	21	obj	_	_
 17	%t%-1	_	NOUN	NP-SBJ	_	21	nsubj	_	_
 18	nurt	_	PART	FP	Degree=Pos	21	dep	_	_
 19	doyts	_	NOUN	N	_	18	conj	_	_
 20	kunt	_	AUX	MDF	VerbForm=Fin	21	aux	_	_
-21	leyan	_	VERB	VB	VerbForm=Inf	15	acl:relcl	_	_
+21	leyan	_	VERB	VB	VerbForm=Inf	12	acl:relcl	_	_
 22	di	_	DET	D-NOM	Case=Nom|PronType=Art	27	nsubj	_	_
 23	mukht	_	AUX	MDF	VerbForm=Fin	27	aux	_	_
 24	ds	_	DET	D-ACC	Case=Acc|PronType=Art	27	obj	_	_

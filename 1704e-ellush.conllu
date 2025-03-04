@@ -17,8 +17,8 @@
 4	an	_	ADP	P	_	6	case	_	_
 5	deyn	_	PRON	PRO$	_	6	det:poss	_	_
 6	sfe	_	NOUN	N	_	3	obl	_	_
-7	al	_	DET	Q	_	3	obl	_	_
-8	ding	_	NOUN	N	_	7	conj	_	_
+7	al	_	DET	Q	_	8	det	_	_
+8	ding	_	NOUN	N	_	3	obl	_	_
 
 # sent_id = 1704E-ELLUSH,.3
 # X_ID = 1704E-ELLUSH,.4
@@ -38,9 +38,9 @@
 3	%t%-1	_	NOUN	NP-SBJ	_	4	nsubj	_	_
 4	bishefin	_	VERB	VBN	Tense=Past|VerbForm=Part	1	acl:relcl	_	_
 5	het	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
-6	himl	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
-7	di	_	DET	D	PronType=Art	4	obj	_	_
-8	mlakhim	_	NOUN	N-D	Definite=Def	7	conj	_	_
+6	himl	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
+7	di	_	DET	D	PronType=Art	8	det	_	_
+8	mlakhim	_	NOUN	N-D	Definite=Def	6	conj	_	_
 
 # sent_id = 1704E-ELLUSH,.5
 # X_ID = 1704E-ELLUSH,.6
@@ -50,8 +50,8 @@
 3	da	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	habin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	lib	_	ADP	RP-ADJ	_	4	compound:prt	_	_
-6	iri	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	4	obj	_	_
-7	leybr	_	NOUN	N	_	6	conj	_	_
+6	iri	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	det:poss	_	_
+7	leybr	_	NOUN	N	_	4	obj	_	_
 
 # sent_id = 1704E-ELLUSH,.6
 # X_ID = 1704E-ELLUSH,.7
@@ -109,8 +109,8 @@
 7	mann	_	NOUN	N	_	12	obl	_	_
 8	und	_	CCONJ	CONJ	_	9	cc	_	_
 9	kindr	_	NOUN	N	_	7	conj	_	_
-10	irh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	obj	_	_
-11	yar	_	NOUN	N	_	10	conj	_	_
+10	irh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	11	det:poss	_	_
+11	yar	_	NOUN	N	_	12	obj	_	_
 12	dr_lengn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1704E-ELLUSH,.11
@@ -175,8 +175,8 @@
 3	min	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 4	hat	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 5	fergebin	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	_
-6	unzi	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	obj	_	_
-7	zind	_	NOUN	N	_	6	conj	_	_
+6	unzi	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	det:poss	_	_
+7	zind	_	NOUN	N	_	5	obj	_	_
 
 # sent_id = 1704E-ELLUSH,.17
 # X_ID = 1704E-ELLUSH,.18

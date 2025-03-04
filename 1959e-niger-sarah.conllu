@@ -269,15 +269,15 @@
 25	nokh	_	ADV	ADV	Degree=Pos	27	advmod	_	_
 26	amol	_	ADV	ADV	Degree=Pos	25	advmod	_	_
 27	tseygn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-28	dem	_	DET	D-ACC	Case=Acc|PronType=Art	27	obj	_	_
-29	intimen	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	28	amod	_	SpaceAfter=No
-30	,	_	PUNCT	PUNC	_	28	punct	_	_
-31	lirishn	_	ADJ	ADJ	Degree=Pos	28	amod	_	_
-32	kharakter	_	NOUN	N	_	28	conj	_	_
+28	dem	_	DET	D-ACC	Case=Acc|PronType=Art	32	det	_	_
+29	intimen	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	32	amod	_	SpaceAfter=No
+30	,	_	PUNCT	PUNC	_	32	punct	_	_
+31	lirishn	_	ADJ	ADJ	Degree=Pos	32	amod	_	_
+32	kharakter	_	NOUN	N	_	27	obj	_	_
 33	fun	_	ADP	P	_	36	case	_	_
 34	di	_	DET	D	PronType=Art	36	det	_	_
 35	veybershe	_	ADJ	ADJ	Degree=Pos	36	amod	_	_
-36	tfiles	_	NOUN	N-D	Definite=Def	28	obl	_	SpaceAfter=No
+36	tfiles	_	NOUN	N-D	Definite=Def	32	obl	_	SpaceAfter=No
 37	.	_	PUNCT	PUNC	_	27	punct	_	_
 
 # sent_id = 1959E-NIGER-SARAH,.11
@@ -443,11 +443,11 @@
 9	ire	_	PRON	PRO$	_	10	det:poss	_	_
 10	tfiles	_	NOUN	N	_	6	obl	_	_
 11	take	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-12	ire	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	16	det:poss	_	_
-13	eygene	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
-14	iberlegungen	_	NOUN	N	_	16	conj	_	_
+12	ire	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	det:poss	_	_
+13	eygene	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
+14	iberlegungen	_	NOUN	N	_	6	obj	_	_
 15	un	_	CCONJ	CONJ	_	16	cc	_	_
-16	nsiunes	_	NOUN	N	_	6	obj	_	SpaceAfter=No
+16	nsiunes	_	NOUN	N	_	14	conj	_	SpaceAfter=No
 17	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1959E-NIGER-SARAH,.18

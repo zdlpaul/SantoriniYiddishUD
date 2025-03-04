@@ -11,8 +11,8 @@
 8	dos	_	SCONJ	C	_	14	mark	_	_
 9	mir	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 10	hoben	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
-11	dayne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	obj	_	_
-12	ksovem	_	NOUN	N	_	11	conj	_	_
+11	dayne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	det:poss	_	_
+12	ksovem	_	NOUN	N	_	14	obj	_	_
 13	mekabel	_	ADP	RP-H	_	14	compound:prt	_	_
 14	gevezen	_	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	_
 
@@ -37,9 +37,9 @@
 16	gevorn	_	VERB	VBN	Tense=Past|VerbForm=Part	4	ccomp	_	_
 17	ben	_	PROPN	NPR-SBJ	_	16	nsubj	_	_
 18	akhenu	_	PROPN	NPR	_	17	flat:name	_	_
-19	borekh	blessed	X	H	_	20	dep	_	_
-20	dayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	advcl	_	_
-21	emes	_	NOUN	N	_	20	conj	_	SpaceAfter=No
+19	borekh	blessed	X	H	_	21	dep	_	_
+20	dayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	21	det:poss	_	_
+21	emes	_	NOUN	N	_	4	advcl	_	SpaceAfter=No
 22	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1619W-LETTERS-PRAGUE,.3
@@ -239,8 +239,8 @@
 5	%t%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 6	nor	_	ADV	FP	Degree=Pos	10	advmod	_	_
 7	kan	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
-8	zayn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	obj	_	_
-9	gezind	_	NOUN	N	_	8	conj	_	_
+8	zayn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	det:poss	_	_
+9	gezind	_	NOUN	N	_	10	obj	_	_
 10	farshiken	_	VERB	VB	VerbForm=Inf	2	dep	_	_
 
 # sent_id = 1619W-LETTERS-PRAGUE,.17
@@ -468,8 +468,8 @@
 5	miglekh_kat	_	NOUN	N-I	Definite=Ind	6	xcomp	_	_
 6	ver	_	VERB	VBF	VerbForm=Fin	12	advcl	_	_
 7	velt	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
-8	mayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	12	nsubj	_	_
-9	bruder	_	NOUN	N	_	8	conj	_	_
+8	mayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	det:poss	_	_
+9	bruder	_	NOUN	N	_	12	nsubj	_	_
 10	kan	_	DET	Q-ACC	Case=Acc	11	det	_	_
 11	menukhe	_	NOUN	N-ACC	Case=Acc	12	obj	_	_
 12	lozen	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -705,8 +705,8 @@
 10	mit	_	ADP	P	_	11	case	_	_
 11	zikh	_	PRON	PRO	_	12	obl	_	_
 12	gehat	_	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	_
-13	ire	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	obj	_	_
-14	zakhen	_	NOUN	N	_	13	conj	_	_
+13	ire	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	det:poss	_	_
+14	zakhen	_	NOUN	N	_	12	obj	_	_
 
 # sent_id = 1619W-LETTERS-PRAGUE,.46
 # X_ID = 1619W-LETTERS-PRAGUE,31.49
@@ -999,8 +999,8 @@
 2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
 3	aykh	_	PRON	PRO	_	2	obl	_	_
 4	losen	_	VERB	VB	VerbForm=Inf	2	dep	_	_
-5	mayne	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	nsubj	_	_
-6	kinder	_	NOUN	N	_	5	conj	_	_
+5	mayne	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	det:poss	_	_
+6	kinder	_	NOUN	N	_	8	nsubj	_	_
 7	%ich%-1	_	NOUN	NP-DTV	_	8	dep	_	_
 8	befoylen	_	VERB	VAN	Tense=Past|VerbForm=Part	2	xcomp	_	_
 9	zayn	_	AUX	BE	VerbForm=Inf	8	cop	_	_

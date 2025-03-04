@@ -181,10 +181,10 @@
 # sent_id = 1848E-JUDAH,.8
 # X_ID = 1848E-JUDAH,634.10
 # text = unzer libir keyzer ferdinand hot arum zikh gihat etlikhe yuetsim vos zey hobin em slekhte etsut gegebin in vos zey hobin nist tsu gelast az er zol herin di bksut fin zeyn folk in %con% zol nist visin vos %t%-3 zey bedarfin tsu dem az zey zolin kenin gliklikh lebin
-1	unzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	det:poss	_	_
-2	libir	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-3	keyzer	_	NOUN	N	_	4	conj	_	_
-4	ferdinand	_	PROPN	NPR	_	8	nsubj	_	_
+1	unzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+2	libir	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	keyzer	_	NOUN	N	_	8	nsubj	_	_
+4	ferdinand	_	PROPN	NPR	_	3	dep	_	_
 5	hot	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 6	arum	_	ADP	P	_	7	case	_	_
 7	zikh	_	PRON	PRO	_	8	obl	_	_
@@ -323,8 +323,8 @@
 1	di	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
 2	bksh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	6	obj	_	_
 3	hobin	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
-4	milasin	_	X	X	_	6	dep	_	_
-5	mensen	_	NOUN	N	_	4	conj	_	_
+4	milasin	_	X	X	_	5	dep	_	_
+5	mensen	_	NOUN	N	_	6	nsubj	_	_
 6	untergsrubin	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1848E-JUDAH,.14
@@ -526,9 +526,9 @@
 13	dem	_	DET	D	PronType=Art	14	det	_	_
 14	folk	_	NOUN	N-D	Definite=Def	11	obl	_	_
 15	hot	_	AUX	HVF	VerbForm=Fin	21	aux	_	_
-16	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	21	nsubj	_	_
-17	gut	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
-18	harts	_	NOUN	N	_	16	conj	_	_
+16	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	18	det:poss	_	_
+17	gut	_	ADJ	ADJ	Degree=Pos	18	amod	_	_
+18	harts	_	NOUN	N	_	21	nsubj	_	_
 19	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	21	advmod	_	_
 20	givolt	_	AUX	MDN	Tense=Past|VerbForm=Part	21	aux	_	_
 21	lozin	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -593,10 +593,10 @@
 19	der	_	DET	D-NOM	Case=Nom|PronType=Art	21	det	_	_
 20	viner	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	21	amod	_	_
 21	eulm	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	26	nsubj	_	_
-22	un	_	CCONJ	CONJ	_	23	cc	_	_
-23	zeyne	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	21	conj	_	_
-24	ibrige	_	ADJ	ADJ	Degree=Pos	23	amod	_	_
-25	felker	_	NOUN	N	_	23	conj	_	_
+22	un	_	CCONJ	CONJ	_	25	cc	_	_
+23	zeyne	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	25	det:poss	_	_
+24	ibrige	_	ADJ	ADJ	Degree=Pos	25	amod	_	_
+25	felker	_	NOUN	N	_	21	conj	_	_
 26	bagerin	_	VERB	VBF	VerbForm=Fin	17	conj	_	_
 27	un	_	CCONJ	CONJ	_	28	cc	_	_
 28	bdarfin	_	VERB	VBF	VerbForm=Fin	26	conj	_	_
@@ -716,8 +716,8 @@
 3	dikh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	berger	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	nsubj	_	_
-6	zeyere	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	2	obj	_	_
-7	shtot_menshin	_	NOUN	N	_	6	conj	_	_
+6	zeyere	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	det:poss	_	_
+7	shtot_menshin	_	NOUN	N	_	2	obj	_	_
 
 # sent_id = 1848E-JUDAH,.35
 # X_ID = 1848E-JUDAH,635.38
@@ -787,13 +787,13 @@
 3	vilin	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 4	dekh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 5	beshitsin	_	VERB	VB	VerbForm=Inf	0	root	_	_
-6	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	det:poss	_	_
-7	veyb	_	NOUN	N	_	9	conj	_	_
+6	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	det:poss	_	_
+7	veyb	_	NOUN	N	_	5	obj	_	_
 8	un	_	CCONJ	CONJ	_	9	cc	_	_
-9	kind	_	NOUN	N	_	12	obj	_	_
+9	kind	_	NOUN	N	_	7	conj	_	_
 10	in	_	CCONJ	CONJ	_	12	cc	_	_
 11	zeyer	_	PRON	PRO$	_	12	det:poss	_	_
-12	hab	_	NOUN	N	_	5	obj	_	_
+12	hab	_	NOUN	N	_	7	conj	_	_
 
 # sent_id = 1848E-JUDAH,.40
 # X_ID = 1848E-JUDAH,635.43
@@ -804,8 +804,8 @@
 4	yeder	_	DET	Q-NOM	Case=Nom	6	det	_	_
 5	gute	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	6	amod	_	_
 6	mensh	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	_
-7	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	3	obj	_	_
-8	lebin	_	NOUN	N	_	7	conj	_	_
+7	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	8	det:poss	_	_
+8	lebin	_	NOUN	N	_	3	obj	_	_
 9	eyn	_	X	X	_	3	dep	_	_
 10	brtsun	in_will	X	H	_	3	obl	_	_
 11	tub	good	X	H	_	10	dep	_	_
@@ -932,11 +932,11 @@
 # X_ID = 1848E-JUDAH,635.50
 # text = un di beamten fun der tsenzur hobin avek gistrokhin vos %t%-1 zey hobin givolt %ellps%
 1	un	_	CCONJ	CONJ	_	9	cc	_	_
-2	di	_	DET	D-NOM	Case=Nom|PronType=Art	9	nsubj	_	_
-3	beamten	_	NOUN	N	_	2	conj	_	_
+2	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
+3	beamten	_	NOUN	N	_	9	nsubj	_	_
 4	fun	_	ADP	P	_	6	case	_	_
 5	der	_	DET	D	PronType=Art	6	det	_	_
-6	tsenzur	_	NOUN	N-D	Definite=Def	2	obl	_	_
+6	tsenzur	_	NOUN	N-D	Definite=Def	3	obl	_	_
 7	hobin	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
 8	avek	_	ADV	RP-ADV	_	9	advmod	_	_
 9	gistrokhin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1348,11 +1348,11 @@
 28	menshin	_	NOUN	N	_	26	obl	_	_
 29	oyskloybin	_	VERB	VB-PART	VerbForm=Inf	0	root	_	_
 30	di	_	DET	D-ACC	Case=Acc|PronType=Art	31	det	_	_
-31	besti	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	35	obj	_	_
+31	besti	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	29	obj	_	_
 32	un	_	CCONJ	CONJ	_	35	cc	_	_
 33	di	_	DET	D-ACC	Case=Acc|PronType=Art	35	det	_	_
 34	klugsti	_	ADJ	ADJS-ACC	Case=Acc|Degree=Pos	35	amod	_	_
-35	leyt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	29	obj	_	_
+35	leyt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	31	conj	_	_
 
 # sent_id = 1848E-JUDAH,.68
 # X_ID = 1848E-JUDAH,635.71
@@ -1459,14 +1459,14 @@
 # sent_id = 1848E-JUDAH,.75
 # X_ID = 1848E-JUDAH,635.78
 # text = azuni mensn vos %t%-1 etts hot aleyn oysgeklibin vos %t%-2 zenin gut un klug vos zey lebin mit eykh un nebin eykh un vos zey visin vos %t%-5 etts bedarft kdi etts zolt kenin zeyn gliklikhe mensn azuni leyt velin nist tsulozin az men zol makhin a gzetts vos %t%-6 iz far eynem git un far dem andern shlekht
-1	azuni	_	ADJ	ADJ	Degree=Pos	42	obl	_	_
-2	mensn	_	NOUN	N	_	1	conj	_	_
+1	azuni	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	mensn	_	NOUN	N	_	42	obl	_	_
 3	vos	_	SCONJ	C	_	8	mark	_	_
 4	%t%-1	_	NOUN	NP-ACC	_	8	dep	_	_
 5	etts	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 6	hot	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 7	aleyn	_	ADV	ADV	Degree=Pos	8	advmod	_	_
-8	oysgeklibin	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+8	oysgeklibin	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 9	vos	_	SCONJ	C	_	11	mark	_	_
 10	%t%-2	_	NOUN	NP-SBJ	_	11	nsubj	_	_
 11	zenin	_	VERB	VBF	VerbForm=Fin	8	conj	_	_
@@ -1799,9 +1799,9 @@
 21	tsu	_	ADP	P	_	22	case	_	_
 22	nand	_	PRON	PRO	_	23	obl	_	_
 23	gkumin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-24	mehre	_	DET	Q-NOM	Case=Nom	23	nsubj	_	_
-25	berger	_	NOUN	N	_	24	conj	_	_
-26	%ich%-1	_	SCONJ	CONJP	_	24	conj	_	_
+24	mehre	_	DET	Q-NOM	Case=Nom	25	det	_	_
+25	berger	_	NOUN	N	_	23	nsubj	_	_
+26	%ich%-1	_	SCONJ	CONJP	_	25	conj	_	_
 27	un	_	ADP	P	_	28	case	_	_
 28	lemberg	_	PROPN	NPR	_	23	obl	_	_
 29	un	_	CCONJ	CONJ	_	31	cc	_	_
@@ -1864,10 +1864,10 @@
 1	di	_	DET	D-ACC	Case=Acc|PronType=Art	2	det	_	_
 2	shrift	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	20	obj	_	_
 3	hobin	_	AUX	HVF	VerbForm=Fin	20	aux	_	_
-4	mehrere	_	NUM	Q	_	7	nummod	_	_
+4	mehrere	_	DET	Q	_	20	nsubj	_	_
 5	tuzend	_	NUM	NUM	_	4	nummod	_	_
-6	menshin	_	NOUN	N	_	7	conj	_	_
-7	krustin	_	NOUN	N	_	20	nsubj	_	_
+6	menshin	_	NOUN	N	_	4	conj	_	_
+7	krustin	_	NOUN	N	_	4	appos	_	_
 8	un	_	CCONJ	CONJ	_	9	cc	_	_
 9	yudin	_	NOUN	N	_	7	conj	_	_
 10	alle	_	DET	Q	_	11	det	_	_
@@ -2009,10 +2009,10 @@
 5	tsu	_	PART	TO	_	6	mark	_	_
 6	tsahlin	_	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 7	keyn	_	DET	Q-ACC	Case=Acc	8	det	_	_
-8	lekht_geld	_	NOUN	N-ACC	Case=Acc	11	obj	_	_
+8	lekht_geld	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
 9	un	_	CCONJ	CONJ	_	11	cc	_	_
 10	keyn	_	DET	Q-ACC	Case=Acc	11	det	_	_
-11	fleysh_pakht	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
+11	fleysh_pakht	_	NOUN	N-ACC	Case=Acc	8	conj	_	_
 
 # sent_id = 1848E-JUDAH,.100
 # X_ID = 1848E-JUDAH,636.104
@@ -2033,9 +2033,9 @@
 4	megin	_	AUX	MD	VerbForm=Inf	5	aux	_	_
 5	kufin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	umedim	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-7	heyzr	_	NOUN	N-ACC	Case=Acc	9	obj	_	_
+7	heyzr	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
 8	un	_	CCONJ	CONJ	_	9	cc	_	_
-9	guter	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
+9	guter	_	NOUN	N-ACC	Case=Acc	7	conj	_	_
 
 # sent_id = 1848E-JUDAH,.102
 # X_ID = 1848E-JUDAH,636.106
@@ -2059,11 +2059,11 @@
 3	zoll	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 4	mir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 5	hobin	_	VERB	VB	VerbForm=Inf	0	root	_	_
-6	alls	_	DET	Q-ACC	Case=Acc	5	obj	_	_
-7	freyaheytin	_	NOUN	N	_	6	conj	_	_
+6	alls	_	DET	Q-ACC	Case=Acc	7	det	_	_
+7	freyaheytin	_	NOUN	N	_	5	obj	_	_
 8	vi	_	ADP	P	_	10	case	_	_
 9	alle	_	DET	Q	_	10	det	_	_
-10	krustin	_	NOUN	N	_	6	obl	_	_
+10	krustin	_	NOUN	N	_	7	obl	_	_
 
 # sent_id = 1848E-JUDAH,.104
 # X_ID = 1848E-JUDAH,636.108
@@ -2186,8 +2186,8 @@
 12	zolin	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
 13	kenin	_	AUX	MD	VerbForm=Inf	14	aux	_	_
 14	shikin	_	VERB	VB	VerbForm=Inf	0	root	_	_
-15	zeyere	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	obj	_	_
-16	mentshin	_	NOUN	N	_	15	conj	_	_
+15	zeyere	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	16	det:poss	_	_
+16	mentshin	_	NOUN	N	_	14	obj	_	_
 17	tsum	_	ADP	P-CL	_	18	case	_	_
 18	seym	_	NOUN	N	_	14	obl	_	_
 
@@ -2637,8 +2637,8 @@
 4	bekumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 6	bald	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-7	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	4	obj	_	_
-8	posik	_	NOUN	N	_	7	conj	_	_
+7	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	8	det:poss	_	_
+8	posik	_	NOUN	N	_	4	obj	_	_
 
 # sent_id = 1848E-JUDAH,.135
 # X_ID = 1848E-JUDAH,637.140
@@ -2746,9 +2746,9 @@
 # sent_id = 1848E-JUDAH,.140
 # X_ID = 1848E-JUDAH,637.145
 # text = unzer guter guverner hot giton vi eyn gitreyer fater
-1	unzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-2	guter	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	guverner	_	NOUN	N	_	1	conj	_	_
+1	unzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+2	guter	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	guverner	_	NOUN	N	_	5	nsubj	_	_
 4	hot	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 5	giton	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	vi	_	ADP	P	_	9	case	_	_
@@ -2840,13 +2840,13 @@
 1	gott	_	PROPN	NPR-SBJ	_	12	nsubj	_	_
 2	zoll	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 3	ihm	_	PRON	PRO-DTV	Case=Dat	12	iobj	_	_
-4	a	_	DET	D-ACC	Case=Acc|PronType=Art	12	obj	_	_
-5	lang	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	4	amod	_	_
+4	a	_	DET	D-ACC	Case=Acc|PronType=Art	10	det	_	_
+5	lang	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	10	amod	_	_
 6	un	_	CCONJ	CONJ	_	7	cc	_	_
 7	gezund	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 8	un	_	CCONJ	CONJ	_	9	cc	_	_
 9	gliklikh	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-10	lebin	_	NOUN	N	_	4	conj	_	_
+10	lebin	_	NOUN	N	_	12	obj	_	_
 11	der_far	_	ADP	P	_	12	obl	_	_
 12	shenkin	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 13	:	_	PUNCT	PUNC	_	12	punct	_	_
@@ -2858,9 +2858,9 @@
 2	etts	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	vos	_	PRON	WPRO	_	10	obj	_	_
 4	%t%-1	_	NOUN	NP-ACC	_	10	dep	_	_
-5	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	10	nsubj	_	_
-6	guldener	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-7	gubernher	_	NOUN	N	_	5	conj	_	_
+5	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	det:poss	_	_
+6	guldener	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	gubernher	_	NOUN	N	_	10	nsubj	_	_
 8	hot	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
 9	nakh	_	ADV	ADV	Degree=Pos	10	advmod	_	_
 10	gtahn	_	VERB	VBN	Tense=Past|VerbForm=Part	1	dep	_	_
@@ -2879,7 +2879,7 @@
 9	der	_	DET	D-NOM	Case=Nom|PronType=Art	8	dep	_	_
 10	iz	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 11	gven	_	VERB	VBN	Tense=Past|VerbForm=Part	9	dep	_	_
-12	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	20	obj	_	_
+12	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	9	obj	_	_
 13	is	person	X	H	_	12	dep	_	_
 14	tsr	UNKNOWN	X	H	_	12	dep	_	_
 15	uaoyb	UNKNOWN	X	H	_	12	dep	_	_
@@ -2887,7 +2887,7 @@
 17	bfrat	_	ADV	ADV	Degree=Pos	20	advmod	_	_
 18	a	_	DET	D	PronType=Art	20	det	_	_
 19	soyna	eneny	X	H	_	20	dep	_	_
-20	isral	_	PROPN	NPR-I	_	9	obj	_	_
+20	isral	_	PROPN	NPR-I	_	12	conj	_	_
 
 # sent_id = 1848E-JUDAH,.148
 # X_ID = 1848E-JUDAH,637.153
@@ -2927,9 +2927,9 @@
 18	zoll	_	AUX	MDF	VerbForm=Fin	20	aux	_	_
 19	kenin	_	AUX	MD	VerbForm=Inf	20	aux	_	_
 20	haltin	_	VERB	VB	VerbForm=Inf	14	advcl	_	_
-21	ruhe	_	NOUN	N-ACC	Case=Acc	23	obj	_	_
+21	ruhe	_	NOUN	N-ACC	Case=Acc	20	obj	_	_
 22	un	_	CCONJ	CONJ	_	23	cc	_	_
-23	ordnung	_	NOUN	N-ACC	Case=Acc	20	obj	_	_
+23	ordnung	_	NOUN	N-ACC	Case=Acc	21	conj	_	_
 24	tsvisen	_	ADP	P	_	27	case	_	_
 25	dem	_	DET	D	PronType=Art	27	det	_	_
 26	gimeynin	_	ADJ	ADJ	Degree=Pos	27	amod	_	_
@@ -3124,15 +3124,15 @@
 12	di	_	DET	D	PronType=Art	13	det	_	_
 13	yudin	_	NOUN	N-D	Definite=Def	8	obl	_	_
 14	velin	_	AUX	MDF	VerbForm=Fin	30	aux	_	_
-15	mir	_	PRON	PRO-NOM	Case=Nom	30	nsubj	_	_
+15	mir	_	PRON	PRO-NOM	Case=Nom	17	nmod	_	_
 16	bni	sons	X	H	_	17	dep	_	_
-17	isral	_	PROPN	NPR	_	15	appos	_	_
+17	isral	_	PROPN	NPR	_	30	nsubj	_	_
 18	vos	_	SCONJ	C	_	23	mark	_	_
 19	men	_	PRON	PRO	_	23	dep	_	_
 20	hobin	_	AUX	HVF	VerbForm=Fin	23	aux	_	_
 21	mir	_	PRON	PRO	_	23	nsubj	_	_
 22	tomed	_	ADV	ADV	Degree=Pos	23	advmod	_	_
-23	gihat	_	VERB	VBN	Tense=Past|VerbForm=Part	15	acl:relcl	_	_
+23	gihat	_	VERB	VBN	Tense=Past|VerbForm=Part	17	acl:relcl	_	_
 24	gute	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	25	amod	_	_
 25	hertser	_	NOUN	N-ACC	Case=Acc	23	obj	_	_
 26	avade	_	ADV	ADV	Degree=Pos	30	advmod	_	_

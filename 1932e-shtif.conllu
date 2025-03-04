@@ -390,8 +390,8 @@
 18	hebreishn	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
 19	shokhn	_	NOUN	N	_	16	obl	_	_
 20	hot	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-21	zeyne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	20	obj	_	_
-22	klasnvortslen	_	NOUN	N	_	21	conj	_	_
+21	zeyne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	22	det:poss	_	_
+22	klasnvortslen	_	NOUN	N	_	20	obj	_	_
 23	inem	_	ADP	P-CL	_	24	case	_	_
 24	kleynbirgertum	_	NOUN	N	_	20	obl	_	SpaceAfter=No
 25	,	_	PUNCT	PUNC	_	24	punct	_	_
@@ -1551,8 +1551,8 @@
 # sent_id = 1932E-SHTIF,.66
 # X_ID = 1932E-SHTIF,56.72
 # text = 121. Sein Frau, die darvor hat Anna gehaissen ... hat einer bauerenmagt Kleider angelegt, 199 . zayn froy vos frier hot zi gehaysn ana hot zikh ongeton vi a poyernmoyd .
-1	121.	_	NUM	LS	_	19	dep	_	_
-2	Sein	_	X	FW	Foreign=Yes	19	dep	_	_
+1	121.	_	NUM	LS	_	20	dep	_	_
+2	Sein	_	X	FW	Foreign=Yes	20	dep	_	_
 3	Frau	_	X	FW	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	2	punct	_	_
 5	die	_	X	FW	Foreign=Yes	2	flat:foreign	_	_
@@ -1566,24 +1566,24 @@
 13	bauerenmagt	_	X	FW	Foreign=Yes	2	flat:foreign	_	_
 14	Kleider	_	X	FW	Foreign=Yes	2	flat:foreign	_	_
 15	angelegt	_	X	FW	Foreign=Yes	2	flat:foreign	_	SpaceAfter=No
-16	,	_	PUNCT	PUNC	_	19	punct	_	_
-17	199	_	VERB	REF	_	19	dep	_	SpaceAfter=No
-18	.	_	PUNCT	PUNC	_	19	punct	_	_
-19	zayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	0	root	_	_
-20	froy	_	NOUN	N	_	19	conj	_	_
+16	,	_	PUNCT	PUNC	_	20	punct	_	_
+17	199	_	VERB	REF	_	20	dep	_	SpaceAfter=No
+18	.	_	PUNCT	PUNC	_	20	punct	_	_
+19	zayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	20	det:poss	_	_
+20	froy	_	NOUN	N	_	0	root	_	_
 21	vos	_	SCONJ	C	_	25	mark	_	_
 22	frier	_	ADV	ADVR	Degree=Cmp	25	advmod	_	_
 23	hot	_	AUX	HVF	VerbForm=Fin	25	aux	_	_
 24	zi	_	PRON	PRO	_	25	nsubj	_	_
-25	gehaysn	_	VERB	VBN	Tense=Past|VerbForm=Part	19	acl:relcl	_	_
+25	gehaysn	_	VERB	VBN	Tense=Past|VerbForm=Part	20	acl:relcl	_	_
 26	ana	_	PROPN	NPR	_	25	xcomp	_	_
-27	hot	_	AUX	HVF	VerbForm=Fin	19	aux	_	_
-28	zikh	_	PRON	PRO-RFL	PronType=Reflex	19	expl:pv	_	_
-29	ongeton	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	19	dep	_	_
+27	hot	_	AUX	HVF	VerbForm=Fin	20	aux	_	_
+28	zikh	_	PRON	PRO-RFL	PronType=Reflex	20	expl:pv	_	_
+29	ongeton	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	20	dep	_	_
 30	vi	_	ADP	P	_	32	case	_	_
 31	a	_	DET	D	PronType=Art	32	det	_	_
-32	poyernmoyd	_	NOUN	N-I	Definite=Ind	19	obl	_	SpaceAfter=No
-33	.	_	PUNCT	PUNC	_	19	punct	_	_
+32	poyernmoyd	_	NOUN	N-I	Definite=Ind	20	obl	_	SpaceAfter=No
+33	.	_	PUNCT	PUNC	_	20	punct	_	_
 
 # sent_id = 1932E-SHTIF,.67
 # X_ID = 1932E-SHTIF,56.73
@@ -1913,11 +1913,11 @@
 45	in	_	ADP	P	_	47	case	_	_
 46	ir	_	PRON	PRO$	_	47	det:poss	_	_
 47	yidish	_	NOUN	N	_	44	obl	_	_
-48	shtiker	_	NOUN	N-ACC	Case=Acc	52	obj	_	_
+48	shtiker	_	NOUN	N-ACC	Case=Acc	42	obj	_	_
 49	psukim	_	NOUN	N-ACC	Case=Acc	48	nmod:poss	_	_
 50	un	_	CCONJ	CONJ	_	52	cc	_	_
 51	gantse	_	ADJ	ADJ	Degree=Pos	52	amod	_	_
-52	psukim	_	NOUN	N	_	42	obj	_	SpaceAfter=No
+52	psukim	_	NOUN	N	_	48	conj	_	SpaceAfter=No
 53	?	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1932E-SHTIF,.77

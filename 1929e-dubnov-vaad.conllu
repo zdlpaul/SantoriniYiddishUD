@@ -250,8 +250,8 @@
 21	genumen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 22	vider	_	ADV	ADV	Degree=Pos	23	advmod	_	_
 23	farstarkn	_	VERB	VB	VerbForm=Inf	21	xcomp	_	_
-24	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	23	obj	_	_
-25	oytoritet	_	NOUN	N	_	24	conj	_	SpaceAfter=No
+24	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	25	det:poss	_	_
+25	oytoritet	_	NOUN	N	_	23	obj	_	SpaceAfter=No
 26	,	_	PUNCT	PUNC	_	23	punct	_	_
 27	farfestikn	_	VERB	VB	VerbForm=Inf	23	xcomp	_	_
 28	di	_	DET	D-ACC	Case=Acc|PronType=Art	29	det	_	_
@@ -337,10 +337,10 @@
 18	,	_	PUNCT	PUNC	_	11	punct	_	_
 19	onnemen	_	VERB	VB-PART	VerbForm=Inf	11	conj	_	_
 20	an	_	DET	D-ACC	Case=Acc|PronType=Art	21	det	_	_
-21	arende	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	24	obj	_	_
+21	arende	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	19	obj	_	_
 22	oder	_	CCONJ	CONJ	_	24	cc	_	_
 23	a	_	DET	D-ACC	Case=Acc|PronType=Art	24	det	_	_
-24	stele	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	19	obj	_	SpaceAfter=No
+24	stele	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	21	conj	_	SpaceAfter=No
 25	.	_	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = 1929E-DUBNOV-VAAD,.9
@@ -820,11 +820,11 @@
 33	kedey	_	SCONJ	C	_	32	advcl	_	_
 34	tsu	_	PART	TO	_	35	mark	_	_
 35	farstarkn	_	VERB	VB	VerbForm=Inf	33	xcomp	_	_
-36	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	35	obj	_	_
-37	oytoritet	_	NOUN	N	_	36	conj	_	_
+36	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	37	det:poss	_	_
+37	oytoritet	_	NOUN	N	_	35	obj	_	_
 38	in	_	ADP	P	_	40	case	_	_
 39	di	_	DET	D	PronType=Art	40	det	_	_
-40	distsiplin	_	NOUN	N-D	Definite=Def	36	obl	_	_
+40	distsiplin	_	NOUN	N-D	Definite=Def	37	obl	_	_
 41	in	_	ADP	P	_	43	case	_	_
 42	di	_	DET	D	PronType=Art	43	det	_	_
 43	khilut	_	NOUN	N-D	Definite=Def	40	obl	_	SpaceAfter=No
@@ -879,9 +879,9 @@
 5	tsum	_	ADP	P-CL	_	7	case	_	_
 6	erstn	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	mol	_	NOUN	N	_	3	obl	_	_
-8	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	3	obj	_	_
-9	fuln	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-10	tekst	_	NOUN	N	_	8	conj	_	SpaceAfter=No
+8	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	det:poss	_	_
+9	fuln	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+10	tekst	_	NOUN	N	_	3	obj	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1929E-DUBNOV-VAAD,.23

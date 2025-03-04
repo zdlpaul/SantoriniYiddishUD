@@ -150,9 +150,9 @@
 8	eyn	_	DET	D	PronType=Art	9	det	_	_
 9	tsrh	_	NOUN	N-I	Definite=Ind	6	obl	_	_
 10	az	_	SCONJ	C	_	19	mark	_	_
-11	azoy	_	ADV	ADV	Degree=Pos	19	nsubj	_	_
+11	azoy	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 12	fil	_	DET	Q	_	11	det	_	_
-13	ihudim	_	NOUN	N	_	11	conj	_	_
+13	ihudim	_	NOUN	N	_	19	nsubj	_	_
 14	habin	_	AUX	HVF	VerbForm=Fin	19	aux	_	_
 15	zikh	_	PRON	PRO-RFL	PronType=Reflex	19	expl:pv	_	_
 16	keynr	_	ADV	Q	_	19	advmod	_	_
@@ -204,8 +204,8 @@
 2	dernakh	_	ADP	P	_	7	obl	_	_
 3	habin	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
 4	zikh	_	PRON	PRO-RFL	PronType=Reflex	7	expl:pv	_	_
-5	ali	_	DET	Q-NOM	Case=Nom	7	nsubj	_	_
-6	heydin	_	NOUN	N	_	5	conj	_	_
+5	ali	_	DET	Q-NOM	Case=Nom	6	det	_	_
+6	heydin	_	NOUN	N	_	7	nsubj	_	_
 7	ginumen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	oyf	_	ADP	P	_	10	case	_	_
 9	di	_	DET	D	PronType=Art	10	det	_	_
@@ -475,10 +475,10 @@
 4	unter	_	ADP	P	_	6	case	_	_
 5	der	_	DET	D	PronType=Art	6	det	_	_
 6	shtat	_	NOUN	N-D	Definite=Def	3	obl	_	_
-7	biz	_	ADP	P	_	8	case	_	_
-8	fir_hundrt	_	NUM	NUM	_	10	nummod	_	_
-9	vegin	_	NOUN	N	_	10	conj	_	_
-10	ansim	people	X	H	_	3	nsubj	_	_
+7	biz	_	ADP	P	_	3	nsubj	_	_
+8	fir_hundrt	_	NUM	NUM	_	7	nummod	_	_
+9	vegin	_	NOUN	N	_	7	conj	_	_
+10	ansim	people	X	H	_	7	nmod:poss	_	_
 11	unsim	and_women	X	H	_	10	dep	_	_
 12	usf	and_children	X	H	_	10	dep	_	_
 
@@ -641,8 +641,8 @@
 # sent_id = 1834E-UKRAINE-2,.40
 # X_ID = 1834E-UKRAINE-2,38.42
 # text = unzr srrh vet dir makhin far a groysin srrh
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-2	srrh	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	srrh	_	NOUN	N	_	5	nsubj	_	_
 3	vet	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 4	dir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
 5	makhin	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -762,9 +762,9 @@
 4	derveyl	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 5	um	_	ADP	RP	_	6	compound:prt	_	_
 6	gikumn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-7	kmh	a_few	X	H	_	6	nsubj	_	_
-8	alpim	thousands	X	H	_	7	dep	_	_
-9	ihudim	_	NOUN	N	_	7	conj	_	_
+7	kmh	a_few	X	H	_	9	dep	_	_
+8	alpim	thousands	X	H	_	9	dep	_	_
+9	ihudim	_	NOUN	N	_	6	nsubj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.48
 # X_ID = 1834E-UKRAINE-2,38.50
@@ -842,9 +842,9 @@
 7	untr	_	ADP	P	_	9	case	_	_
 8	der	_	DET	D	PronType=Art	9	det	_	_
 9	shtat	_	NOUN	N-D	Definite=Def	6	obl	_	_
-10	kmh	a_few	X	H	_	6	nsubj	_	_
-11	alpim	thousands	X	H	_	10	dep	_	_
-12	ihudim	_	NOUN	N	_	10	conj	_	_
+10	kmh	a_few	X	H	_	12	dep	_	_
+11	alpim	thousands	X	H	_	12	dep	_	_
+12	ihudim	_	NOUN	N	_	6	nsubj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.54
 # X_ID = 1834E-UKRAINE-2,38.56
@@ -1230,10 +1230,10 @@
 2	%con%	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 3	hat	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
 4	ali	_	DET	Q-ACC	Case=Acc	5	det	_	_
-5	ihudim	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
+5	ihudim	_	NOUN	N-ACC	Case=Acc	10	obj	_	_
 6	un	_	CCONJ	CONJ	_	8	cc	_	_
 7	di	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
-8	pritsim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	10	obj	_	_
+8	pritsim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	5	conj	_	_
 9	alts	_	ADV	Q	_	10	advmod	_	_
 10	fer_tribin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 11	biz	_	SCONJ	C	_	19	mark	_	_
@@ -1599,13 +1599,13 @@
 # sent_id = 1834E-UKRAINE-2,.103
 # X_ID = 1834E-UKRAINE-2,40.105
 # text = ir fatr hat giheysn hkdus rbi msh
-1	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	nsubj	_	_
-2	fatr	_	NOUN	N	_	1	conj	_	_
+1	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	fatr	_	NOUN	N	_	4	nsubj	_	_
 3	hat	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 4	giheysn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	hkdus	the_holy_one	X	H	_	4	xcomp	_	_
-6	rbi	_	PROPN	NPR	_	5	flat:foreign	_	_
-7	msh	_	PROPN	NPR	_	5	dep	_	_
+5	hkdus	the_holy_one	X	H	_	6	dep	_	_
+6	rbi	_	PROPN	NPR	_	4	xcomp	_	_
+7	msh	_	PROPN	NPR	_	6	flat:name	_	_
 
 # sent_id = 1834E-UKRAINE-2,.104
 # X_ID = 1834E-UKRAINE-2,40.106
@@ -1705,8 +1705,8 @@
 2	%con%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 3	habin	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
 4	gitan	_	VERB	DON	Tense=Past|VerbForm=Part	7	ccomp	_	_
-5	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	obj	_	_
-6	mesr	_	NOUN	N	_	5	conj	_	_
+5	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
+6	mesr	_	NOUN	N	_	7	obj	_	_
 7	sharfn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	tsu	_	PART	TO	_	9	advcl	_	_
 9	koyln	_	VERB	VB	VerbForm=Inf	7	advcl	_	_
@@ -1747,8 +1747,8 @@
 1	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 2	tu	_	VERB	DOF	VerbForm=Fin	7	ccomp	_	_
 3	tikf	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-4	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	obj	_	_
-5	halz	_	NOUN	N	_	4	conj	_	_
+4	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
+5	halz	_	NOUN	N	_	7	obj	_	_
 6	oys	_	ADP	RP	_	7	compound:prt	_	_
 7	shtrekin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	tsum	_	ADP	P-CL	_	9	case	_	_
@@ -1758,8 +1758,8 @@
 # X_ID = 1834E-UKRAINE-2,40.117
 # text = un ir mutr iz gishtanin der_baey nebin
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
-2	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-3	mutr	_	NOUN	N	_	2	conj	_	_
+2	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	mutr	_	NOUN	N	_	5	nsubj	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 5	gishtanin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	der_baey	_	ADP	P	_	7	obl	_	_
@@ -2217,8 +2217,8 @@
 2	zey	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 3	zalin	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
 4	gar	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-5	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	obj	_	_
-6	hab	_	NOUN	N	_	5	conj	_	_
+5	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
+6	hab	_	NOUN	N	_	10	obj	_	_
 7	fun	_	ADP	P	_	8	case	_	_
 8	zikh	_	PRON	PRO	_	10	obl	_	_
 9	avek	_	ADV	RP-ADV	_	10	advmod	_	_
@@ -2269,8 +2269,8 @@
 10	azoy	_	ADV	ADV	Degree=Pos	16	advmod	_	_
 11	habin	_	AUX	HVF	VerbForm=Fin	16	aux	_	_
 12	zey	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
-13	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	16	obj	_	_
-14	blut	_	NOUN	N	_	13	conj	_	_
+13	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	det:poss	_	_
+14	blut	_	NOUN	N	_	16	obj	_	_
 15	gitan	_	VERB	DON	Tense=Past|VerbForm=Part	16	ccomp	_	_
 16	far_gisin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
@@ -2312,8 +2312,8 @@
 2	zeynin	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
 3	tsi_shit	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
 4	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-5	iri	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	nsubj	_	_
-6	glidr	_	NOUN	N	_	5	conj	_	_
+5	iri	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	det:poss	_	_
+6	glidr	_	NOUN	N	_	4	nsubj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.154
 # X_ID = 1834E-UKRAINE-2,41.156
@@ -2399,12 +2399,12 @@
 25	ginumn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 26	oyf	_	ADP	P	_	27	case	_	_
 27	zikh	_	PRON	PRO	_	25	obl	_	_
-28	kitl	_	NOUN	N-ACC	Case=Acc	30	obj	_	_
+28	kitl	_	NOUN	N-ACC	Case=Acc	25	obj	_	_
 29	un	_	CCONJ	CONJ	_	30	cc	_	_
-30	tlit	_	NOUN	N-ACC	Case=Acc	25	obj	_	_
+30	tlit	_	NOUN	N-ACC	Case=Acc	28	conj	_	_
 31	un	_	CCONJ	CONJ	_	33	cc	_	_
 32	zeyni	_	PRON	PRO$	_	33	det:poss	_	_
-33	kindr	_	NOUN	N	_	30	conj	_	_
+33	kindr	_	NOUN	N	_	28	conj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.157
 # X_ID = 1834E-UKRAINE-2,41.159
@@ -2888,12 +2888,12 @@
 4	habin	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 5	nebikh	_	INTJ	INTJ	_	6	discourse	_	_
 6	ginasin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-7	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	det:poss	_	_
-8	fatr	_	NOUN	N	_	10	conj	_	_
+7	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	8	det:poss	_	_
+8	fatr	_	NOUN	N	_	6	obj	_	_
 9	un	_	CCONJ	CONJ	_	10	cc	_	_
-10	mutr@	_	NOUN	N	_	6	obj	_	SpaceAfter=No
+10	mutr@	_	NOUN	N	_	8	conj	_	SpaceAfter=No
 11	@s	_	PUNCT	$	_	12	punct	_	_
-12	zind	_	NOUN	N	_	10	conj	_	_
+12	zind	_	NOUN	N	_	8	conj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.192
 # X_ID = 1834E-UKRAINE-2,42.194
@@ -2985,8 +2985,8 @@
 6	in	_	ADP	P	_	8	case	_	_
 7	ali	_	DET	Q	_	8	det	_	_
 8	gasin	_	NOUN	N	_	5	obl	_	_
-9	zeyere	_	PRON	PRO$	_	5	obl	_	_
-10	beynr	_	NOUN	N	_	9	conj	_	_
+9	zeyere	_	PRON	PRO$	_	10	det:poss	_	_
+10	beynr	_	NOUN	N	_	5	obl	_	_
 
 # sent_id = 1834E-UKRAINE-2,.197
 # X_ID = 1834E-UKRAINE-2,42.199
@@ -3266,15 +3266,15 @@
 # sent_id = 1834E-UKRAINE-2,.215
 # X_ID = 1834E-UKRAINE-2,42.217
 # text = oykh kleyni kindr vas %t%-1 men hat nebikh tsu_stakhin zeynin zey gigangin betlen tsvishin erlim nakh broyt
-1	oykh	_	ADV	ADV	Degree=Pos	12	obl	_	_
-2	kleyni	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	kindr	_	NOUN	N	_	1	conj	_	_
+1	oykh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+2	kleyni	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	kindr	_	NOUN	N	_	12	obl	_	_
 4	vas	_	SCONJ	C	_	9	mark	_	_
 5	%t%-1	_	NOUN	NP-ACC	_	9	dep	_	_
 6	men	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 7	hat	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
 8	nebikh	_	INTJ	INTJ	_	9	discourse	_	_
-9	tsu_stakhin	_	VERB	VBN	Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+9	tsu_stakhin	_	VERB	VBN	Tense=Past|VerbForm=Part	3	acl:relcl	_	_
 10	zeynin	_	AUX	BEF	VerbForm=Fin	12	cop	_	_
 11	zey	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 12	gigangin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -3385,13 +3385,13 @@
 15	hat	_	AUX	HVF	VerbForm=Fin	28	aux	_	_
 16	er	_	PRON	PRO-NOM	Case=Nom	28	nsubj	_	_
 17	ali	_	DET	Q-ACC	Case=Acc	18	det	_	_
-18	pritsim	_	NOUN	N-ACC	Case=Acc	21	obj	_	_
+18	pritsim	_	NOUN	N-ACC	Case=Acc	28	obj	_	_
 19	un	_	CCONJ	CONJ	_	21	cc	_	_
 20	ali	_	DET	Q-ACC	Case=Acc	21	det	_	_
-21	herin	_	NOUN	N-ACC	Case=Acc	28	obj	_	_
+21	herin	_	NOUN	N-ACC	Case=Acc	18	conj	_	_
 22	un	_	CCONJ	CONJ	_	24	cc	_	_
 23	dem	_	DET	D	PronType=Art	24	det	_	_
-24	kamisr	_	NOUN	N-D	Definite=Def	21	conj	_	_
+24	kamisr	_	NOUN	N-D	Definite=Def	18	conj	_	_
 25	in	_	ADP	P	_	26	case	_	_
 26	kloystr	_	NOUN	N	_	27	obl	_	_
 27	areyn	_	ADV	ADV	Degree=Pos	28	advmod	_	_
@@ -3416,8 +3416,8 @@
 2	habin	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 3	zey	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	gibetin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	andri	_	ADJ	ADJ	Degree=Pos	4	obl	_	_
-6	pritsim	_	NOUN	N	_	5	conj	_	_
+5	andri	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	pritsim	_	NOUN	N	_	4	obl	_	_
 7	dem	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
 8	kamisr	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
 9	zag	_	VERB	VBI	Mood=Imp	4	ccomp	_	_
@@ -3466,9 +3466,9 @@
 2	hat	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 3	shoyn	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	givst	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	4	obj	_	_
-6	beyzin	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-7	suf	_	NOUN	N	_	5	conj	_	_
+5	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	det:poss	_	_
+6	beyzin	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	suf	_	NOUN	N	_	4	obj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.228
 # X_ID = 1834E-UKRAINE-2,43.230
@@ -3528,8 +3528,8 @@
 # sent_id = 1834E-UKRAINE-2,.231
 # X_ID = 1834E-UKRAINE-2,43.233
 # text = zeyn sbueh hot gonte imkh smu gibrokhin
-1	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	obj	_	_
-2	sbueh	_	NOUN	N	_	1	conj	_	_
+1	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	2	det:poss	_	_
+2	sbueh	_	NOUN	N	_	7	obj	_	_
 3	hot	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
 4	gonte	_	PROPN	NPR-SBJ	_	7	nsubj	_	_
 5	imkh	may_be_erased	X	H	_	7	dep	_	_
@@ -3680,8 +3680,8 @@
 6	%t%-1	_	ADV	ADVP	Degree=Pos	11	advmod	_	_
 7	tus@	_	VERB	DOF	VerbForm=Fin	11	ccomp	_	_
 8	@tu	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-9	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	11	obj	_	_
-10	sbueh	_	NOUN	N	_	9	conj	_	_
+9	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	det:poss	_	_
+10	sbueh	_	NOUN	N	_	11	obj	_	_
 11	brekhin	_	VERB	VB	VerbForm=Inf	5	conj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.242
@@ -3708,8 +3708,8 @@
 2	heynt	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 3	hlts@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	@tu	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-5	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	3	obj	_	_
-6	shbueh	_	NOUN	N	_	5	conj	_	_
+5	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
+6	shbueh	_	NOUN	N	_	3	obj	_	_
 7	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
 
 # sent_id = 1834E-UKRAINE-2,.244
@@ -3735,8 +3735,8 @@
 18	azoy	_	ADV	ADV	Degree=Pos	19	advmod	_	_
 19	brekh	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 20	ikh	_	PRON	PRO-NOM	Case=Nom	19	nsubj	_	_
-21	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	19	obj	_	_
-22	shbueh	_	NOUN	N	_	21	conj	_	_
+21	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	22	det:poss	_	_
+22	shbueh	_	NOUN	N	_	19	obj	_	_
 23	oykh	_	ADV	ADV	Degree=Pos	19	advmod	_	_
 
 # sent_id = 1834E-UKRAINE-2,.245
@@ -3990,8 +3990,8 @@
 8	men	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 9	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
 10	gihert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-11	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	obj	_	_
-12	kul	_	NOUN	N	_	11	conj	_	_
+11	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	det:poss	_	_
+12	kul	_	NOUN	N	_	10	obj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.263
 # X_ID = 1834E-UKRAINE-2,43.265
@@ -4359,8 +4359,8 @@
 # X_ID = 1834E-UKRAINE-2,44.289
 # text = un zeyn kul hat zikh gihert far a meyl
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
-2	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	nsubj	_	_
-3	kul	_	NOUN	N	_	2	conj	_	_
+2	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	kul	_	NOUN	N	_	6	nsubj	_	_
 4	hat	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 5	zikh	_	PRON	PRO-RFL	PronType=Reflex	6	expl:pv	_	_
 6	gihert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -4385,8 +4385,8 @@
 12	%t%-1	_	ADP	PP	_	18	obl	_	_
 13	ves@	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
 14	@tu	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
-15	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	18	obj	_	_
-16	nkmh	_	NOUN	N	_	15	conj	_	_
+15	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	16	det:poss	_	_
+16	nkmh	_	NOUN	N	_	18	obj	_	_
 17	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	18	advmod	_	_
 18	tan	_	VERB	VB	VerbForm=Inf	5	conj	_	_
 19	in	_	ADP	P	_	21	case	_	_
@@ -4395,10 +4395,10 @@
 22	vas	_	SCONJ	C	_	24	mark	_	_
 23	zey	_	PRON	PRO	_	24	nsubj	_	_
 24	hrgnn	_	VERB	VBF	VerbForm=Fin	21	acl:relcl	_	_
-25	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	28	det:poss	_	_
-26	loyb	_	ADJ	ADJ	Degree=Pos	28	amod	_	_
-27	falg	_	NOUN	N	_	28	conj	_	_
-28	isral	_	PROPN	NPR	_	24	obj	_	_
+25	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	27	det:poss	_	_
+26	loyb	_	ADJ	ADJ	Degree=Pos	27	amod	_	_
+27	falg	_	NOUN	N	_	24	obj	_	_
+28	isral	_	PROPN	NPR	_	27	dep	_	_
 
 # sent_id = 1834E-UKRAINE-2,.289
 # X_ID = 1834E-UKRAINE-2,44.291
@@ -4493,8 +4493,8 @@
 # X_ID = 1834E-UKRAINE-2,44.296
 # text = un zeyer fatr hat giheysin r' gdlih
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
-2	zeyer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-3	fatr	_	NOUN	N	_	2	conj	_	_
+2	zeyer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	fatr	_	NOUN	N	_	5	nsubj	_	_
 4	hat	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 5	giheysin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	r'	_	PROPN	NPR	_	5	xcomp	_	_
@@ -4767,8 +4767,8 @@
 11	zalin	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
 12	di	_	DET	D-DTV	Case=Dat|PronType=Art	13	det	_	_
 13	hrugim	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	16	iobj	_	_
-14	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	16	obj	_	_
-15	rekht	_	NOUN	N	_	14	conj	_	_
+14	zeyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	15	det:poss	_	_
+15	rekht	_	NOUN	N	_	16	obj	_	_
 16	tan	_	VERB	VB	VerbForm=Inf	5	advcl	_	_
 
 # sent_id = 1834E-UKRAINE-2,.312
@@ -5122,11 +5122,11 @@
 9	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
 10	lazin	_	VERB	VB	VerbForm=Inf	23	advcl	_	_
 11	keyn	_	DET	Q-ACC	Case=Acc	12	det	_	_
-12	ihudi	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
+12	ihudi	_	NOUN	N-ACC	Case=Acc	10	obj	_	_
 13	un	_	CCONJ	CONJ	_	16	cc	_	_
 14	keyn	_	DET	Q-ACC	Case=Acc	16	det	_	_
 15	sum	_	DET	Q-ACC	Case=Acc	16	det	_	_
-16	palak	_	NOUN	N-ACC	Case=Acc	10	obj	_	_
+16	palak	_	NOUN	N-ACC	Case=Acc	12	conj	_	_
 17	in	_	ADP	P	_	18	case	_	_
 18	mdinh	_	NOUN	N	_	10	obl	_	_
 19	pulin	_	PROPN	NPR	_	18	dep	_	_
@@ -5141,10 +5141,10 @@
 28	aroys	_	ADV	ADV	Degree=Pos	29	advmod	_	_
 29	gebin	_	VERB	VB	VerbForm=Inf	23	advcl	_	_
 30	di	_	DET	D-ACC	Case=Acc|PronType=Art	31	det	_	_
-31	ihudim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	34	obj	_	_
+31	ihudim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	29	obj	_	_
 32	un	_	CCONJ	CONJ	_	34	cc	_	_
 33	di	_	DET	D-ACC	Case=Acc|PronType=Art	34	det	_	_
-34	erlim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	29	obj	_	_
+34	erlim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	31	conj	_	_
 35	az	_	SCONJ	C	_	40	mark	_	_
 36	mir	_	PRON	PRO-NOM	Case=Nom	40	nsubj	_	_
 37	zalin	_	AUX	MDF	VerbForm=Fin	40	aux	_	_
@@ -5787,10 +5787,10 @@
 # X_ID = 1834E-UKRAINE-2,47.377
 # text = un zeyer hab un guts iz oys gibrakht givarin
 1	un	_	CCONJ	CONJ	_	9	cc	_	_
-2	zeyer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	nsubj	_	_
-3	hab	_	NOUN	N	_	2	conj	_	_
+2	zeyer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	hab	_	NOUN	N	_	9	nsubj	_	_
 4	un	_	CCONJ	CONJ	_	5	cc	_	_
-5	guts	_	NOUN	N	_	2	conj	_	_
+5	guts	_	NOUN	N	_	3	conj	_	_
 6	iz	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 7	oys	_	ADP	RP	_	9	compound:prt	_	_
 8	gibrakht	_	VERB	VAN	Tense=Past|VerbForm=Part	9	ccomp	_	_
@@ -5854,9 +5854,9 @@
 # text = drum zeynin azoy fil ihudim um gikumn
 1	drum	_	ADP	P	_	7	obl	_	_
 2	zeynin	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-3	azoy	_	ADV	ADV	Degree=Pos	7	nsubj	_	_
+3	azoy	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 4	fil	_	DET	Q	_	3	det	_	_
-5	ihudim	_	NOUN	N	_	3	conj	_	_
+5	ihudim	_	NOUN	N	_	7	nsubj	_	_
 6	um	_	ADP	RP	_	7	compound:prt	_	_
 7	gikumn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
@@ -5983,10 +5983,10 @@
 # X_ID = 1834E-UKRAINE-2,47.388
 # text = un das ibrigi bisl ihudim hat der tatir ginumn zey in sbih areyn
 1	un	_	CCONJ	CONJ	_	9	cc	_	_
-2	das	_	DET	D	PronType=Art	5	det	_	_
-3	ibrigi	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-4	bisl	_	NOUN	N	_	5	nummod	_	_
-5	ihudim	_	NOUN	N	_	9	obl	_	_
+2	das	_	DET	D	PronType=Art	4	det	_	_
+3	ibrigi	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	bisl	_	NOUN	N	_	9	obl	_	_
+5	ihudim	_	NOUN	N	_	4	nmod:poss	_	_
 6	hat	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
 7	der	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
 8	tatir	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	9	nsubj	_	_
@@ -6219,8 +6219,8 @@
 6	an	_	ADP	RP	_	7	compound:prt	_	_
 7	gihoybin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	ririn	_	VERB	VB	VerbForm=Inf	7	xcomp	_	_
-9	zeyni	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	8	obj	_	_
-10	khilut	_	NOUN	N	_	9	conj	_	_
+9	zeyni	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	det:poss	_	_
+10	khilut	_	NOUN	N	_	8	obj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.401
 # X_ID = 1834E-UKRAINE-2,47.403
@@ -6716,10 +6716,10 @@
 6	bkhbli	in_UNKNOWN	X	H	_	5	dep	_	_
 7	brzl	in_UNKNOWN	X	H	_	5	dep	_	_
 8	di	_	DET	D-ACC	Case=Acc|PronType=Art	9	det	_	_
-9	hent	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	12	obj	_	_
+9	hent	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	5	obj	_	_
 10	un	_	CCONJ	CONJ	_	12	cc	_	_
 11	di	_	DET	D-ACC	Case=Acc|PronType=Art	12	det	_	_
-12	fis	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	5	obj	_	_
+12	fis	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	9	conj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.431
 # X_ID = 1834E-UKRAINE-2,48.433
@@ -6806,8 +6806,8 @@
 2	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	oys	_	ADP	RP	_	4	compound:prt	_	_
 4	gistrekt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	4	obj	_	_
-6	fus	_	NOUN	N	_	5	conj	_	_
+5	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
+6	fus	_	NOUN	N	_	4	obj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.437
 # X_ID = 1834E-UKRAINE-2,48.439
@@ -7079,9 +7079,9 @@
 15	%con%	_	NOUN	NP-SBJ	_	14	dep	_	_
 16	zalin	_	AUX	MDF	VerbForm=Fin	15	aux	_	_
 17	zehn	_	VERB	VB	VerbForm=Inf	15	dep	_	_
-18	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	15	obj	_	_
-19	beyzin	_	ADJ	ADJ	Degree=Pos	18	amod	_	_
-20	vndr	_	NOUN	N	_	18	conj	_	_
+18	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	20	det:poss	_	_
+19	beyzin	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
+20	vndr	_	NOUN	N	_	15	obj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.456
 # X_ID = 1834E-UKRAINE-2,49.458
@@ -7097,8 +7097,8 @@
 9	mit	_	ADP	P	_	11	case	_	_
 10	eyzerne	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	kemlekh	_	NOUN	N	_	8	obl	_	_
-12	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	8	obj	_	_
-13	fleysh	_	NOUN	N	_	12	conj	_	_
+12	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	13	det:poss	_	_
+13	fleysh	_	NOUN	N	_	8	obj	_	_
 
 # sent_id = 1834E-UKRAINE-2,.457
 # X_ID = 1834E-UKRAINE-2,49.459
@@ -7310,9 +7310,9 @@
 # sent_id = 1834E-UKRAINE-2,.472
 # X_ID = 1834E-UKRAINE-2,49.474
 # text = unzr gual tsdk zal kumn bmhrh bimnu amn
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-2	gual	redeemer	X	H	_	1	dep	_	_
-3	tsdk	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+2	gual	redeemer	X	H	_	3	dep	_	_
+3	tsdk	_	NOUN	N	_	5	nsubj	_	_
 4	zal	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 5	kumn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	bmhrh	speedily	ADV	H	_	5	advmod	_	_

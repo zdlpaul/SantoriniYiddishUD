@@ -96,12 +96,12 @@
 # sent_id = 1944E-BIOKHEMIE,.6
 # X_ID = 1944E-BIOKHEMIE,187.8
 # text = yeder leybediker un normal funktsionirndiker organizm boyt yene khemishe farbindungen, vos %t%-1 zenen im naytik, kedey of tsu haltn di normale funktsionirungen fun ale zayne organen
-1	yeder	_	DET	Q-NOM	Case=Nom	7	nsubj	_	_
-2	leybediker	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	1	amod	_	_
+1	yeder	_	DET	Q-NOM	Case=Nom	6	det	_	_
+2	leybediker	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	6	amod	_	_
 3	un	_	CCONJ	CONJ	_	5	cc	_	_
 4	normal	_	ADV	ADV	Degree=Pos	5	amod	_	_
 5	funktsionirndiker	_	VERB	VAG	Tense=Pres|VerbForm=Part	2	amod	_	_
-6	organizm	_	NOUN	N	_	1	conj	_	_
+6	organizm	_	NOUN	N	_	7	nsubj	_	_
 7	boyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	yene	_	DET	D-ACC	Case=Acc|PronType=Art	10	det	_	_
 9	khemishe	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	10	amod	_	_
@@ -136,9 +136,9 @@
 6	bekoyekh	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	tsu	_	PART	TO	_	8	mark	_	_
 8	regulirn	_	VERB	VB	VerbForm=Inf	6	amod	_	_
-9	zeyne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	8	obj	_	_
-10	biokhemishe	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-11	protsesn	_	NOUN	N	_	9	conj	_	SpaceAfter=No
+9	zeyne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	11	det:poss	_	_
+10	biokhemishe	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
+11	protsesn	_	NOUN	N	_	8	obj	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	14	punct	_	_
 13	demolt	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 14	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_

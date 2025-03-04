@@ -315,15 +315,15 @@
 1	ikh	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 2	vil	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 3	amol	_	ADV	ADV	Degree=Pos	13	advmod	_	_
-4	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	13	obj	_	_
-5	bikhlekh	_	NOUN	N	_	4	conj	_	_
+4	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
+5	bikhlekh	_	NOUN	N	_	13	obj	_	_
 6	fun	_	ADP	P	_	8	case	_	_
 7	de	_	DET	D	PronType=Art	8	det	_	_
-8	khinekh	_	NOUN	N	_	4	obl	_	_
+8	khinekh	_	NOUN	N	_	5	obl	_	_
 9	vos	_	SCONJ	C	_	12	mark	_	_
 10	%t%-1	_	NOUN	NP-ACC	_	12	dep	_	_
 11	ikh	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-12	hob	_	VERB	VBF	VerbForm=Fin	4	acl:relcl	_	_
+12	hob	_	VERB	VBF	VerbForm=Fin	5	acl:relcl	_	_
 13	leyenen	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1798W-DISKURS,.28
@@ -340,8 +340,8 @@
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	zog	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	dir	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-4	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	2	obj	_	_
-5	herts	_	NOUN	N	_	4	conj	_	_
+4	meyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
+5	herts	_	NOUN	N	_	2	obj	_	_
 6	rekht	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 7	araus	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 

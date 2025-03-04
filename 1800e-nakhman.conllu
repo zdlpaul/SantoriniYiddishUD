@@ -495,9 +495,9 @@
 # X_ID = 1800E-NAKHMAN,173.37
 # text = vurn gur zayn khays iz nor fun@ @em kval
 1	vurn	_	CCONJ	CONJ	_	5	cc	_	_
-2	gur	_	ADV	ADV	Degree=Pos	5	nsubj	_	_
-3	zayn	_	PRON	PRO$	_	2	det:poss	_	_
-4	khays	_	NOUN	N	_	2	conj	_	_
+2	gur	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+3	zayn	_	PRON	PRO$	_	4	det:poss	_	_
+4	khays	_	NOUN	N	_	5	nsubj	_	_
 5	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	nor	_	ADV	FP	Degree=Pos	9	advmod	_	_
 7	fun@	_	ADP	P	_	9	case	_	_

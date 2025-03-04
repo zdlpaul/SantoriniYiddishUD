@@ -15,8 +15,8 @@
 # sent_id = 19XXE-ARGENTINE,.2
 # X_ID = 19XXE-ARGENTINE,.3
 # text = zeyere fotografies hengen oyf der vant in a halben krayz,
-1	zeyere	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-2	fotografies	_	NOUN	N	_	1	conj	_	_
+1	zeyere	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	fotografies	_	NOUN	N	_	3	nsubj	_	_
 3	hengen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	oyf	_	ADP	P	_	6	case	_	_
 5	der	_	DET	D	PronType=Art	6	det	_	_
@@ -92,8 +92,8 @@
 9	zeyere	_	PRON	PRO$	_	10	det:poss	_	_
 10	zin	_	NOUN	N	_	7	obl	_	_
 11	un	_	CCONJ	CONJ	_	14	cc	_	_
-12	zeyer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	14	nsubj	_	_
-13	blik	_	NOUN	N	_	12	conj	_	_
+12	zeyer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	13	det:poss	_	_
+13	blik	_	NOUN	N	_	14	nsubj	_	_
 14	falt	_	VERB	VBF	VerbForm=Fin	4	conj	_	_
 15	oyfn	_	ADP	P-CL	_	16	case	_	_
 16	tsadik	_	NOUN	N	_	14	obl	_	_
@@ -107,8 +107,8 @@
 24	oyfn	_	ADP	P-CL	_	25	case	_	_
 25	kop	_	NOUN	N	_	23	obl	_	SpaceAfter=No
 26	,	_	PUNCT	PUNC	_	20	punct	_	_
-27	ire	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	32	nsubj	_	_
-28	hor	_	NOUN	N	_	27	conj	_	_
+27	ire	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	28	det:poss	_	_
+28	hor	_	NOUN	N	_	32	nsubj	_	_
 29	zoln	_	AUX	MDF	VerbForm=Fin	32	aux	_	_
 30	zikh	_	PRON	PRO-RFL	PronType=Reflex	32	expl:pv	_	_
 31	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	32	advmod	_	_
@@ -409,8 +409,8 @@
 10	derlebn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
 11	tsu	_	PART	TO	_	12	mark	_	_
 12	derlangen	_	VERB	VB	VerbForm=Inf	5	xcomp	_	_
-13	zayne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	obj	_	_
-14	farroste	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
-15	negl	_	NOUN	N	_	13	conj	_	_
+13	zayne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	15	det:poss	_	_
+14	farroste	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
+15	negl	_	NOUN	N	_	12	obj	_	_
 16	.	_	PUNCT	PUNC	_	3	punct	_	_
 

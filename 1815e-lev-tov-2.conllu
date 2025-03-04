@@ -14,8 +14,8 @@
 11	makhs@	_	VERB	VBF	VerbForm=Fin	6	acl:relcl	_	_
 12	@tu	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 13	zindeyn	_	ADJ	ADJ	Degree=Pos	11	ccomp	_	_
-14	deyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	13	nsubj	_	_
-15	layb	_	NOUN	N	_	14	conj	_	SpaceAfter=No
+14	deyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	15	det:poss	_	_
+15	layb	_	NOUN	N	_	13	nsubj	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 1	helft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -27,12 +27,12 @@
 7	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 8	muz	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
 9	iberbetin	_	VERB	VB	VerbForm=Inf	1	advcl	_	_
-10	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	obj	_	_
-11	khaver	_	NOUN	N	_	10	conj	_	_
+10	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	11	det:poss	_	_
+11	khaver	_	NOUN	N	_	9	obj	_	_
 12	vos	_	SCONJ	C	_	16	mark	_	_
 13	er	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
 14	hot	_	AUX	HVF	VerbForm=Fin	16	aux	_	_
 15	im	_	PRON	PRO	_	16	dep	_	_
-16	gishaltin	_	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+16	gishaltin	_	VERB	VBN	Tense=Past|VerbForm=Part	11	acl:relcl	_	_
 17	.	_	PUNCT	PUNC	_	1	punct	_	_
 

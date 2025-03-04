@@ -46,10 +46,10 @@
 3	hat	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 4	gihat	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	zeks	_	NUM	NUM-ACC	Case=Acc	6	nummod	_	_
-6	zun	_	NOUN	N-ACC	Case=Acc	9	obj	_	_
+6	zun	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
 7	un	_	CCONJ	CONJ	_	9	cc	_	_
 8	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	9	det	_	_
-9	takhtir	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	_
+9	takhtir	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	6	conj	_	_
 
 # sent_id = 1819E-PERL,.5
 # X_ID = 1819E-PERL,102.7
@@ -215,14 +215,14 @@
 8	im	_	PRON	PRO-DTV	Case=Dat	9	iobj	_	_
 9	gebin	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
 10	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
-11	msrt	_	NOUN	N-ACC	Case=Acc	18	obj	_	_
+11	msrt	_	NOUN	N-ACC	Case=Acc	9	obj	_	_
 12	mit	_	ADP	P	_	14	case	_	_
 13	eyn	_	DET	D	PronType=Art	14	det	_	_
 14	ferd	_	NOUN	N-I	Definite=Ind	11	obl	_	_
 15	un	_	CCONJ	CONJ	_	18	cc	_	_
 16	gelt	_	NOUN	N	_	18	conj	_	_
 17	oyf	_	ADP	P	_	18	case	_	_
-18	hutsaes	_	NOUN	N	_	9	obj	_	SpaceAfter=No
+18	hutsaes	_	NOUN	N	_	11	conj	_	SpaceAfter=No
 19	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1819E-PERL,.17
@@ -385,10 +385,10 @@
 3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	gizehin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	a	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
-6	shlas	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	9	obj	_	_
+6	shlas	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	_
 7	un	_	CCONJ	CONJ	_	9	cc	_	_
 8	askh	_	DET	Q-ACC	Case=Acc	9	det	_	_
-9	kheylut	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
+9	kheylut	_	NOUN	N-ACC	Case=Acc	6	conj	_	_
 10	steynir	_	NOUN	N-ACC	Case=Acc	9	nmod:poss	_	_
 11	arum	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 
@@ -900,8 +900,8 @@
 3	ir	_	PRON	PRO-DTV	Case=Dat	4	iobj	_	_
 4	der_tseylt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	az	_	SCONJ	C	_	8	mark	_	_
-6	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	nsubj	_	_
-7	fatir	_	NOUN	N	_	6	conj	_	_
+6	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	det:poss	_	_
+7	fatir	_	NOUN	N	_	8	nsubj	_	_
 8	iz	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 9	zikh	_	PRON	PRO-RFL	PronType=Reflex	8	expl:pv	_	_
 10	zeyer	_	ADV	ADV	Degree=Pos	8	advmod	_	_
@@ -1121,9 +1121,9 @@
 3	boym	_	NOUN	N-D	Definite=Def	5	obl	_	_
 4	habin	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 5	givaksin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	zeyer	_	ADV	ADV	Degree=Pos	5	nsubj	_	_
+6	zeyer	_	ADV	ADV	Degree=Pos	8	amod	_	_
 7	seynh	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
-8	epil	_	NOUN	N	_	6	conj	_	_
+8	epil	_	NOUN	N	_	5	nsubj	_	_
 
 # sent_id = 1819E-PERL,.85
 # X_ID = 1819E-PERL,104.87
@@ -1987,25 +1987,25 @@
 4	der_tseylt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	di	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 6	gantsi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
-7	mesh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	14	obj	_	_
+7	mesh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
 8	un	_	CCONJ	CONJ	_	14	cc	_	_
 9	az	_	SCONJ	C	_	14	mark	_	_
 10	askh	_	DET	Q-NOM	Case=Nom	11	det	_	_
 11	kheilut	_	NOUN	N-NOM	Case=Nom	14	nsubj	_	_
 12	zenen	_	AUX	BEF	VerbForm=Fin	14	cop	_	_
 13	durkh	_	ADP	RP	_	14	compound:prt	_	_
-14	gegangin	_	VERB	VBN	Tense=Past|VerbForm=Part	4	obj	_	_
+14	gegangin	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	_
 15	az	_	SCONJ	C	_	19	mark	_	_
 16	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	19	expl	_	_
 17	iz	_	AUX	BEF	VerbForm=Fin	19	cop	_	_
 18	da	_	ADV	ADV	Degree=Pos	19	advmod	_	_
-19	given	_	VERB	VBN	Tense=Past|VerbForm=Part	14	conj	_	_
+19	given	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	_
 20	di	_	DET	D-NOM	Case=Nom|PronType=Art	21	det	_	_
 21	karisi	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	19	nsubj	_	_
 22	az	_	SCONJ	C	_	25	mark	_	_
 23	zi	_	PRON	PRO-NOM	Case=Nom	25	nsubj	_	_
 24	hat	_	AUX	HVF	VerbForm=Fin	25	aux	_	_
-25	giveynt	_	VERB	VBN	Tense=Past|VerbForm=Part	14	conj	_	_
+25	giveynt	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	_
 26	ibr	_	ADP	P	_	27	case	_	_
 27	im	_	PRON	PRO	_	25	obl	_	_
 28	un	_	CCONJ	CONJ	_	31	cc	_	_
@@ -2168,13 +2168,13 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	zal	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
 4	zukhin	_	VERB	VB	VerbForm=Inf	0	root	_	_
-5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	4	obj	_	_
-6	gildinim	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	5	amod	_	_
-7	barg	_	NOUN	N	_	5	conj	_	_
+5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
+6	gildinim	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
+7	barg	_	NOUN	N	_	4	obj	_	_
 8	mit	_	ADP	P	_	11	case	_	_
 9	eyn	_	DET	D	PronType=Art	11	det	_	_
 10	perlinim	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
-11	shlas	_	NOUN	N-I	Definite=Ind	5	obl	_	_
+11	shlas	_	NOUN	N-I	Definite=Ind	7	obl	_	_
 
 # sent_id = 1819E-PERL,.166
 # X_ID = 1819E-PERL,106.169
@@ -2402,18 +2402,18 @@
 4	der_tseylt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	di	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 6	gantsi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
-7	mesh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	11	obj	_	_
+7	mesh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
 8	un	_	CCONJ	CONJ	_	11	cc	_	_
 9	az	_	SCONJ	C	_	11	mark	_	_
 10	er	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-11	zukht	_	VERB	VBF	VerbForm=Fin	4	obj	_	_
+11	zukht	_	VERB	VBF	VerbForm=Fin	7	conj	_	_
 12	a	_	DET	D-ACC	Case=Acc|PronType=Art	14	det	_	_
 13	gildinim	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	14	amod	_	_
-14	barg	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	18	obj	_	_
+14	barg	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	11	obj	_	_
 15	un	_	CCONJ	CONJ	_	18	cc	_	_
 16	a	_	DET	D-ACC	Case=Acc|PronType=Art	18	det	_	_
 17	perlinim	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	18	amod	_	_
-18	shlas	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	11	obj	_	_
+18	shlas	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	14	conj	_	_
 
 # sent_id = 1819E-PERL,.183
 # X_ID = 1819E-PERL,106.186
@@ -2907,14 +2907,14 @@
 4	gienfrt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	di	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 6	gantsi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
-7	mesh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	14	obj	_	_
+7	mesh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
 8	un	_	CCONJ	CONJ	_	14	cc	_	_
 9	az	_	SCONJ	C	_	14	mark	_	_
 10	dr	_	DET	D-NOM	Case=Nom|PronType=Art	11	det	_	_
 11	bruder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	_
 12	hat	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
 13	im	_	PRON	PRO-ACC	Case=Acc	14	obj	_	_
-14	gishikt	_	VERB	VBN	Tense=Past|VerbForm=Part	4	obj	_	_
+14	gishikt	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	_
 15	tsu	_	ADP	P	_	16	case	_	_
 16	im	_	PRON	PRO	_	14	obl	_	_
 
@@ -3074,8 +3074,8 @@
 # X_ID = 1819E-PERL,107.236
 # text = un er der sni lmlkhes hat zikh zeyer gispart
 1	un	_	CCONJ	CONJ	_	9	cc	_	_
-2	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-3	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	appos	_	_
+2	er	_	PRON	PRO-NOM	Case=Nom	3	nmod	_	_
+3	der	_	DET	D-NOM	Case=Nom|PronType=Art	9	nsubj	_	_
 4	sni	second	X	H	_	3	dep	_	_
 5	lmlkhes	to_kingship	X	H	_	3	dep	_	_
 6	hat	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
@@ -3113,8 +3113,8 @@
 9	gifunt	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 10	zikh	_	PRON	PRO-RFL	PronType=Reflex	9	expl:pv	_	_
 11	dart	_	ADV	ADV	Degree=Pos	9	advmod	_	_
-12	meyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	nsubj	_	_
-13	brudir	_	NOUN	N	_	12	conj	_	_
+12	meyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	13	det:poss	_	_
+13	brudir	_	NOUN	N	_	9	nsubj	_	_
 
 # sent_id = 1819E-PERL,.236
 # X_ID = 1819E-PERL,107.239

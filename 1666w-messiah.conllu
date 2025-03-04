@@ -66,14 +66,14 @@
 10	alf_bit	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	7	conj	_	_
 11	un	_	CCONJ	CONJ	_	12	cc	_	_
 12	der_nakh	_	ADP	P	_	10	conj	_	_
-13	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	obj	_	_
-14	gimelt	_	NOUN	N	_	13	conj	_	_
+13	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	det:poss	_	_
+14	gimelt	_	NOUN	N	_	12	obj	_	_
 
 # sent_id = 1666W-MESSIAH,.7
 # X_ID = 1666W-MESSIAH,P.9
 # text = unzr sbtim zeyn al mit alih nbia bireyt unz tsu brengin in heylign land mit grush freyd
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-2	sbtim	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	sbtim	_	NOUN	N	_	3	nsubj	_	_
 3	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	al	_	ADV	Q	_	3	advmod	_	_
 5	mit	_	ADP	P	_	6	case	_	_
@@ -136,8 +136,8 @@
 4	artin	_	NOUN	N	_	3	nmod:poss	_	_
 5	vau	_	ADV	WADV	Degree=Pos	9	advmod	_	_
 6	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	9	advmod	_	_
-7	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	nsubj	_	_
-8	bridr	_	NOUN	N	_	7	conj	_	_
+7	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	det:poss	_	_
+8	bridr	_	NOUN	N	_	9	nsubj	_	_
 9	zeyn	_	VERB	VBF	VerbForm=Fin	3	acl:relcl	_	_
 10	di	_	DET	D-NOM	Case=Nom|PronType=Art	11	nsubj	_	_
 11	visn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -396,8 +396,8 @@
 # sent_id = 1666W-MESSIAH,.26
 # X_ID = 1666W-MESSIAH,6.34
 # text = unzr mlkh iz gikrint,
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	nsubj	_	_
-2	mlkh	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	mlkh	_	NOUN	N	_	4	nsubj	_	_
 3	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
 4	gikrint	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	4	punct	_	_
@@ -504,8 +504,8 @@
 # sent_id = 1666W-MESSIAH,.33
 # X_ID = 1666W-MESSIAH,8.43
 # text = unzr hndl iz dakh vaul bestelt
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-2	hndl	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	hndl	_	NOUN	N	_	3	nsubj	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	dakh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 5	vaul	_	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -591,8 +591,8 @@
 16	gat	_	PROPN	NPR-D	_	13	nsubj	_	_
 17	mir	_	PRON	PRO-NOM	Case=Nom	13	dep	_	_
 18	habn	_	VERB	VBF	VerbForm=Fin	17	dep	_	_
-19	unzrn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	17	obj	_	_
-20	mlkh	_	NOUN	N	_	19	conj	_	_
+19	unzrn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	20	det:poss	_	_
+20	mlkh	_	NOUN	N	_	17	obj	_	_
 
 # sent_id = 1666W-MESSIAH,.39
 # X_ID = 1666W-MESSIAH,10.51
@@ -617,8 +617,8 @@
 # sent_id = 1666W-MESSIAH,.41
 # X_ID = 1666W-MESSIAH,11.54
 # text = kl eulm vau %t%-1 mir bridr zeyn un %t%-1 %con% vern di smkhh herin di vern reyzn tag un' nakht nakh iruslim gern
-1	kl	all	DET	Q	_	16	obl	_	_
-2	eulm	_	NOUN	N	_	1	conj	_	_
+1	kl	all	DET	Q	_	2	det	_	_
+2	eulm	_	NOUN	N	_	16	obl	_	_
 3	vau	_	ADV	WADV	Degree=Pos	7	advmod	_	_
 4	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	7	advmod	_	_
 5	mir	_	PRON	PRO-NOM	Case=Nom	6	nmod	_	_
@@ -644,8 +644,8 @@
 # sent_id = 1666W-MESSIAH,.42
 # X_ID = 1666W-MESSIAH,11.55
 # text = ir hndl iz dakh vaul gistelt
-1	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-2	hndl	_	NOUN	N	_	1	conj	_	_
+1	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	hndl	_	NOUN	N	_	3	nsubj	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	dakh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 5	vaul	_	ADV	ADV	Degree=Pos	3	advmod	_	_
@@ -678,8 +678,8 @@
 # sent_id = 1666W-MESSIAH,.45
 # X_ID = 1666W-MESSIAH,12.59
 # text = unzr glut hat gar lng givert
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	nsubj	_	_
-2	glut	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	glut	_	NOUN	N	_	6	nsubj	_	_
 3	hat	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 4	gar	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 5	lng	_	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -760,9 +760,9 @@
 4	freh	_	PROPN	NPR	_	2	obl	_	_
 5	msh	_	PROPN	NPR-ACC	_	2	dep	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	5	punct	_	_
-7	deyn	_	PRON	PRO$	_	5	appos	_	_
-8	gitreyan	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
-9	knekht	_	NOUN	N	_	7	conj	_	_
+7	deyn	_	PRON	PRO$	_	9	det:poss	_	_
+8	gitreyan	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	knekht	_	NOUN	N	_	5	appos	_	_
 
 # sent_id = 1666W-MESSIAH,.53
 # X_ID = 1666W-MESSIAH,13.68
@@ -895,8 +895,8 @@
 8	frum	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 9	vi	_	ADV	WADV	Degree=Pos	14	advmod	_	_
 10	%t%-1	_	ADV	ADVP	Degree=Pos	14	advmod	_	_
-11	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	14	nsubj	_	_
-12	eltrn	_	NOUN	N	_	11	conj	_	_
+11	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	12	det:poss	_	_
+12	eltrn	_	NOUN	N	_	14	nsubj	_	_
 13	zeyn	_	AUX	BEF	VerbForm=Fin	14	cop	_	_
 14	givezn	_	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	_
 
@@ -918,8 +918,8 @@
 # sent_id = 1666W-MESSIAH,.66
 # X_ID = 1666W-MESSIAH,16.84
 # text = unzr sbtim zeyn al bireyt tsu helfin unz mit grusr vreyd
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-2	sbtim	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	sbtim	_	NOUN	N	_	3	nsubj	_	_
 3	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	al	_	ADV	Q	_	3	advmod	_	_
 5	bireyt	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
@@ -984,9 +984,9 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	bidarf	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	keyn	_	DET	Q-ACC	Case=Acc	4	det	_	_
-4	bikz	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
-5	keyn	_	DET	Q	_	2	obj	_	_
-6	shvert	_	NOUN	N	_	5	conj	_	_
+4	bikz	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
+5	keyn	_	DET	Q	_	6	det	_	_
+6	shvert	_	NOUN	N	_	4	conj	_	_
 
 # sent_id = 1666W-MESSIAH,.71
 # X_ID = 1666W-MESSIAH,18.91
@@ -995,8 +995,8 @@
 2	den	_	DET	D	PronType=Art	3	det	_	_
 3	terkin	_	NOUN	N-D	Definite=Def	7	obl	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-5	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	nsubj	_	_
-6	mlkh	_	NOUN	N	_	5	conj	_	_
+5	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	det:poss	_	_
+6	mlkh	_	NOUN	N	_	7	nsubj	_	_
 7	kumn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	in	_	ADP	P	_	10	case	_	_
 9	der	_	DET	D	PronType=Art	10	det	_	_
@@ -1007,8 +1007,8 @@
 # sent_id = 1666W-MESSIAH,.72
 # X_ID = 1666W-MESSIAH,18.92
 # text = unzr bridr varin ez givar
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-2	bridr	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	bridr	_	NOUN	N	_	3	nsubj	_	_
 3	varin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	ez	_	PRON	PRO	_	5	obl	_	_
 5	givar	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
@@ -1037,8 +1037,8 @@
 # sent_id = 1666W-MESSIAH,.75
 # X_ID = 1666W-MESSIAH,18.95
 # text = deyn kroyn muz ikh fun dir han
-1	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	obj	_	_
-2	kroyn	_	NOUN	N	_	1	conj	_	_
+1	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	2	det:poss	_	_
+2	kroyn	_	NOUN	N	_	7	obj	_	_
 3	muz	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
 4	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 5	fun	_	ADP	P	_	6	case	_	_
@@ -1075,15 +1075,15 @@
 14	%t%-1	_	ADV	ADVP	Degree=Pos	19	advmod	_	_
 15	%con%	_	NOUN	NP-SBJ	_	19	nsubj	_	_
 16	tet	_	VERB	DOF	VerbForm=Fin	19	ccomp	_	_
-17	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	19	obj	_	_
-18	herts	_	NOUN	N	_	17	conj	_	_
+17	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	18	det:poss	_	_
+18	herts	_	NOUN	N	_	19	obj	_	_
 19	bishverin	_	VERB	VB	VerbForm=Inf	12	conj	_	_
 
 # sent_id = 1666W-MESSIAH,.78
 # X_ID = 1666W-MESSIAH,19.99
 # text = unzr mlkh hat far im grus vaundr gitan
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	nsubj	_	_
-2	mlkh	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	mlkh	_	NOUN	N	_	8	nsubj	_	_
 3	hat	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 4	far	_	ADP	P	_	5	case	_	_
 5	im	_	PRON	PRO	_	8	obl	_	_
@@ -1110,8 +1110,8 @@
 3	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	det:poss	_	_
 4	got	_	PROPN	NPR	_	2	nsubj	_	_
 5	hub	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-6	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-7	mlkh	_	NOUN	N	_	6	conj	_	_
+6	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	det:poss	_	_
+7	mlkh	_	NOUN	N	_	5	nsubj	_	_
 8	an	_	ADP	RP	_	5	compound:prt	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
 10	sprekhn	_	VERB	VB	VerbForm=Inf	5	xcomp	_	_
@@ -1206,8 +1206,8 @@
 # text = tikf az mir isral tfilh tuan gat tut unz bld dr_herin
 1	tikf	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 2	az	_	SCONJ	C	_	6	mark	_	_
-3	mir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-4	isral	_	PROPN	NPR	_	3	dep	_	_
+3	mir	_	PRON	PRO-NOM	Case=Nom	4	nmod	_	_
+4	isral	_	PROPN	NPR	_	6	nsubj	_	_
 5	tfilh	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
 6	tuan	_	VERB	VBF	VerbForm=Fin	1	advcl	_	_
 7	gat	_	PROPN	NPR-SBJ	_	11	nsubj	_	_
@@ -1220,16 +1220,16 @@
 # X_ID = 1666W-MESSIAH,22.112
 # text = da unzr bridr oyz glut mtsrim gingn vas %t%-1 ir herts tet bigern
 1	da	_	SCONJ	C	_	7	mark	_	_
-2	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	nsubj	_	_
-3	bridr	_	NOUN	N	_	2	conj	_	_
+2	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	bridr	_	NOUN	N	_	7	nsubj	_	_
 4	oyz	_	ADP	P	_	5	case	_	_
 5	glut	_	NOUN	N	_	7	obl	_	_
 6	mtsrim	_	PROPN	NPR	_	5	nmod:poss	_	_
 7	gingn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	vas	_	PRON	WPRO	_	13	obj	_	_
 9	%t%-1	_	NOUN	NP-ACC	_	13	dep	_	_
-10	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	13	nsubj	_	_
-11	herts	_	NOUN	N	_	10	conj	_	_
+10	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	11	det:poss	_	_
+11	herts	_	NOUN	N	_	13	nsubj	_	_
 12	tet	_	VERB	DOF	VerbForm=Fin	13	ccomp	_	_
 13	bigern	_	VERB	VB	VerbForm=Inf	7	obl	_	_
 
@@ -1275,9 +1275,9 @@
 6	ebirut	UNKNOWN	X	H	_	7	dep	_	_
 7	zeyn	_	VERB	VBF	VerbForm=Fin	8	advcl	_	_
 8	leyt	_	VERB	VBI	Mood=Imp	0	root	_	_
-9	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	8	obj	_	_
+9	eyn	_	ADV	D-ACC	Case=Acc|PronType=Art	11	advmod	_	_
 10	vinig	_	DET	Q-ACC	Case=Acc	9	det	_	_
-11	smrtsin	_	NOUN	N	_	9	conj	_	_
+11	smrtsin	_	NOUN	N	_	8	obj	_	_
 
 # sent_id = 1666W-MESSIAH,.93
 # X_ID = 1666W-MESSIAH,23.118
@@ -1327,8 +1327,8 @@
 3	freyd	_	NOUN	N-D	Definite=Def	1	conj	_	_
 4	vaz	_	SCONJ	C	_	8	mark	_	_
 5	%t%-1	_	NOUN	NP-ACC	_	8	dep	_	_
-6	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	nsubj	_	_
-7	hrts	_	NOUN	N	_	6	conj	_	_
+6	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	det:poss	_	_
+7	hrts	_	NOUN	N	_	8	nsubj	_	_
 8	bigert	_	VERB	VBF	VerbForm=Fin	1	acl:relcl	_	_
 9	ir	_	PRON	PRO$	_	10	det:poss	_	_
 10	skhurh	_	NOUN	N	_	1	obl	_	_
@@ -1368,8 +1368,8 @@
 8	aroyz	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 9	gikumn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 10	vi	_	SCONJ	C	_	13	mark	_	_
-11	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	13	nsubj	_	_
-12	gaulh	_	NOUN	N	_	11	conj	_	_
+11	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	12	det:poss	_	_
+12	gaulh	_	NOUN	N	_	13	nsubj	_	_
 13	iz	_	VERB	VBF	VerbForm=Fin	9	ccomp	_	_
 14	far_hndn	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
 15	nar	_	ADV	FP	Degree=Pos	19	advmod	_	_
@@ -1384,8 +1384,8 @@
 # X_ID = 1666W-MESSIAH,25.127
 # text = vent eyer hrts mit tsubh alh gar
 1	vent	_	VERB	VBI	Mood=Imp	0	root	_	_
-2	eyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	1	obj	_	_
-3	hrts	_	NOUN	N	_	2	conj	_	_
+2	eyer	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	3	det:poss	_	_
+3	hrts	_	NOUN	N	_	1	obj	_	_
 4	mit	_	ADP	P	_	5	case	_	_
 5	tsubh	_	NOUN	N	_	1	obl	_	_
 6	alh	_	ADV	Q	_	1	advmod	_	_
@@ -1436,8 +1436,8 @@
 # text = vr_gesin vert unzr truarkeyt andrst nit az grush freyd
 1	vr_gesin	_	VERB	VAN	Tense=Past|VerbForm=Part	2	ccomp	_	_
 2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	nsubj	_	_
-4	truarkeyt	_	NOUN	N	_	3	conj	_	_
+3	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	det:poss	_	_
+4	truarkeyt	_	NOUN	N	_	2	nsubj	_	_
 5	andrst	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
 7	az	_	ADP	P	_	9	case	_	_
@@ -1596,8 +1596,8 @@
 # text = vi %t%-1 unzr mlkh iz eyn grusr held
 1	vi	_	ADV	WADV	Degree=Pos	5	advmod	_	_
 2	%t%-1	_	ADV	ADVP	Degree=Pos	5	advmod	_	_
-3	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-4	mlkh	_	NOUN	N	_	3	conj	_	_
+3	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	det:poss	_	_
+4	mlkh	_	NOUN	N	_	5	nsubj	_	_
 5	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	eyn	_	DET	D	PronType=Art	8	det	_	_
 7	grusr	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
@@ -1610,8 +1610,8 @@
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
 4	mer	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-5	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	nsubj	_	_
-6	gleykhn	_	NOUN	N	_	5	conj	_	_
+5	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	det:poss	_	_
+6	gleykhn	_	NOUN	N	_	2	nsubj	_	_
 
 # sent_id = 1666W-MESSIAH,.117
 # X_ID = 1666W-MESSIAH,29.148
@@ -1620,8 +1620,8 @@
 2	di	_	DET	D	PronType=Art	3	det	_	_
 3	vasr	_	NOUN	N-D	Definite=Def	10	obl	_	_
 4	hat	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
-5	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	10	nsubj	_	_
-6	mlkh	_	NOUN	N	_	5	conj	_	_
+5	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	det:poss	_	_
+6	mlkh	_	NOUN	N	_	10	nsubj	_	_
 7	akh	_	ADV	ADV	Degree=Pos	10	advmod	_	_
 8	grush	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	9	amod	_	_
 9	kidusim	_	NOUN	N-ACC	Case=Acc	10	obj	_	_
@@ -1681,8 +1681,8 @@
 # sent_id = 1666W-MESSIAH,.123
 # X_ID = 1666W-MESSIAH,30.155
 # text = unzr eltrn hbin sirh gizungn in den tifn mer
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-2	eltrn	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	eltrn	_	NOUN	N	_	5	nsubj	_	_
 3	hbin	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 4	sirh	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
 5	gizungn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1782,8 +1782,8 @@
 # X_ID = 1666W-MESSIAH,32.165
 # text = da unzr eltrn in glut mtsrim gingn leykht du in akh gar gern
 1	da	_	SCONJ	C	_	7	mark	_	_
-2	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	nsubj	_	_
-3	eltrn	_	NOUN	N	_	2	conj	_	_
+2	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	eltrn	_	NOUN	N	_	7	nsubj	_	_
 4	in	_	ADP	P	_	5	case	_	_
 5	glut	_	NOUN	N	_	7	obl	_	_
 6	mtsrim	_	PROPN	NPR	_	5	nmod:poss	_	_
@@ -1848,8 +1848,8 @@
 # text = laz %arb% deynh vaundr zehn
 1	laz	_	VERB	VBI	Mood=Imp	0	root	_	_
 2	%arb%	_	NOUN	NP-SBJ	_	5	nsubj	_	_
-3	deynh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	obj	_	_
-4	vaundr	_	NOUN	N	_	3	conj	_	_
+3	deynh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	4	det:poss	_	_
+4	vaundr	_	NOUN	N	_	5	obj	_	_
 5	zehn	_	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 
 # sent_id = 1666W-MESSIAH,.137
@@ -1859,8 +1859,8 @@
 2	treybn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	oyz	_	ADP	P	_	4	case	_	_
 4	unz	_	PRON	PRO	_	2	obl	_	_
-5	irn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	2	obj	_	_
-6	spot	_	NOUN	N	_	5	conj	_	_
+5	irn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
+6	spot	_	NOUN	N	_	2	obj	_	_
 
 # sent_id = 1666W-MESSIAH,.138
 # X_ID = 1666W-MESSIAH,33.173
@@ -1975,9 +1975,9 @@
 2	,	_	PUNCT	PUNC	_	1	punct	_	_
 3	vaz	_	PRON	WPRO	_	9	obj	_	_
 4	%t%-1	_	NOUN	NP-ACC	_	9	dep	_	_
-5	unzr	_	PRON	PRO$	_	7	det:poss	_	_
-6	mlkh	_	NOUN	N	_	7	conj	_	_
-7	%ich%-2	_	NOUN	NP-PRN	_	9	nsubj	_	_
+5	unzr	_	PRON	PRO$	_	6	det:poss	_	_
+6	mlkh	_	NOUN	N	_	9	nsubj	_	_
+7	%ich%-2	_	NOUN	NP-PRN	_	6	appos	_	_
 8	hat	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
 9	gitan	_	VERB	VBN	Tense=Past|VerbForm=Part	1	dep	_	_
 10	sbti	_	PROPN	NPR	_	9	obl	_	_
@@ -2057,8 +2057,8 @@
 # sent_id = 1666W-MESSIAH,.152
 # X_ID = 1666W-MESSIAH,37.191
 # text = unzr mlkh valt nit oyz der tfish gan
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	nsubj	_	_
-2	mlkh	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	mlkh	_	NOUN	N	_	8	nsubj	_	_
 3	valt	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 5	oyz	_	ADP	P	_	7	case	_	_
@@ -2077,9 +2077,9 @@
 6	kindr	_	NOUN	N	_	2	obl	_	_
 7	isral	_	PROPN	NPR	_	6	dep	_	_
 8	al	_	ADV	Q	_	6	advmod	_	_
-9	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	nsubj	_	_
-10	mlkh	_	NOUN	N	_	9	conj	_	_
-11	hukh_gibarn	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	10	det:poss	_	_
+10	mlkh	_	NOUN	N	_	2	nsubj	_	_
+11	hukh_gibarn	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 
 # sent_id = 1666W-MESSIAH,.154
 # X_ID = 1666W-MESSIAH,38.194
@@ -2152,8 +2152,8 @@
 # sent_id = 1666W-MESSIAH,.157
 # X_ID = 1666W-MESSIAH,39.198
 # text = unzr bridr shreybn biseydlikh klar
-1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-2	bridr	_	NOUN	N	_	1	conj	_	_
+1	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
+2	bridr	_	NOUN	N	_	3	nsubj	_	_
 3	shreybn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	biseydlikh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 5	klar	_	ADV	ADV	Degree=Pos	4	advmod	_	_
@@ -2175,8 +2175,8 @@
 3	hbin	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 4	oyz	_	ADP	P	_	5	case	_	_
 5	spet	_	NOUN	N	_	8	obl	_	_
-6	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	nsubj	_	_
-7	bridr	_	NOUN	N	_	6	conj	_	_
+6	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	det:poss	_	_
+7	bridr	_	NOUN	N	_	8	nsubj	_	_
 8	gshribn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1666W-MESSIAH,.160
@@ -2219,9 +2219,9 @@
 # text = isral, libn bridr meyn, hlt oykh nit min far_bargn
 1	isral	_	PROPN	NPR	_	7	vocative	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	1	punct	_	_
-3	libn	_	ADJ	ADJ	Degree=Pos	1	appos	_	_
-4	bridr	_	NOUN	N	_	3	conj	_	_
-5	meyn	_	PRON	PRO$	_	3	det:poss	_	SpaceAfter=No
+3	libn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	bridr	_	NOUN	N	_	1	appos	_	_
+5	meyn	_	PRON	PRO$	_	4	det:poss	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	7	punct	_	_
 7	hlt	_	VERB	VBI	Mood=Imp	0	root	_	_
 8	oykh	_	PRON	PRO-ACC	Case=Acc	7	obj	_	_
@@ -2287,8 +2287,8 @@
 17	tsu	_	PART	TO	_	18	advcl	_	_
 18	lizn	_	VERB	VB	VerbForm=Inf	12	advcl	_	_
 19	oyz	_	ADP	RP	_	18	compound:prt	_	_
-20	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	18	obj	_	_
-21	tsrut	_	NOUN	N	_	20	conj	_	_
+20	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	21	det:poss	_	_
+21	tsrut	_	NOUN	N	_	18	obj	_	_
 
 # sent_id = 1666W-MESSIAH,.167
 # X_ID = 1666W-MESSIAH,42.211
@@ -2370,8 +2370,8 @@
 # X_ID = 1666W-MESSIAH,44.218
 # text = habn unzr nbiaim gisribn oyz irn lnd tsu di reykhh leytn zi zalin armh leyt vaul teyln mit das zi akh mit kumn bitseytn
 1	habn	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
-2	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	nsubj	_	_
-3	nbiaim	_	NOUN	N	_	2	conj	_	_
+2	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
+3	nbiaim	_	NOUN	N	_	4	nsubj	_	_
 4	gisribn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	oyz	_	ADP	P	_	7	case	_	_
 6	irn	_	PRON	PRO$	_	7	det:poss	_	_
@@ -2409,8 +2409,8 @@
 10	zi	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 11	untr	_	ADP	P	_	12	case	_	_
 12	vegn	_	NOUN	N	_	9	obl	_	_
-13	ir	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	obj	_	_
-14	gelt	_	NOUN	N	_	13	conj	_	_
+13	ir	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	det:poss	_	_
+14	gelt	_	NOUN	N	_	9	obj	_	_
 15	mit	_	ADP	P	_	16	case	_	_
 16	zarg	_	NOUN	N	_	9	obl	_	_
 17	vr_tsern	_	VERB	VB	VerbForm=Inf	9	dep	_	_
@@ -2574,9 +2574,9 @@
 # sent_id = 1666W-MESSIAH,.182
 # X_ID = 1666W-MESSIAH,48.232
 # text = nit eynr %ich%-1 hat zikh kenh vr_brgin in der zelbig tseytn di %t%-2 unzr eltrn hbin mlkhmh gihltn
-1	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	nsubj	_	_
-2	eynr	_	NUM	NUM	_	1	nummod	_	_
-3	%ich%-1	_	SCONJ	CP-REL	_	1	acl:relcl	_	_
+1	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
+2	eynr	_	NUM	NUM	_	7	nsubj	_	_
+3	%ich%-1	_	SCONJ	CP-REL	_	2	acl:relcl	_	_
 4	hat	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
 5	zikh	_	PRON	PRO-RFL	PronType=Reflex	7	expl:pv	_	_
 6	kenh	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	7	aux	_	_
@@ -2647,8 +2647,8 @@
 1	kant	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
 2	akh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 3	nimnt	_	DET	Q-NOM	Case=Nom	6	nsubj	_	_
-4	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	obj	_	_
-5	stim	_	NOUN	N	_	4	conj	_	_
+4	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
+5	stim	_	NOUN	N	_	6	obj	_	_
 6	hern	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1666W-MESSIAH,.188
@@ -2700,8 +2700,8 @@
 7	freyd	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
 8	vaz	_	SCONJ	C	_	12	mark	_	_
 9	%t%-1	_	NOUN	NP-ACC	_	12	dep	_	_
-10	unsr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	12	nsubj	_	_
-11	nviaim	_	NOUN	N	_	10	conj	_	_
+10	unsr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	11	det:poss	_	_
+11	nviaim	_	NOUN	N	_	12	nsubj	_	_
 12	shreybn	_	VERB	VBF	VerbForm=Fin	7	acl:relcl	_	_
 
 # sent_id = 1666W-MESSIAH,.192
@@ -2735,8 +2735,8 @@
 6	gebn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 7	in	_	ADP	P	_	8	case	_	_
 8	gizuntheyt	_	NOUN	N	_	12	obl	_	_
-9	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	obj	_	_
-10	yar	_	NOUN	N	_	9	conj	_	_
+9	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	10	det:poss	_	_
+10	yar	_	NOUN	N	_	12	obj	_	_
 11	oyz	_	ADP	RP	_	12	compound:prt	_	_
 12	lebn	_	VERB	VB	VerbForm=Inf	6	xcomp	_	_
 
@@ -2850,8 +2850,8 @@
 # text = akh habn unzr nbiaim gishribin vaz %t%-1 da vert mer gisehn
 1	akh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 2	habn	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
-3	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	nsubj	_	_
-4	nbiaim	_	NOUN	N	_	3	conj	_	_
+3	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	4	det:poss	_	_
+4	nbiaim	_	NOUN	N	_	5	nsubj	_	_
 5	gishribin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	vaz	_	PRON	WPRO	_	11	obj	_	_
 7	%t%-1	_	NOUN	NP-SBJ	_	11	nsubj	_	_
@@ -2997,8 +2997,8 @@
 1	got	_	PROPN	NPR-SBJ	_	2	nsubj	_	_
 2	makht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	in	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-4	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	7	nsubj	_	_
-5	herts	_	NOUN	N	_	4	conj	_	_
+4	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
+5	herts	_	NOUN	N	_	7	nsubj	_	_
 6	gar	_	ADV	ADV	Degree=Pos	7	amod	_	_
 7	shver	_	ADJ	ADJ	Degree=Pos	2	ccomp	_	_
 
@@ -3026,8 +3026,8 @@
 8	vi	_	ADV	WADV	Degree=Pos	14	advmod	_	_
 9	%t%-1	_	ADV	ADVP	Degree=Pos	14	advmod	_	_
 10	zi	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
-11	unzrh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	obj	_	_
-12	bridr	_	NOUN	N	_	11	conj	_	_
+11	unzrh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	det:poss	_	_
+12	bridr	_	NOUN	N	_	14	obj	_	_
 13	valtin	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
 14	plagin	_	VERB	VB	VerbForm=Inf	1	advcl	_	_
 
@@ -3317,8 +3317,8 @@
 7	al	_	DET	Q	_	9	det	_	_
 8	di	_	DET	D	PronType=Art	9	det	_	_
 9	lnd	_	NOUN	N-D	Definite=Def	3	obl	_	_
-10	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	14	obj	_	_
-11	mlkh	_	NOUN	N	_	10	conj	_	_
+10	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	11	det:poss	_	_
+11	mlkh	_	NOUN	N	_	14	obj	_	_
 12	an	_	ADP	RP	_	14	compound:prt	_	_
 13	tsu	_	PART	TO	_	14	advcl	_	_
 14	zehn	_	VERB	VB	VerbForm=Inf	3	advcl	_	_
@@ -3392,14 +3392,14 @@
 2	yhudim	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	_
 3	tun	_	VERB	VBF	VerbForm=Fin	8	advcl	_	_
 4	fleysig	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	ir	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	3	obj	_	_
-6	gibet	_	NOUN	N	_	5	conj	_	_
+5	ir	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
+6	gibet	_	NOUN	N	_	3	obj	_	_
 7	zi	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 8	habin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	vaz	_	PRON	WPRO	_	13	obj	_	_
 10	%t%-1	_	NOUN	NP-ACC	_	13	dep	_	_
-11	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	13	nsubj	_	_
-12	hrts	_	NOUN	N	_	11	conj	_	_
+11	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	12	det:poss	_	_
+12	hrts	_	NOUN	N	_	13	nsubj	_	_
 13	bigert	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
 
 # sent_id = 1666W-MESSIAH,.239
@@ -3573,17 +3573,17 @@
 # sent_id = 1666W-MESSIAH,.254
 # X_ID = 1666W-MESSIAH,67.323
 # text = freyd un' eytl hrtslkhkeyt mit sln oyz dr masin den zkhut fun unzrh eltrin habin mir ginusin
-1	freyd	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
+1	freyd	_	NOUN	N-ACC	Case=Acc	17	obj	_	_
 2	un'	_	CCONJ	CONJ	_	4	cc	_	_
 3	eytl	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	4	amod	_	_
-4	hrtslkhkeyt	_	NOUN	N-ACC	Case=Acc	17	obj	_	_
+4	hrtslkhkeyt	_	NOUN	N-ACC	Case=Acc	1	conj	_	_
 5	mit	_	ADP	P	_	6	case	_	_
-6	sln	_	NOUN	N	_	4	obl	_	_
+6	sln	_	NOUN	N	_	1	obl	_	_
 7	oyz	_	ADP	P	_	9	case	_	_
 8	dr	_	DET	D	PronType=Art	9	det	_	_
 9	masin	_	NOUN	N-D	Definite=Def	6	obl	_	_
 10	den	_	DET	D	PronType=Art	11	det	_	_
-11	zkhut	_	NOUN	N-D	Definite=Def	4	appos	_	_
+11	zkhut	_	NOUN	N-D	Definite=Def	1	appos	_	_
 12	fun	_	ADP	P	_	14	case	_	_
 13	unzrh	_	PRON	PRO$	_	14	det:poss	_	_
 14	eltrin	_	NOUN	N	_	11	obl	_	_
@@ -3652,9 +3652,9 @@
 # sent_id = 1666W-MESSIAH,.260
 # X_ID = 1666W-MESSIAH,68.330
 # text = zeynh kindr isral hat er dr_freyat
-1	zeynh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	3	det:poss	_	_
-2	kindr	_	NOUN	N	_	3	conj	_	_
-3	isral	_	PROPN	NPR	_	6	obj	_	_
+1	zeynh	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	2	det:poss	_	_
+2	kindr	_	NOUN	N	_	6	obj	_	_
+3	isral	_	PROPN	NPR	_	2	dep	_	_
 4	hat	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 5	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	dr_freyat	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -3848,8 +3848,8 @@
 1	dart	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	verin	_	VERB	RDF	VerbForm=Fin	0	root	_	_
 3	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-4	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	2	obj	_	_
-5	lust	_	NOUN	N	_	4	conj	_	_
+4	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
+5	lust	_	NOUN	N	_	2	obj	_	_
 6	mit	_	ADP	P	_	7	case	_	_
 7	freydn	_	NOUN	N	_	2	obl	_	_
 8	bisn	_	VERB	VB	VerbForm=Inf	2	dep	_	_

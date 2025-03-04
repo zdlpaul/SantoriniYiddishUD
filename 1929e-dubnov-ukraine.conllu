@@ -130,10 +130,10 @@
 20	gemakht	_	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	_	_
 21	dem	_	DET	D-ACC	Case=Acc|PronType=Art	23	det	_	_
 22	yidishn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	23	amod	_	_
-23	ishub	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	26	obj	_	_
+23	ishub	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	20	obj	_	_
 24	un	_	CCONJ	CONJ	_	26	cc	_	_
 25	gantse	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	26	amod	_	_
-26	khilut	_	NOUN	N-ACC	Case=Acc	20	obj	_	_
+26	khilut	_	NOUN	N-ACC	Case=Acc	23	conj	_	_
 27	in	_	ADP	P	_	28	case	_	_
 28	ukraine	_	PROPN	NPR	_	26	obl	_	_
 
@@ -148,13 +148,13 @@
 6	di	_	DET	D	PronType=Art	7	det	_	_
 7	yorn	_	NOUN	N-D	Definite=Def	4	obl	_	_
 8	1919-1921	_	NOUN	N-D	Definite=Def	7	conj	_	_
-9	der	_	DET	D	PronType=Art	4	appos	_	_
-10	driter	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-11	groyser	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-12	khurbn	_	NOUN	N	_	9	conj	_	_
+9	der	_	DET	D	PronType=Art	12	det	_	_
+10	driter	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
+11	groyser	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
+12	khurbn	_	NOUN	N	_	4	appos	_	_
 13	funem	_	ADP	P-CL	_	15	case	_	_
 14	yidishn	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
-15	tsenter	_	NOUN	N	_	9	obl	_	_
+15	tsenter	_	NOUN	N	_	12	obl	_	_
 16	in	_	ADP	P	_	17	case	_	_
 17	ukraine	_	PROPN	NPR	_	15	obl	_	_
 18	tsendliker	_	NUM	NUM	_	0	root	_	_
@@ -230,13 +230,13 @@
 23	in	_	ADP	P	_	24	case	_	_
 24	zey	_	PRON	PRO	_	21	obl	_	_
 25	alemen	_	ADV	ADV	Degree=Pos	21	advmod	_	_
-26	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	32	det	_	_
+26	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	30	det	_	_
 27	un	_	CCONJ	CONJ	_	28	cc	_	_
 28	dos	_	DET	D-ACC	Case=Acc|PronType=Art	26	conj	_	_
-29	zelbike	_	ADJ	ADJ	Degree=Pos	32	amod	_	_
-30	bild	_	NOUN	N	_	32	conj	_	_
+29	zelbike	_	ADJ	ADJ	Degree=Pos	30	amod	_	_
+30	bild	_	NOUN	N	_	21	obj	_	_
 31	a	_	DET	D	PronType=Art	32	det	_	_
-32	min	_	NOUN	N-I	Definite=Ind	21	obj	_	_
+32	min	_	NOUN	N-I	Definite=Ind	30	appos	_	_
 33	klasishn	_	ADJ	ADJ	Degree=Pos	34	amod	_	_
 34	tip	_	NOUN	N	_	32	nmod:poss	_	_
 35	fun	_	ADP	P	_	36	case	_	_
@@ -318,8 +318,8 @@
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
 2	dernakh	_	ADP	P	_	6	obl	_	_
 3	opgeton	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	6	advcl	_	_
-4	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	nsubj	_	_
-5	mlakhh	_	NOUN	N	_	4	conj	_	_
+4	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	det:poss	_	_
+5	mlakhh	_	NOUN	N	_	3	nsubj	_	_
 6	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 7	zi	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 8	zikh	_	PRON	PRO-RFL	PronType=Reflex	6	expl:pv	_	_
@@ -545,10 +545,10 @@
 4	bazundere	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 5	velt	_	NOUN	N	_	2	xcomp	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	5	punct	_	_
-7	a	_	DET	D	PronType=Art	10	det	_	_
-8	bzundere	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
-9	stik	_	NOUN	N	_	10	conj	_	_
-10	geshikhte	_	NOUN	N	_	5	appos	_	_
+7	a	_	DET	D	PronType=Art	9	det	_	_
+8	bzundere	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	stik	_	NOUN	N	_	5	appos	_	_
+10	geshikhte	_	NOUN	N	_	9	nmod:poss	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.23
 # X_ID = 1929E-DUBNOV-UKRAINE,29.26
@@ -603,11 +603,11 @@
 9	dem_dozikn	_	DET	D	PronType=Art	11	det	_	_
 10	historishn	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	material	_	NOUN	N	_	7	obl	_	_
-12	dem	_	DET	D	PronType=Art	7	appos	_	_
-13	fuln	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-14	tekst	_	NOUN	N	_	12	conj	_	_
+12	dem	_	DET	D	PronType=Art	14	det	_	_
+13	fuln	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
+14	tekst	_	NOUN	N	_	7	appos	_	_
 15	funem	_	ADP	P-CL	_	16	case	_	_
-16	hoypt-mkur	_	NOUN	N	_	12	obl	_	_
+16	hoypt-mkur	_	NOUN	N	_	14	obl	_	_
 17	tsu	_	ADP	P	_	19	case	_	_
 18	der	_	DET	D	PronType=Art	19	det	_	_
 19	geshikhte	_	NOUN	N-D	Definite=Def	16	obl	_	_
@@ -842,16 +842,16 @@
 18	tsugegeben	_	VERB	VB-PART	VerbForm=Inf	4	conj	_	_
 19	a	_	DET	D-ACC	Case=Acc|PronType=Art	21	det	_	_
 20	harts-reysndike	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	21	amod	_	_
-21	tlikhh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	23	obj	_	_
+21	tlikhh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	18	obj	_	_
 22	oder	_	CCONJ	CONJ	_	23	cc	_	_
-23	tkhinh	_	NOUN	N	_	18	obj	_	_
+23	tkhinh	_	NOUN	N	_	21	conj	_	_
 24	vua	_	ADV	WADVP-2	Degree=Pos	30	advmod	_	_
 25	%t%-2	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	30	advmod	_	_
 26	er	_	PRON	PRO-NOM	Case=Nom	30	nsubj	_	_
 27	hot	_	AUX	HVF	VerbForm=Fin	30	aux	_	_
 28	zikh	_	PRON	PRO-RFL	PronType=Reflex	30	expl:pv	_	_
 29	gut	_	ADV	ADV	Degree=Pos	30	advmod	_	_
-30	durkhgeshmuest	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	23	acl:relcl	_	_
+30	durkhgeshmuest	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	21	acl:relcl	_	_
 31	mitn	_	ADP	P-CL	_	32	dep	_	_
 32	rbunu-sh-eulm	master_of_world	X	H	_	30	obl	_	_
 
@@ -1215,9 +1215,9 @@
 20	fun	_	ADP	P	_	21	case	_	_
 21	yekaterine	_	NOUN	N	_	19	obl	_	_
 22	II	_	NUM	NUM	_	21	nummod	_	_
-23	di	_	DET	D	PronType=Art	19	appos	_	_
-24	goldene	_	ADJ	ADJ	Degree=Pos	23	amod	_	_
-25	gramate	_	NOUN	N	_	23	conj	_	_
+23	di	_	DET	D	PronType=Art	25	det	_	_
+24	goldene	_	ADJ	ADJ	Degree=Pos	25	amod	_	_
+25	gramate	_	NOUN	N	_	19	appos	_	_
 26	vos	_	SCONJ	C	_	37	mark	_	_
 27	%t%-1	_	NOUN	NP-ACC	_	37	dep	_	_
 28	gonte	_	PROPN	NPR	_	37	nsubj	_	_
@@ -1229,7 +1229,7 @@
 34	di	_	DET	D	PronType=Art	35	det	_	_
 35	heydamakes	_	NOUN	N-D	Definite=Def	32	obl	_	_
 36	flegn	_	AUX	MDF	VerbForm=Fin	37	aux	_	_
-37	baveyzn	_	VERB	VB	VerbForm=Inf	23	acl:relcl	_	_
+37	baveyzn	_	VERB	VB	VerbForm=Inf	25	acl:relcl	_	_
 38	dem	_	DET	D-DTV	Case=Dat|PronType=Art	39	det	_	_
 39	folk	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	37	iobj	_	_
 
@@ -1446,16 +1446,16 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	hot	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 4	aroysgelozt	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	_
-5	di	_	DET	D-ACC	Case=Acc|PronType=Art	4	obj	_	_
-6	lange	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	5	amod	_	_
+5	di	_	DET	D-ACC	Case=Acc|PronType=Art	10	det	_	_
+6	lange	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	10	amod	_	_
 7	un	_	CCONJ	CONJ	_	8	cc	_	_
 8	zeyer	_	ADV	ADV	Degree=Pos	6	amod	_	_
 9	tipishe	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-10	tkhinh	_	NOUN	N	_	5	conj	_	_
+10	tkhinh	_	NOUN	N	_	4	obj	_	_
 11	mit	_	ADP	P	_	14	case	_	_
 12	ire	_	PRON	PRO$	_	14	det:poss	_	_
 13	historishe	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
-14	epizodn	_	NOUN	N	_	5	obl	_	_
+14	epizodn	_	NOUN	N	_	10	obl	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.58
 # X_ID = 1929E-DUBNOV-UKRAINE,31.63
@@ -1639,10 +1639,10 @@
 5	tsurik	_	ADV	RP-ADV	_	3	advmod	_	_
 6	hot	_	AUX	HVF	VerbForm=Fin	12	aux	_	_
 7	mir	_	PRON	PRO-DTV	Case=Dat	12	iobj	_	_
-8	dos	_	DET	D-ACC	Case=Acc|PronType=Art	12	obj	_	_
-9	zeltn	_	ADV	ADV	Degree=Pos	8	amod	_	_
+8	dos	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
+9	zeltn	_	ADV	ADV	Degree=Pos	11	amod	_	_
 10	furder	_	X	X	_	9	amod	_	_
-11	bikhl	_	NOUN	N	_	8	conj	_	_
+11	bikhl	_	NOUN	N	_	12	obj	_	_
 12	tsugeshikt	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	_
 13	der	_	DET	D-NOM	Case=Nom|PronType=Art	15	det	_	_
 14	bavauster	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	15	amod	_	_
