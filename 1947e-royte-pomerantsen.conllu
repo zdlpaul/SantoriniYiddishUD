@@ -30847,16 +30847,16 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2129
 # X_ID = 1947E-ROYTE-POMERANTSEN,91.2221
 # text = oy, al tiftakh pe l'sotn %EXCL% nor pavolinkes %EXCL%
-1	oy	_	INTJ	INTJ	_	0	root	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	1	punct	_	_
-3	al	UNKNOWN	X	H	_	1	dep	_	_
+1	oy	_	INTJ	INTJ	_	9	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	9	punct	_	_
+3	al	UNKNOWN	X	H	_	9	dep	_	_
 4	tiftakh	you_will_open	X	H	_	3	dep	_	_
 5	pe	mouth	X	H	_	3	dep	_	_
 6	l'sotn	to_devil	X	H	_	3	dep	_	SpaceAfter=No
-7	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
+7	%EXCL%	_	PUNCT	PUNC	_	9	punct	_	_
 8	nor	_	ADV	FP	Degree=Pos	9	advmod	_	_
-9	pavolinkes	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-10	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
+9	pavolinkes	_	ADV	ADV	Degree=Pos	0	root	_	SpaceAfter=No
+10	%EXCL%	_	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2130
 # X_ID = 1947E-ROYTE-POMERANTSEN,91.2222
@@ -31350,9 +31350,9 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2172
 # X_ID = 1947E-ROYTE-POMERANTSEN,91.2264
 # text = nor dokh %EXCL%
-1	nor	_	PART	FP	Degree=Pos	0	root	_	_
-2	dokh	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-3	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
+1	nor	_	ADV	FP	Degree=Pos	2	advmod	_	_
+2	dokh	_	ADV	ADV	Degree=Pos	0	root	_	SpaceAfter=No
+3	%EXCL%	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2173
 # X_ID = 1947E-ROYTE-POMERANTSEN,91.2265
@@ -33328,10 +33328,10 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2306
 # X_ID = 1947E-ROYTE-POMERANTSEN,98.2405
 # text = " nit gut :
-1	"	_	PUNCT	PUNC	_	0	punct	_	_
-2	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
+1	"	_	PUNCT	PUNC	_	2	punct	_	_
+2	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	0	root	_	_
 3	gut	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
-4	:	_	PUNCT	PUNC	_	1	punct	_	_
+4	:	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2307
 # X_ID = 1947E-ROYTE-POMERANTSEN,98.2406
@@ -35830,11 +35830,11 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2491
 # X_ID = 1947E-ROYTE-POMERANTSEN,108.2600
 # text = un vayter : entbunden ?
-1	un	_	CCONJ	CONJ	_	0	root	_	_
-2	vayter	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-3	:	_	PUNCT	PUNC	_	1	punct	_	_
-4	entbunden	_	X	FW	Foreign=Yes	1	dep	_	SpaceAfter=No
-5	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	un	_	CCONJ	CONJ	_	2	cc	_	_
+2	vayter	_	ADV	ADV	Degree=Pos	0	root	_	SpaceAfter=No
+3	:	_	PUNCT	PUNC	_	2	punct	_	_
+4	entbunden	_	X	FW	Foreign=Yes	2	dep	_	SpaceAfter=No
+5	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2492
 # X_ID = 1947E-ROYTE-POMERANTSEN,108.2601
@@ -37548,10 +37548,10 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2617
 # X_ID = 1947E-ROYTE-POMERANTSEN,115.2733
 # text = vi-@ @zhe den ?
-1	vi-@	_	ADV	WADV	Degree=Pos	0	root	_	_
+1	vi-@	_	ADV	WADV	Degree=Pos	3	advmod	_	_
 2	@zhe	_	ADV	FP	Degree=Pos	1	advmod	_	_
-3	den	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	?	_	PUNCT	PUNC	_	1	punct	_	_
+3	den	_	ADV	ADV	Degree=Pos	0	root	_	SpaceAfter=No
+4	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2618
 # X_ID = 1947E-ROYTE-POMERANTSEN,115.2734
@@ -48900,11 +48900,11 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3395
 # X_ID = 1947E-ROYTE-POMERANTSEN,147.3543
 # text = un plutsim, aha %EXCL%
-1	un	_	CCONJ	CONJ	_	0	root	_	_
-2	plutsim	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-3	,	_	PUNCT	PUNC	_	1	punct	_	_
-4	aha	_	INTJ	INTJ	_	1	discourse	_	SpaceAfter=No
-5	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
+1	un	_	CCONJ	CONJ	_	2	cc	_	_
+2	plutsim	_	ADV	ADV	Degree=Pos	0	root	_	SpaceAfter=No
+3	,	_	PUNCT	PUNC	_	2	punct	_	_
+4	aha	_	INTJ	INTJ	_	2	discourse	_	SpaceAfter=No
+5	%EXCL%	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3396
 # X_ID = 1947E-ROYTE-POMERANTSEN,147.3544
@@ -61611,9 +61611,9 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.4241
 # X_ID = 1947E-ROYTE-POMERANTSEN,178.4420
 # text = vi den ?
-1	vi	_	ADV	WADV	Degree=Pos	0	root	_	_
-2	den	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	vi	_	ADV	WADV	Degree=Pos	2	advmod	_	_
+2	den	_	ADV	ADV	Degree=Pos	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.4242
 # X_ID = 1947E-ROYTE-POMERANTSEN,178.4421
@@ -81654,10 +81654,10 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.5622
 # X_ID = 1947E-ROYTE-POMERANTSEN,229.5852
 # text = meyle iz gornit .
-1	meyle	_	INTJ	INTJ	_	0	root	_	_
-2	iz	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-3	gornit	_	INTJ	INTJ	_	1	discourse	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	meyle	_	INTJ	INTJ	_	2	discourse	_	_
+2	iz	_	ADV	ADV	Degree=Pos	0	root	_	_
+3	gornit	_	INTJ	INTJ	_	2	discourse	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.5623
 # X_ID = 1947E-ROYTE-POMERANTSEN,229.5853

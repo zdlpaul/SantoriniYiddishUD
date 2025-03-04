@@ -4298,10 +4298,10 @@
 # sent_id = 1946E-MARK,.223
 # X_ID = 1946E-MARK,8.229
 # text = oder efsher oykh :
-1	oder	_	CCONJ	CONJ	_	0	root	_	_
-2	efsher	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-3	oykh	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	:	_	PUNCT	PUNC	_	1	punct	_	_
+1	oder	_	CCONJ	CONJ	_	2	cc	_	_
+2	efsher	_	ADV	ADV	Degree=Pos	0	root	_	_
+3	oykh	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	:	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1946E-MARK,.224
 # X_ID = 1946E-MARK,8.230
