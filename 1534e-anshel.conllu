@@ -553,7 +553,7 @@
 13	givint	_	VERB	VBN	Tense=Past|VerbForm=Part	3	obl	_	_
 14	hut	_	AUX	HVF	VerbForm=Fin	13	aux	_	_
 15	tsu	_	ADP	P	_	17	case	_	_
-16	keynn	_	DET	Q	_	17	det	_	_
+16	keynn	_	DET	Q-NEG	Polarity=Neg	17	det	_	_
 17	peulut	_	NOUN	N	_	13	obl	_	_
 18	un	_	CCONJ	CONJ	_	13	cc	_	_
 19	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_

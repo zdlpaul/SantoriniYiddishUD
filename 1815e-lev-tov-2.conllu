@@ -20,7 +20,7 @@
 
 1	helft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	im	_	PRON	PRO-DTV	Case=Dat	1	iobj	_	_
-3	keyn	_	DET	Q-NOM	Case=Nom	4	det	_	_
+3	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	4	det	_	_
 4	tshubh	_	NOUN	N-NOM	Case=Nom	1	nsubj	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
 6	biz	_	SCONJ	C	_	9	mark	_	_

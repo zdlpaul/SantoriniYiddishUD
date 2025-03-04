@@ -1537,10 +1537,10 @@
 10	den	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
 11	menshn	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	12	obj	_	_
 12	titn	_	VERB	VB	VerbForm=Inf	6	advcl	_	_
-13	keyn	_	DET	Q-NOM	Case=Nom	14	det	_	_
+13	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	14	det	_	_
 14	galt	_	NOUN	N-NOM	Case=Nom	18	nsubj	_	_
 15	un	_	CCONJ	CONJ	_	17	cc	_	_
-16	keyn	_	DET	Q-NOM	Case=Nom	17	det	_	_
+16	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	17	det	_	_
 17	zilbr	_	NOUN	N-NOM	Case=Nom	14	conj	_	_
 18	helft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 19	im	_	PRON	PRO-DTV	Case=Dat	18	iobj	_	_

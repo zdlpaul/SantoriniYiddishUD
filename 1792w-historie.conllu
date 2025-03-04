@@ -81,7 +81,7 @@
 # text = hat er keyn gelt
 1	hat	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
-3	keyn	_	DET	Q-ACC	Case=Acc	4	det	_	_
+3	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	4	det	_	_
 4	gelt	_	NOUN	N-ACC	Case=Acc	1	obj	_	_
 
 # sent_id = 1792W-HISTORIE,.6
@@ -219,7 +219,7 @@
 2	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	polak	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	8	nsubj	_	_
 4	ken	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
-5	keynh	_	DET	Q-ACC	Case=Acc	6	det	_	_
+5	keynh	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	det	_	_
 6	kindr	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
 7	oys	_	ADP	RP	_	8	compound:prt	_	_
 8	stehn	_	VERB	VB	VerbForm=Inf	0	root	_	_

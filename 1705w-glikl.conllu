@@ -1245,7 +1245,7 @@
 2	visin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	uns	_	PRON	PRO	_	2	obl	_	_
 4	yu	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-5	keyn	_	DET	Q	_	7	det	_	_
+5	keyn	_	DET	Q-NEG	Polarity=Neg	7	det	_	_
 6	rge	UNKNOWN	X	H	_	7	dep	_	_
 7	ein	_	NUM	NUM	_	2	obl	_	_
 8	%ich%-1	_	NOUN	NP-SBJ	_	9	nsubj	_	_
@@ -1323,7 +1323,7 @@
 1	un'	_	CCONJ	CONJ	_	3	cc	_	_
 2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	habin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	itsr_hre	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
 
 # sent_id = 1705W-GLIKL,.63
@@ -1373,7 +1373,7 @@
 2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	visin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	fun	_	ADP	P	_	6	case	_	_
-5	keyn	_	DET	Q	_	6	det	_	_
+5	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 6	gutis	_	NOUN	N	_	8	obl	_	_
 7	tsu	_	PART	TO	_	8	mark	_	_
 8	tuhn	_	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
@@ -1552,7 +1552,7 @@
 39	,	_	PUNCT	PUNC	_	38	punct	_	_
 40	daz	_	PRON	WPRO	_	50	obj	_	_
 41	%t%-2	_	NOUN	NP-SBJ	_	50	nsubj	_	_
-42	keyn	_	DET	Q-ACC	Case=Acc	43	det	_	_
+42	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	43	det	_	_
 43	skr	_	NOUN	N-ACC	Case=Acc	50	obj	_	_
 44	udr	_	CCONJ	CONJ	_	45	cc	_	_
 45	euns	_	NOUN	N	_	43	conj	_	_
@@ -1597,7 +1597,7 @@
 2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	sterbt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	hoyf	_	X	X	_	3	dep	_	_
-5	keyn	_	DET	Q-ACC	Case=Acc	6	det	_	_
+5	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	det	_	_
 6	khsbun	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
 7	tsu	_	PART	TO	_	8	mark	_	_
 8	gebin	_	VERB	VB	VerbForm=Inf	3	xcomp	_	_
@@ -1740,7 +1740,7 @@
 12	bhmh	_	NOUN	N-D	Definite=Def	9	obl	_	_
 13	un'	_	CCONJ	CONJ	_	21	cc	_	_
 14	%con%	_	NOUN	NP-SBJ	_	21	nsubj	_	_
-15	keyn	_	DET	Q-ACC	Case=Acc	16	det	_	_
+15	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	16	det	_	_
 16	gutis	_	NOUN	N-ACC	Case=Acc	21	obj	_	_
 17	un'	_	CCONJ	CONJ	_	18	cc	_	_
 18	afilu	_	PART	FP	Degree=Pos	16	conj	_	_
@@ -1849,7 +1849,7 @@
 5	ikh	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 6	dakh	_	ADV	ADV	Degree=Pos	15	advmod	_	_
 7	veytir	_	ADV	ADV	Degree=Pos	15	advmod	_	_
-8	keyn	_	DET	Q-ACC	Case=Acc	9	det	_	_
+8	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	9	det	_	_
 9	tser	_	NOUN	N-ACC	Case=Acc	15	obj	_	_
 10	mer	_	ADV	QR	_	9	advmod	_	_
 11	an	_	ADP	P	_	14	case	_	_
@@ -1914,7 +1914,7 @@
 # text = %con% bin keyn b' snim kan tsu mits givezin alis ikh beu"h di bsurh reh %ich%-1 bikumin das er das tseytlikhi gizegnit un' %con% in das ibigi gangin izt,
 1	%con%	_	NOUN	NP-SBJ	_	9	nsubj	_	_
 2	bin	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
-3	keyn	_	DET	Q	_	4	det	_	_
+3	keyn	_	DET	Q-NEG	Polarity=Neg	4	det	_	_
 4	b'	_	NUM	NUM	_	9	obl	_	_
 5	snim	_	NOUN	N	_	4	conj	_	_
 6	kan	here	ADV	H	_	9	advmod	_	_
@@ -2577,7 +2577,7 @@
 3	zenin	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 4	meynstir	_	ADP	RP-H	_	5	compound:prt	_	_
 5	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	keynir	_	DET	Q-NOM	Case=Nom	5	dep	_	_
+6	keynir	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	5	dep	_	_
 7	derfin	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
 8	oys	_	ADP	RP	_	6	compound:prt	_	_
 9	un'	_	CCONJ	CONJ	_	10	cc	_	_
@@ -2666,7 +2666,7 @@
 # X_ID = 1705W-GLIKL,311.137
 # text = izt keyn tsinin lefil bbitu givezin
 1	izt	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-2	keyn	_	DET	Q-NOM	Case=Nom	4	det	_	_
+2	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	4	det	_	_
 3	tsinin	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	4	amod	_	_
 4	lefil	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
 5	bbitu	in_house_his	X	H	_	6	dep	_	_
@@ -2890,7 +2890,7 @@
 16	mir	_	PRON	PRO-NOM	Case=Nom	23	nsubj	_	_
 17	mms	_	ADV	ADV	Degree=Pos	23	advmod	_	_
 18	uft	_	ADV	ADV	Degree=Pos	23	advmod	_	_
-19	keyn	_	DET	Q-ACC	Case=Acc	23	obj	_	_
+19	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	23	obj	_	_
 20	lkhm	bread	X	H	_	19	dep	_	_
 21	im	_	ADP	P-CL	_	22	case	_	_
 22	bit	_	NOUN	N	_	23	obl	_	_

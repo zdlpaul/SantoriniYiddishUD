@@ -371,7 +371,7 @@
 15	zet	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	men	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 17	kmet	_	ADV	ADV	Degree=Pos	15	dep	_	_
-18	keyn	_	DET	Q	_	17	det	_	_
+18	keyn	_	DET	Q-NEG	Polarity=Neg	17	det	_	_
 19	untersheyd	_	NOUN	N	_	17	conj	_	_
 20	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	15	advmod	_	_
 
@@ -728,7 +728,7 @@
 11	yor	_	NOUN	N	_	2	obl	_	_
 12	1768	_	NUM	NUM	_	11	nummod	_	_
 13	hot	_	AUX	HVF	VerbForm=Fin	21	aux	_	_
-14	keyner	_	DET	Q-NOM	Case=Nom	21	nsubj	_	_
+14	keyner	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	21	nsubj	_	_
 15	fun	_	ADP	P	_	19	case	_	_
 16	der	_	DET	D	PronType=Art	19	det	_	_
 17	demolstiker	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
@@ -1523,7 +1523,7 @@
 5	aher	_	ADV	ADV	Degree=Pos	7	obl	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
 7	gehot	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-8	keyn	_	DET	Q-ACC	Case=Acc	10	det	_	_
+8	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	10	det	_	_
 9	fulstendikn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	10	amod	_	_
 10	tekst	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 11	fun	_	ADP	P	_	12	case	_	_

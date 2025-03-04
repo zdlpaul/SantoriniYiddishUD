@@ -953,7 +953,7 @@
 14	den	_	DET	D	PronType=Art	15	obl	_	_
 15	hobn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 16	mir	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
-17	keyn	_	DET	Q-ACC	Case=Acc	18	det	_	_
+17	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	18	det	_	_
 18	kvnh	_	NOUN	N-ACC	Case=Acc	15	obj	_	_
 
 # sent_id = 1692E-VILNA,.61
@@ -1855,7 +1855,7 @@
 12	hat	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
 13	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	14	advmod	_	_
 14	gihalfn	_	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-15	keyn	_	DET	Q-NOM	Case=Nom	16	det	_	_
+15	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	16	det	_	_
 16	bksh	_	NOUN	N-NOM	Case=Nom	14	nsubj	_	_
 17	un	_	CCONJ	CONJ	_	18	cc	_	_
 18	thinh	_	NOUN	N	_	16	conj	_	_
@@ -2484,7 +2484,7 @@
 16	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	17	advmod	_	_
 17	glitn	_	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	_	_
 18	gar	_	ADV	ADV	Degree=Pos	17	dep	_	_
-19	keyn	_	DET	Q	_	18	det	_	_
+19	keyn	_	DET	Q-NEG	Polarity=Neg	18	det	_	_
 20	enveym	_	NOUN	N	_	18	conj	_	_
 21	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	17	advmod	_	_
 
@@ -2756,7 +2756,7 @@
 4	yarn	_	NOUN	N	_	5	obl	_	_
 5	laz	_	VERB	VBI	Mood=Imp	0	root	_	_
 6	%ich%-1	_	ADP	PP	_	10	obl	_	_
-7	keyn	_	DET	Q-NOM	Case=Nom	8	det	_	_
+7	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	8	det	_	_
 8	tser	_	NOUN	N-NOM	Case=Nom	10	nsubj	_	_
 9	ibr	_	ADP	RP	_	10	compound:prt	_	_
 10	farin	_	VERB	VB	VerbForm=Inf	5	xcomp	_	_

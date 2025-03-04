@@ -117,7 +117,7 @@
 # X_ID = 1704E-ELLUSH,.12
 # text = dz keynr zul zikh nit dr_vegn
 1	dz	_	SCONJ	C	_	0	root	_	_
-2	keynr	_	DET	Q-NOM	Case=Nom	6	nsubj	_	_
+2	keynr	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	6	nsubj	_	_
 3	zul	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
 4	zikh	_	PRON	PRO-RFL	PronType=Reflex	6	expl:pv	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_

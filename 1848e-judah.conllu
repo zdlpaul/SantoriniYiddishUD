@@ -533,7 +533,7 @@
 20	givolt	_	AUX	MDN	Tense=Past|VerbForm=Part	21	aux	_	_
 21	lozin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 22	%arb%	_	NOUN	NP-SBJ	_	25	nsubj	_	_
-23	keyn	_	DET	Q-ACC	Case=Acc	24	det	_	_
+23	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	24	det	_	_
 24	blut	_	NOUN	N-ACC	Case=Acc	25	obj	_	_
 25	fergisin	_	VERB	VB	VerbForm=Inf	21	xcomp	_	SpaceAfter=No
 26	,	_	PUNCT	PUNC	_	21	punct	_	_
@@ -1422,7 +1422,7 @@
 5	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
 6	kenin	_	AUX	MD	VerbForm=Inf	7	aux	_	_
 7	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-8	keyn	_	DET	Q-NOM	Case=Nom	9	det	_	_
+8	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	9	det	_	_
 9	gezets	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	_
 
 # sent_id = 1848E-JUDAH,.73
@@ -2008,10 +2008,10 @@
 4	darfin	_	AUX	MD	VerbForm=Inf	2	aux	_	_
 5	tsu	_	PART	TO	_	6	mark	_	_
 6	tsahlin	_	VERB	VB	VerbForm=Inf	2	xcomp	_	_
-7	keyn	_	DET	Q-ACC	Case=Acc	8	det	_	_
+7	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	8	det	_	_
 8	lekht_geld	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
 9	un	_	CCONJ	CONJ	_	11	cc	_	_
-10	keyn	_	DET	Q-ACC	Case=Acc	11	det	_	_
+10	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	11	det	_	_
 11	fleysh_pakht	_	NOUN	N-ACC	Case=Acc	8	conj	_	_
 
 # sent_id = 1848E-JUDAH,.100
@@ -2506,7 +2506,7 @@
 3	berger	_	NOUN	N-NOM	Case=Nom	16	nsubj	_	_
 4	dafke	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 5	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
-6	keyn	_	DET	Q-NOM	Case=Nom	7	det	_	_
+6	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	7	det	_	_
 7	glernte	_	NOUN	N-NOM	Case=Nom	3	appos	_	_
 8	nor	_	CCONJ	CONJ	_	12	cc	_	_
 9	proste	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
@@ -2536,7 +2536,7 @@
 6	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
 7	tsu	_	PART	TO	_	8	mark	_	_
 8	zeyn	_	VERB	VB	VerbForm=Inf	4	xcomp	_	_
-9	keyn	_	DET	Q	_	11	det	_	_
+9	keyn	_	DET	Q-NEG	Polarity=Neg	11	det	_	_
 10	groyser	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	lamdn	_	NOUN	N	_	8	xcomp	_	_
 

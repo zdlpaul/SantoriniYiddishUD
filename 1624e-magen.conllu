@@ -68,7 +68,7 @@
 44	klikh_ubn	_	NOUN	N-D	Definite=Def	41	obl	_	_
 45	un'	_	CCONJ	CONJ	_	51	cc	_	_
 46	im	_	PRON	PRO-DTV	Case=Dat	51	iobj	_	_
-47	keyn	_	DET	Q-NOM	Case=Nom	48	det	_	_
+47	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	48	det	_	_
 48	har	_	NOUN	N-NOM	Case=Nom	51	nsubj	_	_
 49	iz	_	AUX	BEF	VerbForm=Fin	51	cop	_	_
 50	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	51	dep	_	_
@@ -1931,7 +1931,7 @@
 3	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 4	ds	_	SCONJ	C	_	15	mark	_	_
 5	in	_	PRON	PRO-DTV	Case=Dat	15	iobj	_	_
-6	keyn	_	DET	Q-NOM	Case=Nom	7	det	_	_
+6	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	7	det	_	_
 7	har	_	NOUN	N-NOM	Case=Nom	15	nsubj	_	_
 8	fun	_	ADP	P	_	9	case	_	_
 9	leyb	_	NOUN	N	_	7	obl	_	_
@@ -2271,7 +2271,7 @@
 1	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	htn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	dukh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	steyn	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
 

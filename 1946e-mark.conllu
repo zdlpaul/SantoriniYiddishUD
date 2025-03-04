@@ -679,7 +679,7 @@
 8	kenen	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
 9	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
 10	zayn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-11	keyn	_	DET	Q	_	10	xcomp	_	_
+11	keyn	_	DET	Q-NEG	Polarity=Neg	10	xcomp	_	_
 12	tsu	_	ADV	ADV	Degree=Pos	11	amod	_	_
 13	lange	_	ADJ	ADJ	Degree=Pos	12	amod	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	11	punct	_	_
@@ -736,7 +736,7 @@
 3	genumen	_	VERB	VAN	Tense=Past|VerbForm=Part	4	advcl	_	_
 4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	nito	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
-6	keyn	_	DET	Q-NOM	Case=Nom	9	det	_	_
+6	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	9	det	_	_
 7	bazunderer	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	9	amod	_	_
 8	ritmisher	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	9	amod	_	_
 9	faktor	_	NOUN	N-NOM	Case=Nom	4	nsubj	_	SpaceAfter=No
@@ -1376,7 +1376,7 @@
 32	kenen	_	AUX	MDF	VerbForm=Fin	34	aux	_	_
 33	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	34	advmod	_	_
 34	gebn	_	VERB	VB	VerbForm=Inf	29	acl:relcl	_	_
-35	keyn	_	DET	Q-ACC	Case=Acc	37	det	_	_
+35	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	37	det	_	_
 36	korektn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	37	amod	_	_
 37	zats	_	NOUN	N-ACC	Case=Acc	34	obj	_	SpaceAfter=No
 38	.	_	PUNCT	PUNC	_	5	punct	_	_
@@ -2157,7 +2157,7 @@
 11	yidish	_	NOUN	N	_	12	obl	_	_
 12	shpilt	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 13	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
-14	keyn	_	DET	Q-ACC	Case=Acc	15	det	_	_
+14	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	15	det	_	_
 15	role	_	NOUN	N-ACC	Case=Acc	12	obj	_	_
 16	der	_	DET	D-NOM	Case=Nom|PronType=Art	17	det	_	_
 17	khilek	_	NOUN	N-NOM	Case=Nom	12	nsubj	_	_
@@ -2456,7 +2456,7 @@
 6	operirn	_	VERB	VB	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
 8	vayl	_	SCONJ	C	_	15	mark	_	_
-9	keyn	_	DET	Q-NOM	Case=Nom	11	det	_	_
+9	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	11	det	_	_
 10	ander	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	11	amod	_	_
 11	brirh	_	NOUN	N-NOM	Case=Nom	15	nsubj	_	_
 12	iz	_	AUX	BEF	VerbForm=Fin	15	cop	_	_
@@ -2607,7 +2607,7 @@
 # X_ID = 1946E-MARK,5.137
 # text = vayl keyn ander brirh iz shoyn nit geven, hot der doktor geheysn glaykh operirn
 1	vayl	_	SCONJ	C	_	8	mark	_	_
-2	keyn	_	DET	Q-NOM	Case=Nom	4	det	_	_
+2	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	4	det	_	_
 3	ander	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	4	amod	_	_
 4	brirh	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	_
 5	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
@@ -3062,7 +3062,7 @@
 # X_ID = 1946E-MARK,6.164
 # text = un keyn " es " iz mer nisht in dem zats .
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
-2	keyn	_	DET	Q-NOM	Case=Nom	6	nsubj	_	SpaceAfter=No
+2	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	6	nsubj	_	SpaceAfter=No
 3	"	_	PUNCT	PUNC	_	2	punct	_	_
 4	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	SpaceAfter=No
 5	"	_	PUNCT	PUNC	_	6	punct	_	_
@@ -3266,7 +3266,7 @@
 14	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	15	advmod	_	_
 15	gemolt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 16	zeyn	_	AUX	BE	VerbForm=Inf	15	cop	_	_
-17	keyn	_	DET	Q-NOM	Case=Nom	19	det	_	_
+17	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	19	det	_	_
 18	fiktiver	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	19	amod	_	_
 19	subyekt	_	NOUN	N-NOM	Case=Nom	15	nsubj	_	SpaceAfter=No
 20	"	_	PUNCT	PUNC	_	19	punct	_	_
@@ -3575,7 +3575,7 @@
 6	di	_	DET	D	PronType=Art	5	det	_	_
 7	eygnshaft	_	NOUN	N-D	Definite=Def	5	conj	_	_
 8	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-9	keyn	_	DET	Q-NOM	Case=Nom	11	det	_	_
+9	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	11	det	_	_
 10	ander	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	11	amod	_	_
 11	brirh	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	_
 12	%ich%-1	_	ADP	PP	_	11	obl	_	_
@@ -3667,7 +3667,7 @@
 11	ze	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 12	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	advmod	_	_
 13	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	15	det	_	_
-14	keyn	_	DET	Q-ACC	Case=Acc	15	det	_	_
+14	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	15	det	_	_
 15	umglik	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	11	obj	_	_
 16	in	_	ADP	P	_	17	case	_	_
 17	dem	_	DET	D	PronType=Art	11	obl	_	_
@@ -3708,7 +3708,7 @@
 4	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
 6	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
-7	keyn	_	DET	Q-ACC	Case=Acc	8	det	_	_
+7	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	8	det	_	_
 8	umglik	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	3	obj	_	_
 9	in	_	ADP	P	_	10	case	_	_
 10	dem	_	DET	D	PronType=Art	3	obl	_	SpaceAfter=No
@@ -3749,7 +3749,7 @@
 9	nor	_	ADV	FP	Degree=Pos	8	advmod	_	_
 10	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 11	eyn	_	DET	D	PronType=Art	8	det	_	_
-12	keyn	_	DET	Q	_	8	det	_	_
+12	keyn	_	DET	Q-NEG	Polarity=Neg	8	det	_	_
 13	umglik	_	NOUN	N-I	Definite=Ind	8	conj	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	15	punct	_	_
 15	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -4093,7 +4093,7 @@
 17	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	18	expl	_	_
 18	iz	_	VERB	VBF	VerbForm=Fin	9	advcl	_	_
 19	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	18	advmod	_	_
-20	keyn	_	DET	Q-NOM	Case=Nom	22	det	_	_
+20	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	22	det	_	_
 21	shum	_	DET	Q-NOM	Case=Nom	22	det	_	_
 22	barekhtikung	_	NOUN	N-NOM	Case=Nom	18	nsubj	_	_
 23	far	_	ADP	P	_	25	case	_	_
@@ -4467,7 +4467,7 @@
 12	ober	_	CCONJ	CONJ	_	14	cc	_	_
 13	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	14	expl	_	_
 14	kumt	_	VERB	VBF	VerbForm=Fin	10	conj	_	_
-15	keyn	_	DET	Q-NOM	Case=Nom	16	det	_	_
+15	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	16	det	_	_
 16	zakh	_	NOUN	N-NOM	Case=Nom	14	nsubj	_	_
 17	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	14	advmod	_	_
 18	aroys	_	ADV	ADV	Degree=Pos	14	advmod	_	SpaceAfter=No
@@ -4480,7 +4480,7 @@
 25	ober	_	CCONJ	CONJ	_	27	cc	_	_
 26	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	27	expl	_	_
 27	kumt	_	VERB	VBF	VerbForm=Fin	21	conj	_	_
-28	keyn	_	DET	Q-NOM	Case=Nom	29	det	_	_
+28	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	29	det	_	_
 29	zakh	_	NOUN	N-NOM	Case=Nom	27	nsubj	_	_
 30	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	27	advmod	_	_
 31	aroys	_	ADV	ADV	Degree=Pos	27	advmod	_	SpaceAfter=No
@@ -4885,7 +4885,7 @@
 23	hemshekh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	20	nsubj	_	SpaceAfter=No
 24	,	_	PUNCT	PUNC	_	23	punct	_	_
 25	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	26	advmod	_	_
-26	keyn	_	DET	Q	_	23	conj	_	_
+26	keyn	_	DET	Q-NEG	Polarity=Neg	23	conj	_	_
 27	onheyb	_	NOUN	N	_	26	conj	_	SpaceAfter=No
 28	,	_	PUNCT	PUNC	_	20	punct	_	_
 29	az	_	SCONJ	C	_	36	mark	_	_
@@ -5378,7 +5378,7 @@
 3	@tu	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 5	kenen	_	AUX	MD	VerbForm=Inf	8	aux	_	_
-6	keyn	_	DET	Q-ACC	Case=Acc	7	det	_	_
+6	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	7	det	_	_
 7	brivele	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
 8	shreybn	_	VERB	VB	VerbForm=Inf	14	advcl	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	8	punct	_	_
@@ -5482,7 +5482,7 @@
 3	afilu	_	ADV	FP	Degree=Pos	5	advmod	_	_
 4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
 5	formulirn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-6	keyn	_	DET	Q-ACC	Case=Acc	7	det	_	_
+6	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	7	det	_	_
 7	onveyz	_	NOUN	N-ACC	Case=Acc	5	obj	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	7	punct	_	_
 9	az	_	SCONJ	C	_	19	mark	_	_
@@ -5957,7 +5957,7 @@
 1	ken	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	toyre	_	PROPN	NPR	_	1	obj	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	1	punct	_	_
 
@@ -5977,7 +5977,7 @@
 1	hob	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	soykhres	_	NOUN	N-ACC	Case=Acc	1	obj	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	1	punct	_	_
 
@@ -6648,7 +6648,7 @@
 7	"	_	PUNCT	PUNC	_	8	punct	_	_
 8	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
-10	keyn	_	DET	Q	_	11	det	_	_
+10	keyn	_	DET	Q-NEG	Polarity=Neg	11	det	_	_
 11	muz	_	NOUN	N	_	8	xcomp	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	8	punct	_	_
 
@@ -7433,7 +7433,7 @@
 8	shlogn	_	VERB	VB	VerbForm=Inf	13	advcl	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	13	punct	_	_
 10	vet	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
-11	keyner	_	DET	Q-NOM	Case=Nom	13	nsubj	_	_
+11	keyner	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	13	nsubj	_	_
 12	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
 13	bazign	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 14	.	_	PUNCT	PUNC	_	13	punct	_	_
@@ -8105,7 +8105,7 @@
 # X_ID = 1946E-MARK,14.449
 # text = un keyn shum motiv fun gram, oder fun ritem, oder fun a bazundere kvnh ken nit barekhtikn dem verb oyfn fertn ort, vi %t%-1 mir hobn im,
 1	un	_	CCONJ	CONJ	_	19	cc	_	_
-2	keyn	_	DET	Q-NOM	Case=Nom	4	det	_	_
+2	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	4	det	_	_
 3	shum	_	DET	Q-NOM	Case=Nom	4	det	_	_
 4	motiv	_	NOUN	N-NOM	Case=Nom	19	nsubj	_	_
 5	fun	_	ADP	P	_	6	case	_	_

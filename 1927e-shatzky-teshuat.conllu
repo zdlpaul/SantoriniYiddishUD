@@ -1193,7 +1193,7 @@
 8	veyl	_	SCONJ	C	_	15	mark	_	_
 9	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 10	hot	_	AUX	HVF	VerbForm=Fin	15	aux	_	_
-11	keyn	_	DET	Q-ACC	Case=Acc	13	det	_	_
+11	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	13	det	_	_
 12	ander	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	13	amod	_	_
 13	sprakh	_	NOUN	N-ACC	Case=Acc	15	obj	_	_
 14	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	15	advmod	_	_
@@ -1216,16 +1216,16 @@
 11	serapimovits	_	PROPN	NPR-D	_	10	flat:name	_	_
 12	farsteyt	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
 13	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
-14	keyn	_	DET	Q-ACC	Case=Acc	15	det	_	_
+14	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	15	det	_	_
 15	hebreyish	_	NOUN	N-ACC	Case=Acc	12	obj	_	_
 
 # sent_id = 1927E-SHATZKY-TESHUAT,.60
 # X_ID = 1927E-SHATZKY-TESHUAT,14.64
 # text = keyn lateyn un keyn poylish hot er oykh nist gekant
-1	keyn	_	DET	Q-ACC	Case=Acc	2	det	_	_
+1	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	2	det	_	_
 2	lateyn	_	NOUN	N-ACC	Case=Acc	10	obj	_	_
 3	un	_	CCONJ	CONJ	_	5	cc	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	poylish	_	NOUN	N-ACC	Case=Acc	2	conj	_	_
 6	hot	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
 7	er	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
@@ -1449,7 +1449,7 @@
 # sent_id = 1927E-SHATZKY-TESHUAT,.71
 # X_ID = 1927E-SHATZKY-TESHUAT,15.75
 # text = keyn oysfirlekhe idieut vegn di kdushim farmogn mir nisht
-1	keyn	_	DET	Q-ACC	Case=Acc	3	det	_	_
+1	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	3	det	_	_
 2	oysfirlekhe	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	3	amod	_	_
 3	idieut	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 4	vegn	_	ADP	P	_	6	case	_	_
@@ -1782,7 +1782,7 @@
 6	yidn	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	_
 7	banutsn	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
 8	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
-9	keyn	_	DET	Q-ACC	Case=Acc	11	det	_	_
+9	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	11	det	_	_
 10	kristlekh	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	11	amod	_	_
 11	blut	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 
@@ -2281,7 +2281,7 @@
 9	tlmudishe	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	amod	_	_
 10	literatur	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	conj	_	_
 11	git	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
-12	keyn	_	DET	Q-ACC	Case=Acc	14	det	_	_
+12	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	14	det	_	_
 13	shum	_	DET	Q-ACC	Case=Acc	14	det	_	_
 14	grunt	_	NOUN	N-ACC	Case=Acc	11	obj	_	_
 15	%ich%-2	_	X	IP-INF	_	14	xcomp	_	_
@@ -2659,7 +2659,7 @@
 1	mir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	hobn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	6	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	det	_	_
 5	shum	_	DET	Q-ACC	Case=Acc	6	det	_	_
 6	motiv	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
 7	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	9	advmod	_	_

@@ -1171,7 +1171,7 @@
 10	gelt	_	NOUN	N	_	8	obl	_	_
 11	er	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 12	est	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
-13	keyns	_	DET	Q-ACC	Case=Acc	8	obj	_	_
+13	keyns	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	8	obj	_	_
 14	veyl	_	SCONJ	C	_	16	mark	_	_
 15	er	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
 16	iz	_	VERB	VBF	VerbForm=Fin	8	advcl	_	_
@@ -1753,7 +1753,7 @@
 4	meyd	_	NOUN	N-D	Definite=Def	6	obl	_	_
 5	muz	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
 6	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-7	keyn	_	DET	Q-NOM	Case=Nom	8	det	_	_
+7	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	8	det	_	_
 8	brkhh	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.123
@@ -1987,7 +1987,7 @@
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.137
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,545.142
 # text = keyn rekhtr gutr man %ich%-1 der zikht fun uns palkin ashknz an
-1	keyn	_	DET	Q	_	4	det	_	_
+1	keyn	_	DET	Q-NEG	Polarity=Neg	4	det	_	_
 2	rekhtr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 3	gutr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 4	man	_	NOUN	N	_	7	obl	_	_
@@ -2265,7 +2265,7 @@
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,546.163
 # text = abr keynm %exp% iz nit %ich%-1 tsu troyan oyf gelt nakh oyf skhurh
 1	abr	_	CCONJ	CONJ	_	4	cc	_	_
-2	keynm	_	DET	Q	_	4	obl	_	_
+2	keynm	_	DET	Q-NEG	Polarity=Neg	4	obl	_	_
 3	%exp%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
 4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
@@ -2434,7 +2434,7 @@
 5	fr	_	ADP	P	_	7	case	_	_
 6	eykh	_	PRON	PRO	_	7	nmod	_	_
 7	palkn	_	NOUN	N	_	2	obl	_	_
-8	keyn	_	DET	Q-ACC	Case=Acc	9	det	_	_
+8	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	9	det	_	_
 9	ruh	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.171
@@ -2469,7 +2469,7 @@
 3	hat	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	det:poss	_	_
 5	man	_	NOUN	N	_	3	nsubj	_	_
-6	keyn	_	DET	Q-ACC	Case=Acc	7	det	_	_
+6	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	7	det	_	_
 7	ru	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.174
@@ -2484,7 +2484,7 @@
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.175
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,546.181
 # text = keyn dieh dz er vil nakh hoyz biz da kumn khrumut brif hroyz
-1	keyn	_	DET	Q	_	5	det	_	_
+1	keyn	_	DET	Q-NEG	Polarity=Neg	5	det	_	_
 2	dieh	UNKNOWN	X	H	_	5	dep	_	_
 3	dz	_	SCONJ	C	_	5	mark	_	_
 4	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -2699,7 +2699,7 @@
 15	dr	_	DET	D-NOM	Case=Nom|PronType=Art	16	det	_	_
 16	gifatr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	_
 17	dakh	_	ADV	ADV	Degree=Pos	14	advmod	_	_
-18	keyn	_	DET	Q-ACC	Case=Acc	19	det	_	_
+18	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	19	det	_	_
 19	ru	_	NOUN	N-ACC	Case=Acc	14	obj	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.191
@@ -3300,7 +3300,7 @@
 1	azu	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	tsikht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	dakh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	keynr	_	DET	Q-NOM	Case=Nom	2	nsubj	_	_
+4	keynr	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	2	nsubj	_	_
 5	in	_	ADP	P	_	6	case	_	_
 6	pulin	_	PROPN	NPR	_	2	obl	_	_
 7	um	_	SCONJ	C	_	2	advcl	_	_
@@ -3421,7 +3421,7 @@
 4	far	_	ADP	P	_	6	case	_	_
 5	unzri	_	PRON	PRO$	_	6	det:poss	_	_
 6	kindr	_	NOUN	N	_	11	dep	_	_
-7	keyn	_	DET	Q	_	6	det	_	_
+7	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 8	shidukh	_	NOUN	N	_	6	conj	_	_
 9	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	advmod	_	_
 10	tsu	_	ADP	RP	_	11	compound:prt	_	_
@@ -3720,7 +3720,7 @@
 3	hut	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	in	_	ADP	P	_	5	case	_	_
 5	beytl	_	NOUN	N	_	3	obl	_	_
-6	keyn	_	DET	Q-ACC	Case=Acc	7	det	_	_
+6	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	7	det	_	_
 7	helir	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.266
@@ -4123,7 +4123,7 @@
 7	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	bey	_	ADP	P	_	9	case	_	_
 9	zi	_	PRON	PRO	_	7	obl	_	_
-10	keyn	_	DET	Q	_	11	det	_	_
+10	keyn	_	DET	Q-NEG	Polarity=Neg	11	det	_	_
 11	shnd	_	NOUN	N	_	7	xcomp	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.293
@@ -4173,7 +4173,7 @@
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,551.306
 # text = den keyn gelt %ich%-1 iz shun da %t%-2 tsu arnern
 1	den	_	CCONJ	CONJ	_	5	cc	_	_
-2	keyn	_	DET	Q-NOM	Case=Nom	3	det	_	_
+2	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	3	det	_	_
 3	gelt	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
 4	%ich%-1	_	SCONJ	CP-EOP	_	3	xcomp	_	_
 5	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_

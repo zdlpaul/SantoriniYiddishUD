@@ -323,7 +323,7 @@
 4	funem	_	ADP	P-CL	_	5	case	_	_
 5	khl	_	NOUN	N	_	3	obl	_	_
 6	hot	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
-7	keyn	_	DET	Q-NOM	Case=Nom	8	det	_	_
+7	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	8	det	_	_
 8	yid	_	NOUN	N-NOM	Case=Nom	11	nsubj	_	_
 9	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	advmod	_	_
 10	getort	_	AUX	MDN	Tense=Past|VerbForm=Part	11	aux	_	_

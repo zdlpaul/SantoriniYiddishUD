@@ -855,7 +855,7 @@
 12	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
 13	ibrgirisin	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
 14	mit	_	ADP	P	_	16	case	_	_
-15	keyn	_	DET	Q	_	16	det	_	_
+15	keyn	_	DET	Q-NEG	Polarity=Neg	16	det	_	_
 16	im	_	NOUN	N	_	13	obl	_	_
 
 # sent_id = 1818E-GEOGRAFIE,.45
@@ -1471,11 +1471,11 @@
 2	heyst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	zey	_	PRON	PRO-NOM	Case=Nom	2	dep	_	_
 4	habin	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-5	keyn	_	DET	Q-ACC	Case=Acc	7	det	_	_
+5	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	7	det	_	_
 6	rekhti	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
 7	amunh	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
 8	un	_	CCONJ	CONJ	_	11	cc	_	_
-9	keyn	_	DET	Q-ACC	Case=Acc	11	det	_	_
+9	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	11	det	_	_
 10	rekht	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	11	amod	_	_
 11	far_stand	_	NOUN	N-ACC	Case=Acc	7	conj	_	_
 
@@ -2513,7 +2513,7 @@
 2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	darf	_	VERB	MDF	VerbForm=Fin	0	root	_	_
 4	bey	_	ADP	P	_	5	case	_	_
-5	keynen	_	DET	Q	_	7	obl	_	_
+5	keynen	_	DET	Q-NEG	Polarity=Neg	7	obl	_	_
 6	tsu	_	PART	TO	_	7	mark	_	_
 7	fregin	_	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 
@@ -4670,7 +4670,7 @@
 # text = veytr vert keyn andri in land nit gilitn
 1	veytr	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	keyn	_	DET	Q-NOM	Case=Nom	4	det	_	_
+3	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	4	det	_	_
 4	andri	_	NOUN	N-NOM	Case=Nom	2	nsubj	_	_
 5	in	_	ADP	P	_	6	case	_	_
 6	land	_	NOUN	N	_	2	obl	_	_

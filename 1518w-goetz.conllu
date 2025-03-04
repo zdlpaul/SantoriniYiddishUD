@@ -656,7 +656,7 @@
 33	uber_tobert	_	VERB	VBN	Tense=Past|VerbForm=Part	30	dep	_	_
 34	in	_	ADP	P	_	36	case	_	_
 35	aynem	_	DET	D	PronType=Art	36	det	_	_
-36	trunk	_	NOUN	N	_	30	obl	_	_
+36	trunk	_	NOUN	N-I	Definite=Ind	30	obl	_	_
 
 # sent_id = 1518W-GOETZ,.34
 # X_ID = 1518W-GOETZ,160.36

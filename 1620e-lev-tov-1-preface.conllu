@@ -563,7 +563,7 @@
 13	shreyan	_	VERB	VB	VerbForm=Inf	18	advcl	_	_
 14	daz	_	DET	D-ACC	Case=Acc|PronType=Art	18	obj	_	_
 15	tar	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
-16	keynr	_	DET	Q-NOM	Case=Nom	18	nsubj	_	_
+16	keynr	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	18	nsubj	_	_
 17	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	18	advmod	_	_
 18	tan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
@@ -632,7 +632,7 @@
 1	den	_	CCONJ	CONJ	_	8	cc	_	_
 2	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	8	expl	_	_
 3	tar	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
-4	keynr	_	DET	Q-NOM	Case=Nom	8	nsubj	_	_
+4	keynr	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	8	nsubj	_	_
 5	%ich%-1	_	ADP	PP	_	4	obl	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 7	leyt	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
@@ -692,7 +692,7 @@
 8	zeynn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	di	_	PRON	WPRO	_	14	obj	_	_
 10	%t%-2	_	NOUN	NP-SBJ	_	14	nsubj	_	_
-11	keyn	_	DET	Q-ACC	Case=Acc	12	det	_	_
+11	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	12	det	_	_
 12	kvnh	_	NOUN	N-ACC	Case=Acc	14	obj	_	_
 13	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	14	advmod	_	_
 14	habn	_	VERB	VBF	VerbForm=Fin	8	acl:relcl	_	_
@@ -884,7 +884,7 @@
 2	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	andrn	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	4	nsubj	_	_
 4	hern	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-5	keynr	_	ADV	Q	_	4	advmod	_	_
+5	keynr	_	ADV	Q-NEG	Polarity=Neg	4	advmod	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
 7	tsu	_	ADP	RP	_	4	compound:prt	_	_
 
@@ -1521,7 +1521,7 @@
 1	akh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	bigert	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	kbud	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
 

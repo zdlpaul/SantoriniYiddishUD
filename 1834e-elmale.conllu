@@ -359,7 +359,7 @@
 # X_ID = 1834E-ELMALE,50.24
 # text = un keyn mensh vet oykh nit nakh yagin
 1	un	_	CCONJ	CONJ	_	8	cc	_	_
-2	keyn	_	DET	Q-NOM	Case=Nom	3	det	_	_
+2	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	3	det	_	_
 3	mensh	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	_
 4	vet	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 5	oykh	_	PRON	PRO-DTV	Case=Dat	8	iobj	_	_
@@ -1491,7 +1491,7 @@
 # X_ID = 1834E-ELMALE,52.94
 # text = un keynr hat zey nit gihat %ich%-1 tsu bagrabin
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
-2	keynr	_	DET	Q-NOM	Case=Nom	6	nsubj	_	_
+2	keynr	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	6	nsubj	_	_
 3	hat	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 4	zey	_	PRON	PRO	_	6	obl	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_

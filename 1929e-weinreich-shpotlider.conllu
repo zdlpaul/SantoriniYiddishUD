@@ -327,7 +327,7 @@
 # sent_id = 1929E-WEINREICH-SHPOTLIDER,.14
 # X_ID = 1929E-WEINREICH-SHPOTLIDER,538.16
 # text = keyn shum mkhbr iz in dem verkl nit ongerufn
-1	keyn	_	DET	Q-NOM	Case=Nom	3	det	_	_
+1	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	3	det	_	_
 2	shum	_	DET	Q-NOM	Case=Nom	3	det	_	_
 3	mkhbr	_	NOUN	N-NOM	Case=Nom	9	nsubj	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
@@ -362,7 +362,7 @@
 20	oykh	_	ADV	ADV	Degree=Pos	22	advmod	_	_
 21	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	22	advmod	_	_
 22	makhn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-23	keyn	_	DET	Q-ACC	Case=Acc	24	det	_	_
+23	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	24	det	_	_
 24	hserut	_	NOUN	N-ACC	Case=Acc	22	obj	_	_
 25	vegn	_	ADP	P	_	27	case	_	_
 26	zeyn	_	PRON	PRO$	_	27	det:poss	_	_
@@ -762,7 +762,7 @@
 8	zeytlekh	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
 9	oktav-format	_	NOUN	N-ACC	Case=Acc	8	conj	_	_
 10	iz	_	AUX	BEF	VerbForm=Fin	17	cop	_	_
-11	keyn	_	DET	Q-NOM	Case=Nom	13	det	_	_
+11	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	13	det	_	_
 12	shum	_	DET	Q-NOM	Case=Nom	13	det	_	_
 13	yor	_	NOUN	N-NOM	Case=Nom	17	nsubj	_	_
 14	un	_	CCONJ	CONJ	_	15	cc	_	_
@@ -928,7 +928,7 @@
 9	mkhbr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	10	nsubj	_	_
 10	iz	_	VERB	VBF	VerbForm=Fin	5	ccomp	_	_
 11	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
-12	keyn	_	DET	Q	_	14	det	_	_
+12	keyn	_	DET	Q-NEG	Polarity=Neg	14	det	_	_
 13	poylisher	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
 14	yid	_	NOUN	N	_	10	xcomp	_	_
 

@@ -117,7 +117,7 @@
 2	%con%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 3	zal	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
 4	oyf	_	ADP	P	_	6	case	_	_
-5	keyn	_	DET	Q	_	6	det	_	_
+5	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 6	menshin	_	NOUN	N	_	7	obl	_	_
 7	boyan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
@@ -316,10 +316,10 @@
 1	oykh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	izt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	das	_	DET	D	PronType=Art	2	xcomp	_	_
-4	keyn	_	DET	Q	_	5	det	_	_
+4	keyn	_	DET	Q-NEG	Polarity=Neg	5	det	_	_
 5	er	_	NOUN	N	_	2	xcomp	_	_
 6	un	_	CCONJ	CONJ	_	8	cc	_	_
-7	keyn	_	DET	Q	_	8	det	_	_
+7	keyn	_	DET	Q-NEG	Polarity=Neg	8	det	_	_
 8	repudatsian	_	NOUN	N	_	5	conj	_	_
 9	dz	_	SCONJ	C	_	3	mark	_	_
 10	man	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
@@ -1464,7 +1464,7 @@
 # X_ID = 1697E-PURIM,152.175
 # text = fr keyn andrin menshin tut zi ir gizikht oyf dekin
 1	fr	_	ADP	P	_	4	case	_	_
-2	keyn	_	DET	Q	_	4	det	_	_
+2	keyn	_	DET	Q-NEG	Polarity=Neg	4	det	_	_
 3	andrin	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 4	menshin	_	NOUN	N	_	10	obl	_	_
 5	tut	_	VERB	DOF	VerbForm=Fin	10	ccomp	_	_
@@ -3684,9 +3684,9 @@
 # X_ID = 1697E-PURIM,372.471
 # text = oykh keyn hun keyn ganz izt inn nikht tsu teyar
 1	oykh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-2	keyn	_	DET	Q-NOM	Case=Nom	3	det	_	_
+2	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	3	det	_	_
 3	hun	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
-4	keyn	_	DET	Q	_	5	det	_	_
+4	keyn	_	DET	Q-NEG	Polarity=Neg	5	det	_	_
 5	ganz	_	NOUN	N	_	3	conj	_	_
 6	izt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 7	inn	_	PRON	PRO-DTV	Case=Dat	6	iobj	_	_
@@ -4070,7 +4070,7 @@
 9	greyfn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 10	oykh	_	ADV	ADV	Degree=Pos	18	advmod	_	_
 11	oys	_	ADP	P	_	13	case	_	_
-12	keyn	_	DET	Q	_	13	det	_	_
+12	keyn	_	DET	Q-NEG	Polarity=Neg	13	det	_	_
 13	glaz	_	NOUN	N	_	18	obl	_	_
 14	udr	_	CCONJ	CONJ	_	15	cc	_	_
 15	bekhr	_	NOUN	N	_	13	conj	_	_
@@ -4368,7 +4368,7 @@
 2	drfin	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 3	mir	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 4	mit	_	ADP	P	_	6	case	_	_
-5	keyn	_	DET	Q	_	6	det	_	_
+5	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 6	gelt	_	NOUN	N	_	8	obl	_	_
 7	um	_	ADP	RP	_	8	compound:prt	_	_
 8	gin	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -4411,7 +4411,7 @@
 10	der	_	DET	D-NOM	Case=Nom|PronType=Art	11	det	_	_
 11	kinig	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	12	nsubj	_	_
 12	hat	_	VERB	VBF	VerbForm=Fin	3	advcl	_	_
-13	keyn	_	DET	Q-ACC	Case=Acc	14	det	_	_
+13	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	14	det	_	_
 14	nutsin	_	NOUN	N-ACC	Case=Acc	12	obj	_	_
 15	fun	_	ADP	P	_	16	case	_	_
 16	inn	_	PRON	PRO	_	14	obl	_	_
@@ -4472,7 +4472,7 @@
 5	tag	_	NOUN	N	_	4	conj	_	_
 6	esin	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 7	mir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-8	keyn	_	DET	Q-ACC	Case=Acc	9	det	_	_
+8	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	9	det	_	_
 9	brut	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
 
 # sent_id = 1697E-PURIM,.307
@@ -4745,7 +4745,7 @@
 5	habin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	zi	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 7	gar	_	ADV	ADV	Degree=Pos	5	dep	_	_
-8	keyn	_	DET	Q	_	7	det	_	_
+8	keyn	_	DET	Q-NEG	Polarity=Neg	7	det	_	_
 9	lustin	_	NOUN	N	_	7	conj	_	_
 
 # sent_id = 1697E-PURIM,.329
@@ -5435,7 +5435,7 @@
 1	gleykh_val	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 2	hab	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
 3	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	manheyt	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 6	kenin	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	7	aux	_	_
 7	fendin	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -5606,7 +5606,7 @@
 10	dz	_	SCONJ	C	_	16	mark	_	_
 11	men	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
 12	zal	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
-13	keyn	_	DET	Q-ACC	Case=Acc	14	det	_	_
+13	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	14	det	_	_
 14	shelmn	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
 15	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	16	advmod	_	_
 16	zehn	_	VERB	VB	VerbForm=Inf	9	ccomp	_	_
@@ -6202,16 +6202,16 @@
 1	hmn	_	PROPN	NPR-SBJ	_	3	nsubj	_	_
 2	zal	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
 3	habin	_	VERB	VB	VerbForm=Inf	0	root	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	rast	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
 6	nakh	_	CCONJ	CONJ	_	8	cc	_	_
-7	keyn	_	DET	Q-ACC	Case=Acc	8	det	_	_
+7	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	8	det	_	_
 8	ru	_	NOUN	N-ACC	Case=Acc	5	conj	_	_
 
 # sent_id = 1697E-PURIM,.438
 # X_ID = 1697E-PURIM,600.824
 # text = keyn ru zal er habin
-1	keyn	_	DET	Q-ACC	Case=Acc	2	det	_	_
+1	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	2	det	_	_
 2	ru	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
 3	zal	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 4	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
@@ -6612,7 +6612,7 @@
 2	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	ku	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
 4	hat	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-5	keyn	_	DET	Q-ACC	Case=Acc	6	det	_	_
+5	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	det	_	_
 6	tsin	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
 
 # sent_id = 1697E-PURIM,.475
@@ -6800,7 +6800,7 @@
 2	izt	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
 3	zi	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	gevarin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	keyn	_	DET	Q	_	6	det	_	_
+5	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 6	khlb	_	NOUN	N	_	4	dep	_	_
 7	hint	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 8	nakh	_	CCONJ	CONJ	_	9	cc	_	_
@@ -7118,7 +7118,7 @@
 1	oykh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	tetin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	tfilh	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
 
 # sent_id = 1697E-PURIM,.516
@@ -7168,7 +7168,7 @@
 2	het	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 3	yu	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	gitan	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	keyn	_	DET	Q-NOM	Case=Nom	6	det	_	_
+5	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	6	det	_	_
 6	kind	_	NOUN	N-NOM	Case=Nom	4	nsubj	_	_
 7	tsu	_	PART	TO	_	8	mark	_	_
 8	koyfn	_	VERB	VB	VerbForm=Inf	4	xcomp	_	_
@@ -7676,7 +7676,7 @@
 # text = dz du keyn hebrer bist
 1	dz	_	SCONJ	C	_	5	mark	_	_
 2	du	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-3	keyn	_	DET	Q	_	4	det	_	_
+3	keyn	_	DET	Q-NEG	Polarity=Neg	4	det	_	_
 4	hebrer	_	NOUN	N	_	5	xcomp	_	_
 5	bist	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 
@@ -7935,7 +7935,7 @@
 1	dz	_	SCONJ	C	_	8	mark	_	_
 2	es	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 3	oyf	_	ADP	P	_	6	case	_	_
-4	keyn	_	DET	Q	_	6	det	_	_
+4	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 5	andrin	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 6	tut	_	NOUN	N	_	8	obl	_	_
 7	zal	_	AUX	MDF	VerbForm=Fin	8	aux	_	_

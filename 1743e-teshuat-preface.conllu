@@ -380,7 +380,7 @@
 8	sfrim	_	NOUN	N	_	5	obl	_	_
 9	alz	_	SCONJ	C	_	17	mark	_	_
 10	khlilh	_	INTJ	INTJ	_	17	discourse	_	_
-11	keyn	_	DET	Q-ACC	Case=Acc	12	det	_	_
+11	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	12	det	_	_
 12	gdankn	_	NOUN	N-ACC	Case=Acc	17	obj	_	_
 13	%ich%-1	_	X	IP-INF	_	12	xcomp	_	_
 14	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	15	det	_	_

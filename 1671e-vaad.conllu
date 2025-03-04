@@ -309,7 +309,7 @@
 12	zaln	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 13	kl	all	X	H	_	17	dep	_	_
 14	imihm	days_their	X	H	_	13	dep	_	_
-15	keyn	_	DET	Q-ACC	Case=Acc	16	det	_	_
+15	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	16	det	_	_
 16	htmnut	_	NOUN	N-ACC	Case=Acc	17	obj	_	_
 17	habn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 18	in	_	ADP	P	_	20	case	_	_
@@ -318,7 +318,7 @@
 21	u	and	X	H	_	22	dep	_	_
 22	glil	area	X	H	_	20	conj	_	_
 23	un'	_	CCONJ	CONJ	_	26	cc	_	_
-24	keyn	_	DET	Q-ACC	Case=Acc	25	det	_	_
+24	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	25	det	_	_
 25	khzkh	_	NOUN	N-ACC	Case=Acc	26	obj	_	_
 26	habn	_	VERB	VB	VerbForm=Inf	17	parataxis	_	_
 27	zi	_	PRON	PRO	_	17	obl	_	_
@@ -607,7 +607,7 @@
 37	srrut	authorities	X	H	_	36	dep	_	_
 38	dz	_	SCONJ	C	_	19	dep	_	_
 39	zi	_	PRON	PRO-NOM	Case=Nom	43	nsubj	_	_
-40	keyn	_	DET	Q-ACC	Case=Acc	41	det	_	_
+40	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	41	det	_	_
 41	msim	_	NOUN	N-ACC	Case=Acc	43	obj	_	_
 42	zaln	_	AUX	MDF	VerbForm=Fin	43	aux	_	_
 43	gebin	_	VERB	VB	VerbForm=Inf	38	conj	_	_

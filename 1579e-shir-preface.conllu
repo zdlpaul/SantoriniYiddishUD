@@ -404,7 +404,7 @@
 10	un	_	CCONJ	CONJ	_	12	cc	_	_
 11	vildn	_	ADJ	ADJ-DTV	Case=Dat|Degree=Pos	12	amod	_	_
 12	tir	_	NOUN	N-DTV	Case=Dat	9	conj	_	_
-13	keyn	_	DET	Q	_	14	det	_	_
+13	keyn	_	DET	Q-NEG	Polarity=Neg	14	det	_	_
 14	shadn	_	NOUN	N	_	15	xcomp	_	_
 15	iz	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 16	ven	_	SCONJ	C	_	19	mark	_	_
@@ -491,7 +491,7 @@
 3	rekhn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	zi	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 5	es	_	PRON	PRO-ACC	Case=Acc	3	obj	_	_
-6	keynm	_	DET	Q-DTV	Case=Dat	3	iobj	_	_
+6	keynm	_	DET	Q-DTV-NEG	Case=Dat|PronType=Neg	3	iobj	_	_
 7	%ich%-1	_	SCONJ	CP-REL	_	6	acl:relcl	_	_
 8	vr	_	ADP	P	_	10	case	_	_
 9	eyn	_	DET	D	PronType=Art	10	det	_	_
@@ -661,7 +661,7 @@
 1	rekhnt	_	VERB	VBI	Mood=Imp	0	root	_	_
 2	oyf	_	ADP	P	_	3	case	_	_
 3	mikh	_	PRON	PRO	_	1	obl	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	shuld	_	NOUN	N-ACC	Case=Acc	1	obj	_	_
 
 # sent_id = 1579E-SHIR-PREFACE,.32

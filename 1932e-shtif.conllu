@@ -1012,7 +1012,7 @@
 37	II.	_	NUM	LS	_	21	dep	_	_
 38	helft	_	VERB	VBF	VerbForm=Fin	21	dep	_	_
 39	im	_	PRON	PRO	_	38	nmod	_	_
-40	keyn	_	DET	Q	_	38	det	_	_
+40	keyn	_	DET	Q-NEG	Polarity=Neg	38	det	_	_
 41	tshubh	_	NOUN	N	_	38	dep	_	_
 42	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	38	advmod	_	_
 43	biz	_	ADP	P	_	38	case	_	_
@@ -1337,7 +1337,7 @@
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
-5	keyn	_	DET	Q	_	6	det	_	_
+5	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 6	muz	_	NOUN	N	_	2	xcomp	_	_
 7	in	_	ADP	P	_	11	case	_	_
 8	di	_	DET	D	PronType=Art	11	det	_	_
@@ -1357,7 +1357,7 @@
 2	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 3	dos	_	DET	D-NOM	Case=Nom|PronType=Art	7	nsubj	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
-5	keyn	_	DET	Q	_	6	det	_	_
+5	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 6	klal	_	NOUN	N	_	7	xcomp	_	_
 7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	afile	_	ADV	FP	Degree=Pos	12	advmod	_	_
@@ -1493,7 +1493,7 @@
 4	in	_	ADP	P	_	6	case	_	_
 5	dem	_	DET	D	PronType=Art	6	det	_	_
 6	prat	_	NOUN	N-D	Definite=Def	3	obl	_	_
-7	keyn	_	DET	Q	_	8	det	_	_
+7	keyn	_	DET	Q-NEG	Polarity=Neg	8	det	_	_
 8	oysnam	_	NOUN	N	_	3	xcomp	_	_
 9	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	3	punct	_	_
@@ -2711,7 +2711,7 @@
 11	hobn	_	AUX	HVF	VerbForm=Fin	17	aux	_	_
 12	funem	_	ADP	P-CL	_	13	case	_	_
 13	khumesh	_	NOUN	N	_	17	obl	_	_
-14	keyn	_	DET	Q-ACC	Case=Acc	15	det	_	_
+14	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	15	det	_	_
 15	sintaks	_	NOUN	N-ACC	Case=Acc	17	obj	_	_
 16	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	17	advmod	_	_
 17	gelernt	_	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No
@@ -2776,12 +2776,12 @@
 4	im	_	PRON	PRO	_	2	obl	_	_
 5	vet	_	AUX	MDF	VerbForm=Fin	2	aux	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	dep	_	_
-7	keyn	_	DET	Q	_	6	det	_	_
+7	keyn	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 8	keleshek	_	NOUN	N	_	6	conj	_	_
 9	bronfn	_	NOUN	N	_	6	nmod:poss	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	6	punct	_	_
 11	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
-12	keyn	_	DET	Q	_	13	det	_	_
+12	keyn	_	DET	Q-NEG	Polarity=Neg	13	det	_	_
 13	lefl	_	NOUN	N	_	6	conj	_	_
 14	bortsht	_	NOUN	N	_	13	nmod:poss	_	_
 15	tsum	_	ADP	P-CL	_	16	case	_	_

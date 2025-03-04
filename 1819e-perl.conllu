@@ -568,7 +568,7 @@
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	mlkh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	11	nsubj	_	_
 4	un	_	CCONJ	CONJ	_	5	cc	_	_
-5	keynr	_	DET	Q-NOM	Case=Nom	3	conj	_	_
+5	keynr	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	3	conj	_	_
 6	fun	_	ADP	P	_	7	case	_	_
 7	zey	_	PRON	PRO	_	5	obl	_	_
 8	hat	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
@@ -1483,7 +1483,7 @@
 1	un	_	CCONJ	CONJ	_	7	cc	_	_
 2	%con%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 3	zalst	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
-4	keyn	_	DET	Q-ACC	Case=Acc	5	det	_	_
+4	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	det	_	_
 5	veyn	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
 7	trinkin	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -2240,7 +2240,7 @@
 10	zikh	_	PRON	PRO-RFL	PronType=Reflex	9	expl:pv	_	_
 11	bvdei	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 12	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	9	advmod	_	_
-13	keyn	_	DET	Q-NOM	Case=Nom	15	det	_	_
+13	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	15	det	_	_
 14	gildinir	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	15	amod	_	_
 15	barg	_	NOUN	N-NOM	Case=Nom	9	nsubj	_	_
 16	un	_	CCONJ	CONJ	_	19	cc	_	_
@@ -2390,7 +2390,7 @@
 4	da	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 6	gizehin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-7	keyn	_	DET	Q-ACC	Case=Acc	8	det	_	_
+7	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	8	det	_	_
 8	mentsh	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
 
 # sent_id = 1819E-PERL,.182
@@ -3293,7 +3293,7 @@
 # text = habn zey keynir nit givist fun dem barg mit dem shlas
 1	habn	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 2	zey	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-3	keynir	_	ADV	Q	_	5	advmod	_	_
+3	keynir	_	ADV	Q-NEG	Polarity=Neg	5	advmod	_	_
 4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
 5	givist	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	fun	_	ADP	P	_	8	case	_	_
