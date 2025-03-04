@@ -371,17 +371,17 @@
 1	un	_	CCONJ	CONJ	_	3	cc	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	bet	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	himl	_	NOUN	N-NOM	Case=Nom	3	dep	_	_
+4	himl	_	NOUN	N-NOM	Case=Nom	14	nsubj	_	_
 5	un	_	CCONJ	CONJ	_	6	cc	_	_
 6	erd	_	NOUN	N-NOM	Case=Nom	4	conj	_	_
 7	un	_	CCONJ	CONJ	_	10	cc	_	_
 8	ali	_	DET	Q	_	10	det	_	_
 9	heylige	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	mlakhim	_	NOUN	N	_	4	conj	_	_
-11	zaln	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
+11	zaln	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
 12	fr	_	ADP	P	_	13	case	_	_
-13	mir	_	PRON	PRO	_	4	obl	_	_
-14	betn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+13	mir	_	PRON	PRO	_	14	obl	_	_
+14	betn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
 15	az	_	SCONJ	C	_	22	mark	_	_
 16	meyni	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	18	det:poss	_	_
 17	beydi	_	DET	Q	_	18	det	_	_
@@ -389,7 +389,7 @@
 19	zaln	_	AUX	MDF	VerbForm=Fin	22	aux	_	_
 20	vern	_	AUX	RD	VerbForm=Inf	22	aux	_	_
 21	an	_	ADP	RP	_	22	compound:prt	_	_
-22	gnumn	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
+22	gnumn	_	VERB	VAN	Tense=Past|VerbForm=Part	14	ccomp	_	_
 
 # sent_id = 1712E-SARAH,.21
 # X_ID = 1712E-SARAH,84.24
@@ -426,12 +426,12 @@
 14	yunge	_	ADJ	ADJ	Degree=Pos	11	vocative	_	_
 15	veyber	_	NOUN	N	_	14	conj	_	SpaceAfter=No
 16	,	_	PUNCT	PUNC	_	11	punct	_	_
-17	ir	_	PRON	PRO-NOM	Case=Nom	11	dep	_	_
-18	zalt	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
-19	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	17	advmod	_	_
-20	shmuesin	_	VERB	VB	VerbForm=Inf	17	dep	_	_
+17	ir	_	PRON	PRO-NOM	Case=Nom	20	nsubj	_	_
+18	zalt	_	AUX	MDF	VerbForm=Fin	20	aux	_	_
+19	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	20	advmod	_	_
+20	shmuesin	_	VERB	VB	VerbForm=Inf	11	dep	_	_
 21	in	_	ADP	P	_	22	case	_	_
-22	shul	_	NOUN	N	_	17	obl	_	_
+22	shul	_	NOUN	N	_	20	obl	_	_
 
 # sent_id = 1712E-SARAH,.23
 # X_ID = 1712E-SARAH,84.26

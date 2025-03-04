@@ -572,16 +572,16 @@
 # sent_id = 1648W-KINE,.35
 # X_ID = 1648W-KINE,200.7.44
 # text = vidr eyn kul %ich%-1 gimkht ez zeyn kazkin sluti stn
-1	vidr	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+1	vidr	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 2	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	3	det	_	_
-3	kul	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
+3	kul	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 4	%ich%-1	_	X	IP-MAT-THT	_	3	dep	_	_
-5	gimkht	_	VERB	VBN	Tense=Past|VerbForm=Part	6	dep	_	_
-6	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
-7	zeyn	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-8	kazkin	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
-9	sluti	UNKNOWN	X	H	_	6	dep	_	_
-10	stn	devil?	X	H	_	6	dep	_	_
+5	gimkht	_	VERB	VBN	Tense=Past|VerbForm=Part	7	dep	_	_
+6	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	7	expl	_	_
+7	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+8	kazkin	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	_
+9	sluti	UNKNOWN	X	H	_	7	dep	_	_
+10	stn	devil?	X	H	_	7	dep	_	_
 
 # sent_id = 1648W-KINE,.36
 # X_ID = 1648W-KINE,200.7.45
@@ -2278,20 +2278,20 @@
 2	hat	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 3	zi	_	PRON	PRO-ACC	Case=Acc	4	obj	_	_
 4	gibetn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	%pro%	_	NOUN	NP-SBJ	_	4	dep	_	_
-6	zalt	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
-7	ir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
+5	%pro%	_	NOUN	NP-SBJ	_	11	nsubj	_	_
+6	zalt	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
+7	ir	_	PRON	PRO-DTV	Case=Dat	11	iobj	_	_
 8	iri	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	det:poss	_	_
-9	kleydr	_	NOUN	N	_	5	obj	_	_
-10	an	_	ADP	RP	_	5	compound:prt	_	_
-11	tan	_	VERB	VB	VerbForm=Inf	5	dep	_	_
-12	un	_	CCONJ	CONJ	_	13	cc	_	_
-13	%con%	_	NOUN	NP-SBJ	_	5	dep	_	_
-14	zelt	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
+9	kleydr	_	NOUN	N	_	11	obj	_	_
+10	an	_	ADP	RP	_	11	compound:prt	_	_
+11	tan	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+12	un	_	CCONJ	CONJ	_	18	cc	_	_
+13	%con%	_	NOUN	NP-SBJ	_	18	nsubj	_	_
+14	zelt	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
 15	mit	_	ADP	P	_	16	case	_	_
-16	ir	_	PRON	PRO	_	13	obl	_	_
-17	der_fun	_	ADP	P	_	13	obl	_	_
-18	gan	_	VERB	VB	VerbForm=Inf	13	dep	_	_
+16	ir	_	PRON	PRO	_	18	obl	_	_
+17	der_fun	_	ADP	P	_	18	obl	_	_
+18	gan	_	VERB	VB	VerbForm=Inf	11	dep	_	_
 
 # sent_id = 1648W-KINE,.160
 # X_ID = 1648W-KINE,205.43.205
@@ -2584,9 +2584,9 @@
 1	zi	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 2	habn	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
 3	gimeynt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	zi	_	PRON	PRO-NOM	Case=Nom	3	dep	_	_
-5	zeyn	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-6	antrunn	_	VERB	VBN	Tense=Past|VerbForm=Part	4	dep	_	_
+4	zi	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
+5	zeyn	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+6	antrunn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	_
 
 # sent_id = 1648W-KINE,.183
 # X_ID = 1648W-KINE,206.49.234
@@ -2870,11 +2870,11 @@
 2	tut	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	_
 3	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	besr	_	ADJ	ADJR	Degree=Pos	3	amod	_	_
-5	az	_	ADP	P	_	6	case	_	_
-6	mn	_	PRON	PRO-NOM	Case=Nom	4	amod	_	_
-7	zikht	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+5	az	_	ADP	P	_	7	case	_	_
+6	mn	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+7	zikht	_	VERB	VBF	VerbForm=Fin	4	amod	_	_
 8	zelkhi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	9	amod	_	_
-9	straf	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
+9	straf	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 10	ver	_	VERB	VBF	VerbForm=Fin	3	advcl	_	_
 11	es	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 12	nakh	_	ADV	ADV	Degree=Pos	10	advmod	_	_

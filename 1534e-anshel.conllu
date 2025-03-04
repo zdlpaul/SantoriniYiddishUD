@@ -870,13 +870,13 @@
 20	ikh	_	PRON	PRO-NOM	Case=Nom	21	nsubj	_	_
 21	gibetn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 22	habn	_	AUX	HV	VerbForm=Inf	21	aux	_	_
-23	er	_	PRON	PRO-NOM	Case=Nom	21	dep	_	_
-24	zul	_	AUX	MDF	VerbForm=Fin	23	aux	_	_
-25	mikh	_	PRON	PRO-ACC	Case=Acc	23	obj	_	_
-26	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	23	advmod	_	_
-27	azu	_	ADV	ADV	Degree=Pos	23	advmod	_	_
+23	er	_	PRON	PRO-NOM	Case=Nom	29	nsubj	_	_
+24	zul	_	AUX	MDF	VerbForm=Fin	29	aux	_	_
+25	mikh	_	PRON	PRO-ACC	Case=Acc	29	obj	_	_
+26	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	29	advmod	_	_
+27	azu	_	ADV	ADV	Degree=Pos	29	advmod	_	_
 28	bld	_	ADV	ADV	Degree=Pos	27	advmod	_	_
-29	vrshuldigin	_	VERB	VB	VerbForm=Inf	23	dep	_	_
+29	vrshuldigin	_	VERB	VB	VerbForm=Inf	21	dep	_	_
 
 # sent_id = 1534E-ANSHEL,.35
 # X_ID = 1534E-ANSHEL,1l.38
@@ -947,16 +947,16 @@
 3	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 4	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	2	obj	_	_
 5	iklikhn	_	DET	Q-ACC	Case=Acc	4	det	_	_
-6	er	_	PRON	PRO-NOM	Case=Nom	2	dep	_	_
-7	zul	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-8	yu	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-9	lian	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+6	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
+7	zul	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
+8	yu	_	ADV	ADV	Degree=Pos	9	advmod	_	_
+9	lian	_	VERB	VB	VerbForm=Inf	2	dep	_	_
 10	di	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
-11	mfrsi	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	6	obj	_	_
+11	mfrsi	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	9	obj	_	_
 12	i	_	SCONJ	C	_	15	mark	_	_
 13	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 14	mikh	_	PRON	PRO-ACC	Case=Acc	15	obj	_	_
-15	bisuldigt	_	VERB	VBF	VerbForm=Fin	6	advcl	_	_
+15	bisuldigt	_	VERB	VBF	VerbForm=Fin	9	advcl	_	_
 16	dz	_	X	X	_	2	dep	_	_
 17	zeyn?	_	X	X	_	16	dep	_	_
 18	gi..	_	X	X	_	16	dep	_	_

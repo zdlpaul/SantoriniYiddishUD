@@ -16,10 +16,10 @@
 1	mn	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	kent	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	val	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	alih	_	PROPN	NPR-SBJ	_	2	dep	_	_
+4	alih	_	PROPN	NPR-SBJ	_	7	nsubj	_	_
 5	bhur@	_	PROPN	NPR	_	4	flat:name	_	_
-6	@s	_	PRON	PRO-ACC	Case=Acc	4	obj	_	_
-7	gimekht	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+6	@s	_	PRON	PRO-ACC	Case=Acc	7	obj	_	_
+7	gimekht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
 
 # sent_id = 1507W-BOVO,.3
 # X_ID = 1507W-BOVO,Title.5
@@ -2615,10 +2615,10 @@
 1	un'	_	CCONJ	CONJ	_	3	cc	_	_
 2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 3	sprkh	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-4	mn	_	PRON	PRO-NOM	Case=Nom	3	dep	_	_
-5	zult	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
-6	oyf	_	ADP	RP	_	4	compound:prt	_	_
-7	trumbitn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+4	mn	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+5	zult	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
+6	oyf	_	ADP	RP	_	7	compound:prt	_	_
+7	trumbitn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
 
 # sent_id = 1507W-BOVO,.191
 # X_ID = 1507W-BOVO,27.221
@@ -3637,12 +3637,12 @@
 # text = zi meyntn er ver nukh az vur tseytn
 1	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	meyntn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	er	_	PRON	PRO-NOM	Case=Nom	2	dep	_	_
-4	ver	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-5	nukh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+4	ver	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+5	nukh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	az	_	ADP	P	_	8	case	_	_
 7	vur	_	ADP	P	_	8	case	_	_
-8	tseytn	_	NOUN	N	_	3	obl	_	_
+8	tseytn	_	NOUN	N	_	4	obl	_	_
 
 # sent_id = 1507W-BOVO,.260
 # X_ID = 1507W-BOVO,41.304

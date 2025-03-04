@@ -983,13 +983,13 @@
 44	ktsan	like_flock	X	H	_	43	dep	_	_
 45	bla	without	X	H	_	43	dep	_	_
 46	rueh	shepherd	X	H	_	43	dep	_	_
-47	un'	_	CCONJ	CONJ	_	48	cc	_	_
-48	mir	_	PRON	PRO-NOM	Case=Nom	43	conj	_	_
+47	un'	_	CCONJ	CONJ	_	53	cc	_	_
+48	mir	_	PRON	PRO-NOM	Case=Nom	53	nsubj	_	_
 49	unzrin	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	51	det:poss	_	_
 50	gitreyain	_	ADJ	ADJ	Degree=Pos	51	amod	_	_
-51	hirtn	_	NOUN	N	_	48	obj	_	_
-52	habin	_	AUX	HVF	VerbForm=Fin	48	aux	_	_
-53	fr_lahrin	_	VERB	VBN	Tense=Past|VerbForm=Part	48	dep	_	_
+51	hirtn	_	NOUN	N	_	53	obj	_	_
+52	habin	_	AUX	HVF	VerbForm=Fin	53	aux	_	_
+53	fr_lahrin	_	VERB	VBN	Tense=Past|VerbForm=Part	43	conj	_	_
 
 # sent_id = 1705W-GLIKL,.41
 # X_ID = 1705W-GLIKL,3.45
@@ -1199,15 +1199,15 @@
 11	un'	_	CCONJ	CONJ	_	13	cc	_	_
 12	mzhir	_	ADP	RP-H	_	13	compound:prt	_	_
 13	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	_
-14	%pro%	_	NOUN	NP-SBJ	_	13	dep	_	_
-15	zal	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
-16	zikh	_	PRON	PRO-RFL	PronType=Reflex	14	expl:pv	_	_
-17	fast	_	ADV	ADV	Degree=Pos	14	advmod	_	_
+14	%pro%	_	NOUN	NP-SBJ	_	22	nsubj	_	_
+15	zal	_	AUX	MDF	VerbForm=Fin	22	aux	_	_
+16	zikh	_	PRON	PRO-RFL	PronType=Reflex	22	expl:pv	_	_
+17	fast	_	ADV	ADV	Degree=Pos	22	advmod	_	_
 18	an	_	ADP	P	_	20	case	_	_
 19	di	_	DET	D	PronType=Art	20	det	_	_
-20	strik	_	NOUN	N-D	Definite=Def	14	obl	_	_
-21	an	_	ADP	RP	_	14	compound:prt	_	_
-22	haltin	_	VERB	VB	VerbForm=Inf	14	dep	_	_
+20	strik	_	NOUN	N-D	Definite=Def	22	obl	_	_
+21	an	_	ADP	RP	_	22	compound:prt	_	_
+22	haltin	_	VERB	VB	VerbForm=Inf	13	dep	_	_
 
 # sent_id = 1705W-GLIKL,.55
 # X_ID = 1705W-GLIKL,4.60
@@ -2577,12 +2577,12 @@
 3	zenin	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 4	meynstir	_	ADP	RP-H	_	5	compound:prt	_	_
 5	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	keynir	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	5	dep	_	_
-7	derfin	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-8	oys	_	ADP	RP	_	6	compound:prt	_	_
+6	keynir	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	11	nsubj	_	_
+7	derfin	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
+8	oys	_	ADP	RP	_	11	compound:prt	_	_
 9	un'	_	CCONJ	CONJ	_	10	cc	_	_
 10	in	_	ADP	RP	_	8	conj	_	_
-11	gin	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+11	gin	_	VERB	VB	VerbForm=Inf	5	dep	_	_
 
 # sent_id = 1705W-GLIKL,.123
 # X_ID = 1705W-GLIKL,311.132

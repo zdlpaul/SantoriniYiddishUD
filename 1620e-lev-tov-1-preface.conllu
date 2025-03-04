@@ -36,17 +36,17 @@
 # text = ikh gilub es vert nimnt %ich%-1 giroyan der %t%-2 es durkh oys leyat
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	gilub	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	es	_	PRON	PRO-NOM	Case=Nom	2	dep	_	_
-4	vert	_	AUX	RDF	VerbForm=Fin	3	aux	_	_
-5	nimnt	_	DET	Q-ACC	Case=Acc	3	obj	_	_
+3	es	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+4	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+5	nimnt	_	DET	Q-ACC	Case=Acc	7	obj	_	_
 6	%ich%-1	_	SCONJ	CP-REL	_	5	acl:relcl	_	_
-7	giroyan	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+7	giroyan	_	VERB	VB	VerbForm=Inf	2	dep	_	_
 8	der	_	PRON	WPRO	_	13	obj	_	_
 9	%t%-2	_	NOUN	NP-SBJ	_	13	nsubj	_	_
 10	es	_	PRON	PRO-ACC	Case=Acc	13	obj	_	_
 11	durkh	_	ADP	RP	_	13	compound:prt	_	_
 12	oys	_	ADP	RP	_	13	compound:prt	_	_
-13	leyat	_	VERB	VBF	VerbForm=Fin	3	acl:relcl	_	_
+13	leyat	_	VERB	VBF	VerbForm=Fin	7	acl:relcl	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.3
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.5
@@ -121,12 +121,12 @@
 9	visn	_	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 10	lan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 11	am	_	ADP	P-CL	_	12	case	_	_
-12	kenn	_	NOUN	N	_	10	dep	_	_
+12	kenn	_	NOUN	N	_	15	obl	_	_
 13	un	_	CCONJ	CONJ	_	14	cc	_	_
 14	leyann	_	NOUN	N	_	12	conj	_	_
-15	ligt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-16	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	12	nsubj	_	_
-17	dran	_	ADP	P	_	12	obl	_	_
+15	ligt	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+16	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	15	nsubj	_	_
+17	dran	_	ADP	P	_	15	obl	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.7
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.9
@@ -1114,10 +1114,10 @@
 9	dakh	_	ADV	ADV	Degree=Pos	10	advmod	_	_
 10	meynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 11	er	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
-12	ez	_	PRON	PRO-NOM	Case=Nom	10	dep	_	_
-13	zey	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-14	im	_	PRON	PRO-DTV	Case=Dat	12	iobj	_	_
-15	musr	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
+12	ez	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
+13	zey	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+14	im	_	PRON	PRO-DTV	Case=Dat	13	iobj	_	_
+15	musr	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.62
 # X_ID = 1620E-LEV-TOV-1-PREFACE,2l.65

@@ -294,11 +294,11 @@
 3	shrayt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	alts	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	3	punct	_	_
-6	se	_	PRON	PRO-NOM	Case=Nom	3	dep	_	_
-7	zol	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-8	kumen	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+6	se	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
+7	zol	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
+8	kumen	_	VERB	VB	VerbForm=Inf	3	dep	_	_
 9	tsum	_	ADP	P-CL	_	10	case	_	_
-10	kval	_	NOUN	N	_	6	obl	_	SpaceAfter=No
+10	kval	_	NOUN	N	_	8	obl	_	SpaceAfter=No
 11	...	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1800E-NAKHMAN,.23

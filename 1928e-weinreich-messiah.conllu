@@ -973,11 +973,11 @@
 5	bald	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	tsum	_	ADP	P-CL	_	7	case	_	_
 7	onhoyb	_	NOUN	N	_	5	obl	_	_
-8	mir	_	PRON	PRO-NOM	Case=Nom	4	dep	_	_
-9	veysn	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
+8	mir	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
+9	veysn	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
 10	vegn	_	ADP	P	_	11	case	_	_
-11	im	_	PRON	PRO	_	8	obl	_	_
-12	gornit	_	DET	Q-ACC	Case=Acc	8	obj	_	_
+11	im	_	PRON	PRO	_	9	obl	_	_
+12	gornit	_	DET	Q-ACC	Case=Acc	9	obj	_	_
 13	akhuts	_	ADP	P	_	14	case	_	_
 14	dem	_	DET	D	PronType=Art	12	obl	_	_
 15	vos	_	SCONJ	C	_	21	mark	_	_
@@ -2346,14 +2346,14 @@
 16	mist	_	NOUN	N	_	14	obl	_	SpaceAfter=No
 17	.	_	PUNCT	PUNC	_	14	punct	_	_
 
-1	kentik	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+1	kentik	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 2	undzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
-3	mkhbr	_	NOUN	N	_	0	root	_	_
+3	mkhbr	_	NOUN	N	_	7	nsubj	_	_
 4	aleyn	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
-6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
-7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	_
+5	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
+6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
+7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	fun	_	ADP	P	_	10	case	_	_
 9	di	_	DET	D	PronType=Art	10	det	_	_
-10	gvirim	_	NOUN	N-D	Definite=Def	3	obl	_	_
+10	gvirim	_	NOUN	N-D	Definite=Def	7	obl	_	_
 

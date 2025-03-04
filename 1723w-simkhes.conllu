@@ -757,11 +757,11 @@
 7	shomayim	heavens	X	H	_	6	dep	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	2	punct	_	_
 9	der	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
-10	mensh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	dep	_	_
-11	zol	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
+10	mensh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	_
+11	zol	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
 12	in	_	ADP	P	_	13	case	_	_
-13	akht	_	NOUN	N	_	10	obl	_	_
-14	nemen	_	VERB	VB	VerbForm=Inf	10	dep	_	SpaceAfter=No
+13	akht	_	NOUN	N	_	14	obl	_	_
+14	nemen	_	VERB	VB	VerbForm=Inf	2	dep	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1723W-SIMKHES,.49
@@ -773,15 +773,15 @@
 4	gemeynt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	:	_	PUNCT	PUNC	_	4	punct	_	_
 6	der	_	DET	D-NOM	Case=Nom|PronType=Art	7	det	_	_
-7	mensh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	dep	_	_
-8	forlangt	_	VERB	VBF	VerbForm=Fin	7	dep	_	SpaceAfter=No
-9	,	_	PUNCT	PUNC	_	7	punct	_	_
+7	mensh	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	8	nsubj	_	_
+8	forlangt	_	VERB	VBF	VerbForm=Fin	4	dep	_	SpaceAfter=No
+9	,	_	PUNCT	PUNC	_	8	punct	_	_
 10	vos	_	PRON	WPRO	_	15	obj	_	_
 11	%t%-1	_	NOUN	NP-ACC	_	15	dep	_	_
 12	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 13	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	15	advmod	_	_
 14	kann	_	AUX	MDF	VerbForm=Fin	15	aux	_	_
-15	arlangen	_	VERB	VB	VerbForm=Inf	7	dep	_	SpaceAfter=No
+15	arlangen	_	VERB	VB	VerbForm=Inf	8	dep	_	SpaceAfter=No
 16	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1723W-SIMKHES,.50
@@ -927,13 +927,13 @@
 5	zeyne	_	PRON	PRO$	_	6	det:poss	_	_
 6	gedanken	_	NOUN	N	_	3	obl	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	3	punct	_	_
-8	er	_	PRON	PRO-NOM	Case=Nom	3	dep	_	_
-9	vert	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
-10	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
-11	geshtroft	_	VERB	VAN	Tense=Past|VerbForm=Part	8	ccomp	_	_
+8	er	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+9	vert	_	AUX	RDF	VerbForm=Fin	11	aux	_	_
+10	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	advmod	_	_
+11	geshtroft	_	VERB	VAN	Tense=Past|VerbForm=Part	3	dep	_	_
 12	auf	_	ADP	P	_	14	case	_	_
 13	zeyne	_	PRON	PRO$	_	14	det:poss	_	_
-14	averos	_	NOUN	N	_	8	obl	_	SpaceAfter=No
+14	averos	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1723W-SIMKHES,.61

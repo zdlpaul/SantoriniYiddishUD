@@ -1873,14 +1873,14 @@
 3	hkbh	the_holy_blessed_he	X	H	_	2	dep	_	_
 4	vil	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 5	habn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-6	er	_	PRON	PRO-NOM	Case=Nom	5	dep	_	_
-7	zal	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
+6	er	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
+7	zal	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 8	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	det:poss	_	_
-9	guf	_	NOUN	N	_	6	obj	_	_
+9	guf	_	NOUN	N	_	13	obj	_	_
 10	der	_	DET	D	PronType=Art	11	det	_	_
-11	nshmh	_	NOUN	N-D	Definite=Def	6	obl	_	_
+11	nshmh	_	NOUN	N-D	Definite=Def	13	obl	_	_
 12	nakh	_	ADP	P	_	11	case	_	_
-13	tsihn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+13	tsihn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
 
 # sent_id = 1620E-LEV-TOV-1,.106
 # X_ID = 1620E-LEV-TOV-1,5l.111
@@ -1965,23 +1965,23 @@
 2	meynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	al	_	DET	Q-ACC	Case=Acc	5	det	_	_
 4	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
-5	esn	_	NOUN	N-ACC	Case=Acc	2	dep	_	_
+5	esn	_	NOUN	N-ACC	Case=Acc	14	obj	_	_
 6	un	_	CCONJ	CONJ	_	9	cc	_	_
 7	al	_	DET	Q-ACC	Case=Acc	9	det	_	_
 8	zeyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	9	det:poss	_	_
 9	trinkn	_	NOUN	N-ACC	Case=Acc	5	conj	_	_
-10	zal	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
-11	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
+10	zal	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
+11	er	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 12	drum	_	ADP	P	_	13	case	_	_
-13	%ich%-1	_	SCONJ	CP-THT	_	5	obl	_	_
-14	esn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+13	%ich%-1	_	SCONJ	CP-THT	_	14	obl	_	_
+14	esn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
 15	un	_	CCONJ	CONJ	_	16	cc	_	_
 16	trinkn	_	VERB	VB	VerbForm=Inf	14	conj	_	_
 17	dz	_	SCONJ	C	_	21	mark	_	_
 18	er	_	PRON	PRO-NOM	Case=Nom	21	nsubj	_	_
 19	vil	_	AUX	MDF	VerbForm=Fin	21	aux	_	_
 20	gizund	_	ADJ	ADJ	Degree=Pos	21	amod	_	_
-21	zeyn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
+21	zeyn	_	VERB	VB	VerbForm=Inf	14	ccomp	_	_
 22	der_mit	_	ADP	P	_	29	case	_	_
 23	dz	_	SCONJ	C	_	29	mark	_	_
 24	er	_	PRON	PRO-NOM	Case=Nom	29	nsubj	_	_

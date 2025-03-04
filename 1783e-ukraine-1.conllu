@@ -179,16 +179,16 @@
 3	%exp%	_	NOUN	NP-SBJ-1	_	2	nsubj	_	_
 4	zikh	_	PRON	PRO-RFL	PronType=Reflex	2	expl:pv	_	_
 5	das	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
-6	khil	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	dep	_	_
-7	hat	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
+6	khil	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	11	nsubj	_	_
+7	hat	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
 8	fun	_	ADP	P	_	9	case	_	_
-9	da	_	ADV	ADV	Degree=Pos	6	obl	_	_
-10	ab	_	ADP	RP	_	6	compound:prt	_	_
-11	rukin	_	VERB	VB	VerbForm=Inf	6	dep	_	_
-12	gimuzt	_	AUX	MDN	Tense=Past|VerbForm=Part	6	aux	_	_
+9	da	_	ADV	ADV	Degree=Pos	11	obl	_	_
+10	ab	_	ADP	RP	_	11	compound:prt	_	_
+11	rukin	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+12	gimuzt	_	AUX	MDN	Tense=Past|VerbForm=Part	11	aux	_	_
 13	vegn	_	ADP	P	_	15	case	_	_
 14	eyni	_	DET	D	PronType=Art	15	det	_	_
-15	mlkhmh	_	NOUN	N	_	6	obl	_	_
+15	mlkhmh	_	NOUN	N	_	11	obl	_	_
 16	vos	_	PRON	WPRO	_	21	obl	_	_
 17	tsu	_	ADP	P	_	16	case	_	_
 18	%t%-2	_	ADP	PP	_	21	obl	_	_
@@ -1228,13 +1228,13 @@
 9	zikh	_	PRON	PRO-RFL	PronType=Reflex	7	expl:pv	_	_
 10	van	_	SCONJ	C	_	12	mark	_	_
 11	zi	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-12	gitit	_	VERB	VAN	Tense=Past|VerbForm=Part	7	dep	_	_
+12	gitit	_	VERB	VAN	Tense=Past|VerbForm=Part	17	advcl	_	_
 13	verd	_	AUX	RDF	VerbForm=Fin	12	aux	_	_
-14	mekhtin	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
+14	mekhtin	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 15	ire	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	16	det:poss	_	_
-16	kinder	_	NOUN	N	_	12	obl	_	_
-17	gshmad	_	VERB	VAN	Tense=Past|VerbForm=Part	12	ccomp	_	_
-18	verin	_	AUX	RD	VerbForm=Inf	12	aux	_	_
+16	kinder	_	NOUN	N	_	17	nsubj	_	_
+17	gshmad	_	VERB	VAN	Tense=Past|VerbForm=Part	7	dep	_	_
+18	verin	_	AUX	RD	VerbForm=Inf	17	aux	_	_
 
 # sent_id = 1783E-UKRAINE-1,.88
 # X_ID = 1783E-UKRAINE-1,34.93
@@ -1275,18 +1275,18 @@
 13	rufn	_	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 14	di	_	DET	D-NOM	Case=Nom|PronType=Art	16	det	_	_
 15	groysi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	16	amod	_	_
-16	soykhrim	_	NOUN	N-NOM	Case=Nom	13	dep	_	_
+16	soykhrim	_	NOUN	N-NOM	Case=Nom	23	nsubj	_	_
 17	fun	_	ADP	P	_	18	case	_	_
 18	ihudim	_	NOUN	N	_	16	obl	_	_
-19	zallin	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
-20	nur	_	ADV	FP	Degree=Pos	16	advmod	_	_
-21	gelt	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
+19	zallin	_	AUX	MDF	VerbForm=Fin	23	aux	_	_
+20	nur	_	ADV	FP	Degree=Pos	23	advmod	_	_
+21	gelt	_	NOUN	N-ACC	Case=Acc	23	obj	_	_
 22	gnug	_	ADV	Q-ACC	Case=Acc	21	advmod	_	_
-23	brengin	_	VERB	VB	VerbForm=Inf	16	dep	_	_
-24	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	16	dep	_	_
-25	gsikht	_	VERB	VBF	VerbForm=Fin	24	dep	_	_
-26	keyn	_	DET	Q-DTV-NEG	Case=Dat|PronType=Neg	24	iobj	_	_
-27	nikhts	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	24	nsubj	_	_
+23	brengin	_	VERB	VB	VerbForm=Inf	13	dep	_	_
+24	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	25	expl	_	_
+25	gsikht	_	VERB	VBF	VerbForm=Fin	23	dep	_	_
+26	keyn	_	DET	Q-DTV-NEG	Case=Dat|PronType=Neg	25	iobj	_	_
+27	nikhts	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	25	nsubj	_	_
 
 # sent_id = 1783E-UKRAINE-1,.91
 # X_ID = 1783E-UKRAINE-1,34.96
@@ -1906,10 +1906,10 @@
 3	shreyen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	fr	_	ADP	P	_	5	case	_	_
 5	ihm	_	PRON	PRO	_	3	obl	_	_
-6	er	_	PRON	PRO-NOM	Case=Nom	3	dep	_	_
-7	zal	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-8	dakh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-9	helfin	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+6	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
+7	zal	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
+8	dakh	_	ADV	ADV	Degree=Pos	9	advmod	_	_
+9	helfin	_	VERB	VB	VerbForm=Inf	3	dep	_	_
 
 # sent_id = 1783E-UKRAINE-1,.137
 # X_ID = 1783E-UKRAINE-1,35.143

@@ -2391,12 +2391,12 @@
 # text = heyst es er farnemt nit keyn " ort "
 1	heyst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	es	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
-3	er	_	PRON	PRO-NOM	Case=Nom	1	dep	_	_
-4	farnemt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
+3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+4	farnemt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
 6	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	8	det	_	SpaceAfter=No
 7	"	_	PUNCT	PUNC	_	8	punct	_	_
-8	ort	_	NOUN	N-ACC	Case=Acc	3	obj	_	SpaceAfter=No
+8	ort	_	NOUN	N-ACC	Case=Acc	4	obj	_	SpaceAfter=No
 9	"	_	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.128
@@ -2617,12 +2617,12 @@
 6	meglekh	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	7	punct	_	_
-9	me	_	PRON	PRO-NOM	Case=Nom	7	dep	_	_
-10	zal	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
-11	eykh	_	PRON	PRO-DTV	Case=Dat	9	iobj	_	_
-12	nokh	_	ADV	ADV	Degree=Pos	9	dep	_	_
+9	me	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
+10	zal	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
+11	eykh	_	PRON	PRO-DTV	Case=Dat	14	iobj	_	_
+12	nokh	_	ADV	ADV	Degree=Pos	14	dep	_	_
 13	epes	_	DET	Q	_	12	det	_	_
-14	oysleyen	_	VERB	VB-PART	VerbForm=Inf	9	dep	_	SpaceAfter=No
+14	oysleyen	_	VERB	VB-PART	VerbForm=Inf	7	dep	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.137

@@ -1,0 +1,26 @@
+# sent_id = #1947E-ROYTE-POMERANTSEN#,.1
+# X_ID = 1947E-ROYTE-POMERANTSEN,1.3
+# text = vi ver %t%-2 %t%-1 lakht
+1	vi	_	ADV	WADV	Degree=Pos	5	advmod	_	_
+2	ver	_	PRON	WPRO	_	5	obj	_	_
+3	%t%-2	_	NOUN	NP-SBJ	_	5	nsubj	_	_
+4	%t%-1	_	ADV	ADVP	Degree=Pos	5	advmod	_	_
+5	lakht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+
+# sent_id = #1947E-ROYTE-POMERANTSEN#,.2
+# X_ID = 1947E-ROYTE-POMERANTSEN,1.4
+# text = az me dertseylt a mayse a poyer, lakht er dray mol .
+1	az	_	SCONJ	C	_	3	mark	_	_
+2	me	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
+3	dertseylt	_	VERB	VBF	VerbForm=Fin	9	advcl	_	_
+4	a	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
+5	mayse	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	3	obj	_	_
+6	a	_	DET	D-DTV	Case=Dat|PronType=Art	7	det	_	_
+7	poyer	_	NOUN	N-DTV-I	Case=Dat|Definite=Ind	3	iobj	_	SpaceAfter=No
+8	,	_	PUNCT	PUNC	_	9	punct	_	_
+9	lakht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+10	er	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
+11	dray	_	NUM	NUM	_	9	obl	_	_
+12	mol	_	NOUN	N	_	11	conj	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	9	punct	_	_
+

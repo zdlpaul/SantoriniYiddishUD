@@ -589,10 +589,10 @@
 14	der	_	DET	D-NOM	Case=Nom|PronType=Art	16	det	_	_
 15	libh	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	16	amod	_	_
 16	gat	_	PROPN	NPR-D	_	13	nsubj	_	_
-17	mir	_	PRON	PRO-NOM	Case=Nom	13	dep	_	_
-18	habn	_	VERB	VBF	VerbForm=Fin	17	dep	_	_
+17	mir	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
+18	habn	_	VERB	VBF	VerbForm=Fin	13	dep	_	_
 19	unzrn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	20	det:poss	_	_
-20	mlkh	_	NOUN	N	_	17	obj	_	_
+20	mlkh	_	NOUN	N	_	18	obj	_	_
 
 # sent_id = 1666W-MESSIAH,.39
 # X_ID = 1666W-MESSIAH,10.51
@@ -2190,14 +2190,14 @@
 6	rikhtn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 7	in	_	ADP	P	_	9	case	_	_
 8	dizn	_	DET	D	PronType=Art	9	det	_	_
-9	yar	_	NOUN	N-D	Definite=Def	6	dep	_	_
-10	verin	_	AUX	RDF	VerbForm=Fin	9	aux	_	_
-11	mir	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-12	zukhh	_	ADP	RP-H	_	9	compound:prt	_	_
-13	zeyn	_	VERB	VB	VerbForm=Inf	9	dep	_	_
+9	yar	_	NOUN	N-D	Definite=Def	13	obl	_	_
+10	verin	_	AUX	RDF	VerbForm=Fin	13	aux	_	_
+11	mir	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
+12	zukhh	_	ADP	RP-H	_	13	compound:prt	_	_
+13	zeyn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
 14	krbnut	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
 15	tsu	_	PART	TO	_	16	mark	_	_
-16	senkin	_	VERB	VB	VerbForm=Inf	9	xcomp	_	_
+16	senkin	_	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 
 # sent_id = 1666W-MESSIAH,.161
 # X_ID = 1666W-MESSIAH,40.203
@@ -2279,13 +2279,13 @@
 9	unzrn	_	PRON	PRO$	_	11	det:poss	_	_
 10	shvern	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	glut	_	NOUN	N	_	3	obl	_	_
-12	hsm	the_name	X	H	_	3	dep	_	_
+12	hsm	the_name	X	H	_	16	dep	_	_
 13	itbrkh	may_be_blessed	X	H	_	12	dep	_	_
-14	zal	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
-15	mshikh	_	PROPN	NPR-ACC	_	12	dep	_	_
-16	sikn	_	VERB	VB	VerbForm=Inf	12	dep	_	_
+14	zal	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
+15	mshikh	_	PROPN	NPR-ACC	_	16	dep	_	_
+16	sikn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
 17	tsu	_	PART	TO	_	18	advcl	_	_
-18	lizn	_	VERB	VB	VerbForm=Inf	12	advcl	_	_
+18	lizn	_	VERB	VB	VerbForm=Inf	16	advcl	_	_
 19	oyz	_	ADP	RP	_	18	compound:prt	_	_
 20	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	21	det:poss	_	_
 21	tsrut	_	NOUN	N	_	18	obj	_	_
@@ -2380,18 +2380,18 @@
 9	di	_	DET	D	PronType=Art	11	det	_	_
 10	reykhh	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	leytn	_	NOUN	N-D	Definite=Def	4	obl	_	_
-12	zi	_	PRON	PRO-NOM	Case=Nom	4	dep	_	_
-13	zalin	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
+12	zi	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
+13	zalin	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 14	armh	_	ADJ	ADJ-DTV	Case=Dat|Degree=Pos	15	amod	_	_
-15	leyt	_	NOUN	N-DTV	Case=Dat	12	iobj	_	_
-16	vaul	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-17	teyln	_	VERB	VB	VerbForm=Inf	12	dep	_	_
-18	mit	_	ADV	RP-ADV	_	12	advmod	_	_
+15	leyt	_	NOUN	N-DTV	Case=Dat	17	iobj	_	_
+16	vaul	_	ADV	ADV	Degree=Pos	17	advmod	_	_
+17	teyln	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+18	mit	_	ADV	RP-ADV	_	17	advmod	_	_
 19	das	_	SCONJ	C	_	23	mark	_	_
 20	zi	_	PRON	PRO-NOM	Case=Nom	23	nsubj	_	_
 21	akh	_	ADV	ADV	Degree=Pos	23	advmod	_	_
 22	mit	_	ADV	RP-ADV	_	23	advmod	_	_
-23	kumn	_	VERB	VBF	VerbForm=Fin	12	ccomp	_	_
+23	kumn	_	VERB	VBF	VerbForm=Fin	17	ccomp	_	_
 24	bitseytn	_	ADV	ADV	Degree=Pos	23	advmod	_	_
 
 # sent_id = 1666W-MESSIAH,.173
@@ -2423,14 +2423,14 @@
 3	teyl	_	NOUN	N-NOM	Case=Nom	1	nsubj	_	_
 4	reykhh	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	5	amod	_	_
 5	leyt	_	NOUN	N-NOM	Case=Nom	3	nmod:poss	_	_
-6	zi	_	PRON	PRO-NOM	Case=Nom	1	dep	_	_
-7	vern	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+6	zi	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
+7	vern	_	AUX	RDF	VerbForm=Fin	12	aux	_	_
 8	in	_	ADP	P	_	9	case	_	_
-9	arts	_	NOUN	N	_	6	obl	_	_
+9	arts	_	NOUN	N	_	12	obl	_	_
 10	isral	_	PROPN	NPR	_	9	dep	_	_
-11	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
-12	habn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
-13	%t%-1	_	ADP	PP	_	6	dep	_	_
+11	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
+12	habn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+13	%t%-1	_	ADP	PP	_	12	dep	_	_
 14	tsu	_	PART	TO	_	15	mark	_	_
 15	lebn	_	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	ven	_	SCONJ	C	_	22	mark	_	_
@@ -2439,7 +2439,7 @@
 19	leyt	_	NOUN	N-ACC	Case=Acc	22	obj	_	_
 20	vern	_	AUX	RDF	VerbForm=Fin	22	aux	_	_
 21	mkhbd	_	ADP	RP-H	_	22	compound:prt	_	_
-22	zeyn	_	VERB	VB	VerbForm=Inf	6	advcl	_	_
+22	zeyn	_	VERB	VB	VerbForm=Inf	12	advcl	_	_
 23	un'	_	CCONJ	CONJ	_	27	cc	_	_
 24	%con%	_	NOUN	NP-SBJ	_	27	nsubj	_	_
 25	vern	_	AUX	RDF	VerbForm=Fin	27	aux	_	_

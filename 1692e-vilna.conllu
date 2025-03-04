@@ -737,19 +737,19 @@
 # sent_id = 1692E-VILNA,.49
 # X_ID = 1692E-VILNA,213.54
 # text = mn zal di drey kdusim vthudim di reynn itlikhs leyb oyf fir teyln zi meynn
-1	mn	_	PRON	PRO-NOM	Case=Nom	15	dep	_	_
-2	zal	_	AUX	MDF	VerbForm=Fin	1	aux	_	_
+1	mn	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
+2	zal	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 3	di	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
 4	drey	_	NUM	NUM-ACC	Case=Acc	5	nummod	_	_
-5	kdusim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	1	obj	_	_
+5	kdusim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	13	obj	_	_
 6	vthudim	and_UNKNOWN	X	H	_	5	conj	_	_
 7	di	_	DET	D	PronType=Art	5	dep	_	_
 8	reynn	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 9	itlikhs	_	DET	Q	_	10	det	_	_
 10	leyb	_	NOUN	N	_	5	appos	_	_
 11	oyf	_	ADP	P	_	12	case	_	_
-12	fir	_	NUM	NUM	_	1	obl	_	_
-13	teyln	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+12	fir	_	NUM	NUM	_	13	obl	_	_
+13	teyln	_	VERB	VB	VerbForm=Inf	15	dep	_	_
 14	zi	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 15	meynn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 
@@ -968,18 +968,18 @@
 7	,	_	PUNCT	PUNC	_	2	punct	_	_
 8	um	_	ADP	RP	_	10	compound:prt	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
-10	kumn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+10	kumn	_	VERB	VB	VerbForm=Inf	16	xcomp	_	_
 11	fun	_	ADP	P	_	14	case	_	_
 12	zeyn	_	PRON	PRO$	_	14	det:poss	_	_
 13	libn	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
 14	namn	_	NOUN	N	_	10	obl	_	_
 15	vegin	_	NOUN	N	_	14	conj	_	_
-16	zenin	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
-17	mir	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
-18	on_gibreyt	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+16	zenin	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+17	mir	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
+18	on_gibreyt	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
 19	%ich%-2	_	X	IP-INF	_	18	amod	_	_
 20	hotsi	UNKNOWN	X	H	_	21	dep	_	_
-21	teykef	_	ADV	ADV	Degree=Pos	10	advmod	_	_
+21	teykef	_	ADV	ADV	Degree=Pos	16	advmod	_	_
 22	heynt	_	ADV	ADV	Degree=Pos	21	advmod	_	_
 23	un	_	CCONJ	CONJ	_	26	cc	_	_
 24	zunst	_	ADV	ADV	Degree=Pos	26	advmod	_	_
@@ -1528,20 +1528,20 @@
 2	%con%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
 3	hot	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 4	bafuln	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	mn	_	PRON	PRO-NOM	Case=Nom	4	dep	_	_
-6	zal	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
-7	im	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
-8	mer	_	DET	QR	_	5	obl	_	_
-9	megh	_	ADP	RP-H	_	5	compound:prt	_	_
-10	zeyn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
-11	un	_	CCONJ	CONJ	_	12	cc	_	_
-12	%con%	_	NOUN	NP-SBJ	_	5	dep	_	_
-13	zal	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
-14	im	_	PRON	PRO-DTV	Case=Dat	12	iobj	_	_
-15	an	_	ADP	RP	_	12	compound:prt	_	_
-16	tan	_	VERB	VB	VerbForm=Inf	12	dep	_	_
+5	mn	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
+6	zal	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
+7	im	_	PRON	PRO-DTV	Case=Dat	10	iobj	_	_
+8	mer	_	DET	QR	_	10	obl	_	_
+9	megh	_	ADP	RP-H	_	10	compound:prt	_	_
+10	zeyn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+11	un	_	CCONJ	CONJ	_	16	cc	_	_
+12	%con%	_	NOUN	NP-SBJ	_	16	nsubj	_	_
+13	zal	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
+14	im	_	PRON	PRO-DTV	Case=Dat	16	iobj	_	_
+15	an	_	ADP	RP	_	16	compound:prt	_	_
+16	tan	_	VERB	VB	VerbForm=Inf	10	dep	_	_
 17	grus	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	18	amod	_	_
-18	strtsn	_	NOUN	N-ACC	Case=Acc	12	obj	_	_
+18	strtsn	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
 19	un	_	CCONJ	CONJ	_	20	cc	_	_
 20	peyn	_	NOUN	N	_	18	conj	_	_
 
@@ -2496,15 +2496,15 @@
 3	den	_	DET	D-DTV	Case=Dat|PronType=Art	4	det	_	_
 4	tleyn	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	5	iobj	_	_
 5	zagin	_	VERB	VB	VerbForm=Inf	0	root	_	_
-6	er	_	PRON	PRO-NOM	Case=Nom	5	dep	_	_
-7	zal	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-8	hkdus	_	PROPN	NPR-DTV	_	6	dep	_	_
+6	er	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
+7	zal	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
+8	hkdus	_	PROPN	NPR-DTV	_	14	dep	_	_
 9	r'	_	PROPN	NPR	_	8	flat:name	_	_
 10	msh	_	PROPN	NPR	_	8	dep	_	_
 11	den	_	DET	D-ACC	Case=Acc|PronType=Art	12	det	_	_
-12	kap	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	6	obj	_	_
-13	ab	_	ADP	RP	_	6	compound:prt	_	_
-14	slagn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+12	kap	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	14	obj	_	_
+13	ab	_	ADP	RP	_	14	compound:prt	_	_
+14	slagn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
 
 # sent_id = 1692E-VILNA,.154
 # X_ID = 1692E-VILNA,219.165

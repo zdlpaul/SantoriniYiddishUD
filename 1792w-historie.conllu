@@ -52,17 +52,17 @@
 2	an_fang	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	nsubj	_	_
 3	izt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
-5	palak	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	3	dep	_	_
-6	tut	_	VERB	DOF	VerbForm=Fin	5	ccomp	_	_
-7	libr	_	ADV	ADVR	Degree=Cmp	5	advmod	_	_
+5	palak	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	10	nsubj	_	_
+6	tut	_	VERB	DOF	VerbForm=Fin	10	ccomp	_	_
+7	libr	_	ADV	ADVR	Degree=Cmp	10	advmod	_	_
 8	den	_	DET	D-ACC	Case=Acc|PronType=Art	9	det	_	_
-9	hlz	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	5	obj	_	_
-10	brekhn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+9	hlz	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	10	obj	_	_
+10	brekhn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
 11	i	_	SCONJ	C	_	15	mark	_	_
 12	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 13	den	_	DET	D-ACC	Case=Acc|PronType=Art	14	det	_	_
 14	tkun	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	15	obj	_	_
-15	brekht	_	VERB	VBF	VerbForm=Fin	5	advcl	_	_
+15	brekht	_	VERB	VBF	VerbForm=Fin	10	advcl	_	_
 
 # sent_id = 1792W-HISTORIE,.4
 # X_ID = 1792W-HISTORIE,552.7
@@ -151,13 +151,13 @@
 1	zeht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	palak	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	1	nsubj	_	_
-4	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	1	dep	_	_
-5	kan	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
-6	niks	_	DET	Q-NOM	Case=Nom	4	nsubj	_	_
+4	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	10	expl	_	_
+5	kan	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
+6	niks	_	DET	Q-NOM	Case=Nom	10	nsubj	_	_
 7	gutts	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	6	amod	_	_
-8	der_fun	_	ADP	P	_	4	obl	_	_
-9	her	_	ADV	RP-ADV	_	4	advmod	_	_
-10	kumen	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+8	der_fun	_	ADP	P	_	10	obl	_	_
+9	her	_	ADV	RP-ADV	_	10	advmod	_	_
+10	kumen	_	VERB	VB	VerbForm=Inf	1	dep	_	_
 
 # sent_id = 1792W-HISTORIE,.13
 # X_ID = 1792W-HISTORIE,552.16
@@ -175,11 +175,11 @@
 1	zeht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	1	punct	_	_
-4	ashknz	_	PROPN	NPR-SBJ	_	1	dep	_	_
-5	izt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+4	ashknz	_	PROPN	NPR-SBJ	_	5	nsubj	_	_
+5	izt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
 6	eyn	_	DET	D	PronType=Art	8	det	_	_
 7	shinh	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-8	mdinh	_	NOUN	N	_	4	xcomp	_	_
+8	mdinh	_	NOUN	N	_	5	xcomp	_	_
 9	als	_	ADP	P	_	11	case	_	_
 10	vi	_	ADP	P	_	11	case	_	_
 11	pulin	_	PROPN	NPR	_	8	obl	_	_
@@ -425,15 +425,15 @@
 1	gbitt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	man	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	ihm	_	PRON	PRO-DTV	Case=Dat	1	iobj	_	_
-4	er	_	PRON	PRO-NOM	Case=Nom	1	dep	_	_
-5	zal	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
-6	eyne	_	PRON	PRO-ACC	Case=Acc	4	obj	_	_
+4	er	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
+5	zal	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
+6	eyne	_	PRON	PRO-ACC	Case=Acc	12	obj	_	_
 7	fun	_	ADP	P	_	10	case	_	_
 8	di	_	DET	D	PronType=Art	10	det	_	_
 9	tsvey	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	veybr	_	NOUN	N-D	Definite=Def	6	obl	_	_
-11	gt	_	PROPN	NPR-DTV	_	4	dep	_	_
-12	gebn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+11	gt	_	PROPN	NPR-DTV	_	12	dep	_	_
+12	gebn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
 
 # sent_id = 1792W-HISTORIE,.37
 # X_ID = 1792W-HISTORIE,553.41
