@@ -170,7 +170,7 @@
 5	in	_	ADP	P	_	7	case	_	_
 6	irn	_	PRON	PRO$	_	7	det:poss	_	_
 7	oygn	_	NOUN	N	_	4	obl	_	_
-8	nisht	_	DET	Q	_	4	xcomp	_	_
+8	nisht	_	DET	Q-NEG	Polarity=Neg	4	xcomp	_	_
 
 # sent_id = 1589E-ESTER-PREFACE,.8
 # X_ID = 1589E-ESTER-PREFACE,2.11
@@ -238,7 +238,7 @@
 9	fun	_	ADP	P	_	10	case	_	_
 10	veybr	_	NOUN	N	_	6	obl	_	_
 11	gar	_	ADV	ADV	Degree=Pos	6	dep	_	_
-12	nisht	_	DET	Q	_	11	det	_	_
+12	nisht	_	DET	Q-NEG	Polarity=Neg	11	det	_	_
 
 # sent_id = 1589E-ESTER-PREFACE,.11
 # X_ID = 1589E-ESTER-PREFACE,2.14
@@ -248,7 +248,7 @@
 3	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	gar	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 5	fr	_	ADP	P	_	6	case	_	_
-6	nikht	_	DET	Q	_	3	obl	_	_
+6	nikht	_	DET	Q-NEG	Polarity=Neg	3	obl	_	_
 
 # sent_id = 1589E-ESTER-PREFACE,.12
 # X_ID = 1589E-ESTER-PREFACE,2.15

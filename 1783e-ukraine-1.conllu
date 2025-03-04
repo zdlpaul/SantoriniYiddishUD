@@ -1286,7 +1286,7 @@
 24	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	16	dep	_	_
 25	gsikht	_	VERB	VBF	VerbForm=Fin	24	dep	_	_
 26	keyn	_	DET	Q-DTV-NEG	Case=Dat|PronType=Neg	24	iobj	_	_
-27	nikhts	_	DET	Q-NOM	Case=Nom	24	nsubj	_	_
+27	nikhts	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	24	nsubj	_	_
 
 # sent_id = 1783E-UKRAINE-1,.91
 # X_ID = 1783E-UKRAINE-1,34.96
@@ -2234,7 +2234,7 @@
 4	makhtin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	zikh	_	PRON	PRO-RFL	PronType=Reflex	4	expl:pv	_	_
 6	gar	_	ADV	ADV	Degree=Pos	4	dep	_	_
-7	nikhts	_	DET	Q	_	6	det	_	_
+7	nikhts	_	DET	Q-NEG	Polarity=Neg	6	det	_	_
 8	drus	_	ADP	P	_	4	obl	_	_
 
 # sent_id = 1783E-UKRAINE-1,.164

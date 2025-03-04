@@ -1184,7 +1184,7 @@
 14	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 15	di	_	DET	D-DTV	Case=Dat|PronType=Art	16	det	_	_
 16	kdusim	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	5	iobj	_	_
-17	nisht	_	DET	Q-NOM	Case=Nom	5	nsubj	_	_
+17	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	5	nsubj	_	_
 18	givezin	_	AUX	BEN	Tense=Past|VerbForm=Part	5	cop	_	_
 19	gilegin	_	VERB	VX	_	5	dep	_	_
 20	dran	_	ADP	P	_	5	obl	_	_
@@ -1212,7 +1212,7 @@
 3	bey	_	ADP	P	_	5	case	_	_
 4	di	_	DET	D	PronType=Art	5	det	_	_
 5	kdusim	_	NOUN	N-D	Definite=Def	8	obl	_	_
-6	nisht	_	DET	Q-NOM	Case=Nom	8	nsubj	_	_
+6	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	8	nsubj	_	_
 7	gvezn	_	AUX	BEN	Tense=Past|VerbForm=Part	8	cop	_	_
 8	giakht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
@@ -1222,7 +1222,7 @@
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	9	expl	_	_
 2	iz	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 3	zi	_	PRON	PRO-DTV	Case=Dat	9	iobj	_	_
-4	nisht	_	DET	Q-NOM	Case=Nom	9	nsubj	_	_
+4	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	9	nsubj	_	_
 5	gilegin	_	VERB	VX	_	9	dep	_	_
 6	givezin	_	AUX	BEN	Tense=Past|VerbForm=Part	9	cop	_	_
 7	an	_	ADP	P	_	9	case	_	_

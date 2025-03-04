@@ -402,7 +402,7 @@
 27	%con%	_	NOUN	NP-SBJ	_	28	nsubj	_	_
 28	gebn	_	VERB	VBF	VerbForm=Fin	16	conj	_	_
 29	unz	_	PRON	PRO-DTV	Case=Dat	28	iobj	_	_
-30	nikhtst	_	DET	Q-ACC	Case=Acc	28	obj	_	_
+30	nikhtst	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	28	obj	_	_
 31	in'	_	CCONJ	CONJ	_	39	cc	_	_
 32	%con%	_	NOUN	NP-SBJ	_	39	nsubj	_	_
 33	valn	_	AUX	MDF	VerbForm=Fin	39	aux	_	_
@@ -920,7 +920,7 @@
 23	ds	_	SCONJ	C	_	28	mark	_	_
 24	%exp%	_	NOUN	NP-SBJ-1	_	28	ccomp	_	_
 25	mir@	_	PRON	PRO-DTV	Case=Dat	28	iobj	_	_
-26	@nit	_	ADV	NEG	_	28	advmod	_	_
+26	@nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	28	advmod	_	_
 27	sofek	_	NOUN	N	_	28	xcomp	_	_
 28	ist	_	VERB	VBF	VerbForm=Fin	6	advcl	_	_
 29	ds	_	SCONJ	C	_	24	mark	_	_

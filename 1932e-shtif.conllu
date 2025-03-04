@@ -2340,7 +2340,7 @@
 13	tun	_	VERB	VB-DBL	VerbForm=Inf	4	dep	_	_
 14	tut	_	VERB	VBF	VerbForm=Fin	13	dep	_	_
 15	es	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
-16	garnisht	_	DET	Q-ACC	Case=Acc	13	obj	_	_
+16	garnisht	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	13	obj	_	_
 17	u.dgl.	_	X	X	_	4	dep	_	_
 
 # sent_id = 1932E-SHTIF,.96

@@ -125,7 +125,7 @@
 13	un	_	CCONJ	CONJ	_	14	cc	_	_
 14	leyann	_	NOUN	N	_	12	conj	_	_
 15	ligt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-16	nisht	_	DET	Q-NOM	Case=Nom	12	nsubj	_	_
+16	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	12	nsubj	_	_
 17	dran	_	ADP	P	_	12	obl	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.7

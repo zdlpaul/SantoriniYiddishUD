@@ -3676,7 +3676,7 @@
 3	hintn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	un'	_	CCONJ	CONJ	_	5	cc	_	_
 5	farn	_	ADV	ADV	Degree=Pos	3	conj	_	_
-6	nisht	_	DET	Q-NOM	Case=Nom	2	nsubj	_	_
+6	nisht	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	2	nsubj	_	_
 7	da	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.262

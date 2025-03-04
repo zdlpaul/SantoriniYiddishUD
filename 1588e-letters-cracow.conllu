@@ -2356,7 +2356,7 @@
 4	ali	_	ADV	Q	_	9	advmod	_	_
 5	mit	_	ADP	P	_	6	case	_	_
 6	anndr	_	PRON	PRO	_	4	obl	_	_
-7	nisht	_	DET	Q-ACC	Case=Acc	9	obj	_	_
+7	nisht	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	9	obj	_	_
 8	%ich%-1	_	X	IP-INF-PRN	_	7	xcomp	_	_
 9	gitun	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 10	neyart	_	ADV	FP	Degree=Pos	13	advmod	_	_
@@ -2389,7 +2389,7 @@
 11	ver_entvrn	_	VERB	VAG	Tense=Pres|VerbForm=Part	4	acl:relcl	_	_
 12	zeyn	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
 13	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	dep	_	_
-14	nits	_	DET	Q	_	13	det	_	_
+14	nits	_	DET	Q-NEG	Polarity=Neg	13	det	_	_
 
 # sent_id = 1588E-LETTERS-CRACOW,.156
 # X_ID = 1588E-LETTERS-CRACOW,66.162

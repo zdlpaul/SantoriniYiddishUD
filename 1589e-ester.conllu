@@ -3452,7 +3452,7 @@
 31	tut	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
 32	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	33	det:poss	_	_
 33	her_gut	_	PROPN	NPR	_	16	obl	_	_
-34	nisht	_	DET	Q-ACC	Case=Acc	16	obj	_	_
+34	nisht	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	16	obj	_	_
 35	dz	_	SCONJ	C	_	41	mark	_	_
 36	%t%-3	_	NOUN	NP-SBJ	_	41	nsubj	_	_
 37	gnts	_	ADV	ADV	Degree=Pos	40	advmod	_	_

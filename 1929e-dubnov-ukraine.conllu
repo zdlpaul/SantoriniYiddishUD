@@ -348,7 +348,7 @@
 7	yorhundert	_	NOUN	N-D	Definite=Def	3	obl	_	_
 8	hot	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
 9	do	_	ADV	ADV	Degree=Pos	11	advmod	_	_
-10	garnisht	_	DET	Q-ACC	Case=Acc	11	obj	_	_
+10	garnisht	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	11	obj	_	_
 11	geendert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1929E-DUBNOV-UKRAINE,.16

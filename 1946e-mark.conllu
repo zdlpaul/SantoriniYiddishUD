@@ -2013,7 +2013,7 @@
 4	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	5	det:poss	_	_
 5	esn	_	NOUN	N	_	8	nsubj	_	_
 6	vet	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
-7	gornisht	_	DET	Q-ACC	Case=Acc	8	obj	_	_
+7	gornisht	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	8	obj	_	_
 8	kostn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	8	punct	_	_
 
@@ -2024,7 +2024,7 @@
 2	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
 3	esn	_	NOUN	N	_	6	nsubj	_	_
 4	vet	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-5	gornisht	_	DET	Q-ACC	Case=Acc	6	obj	_	_
+5	gornisht	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	obj	_	_
 6	kostn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	6	punct	_	_
 

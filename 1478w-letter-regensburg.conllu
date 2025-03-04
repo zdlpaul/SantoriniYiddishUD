@@ -20,7 +20,7 @@
 1	du	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	entverst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	mir	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-4	nikhtsit	_	DET	Q	_	2	obl	_	SpaceAfter=No
+4	nikhtsit	_	DET	Q-NEG	Polarity=Neg	2	obl	_	SpaceAfter=No
 5	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1478W-LETTER-REGENSBURG,.3

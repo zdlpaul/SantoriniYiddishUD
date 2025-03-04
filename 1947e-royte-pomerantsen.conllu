@@ -26194,7 +26194,7 @@
 4	:	_	PUNCT	PUNC	_	1	punct	_	SpaceAfter=No
 5	"	_	PUNCT	PUNC	_	6	punct	_	_
 6	ot	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	dep	_	_
-7	gornisht	_	DET	Q	_	6	det	_	SpaceAfter=No
+7	gornisht	_	DET	Q-NEG	Polarity=Neg	6	det	_	SpaceAfter=No
 8	%EXCL%	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.1814
@@ -36385,7 +36385,7 @@
 1	un	_	CCONJ	CONJ	_	6	cc	_	_
 2	%con%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
 3	hot	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
-4	gornisht	_	DET	Q-ACC	Case=Acc	6	obj	_	_
+4	gornisht	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	obj	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 6	gefunen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	6	punct	_	_

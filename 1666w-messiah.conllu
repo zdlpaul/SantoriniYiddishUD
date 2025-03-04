@@ -2508,7 +2508,7 @@
 20	gaulh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	18	obj	_	_
 21	gar	_	ADV	ADV	Degree=Pos	18	advmod	_	_
 22	vr	_	ADP	P	_	23	case	_	_
-23	nisht	_	DET	Q	_	18	obl	_	_
+23	nisht	_	DET	Q-NEG	Polarity=Neg	18	obl	_	_
 24	di	_	DET	D-NOM	Case=Nom|PronType=Art	25	nsubj	_	_
 25	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
 26	hi	_	ADV	ADV	Degree=Pos	25	advmod	_	_
