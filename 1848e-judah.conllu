@@ -2575,16 +2575,16 @@
 1	oyf	_	ADP	P	_	4	case	_	_
 2	a	_	DET	D	PronType=Art	4	det	_	_
 3	zoyn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-4	art	_	NOUN	N-I	Definite=Ind	13	obl	_	_
-5	ken	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
+4	art	_	NOUN	N-I	Definite=Ind	5	obl	_	_
+5	ken	_	VERB	MDF	VerbForm=Fin	0	root	_	_
 6	a	_	DET	D-NOM	Case=Nom|PronType=Art	7	det	_	_
-7	mensh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	13	nsubj	_	_
-8	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
-9	mehr	_	ADV	ADV	Degree=Pos	13	advmod	_	_
+7	mensh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	5	nsubj	_	_
+8	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
+9	mehr	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 10	in	_	ADP	P	_	11	case	_	_
-11	kriminal	_	NOUN	N	_	13	obl	_	_
-12	ferfalin	_	VERB	VX	_	13	dep	_	_
-13	verin	_	VERB	RD	VerbForm=Inf	0	root	_	_
+11	kriminal	_	NOUN	N	_	5	obl	_	_
+12	ferfalin	_	VERB	VX	_	5	dep	_	_
+13	verin	_	AUX	RD	VerbForm=Inf	5	aux	_	_
 
 # sent_id = 1848E-JUDAH,.131
 # X_ID = 1848E-JUDAH,637.136

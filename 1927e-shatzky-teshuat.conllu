@@ -256,12 +256,12 @@
 # text = der gantser sfr vert oysfirlekh beshribn fun berlinern geven in zeyn bazits heynt in frankfurter stat_bibliotek un fun izidor leb
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 2	gantser	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	amod	_	_
-3	sfr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
-4	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-5	oysfirlekh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-6	beshribn	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
+3	sfr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
+4	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+5	oysfirlekh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+6	beshribn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 7	fun	_	ADP	P	_	8	case	_	_
-8	berlinern	_	PROPN	NPR	_	4	obl	_	_
+8	berlinern	_	PROPN	NPR	_	6	obl	_	_
 9	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	8	xcomp	_	_
 10	in	_	ADP	P	_	12	case	_	_
 11	zeyn	_	PRON	PRO$	_	12	det:poss	_	_
@@ -797,17 +797,17 @@
 # text = in der rsimh fun lubliner rbnim un tlmidi_khkhmim vert zeyn nomen nist dermont
 1	in	_	ADP	P	_	3	case	_	_
 2	der	_	DET	D	PronType=Art	3	det	_	_
-3	rsimh	_	NOUN	N-D	Definite=Def	9	obl	_	_
+3	rsimh	_	NOUN	N-D	Definite=Def	13	obl	_	_
 4	fun	_	ADP	P	_	6	case	_	_
 5	lubliner	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 6	rbnim	_	NOUN	N	_	3	obl	_	_
 7	un	_	CCONJ	CONJ	_	8	cc	_	_
 8	tlmidi_khkhmim	_	NOUN	N	_	6	conj	_	_
-9	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
+9	vert	_	AUX	RDF	VerbForm=Fin	13	aux	_	_
 10	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	11	det:poss	_	_
-11	nomen	_	NOUN	N	_	9	nsubj	_	_
-12	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	9	advmod	_	_
-13	dermont	_	VERB	VAN	Tense=Past|VerbForm=Part	9	ccomp	_	_
+11	nomen	_	NOUN	N	_	13	nsubj	_	_
+12	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
+13	dermont	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1927E-SHATZKY-TESHUAT,.43
 # X_ID = 1927E-SHATZKY-TESHUAT,14.47
@@ -899,20 +899,20 @@
 # sent_id = 1927E-SHATZKY-TESHUAT,.46
 # X_ID = 1927E-SHATZKY-TESHUAT,14.50
 # text = derfar vert er azu zeyn " gze " nist dermont afilu in der geshikhte fun di yidn in lublin
-1	derfar	_	ADP	P	_	2	obl	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
+1	derfar	_	ADP	P	_	10	obl	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	10	aux	_	_
+3	er	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 4	azu	_	CCONJ	CONJ	_	7	cc	_	_
 5	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	7	det:poss	_	SpaceAfter=No
 6	"	_	PUNCT	PUNC	_	7	punct	_	_
 7	gze	_	NOUN	N	_	3	conj	_	SpaceAfter=No
 8	"	_	PUNCT	PUNC	_	7	punct	_	_
-9	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
-10	dermont	_	VERB	VAN	Tense=Past|VerbForm=Part	2	ccomp	_	_
+9	nist	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
+10	dermont	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 11	afilu	_	ADV	FP	Degree=Pos	14	advmod	_	_
 12	in	_	ADP	P	_	14	case	_	_
 13	der	_	DET	D	PronType=Art	14	det	_	_
-14	geshikhte	_	NOUN	N-D	Definite=Def	2	obl	_	_
+14	geshikhte	_	NOUN	N-D	Definite=Def	10	obl	_	_
 15	fun	_	ADP	P	_	17	case	_	_
 16	di	_	DET	D	PronType=Art	17	det	_	_
 17	yidn	_	NOUN	N-D	Definite=Def	14	obl	_	_
@@ -1387,24 +1387,24 @@
 # text = bseh dem pogrom zeynen gehrgt gevorn a por yidn
 1	bseh	_	ADP	P	_	3	case	_	_
 2	dem	_	DET	D	PronType=Art	3	det	_	_
-3	pogrom	_	NOUN	N-D	Definite=Def	6	obl	_	_
-4	zeynen	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-5	gehrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+3	pogrom	_	NOUN	N-D	Definite=Def	5	obl	_	_
+4	zeynen	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+5	gehrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+6	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	_
 7	a	_	ADV	D-NOM	Case=Nom|PronType=Art	9	advmod	_	_
 8	por	_	DET	Q	_	7	det	_	_
-9	yidn	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
+9	yidn	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
 
 # sent_id = 1927E-SHATZKY-TESHUAT,.69
 # X_ID = 1927E-SHATZKY-TESHUAT,14.73
 # text = un di yidishe gas iz pogromirt gevorn
-1	un	_	CCONJ	CONJ	_	7	cc	_	_
+1	un	_	CCONJ	CONJ	_	6	cc	_	_
 2	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 3	yidishe	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	4	amod	_	_
-4	gas	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-6	pogromirt	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+4	gas	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
+5	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+6	pogromirt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	_
 
 # sent_id = 1927E-SHATZKY-TESHUAT,.70
 # X_ID = 1927E-SHATZKY-TESHUAT,15.74
@@ -2243,12 +2243,12 @@
 1	in	_	ADP	P	_	4	case	_	_
 2	dem	_	DET	D	PronType=Art	4	det	_	_
 3	erstn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-4	memorandum	_	NOUN	N-D	Definite=Def	5	obl	_	_
-5	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	%exp%	_	NOUN	NP-SBJ-1	_	5	nsubj	_	_
-7	bavizn	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
+4	memorandum	_	NOUN	N-D	Definite=Def	7	obl	_	_
+5	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+6	%exp%	_	NOUN	NP-SBJ-1	_	7	nsubj	_	_
+7	bavizn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 8	oyfn	_	ADP	P-CL	_	9	case	_	_
-9	smkh	_	NOUN	N	_	5	obl	_	_
+9	smkh	_	NOUN	N	_	7	obl	_	_
 10	fun	_	ADP	P	_	12	case	_	_
 11	historishe	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
 12	faktn	_	NOUN	N	_	9	obl	_	_
@@ -2260,7 +2260,7 @@
 18	poypsn	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	15	conj	_	_
 19	hobn	_	AUX	HVF	VerbForm=Fin	21	aux	_	_
 20	alemol	_	ADV	ADV	Degree=Pos	21	advmod	_	_
-21	beshitst	_	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	_	_
+21	beshitst	_	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	_
 22	di	_	DET	D-ACC	Case=Acc|PronType=Art	23	det	_	_
 23	yidn	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	21	obj	_	_
 24	kegn	_	ADP	P	_	26	case	_	_
@@ -2270,9 +2270,9 @@
 # sent_id = 1927E-SHATZKY-TESHUAT,.111
 # X_ID = 1927E-SHATZKY-TESHUAT,16.115
 # text = es vert bavizn az di bibl un di tlmudishe literatur git keyn shum grunt %ich%-2 nist tsu bashuldikn di yidn in aza barbarishn mnhg
-1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	bavizn	_	VERB	VAN	Tense=Past|VerbForm=Part	2	xcomp	_	_
+1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	3	expl	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	3	aux	_	_
+3	bavizn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 4	az	_	SCONJ	C	_	11	mark	_	_
 5	di	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	bibl	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	11	nsubj	_	_
@@ -2280,7 +2280,7 @@
 8	di	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 9	tlmudishe	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	amod	_	_
 10	literatur	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	conj	_	_
-11	git	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
+11	git	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
 12	keyn	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	14	det	_	_
 13	shum	_	DET	Q-ACC	Case=Acc	14	det	_	_
 14	grunt	_	NOUN	N-ACC	Case=Acc	11	obj	_	_
@@ -2300,12 +2300,12 @@
 # text = in a beygeleygtn vert iber gegebn a reye dokumentn un briv fun glkhim kisrim un a psk-din fun venetsianer senat kegn dem blut-blbut
 1	in	_	ADP	P	_	3	case	_	_
 2	a	_	DET	D	PronType=Art	3	det	_	_
-3	beygeleygtn	_	ADJ	ADJ	Degree=Pos	4	obl	_	_
-4	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-5	iber	_	ADP	RP	_	4	compound:prt	_	_
-6	gegebn	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
+3	beygeleygtn	_	ADJ	ADJ	Degree=Pos	6	obl	_	_
+4	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+5	iber	_	ADP	RP	_	6	compound:prt	_	_
+6	gegebn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 7	a	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
-8	reye	_	NOUN	N-NOM	Case=Nom	4	nsubj	_	_
+8	reye	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
 9	dokumentn	_	NOUN	N-NOM	Case=Nom	8	nmod:poss	_	_
 10	un	_	CCONJ	CONJ	_	11	cc	_	_
 11	briv	_	NOUN	N	_	9	conj	_	_

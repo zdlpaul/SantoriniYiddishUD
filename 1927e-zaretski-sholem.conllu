@@ -324,16 +324,16 @@
 # sent_id = 1927E-ZARETSKI-SHOLEM,.18
 # X_ID = 1927E-ZARETSKI-SHOLEM,7.21
 # text = beyshpiln vern in dem shurnal gebrakht vern genug %ich%-1,
-1	beyshpiln	_	NOUN	N	_	2	obl	_	_
-2	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
+1	beyshpiln	_	NOUN	N	_	6	obl	_	_
+2	vern	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
 3	in	_	ADP	P	_	5	case	_	_
 4	dem	_	DET	D	PronType=Art	5	det	_	_
-5	shurnal	_	NOUN	N-D	Definite=Def	2	obl	_	_
-6	gebrakht	_	VERB	VAN	Tense=Past|VerbForm=Part	2	ccomp	_	_
-7	vern	_	AUX	RD	VerbForm=Inf	2	aux	_	_
+5	shurnal	_	NOUN	N-D	Definite=Def	6	obl	_	_
+6	gebrakht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	vern	_	AUX	RD	VerbForm=Inf	6	aux	_	_
 8	genug	_	DET	Q-NOM	Case=Nom	9	det	_	_
-9	%ich%-1	_	NOUN	NP	_	2	nsubj	_	SpaceAfter=No
-10	,	_	PUNCT	PUNC	_	2	punct	_	_
+9	%ich%-1	_	NOUN	NP	_	6	nsubj	_	SpaceAfter=No
+10	,	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1927E-ZARETSKI-SHOLEM,.19
 # X_ID = 1927E-ZARETSKI-SHOLEM,7.22
@@ -2610,13 +2610,13 @@
 # sent_id = 1927E-ZARETSKI-SHOLEM,.139
 # X_ID = 1927E-ZARETSKI-SHOLEM,10.144
 # text = %exp% zol do agev gezogt vern :
-1	%exp%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
-2	zol	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-3	do	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-4	agev	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-5	gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	vern	_	VERB	RD	VerbForm=Inf	0	root	_	SpaceAfter=No
-7	:	_	PUNCT	PUNC	_	6	punct	_	_
+1	%exp%	_	NOUN	NP-SBJ	_	5	nsubj	_	_
+2	zol	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
+3	do	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+4	agev	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+5	gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+6	vern	_	AUX	RD	VerbForm=Inf	5	aux	_	SpaceAfter=No
+7	:	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1927E-ZARETSKI-SHOLEM,.140
 # X_ID = 1927E-ZARETSKI-SHOLEM,10.145

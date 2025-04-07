@@ -10017,14 +10017,14 @@
 # text = mayn gantse hoyz mitn gesheft zenen opgebrent gevorn . "
 1	mayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
 2	gantse	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
-3	hoyz	_	NOUN	N	_	8	nsubj	_	_
+3	hoyz	_	NOUN	N	_	7	nsubj	_	_
 4	mitn	_	ADP	P-CL	_	5	case	_	_
 5	gesheft	_	NOUN	N	_	3	obl	_	_
-6	zenen	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
-7	opgebrent	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	8	ccomp	_	_
-8	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	8	punct	_	SpaceAfter=No
-10	"	_	PUNCT	PUNC	_	8	punct	_	_
+6	zenen	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
+7	opgebrent	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+8	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	7	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	7	punct	_	SpaceAfter=No
+10	"	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.688
 # X_ID = 1947E-ROYTE-POMERANTSEN,31.720
@@ -10829,16 +10829,16 @@
 # text = %pro% vest zen, efsher vet zi dir nokh gefeln vern .
 1	%pro%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
 2	vest	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
-3	zen	_	VERB	VB	VerbForm=Inf	11	parataxis	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	11	punct	_	_
-5	efsher	_	ADV	ADV	Degree=Pos	11	advmod	_	_
-6	vet	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
-7	zi	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-8	dir	_	PRON	PRO-DTV	Case=Dat	11	iobj	_	_
-9	nokh	_	ADV	ADV	Degree=Pos	11	advmod	_	_
-10	gefeln	_	VERB	VX	_	11	dep	_	_
-11	vern	_	VERB	RD	VerbForm=Inf	0	root	_	SpaceAfter=No
-12	.	_	PUNCT	PUNC	_	11	punct	_	_
+3	zen	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	3	punct	_	_
+5	efsher	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+6	vet	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
+7	zi	_	PRON	PRO-NOM	Case=Nom	3	obl	_	_
+8	dir	_	PRON	PRO-DTV	Case=Dat	3	iobj	_	_
+9	nokh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+10	gefeln	_	VERB	VX	_	3	dep	_	_
+11	vern	_	AUX	RD	VerbForm=Inf	3	aux	_	SpaceAfter=No
+12	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.747
 # X_ID = 1947E-ROYTE-POMERANTSEN,32.780
@@ -11422,13 +11422,13 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.790
 # X_ID = 1947E-ROYTE-POMERANTSEN,33.824
 # text = farnakht iz der tsirk oyfgemakht gevorn,
-1	farnakht	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-2	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+1	farnakht	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+2	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 3	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
-4	tsirk	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-5	oyfgemakht	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-7	,	_	PUNCT	PUNC	_	6	punct	_	_
+4	tsirk	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
+5	oyfgemakht	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+6	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	SpaceAfter=No
+7	,	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.791
 # X_ID = 1947E-ROYTE-POMERANTSEN,33.825
@@ -36721,17 +36721,17 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2553
 # X_ID = 1947E-ROYTE-POMERANTSEN,112.2666
 # text = mer_nit, fun ale parshoynen zenen tsvey yidn geratevet gevorn,
-1	mer_nit	_	ADV	ADV	Degree=Pos	10	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	10	punct	_	_
+1	mer_nit	_	ADV	ADV	Degree=Pos	9	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	9	punct	_	_
 3	fun	_	ADP	P	_	5	case	_	_
 4	ale	_	DET	Q	_	5	det	_	_
-5	parshoynen	_	NOUN	N	_	10	obl	_	_
-6	zenen	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
+5	parshoynen	_	NOUN	N	_	9	obl	_	_
+6	zenen	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 7	tsvey	_	NUM	NUM-NOM	Case=Nom	8	nummod	_	_
-8	yidn	_	NOUN	N-NOM	Case=Nom	10	nsubj	_	_
-9	geratevet	_	VERB	VAN	Tense=Past|VerbForm=Part	10	ccomp	_	_
-10	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-11	,	_	PUNCT	PUNC	_	10	punct	_	_
+8	yidn	_	NOUN	N-NOM	Case=Nom	9	nsubj	_	_
+9	geratevet	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+10	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	9	dep	_	SpaceAfter=No
+11	,	_	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.2554
 # X_ID = 1947E-ROYTE-POMERANTSEN,112.2667
@@ -53760,11 +53760,11 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3726
 # X_ID = 1947E-ROYTE-POMERANTSEN,160.3887
 # text = iz zi opgebrent gevorn,
-1	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-2	zi	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-3	opgebrent	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	4	ccomp	_	_
-4	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	4	punct	_	_
+1	iz	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
+2	zi	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
+3	opgebrent	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+4	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	3	dep	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3727
 # X_ID = 1947E-ROYTE-POMERANTSEN,160.3888
@@ -53861,13 +53861,13 @@
 1	ba	_	ADP	P	_	4	case	_	_
 2	a	_	DET	D	PronType=Art	4	det	_	_
 3	yunge	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-4	por	_	NOUN	N-I	Definite=Ind	7	obl	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-6	geboyrn	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+4	por	_	NOUN	N-I	Definite=Ind	6	obl	_	_
+5	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+6	geboyrn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	_
 8	a	_	DET	D-NOM	Case=Nom|PronType=Art	9	det	_	_
-9	zun	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	7	nsubj	_	SpaceAfter=No
-10	.	_	PUNCT	PUNC	_	7	punct	_	_
+9	zun	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	6	nsubj	_	SpaceAfter=No
+10	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3733
 # X_ID = 1947E-ROYTE-POMERANTSEN,161.3895
@@ -56294,12 +56294,12 @@
 # X_ID = 1947E-ROYTE-POMERANTSEN,167.4059
 # text = keyn mentsh ken nit opgehit vern,
 1	keyn	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	2	det	_	_
-2	mentsh	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
-3	ken	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
-5	opgehit	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	vern	_	VERB	RD	VerbForm=Inf	0	root	_	SpaceAfter=No
-7	,	_	PUNCT	PUNC	_	6	punct	_	_
+2	mentsh	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
+3	ken	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
+4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
+5	opgehit	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+6	vern	_	AUX	RD	VerbForm=Inf	5	aux	_	SpaceAfter=No
+7	,	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.3892
 # X_ID = 1947E-ROYTE-POMERANTSEN,167.4060
@@ -81110,16 +81110,16 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.5583
 # X_ID = 1947E-ROYTE-POMERANTSEN,227.5811
 # text = iz der khosn tsetumlt gevorn fun aza groysn oylem,
-1	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+1	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
-3	khosn	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
-4	tsetumlt	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+3	khosn	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
+4	tsetumlt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 6	fun	_	ADP	P	_	9	case	_	_
 7	aza	_	ADV	ADV	Degree=Pos	9	amod	_	_
 8	groysn	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
-9	oylem	_	NOUN	N	_	5	obl	_	SpaceAfter=No
-10	,	_	PUNCT	PUNC	_	5	punct	_	_
+9	oylem	_	NOUN	N	_	4	obl	_	SpaceAfter=No
+10	,	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.5584
 # X_ID = 1947E-ROYTE-POMERANTSEN,227.5812
@@ -91750,15 +91750,15 @@
 2	@fl	_	DET	Q	_	1	det	_	_
 3	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	5	expl	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-5	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	13	nsubj	_	_
+5	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	12	nsubj	_	_
 6	%t%-1	_	DET	QP	_	5	dep	_	_
 7	mentshn	_	NOUN	N	_	6	conj	_	_
 8	oyfn	_	ADP	P-CL	_	9	case	_	_
 9	feld	_	NOUN	N	_	5	obl	_	SpaceAfter=No
-10	,	_	PUNCT	PUNC	_	13	punct	_	_
-11	zenen	_	AUX	BEF	VerbForm=Fin	13	cop	_	_
-12	oyfgetsitert	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	13	ccomp	_	_
-13	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+10	,	_	PUNCT	PUNC	_	12	punct	_	_
+11	zenen	_	AUX	BEF	VerbForm=Fin	12	cop	_	_
+12	oyfgetsitert	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+13	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	12	dep	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.6297
 # X_ID = 1947E-ROYTE-POMERANTSEN,248.6546
@@ -92981,18 +92981,18 @@
 # sent_id = 1947E-ROYTE-POMERANTSEN,.6372
 # X_ID = 1947E-ROYTE-POMERANTSEN,248.6621
 # text = un %con% iz ongeshtoysn gevorn oyf mir un in kas gevorn .
-1	un	_	CCONJ	CONJ	_	5	cc	_	_
-2	%con%	_	NOUN	NP-SBJ	_	5	nsubj	_	_
-3	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-4	ongeshtoysn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	un	_	CCONJ	CONJ	_	4	cc	_	_
+2	%con%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
+3	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+4	ongeshtoysn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+5	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 6	oyf	_	ADP	P	_	7	case	_	_
-7	mir	_	PRON	PRO	_	5	obl	_	_
+7	mir	_	PRON	PRO	_	4	obl	_	_
 8	un	_	CCONJ	CONJ	_	11	cc	_	_
 9	in	_	ADP	P	_	10	case	_	_
 10	kas	_	NOUN	N	_	11	obl	_	_
-11	gevorn	_	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No
-12	.	_	PUNCT	PUNC	_	5	punct	_	_
+11	gevorn	_	VERB	VBN	Tense=Past|VerbForm=Part	4	conj	_	SpaceAfter=No
+12	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1947E-ROYTE-POMERANTSEN,.6373
 # X_ID = 1947E-ROYTE-POMERANTSEN,248.6622

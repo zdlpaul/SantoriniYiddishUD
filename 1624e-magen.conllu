@@ -9,27 +9,27 @@
 # X_ID = 1624E-MAGEN,1.4
 # text = ds sfr iz vardn gimkht oyz lshun hkudsh in teytsh
 1	ds	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	sfr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
-3	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-4	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-5	gimkht	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
+2	sfr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
+3	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+4	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	_
+5	gimkht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 6	oyz	_	ADP	P	_	7	dep	_	_
-7	lshun	language	X	H	_	4	obl	_	_
+7	lshun	language	X	H	_	5	obl	_	_
 8	hkudsh	the_holy	X	H	_	7	dep	_	_
 9	in	_	ADP	P	_	10	case	_	_
-10	teytsh	_	NOUN	N	_	4	obl	_	_
+10	teytsh	_	NOUN	N	_	5	obl	_	_
 
 # sent_id = 1624E-MAGEN,.3
 # X_ID = 1624E-MAGEN,1.5
 # text = den in dizm sfr vert dr_tsilt di grusi nisim vnplaut di %t%-1 hk"bh hut gitun abraham abinu e"h da in nmrud hmlkh hut givarfn in klikh_uvn vi hk"bh iz zelbrt fun himl hirbr ginidrt un' %con% hut abrhm abinu mtsil givest oys dem klikh_ubn un' im keyn har iz varn var_zenkt nukh bur_brend an zeynm leyb dr_veyl er hut gat i"t alzu vleysig gidint mit gntsm hertsn un' %con% hut in vleysig an girufn tsu helfn im
-1	den	_	CCONJ	CONJ	_	5	cc	_	_
+1	den	_	CCONJ	CONJ	_	6	cc	_	_
 2	in	_	ADP	P	_	4	case	_	_
 3	dizm	_	DET	D	PronType=Art	4	det	_	_
-4	sfr	_	NOUN	N	_	5	obl	_	_
-5	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	dr_tsilt	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
+4	sfr	_	NOUN	N	_	6	obl	_	_
+5	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+6	dr_tsilt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 7	di	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
-8	grusi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	5	nsubj	_	_
+8	grusi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	6	nsubj	_	_
 9	nisim	wonders	X	H	_	8	dep	_	_
 10	vnplaut	and_miracles	X	H	_	8	dep	_	_
 11	di	_	PRON	WPRO	_	15	obj	_	_
@@ -338,12 +338,12 @@
 # sent_id = 1624E-MAGEN,.18
 # X_ID = 1624E-MAGEN,2.21
 # text = un' hintn_nukh vert er erbn eulm_hzh un' eulm_hba
-1	un'	_	CCONJ	CONJ	_	3	cc	_	_
-2	hintn_nukh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-3	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-5	erbn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
-6	eulm_hzh	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
+1	un'	_	CCONJ	CONJ	_	5	cc	_	_
+2	hintn_nukh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+3	vert	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+4	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
+5	erbn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+6	eulm_hzh	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
 7	un'	_	CCONJ	CONJ	_	8	cc	_	_
 8	eulm_hba	_	NOUN	N-ACC	Case=Acc	6	conj	_	_
 
@@ -1832,15 +1832,15 @@
 # sent_id = 1624E-MAGEN,.113
 # X_ID = 1624E-MAGEN,5.119
 # text = da vert ya gisehn nukh mer vaundr fun hk"bh
-1	da	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	ya	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	gisehn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	da	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	4	aux	_	_
+3	ya	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+4	gisehn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 5	nukh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 6	mer	_	DET	Q	_	5	det	_	_
-7	vaundr	_	NOUN	N	_	2	nsubj	_	_
+7	vaundr	_	NOUN	N	_	4	nsubj	_	_
 8	fun	_	ADP	P	_	9	dep	_	_
-9	hk"bh	the_holy_blessed_he	X	H	_	2	obl	_	_
+9	hk"bh	the_holy_blessed_he	X	H	_	4	obl	_	_
 
 # sent_id = 1624E-MAGEN,.114
 # X_ID = 1624E-MAGEN,5.120
@@ -2082,10 +2082,10 @@
 # sent_id = 1624E-MAGEN,.131
 # X_ID = 1624E-MAGEN,6.138
 # text = un' er vert vr_shemt
-1	un'	_	CCONJ	CONJ	_	3	cc	_	_
-2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-3	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	vr_shemt	_	VERB	VAN	Tense=Past|VerbForm=Part	3	ccomp	_	_
+1	un'	_	CCONJ	CONJ	_	4	cc	_	_
+2	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+3	vert	_	AUX	RDF	VerbForm=Fin	4	aux	_	_
+4	vr_shemt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1624E-MAGEN,.132
 # X_ID = 1624E-MAGEN,6.139

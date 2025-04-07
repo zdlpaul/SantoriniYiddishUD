@@ -81,14 +81,14 @@
 # sent_id = 1648W-KINE,.5
 # X_ID = 1648W-KINE,198.7
 # text = darinn vert %pro% als bkitsur lezn az ver er zelbrt dr_bey givezn vas %ich%-2 %t%-1 zikh far mesim habn far_lafn un eyn teyl khlut di %t%-3 es hat gitrafn
-1	darinn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	%pro%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
-4	als	_	DET	Q-ACC	Case=Acc	2	obj	_	_
-5	bkitsur	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-6	lezn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	darinn	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+3	%pro%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
+4	als	_	DET	Q-ACC	Case=Acc	6	obj	_	_
+5	bkitsur	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+6	lezn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 7	az	_	ADP	P	_	8	case	_	_
-8	ver	_	AUX	BEF	VerbForm=Fin	2	obl	_	_
+8	ver	_	AUX	BEF	VerbForm=Fin	6	obl	_	_
 9	er	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 10	zelbrt	_	ADV	ADV	Degree=Pos	12	advmod	_	_
 11	dr_bey	_	ADP	P	_	12	obl	_	_
@@ -100,7 +100,7 @@
 17	far	_	ADP	P	_	18	case	_	_
 18	mesim	_	NOUN	N	_	20	obl	_	_
 19	habn	_	AUX	HVF	VerbForm=Fin	20	aux	_	_
-20	far_lafn	_	VERB	VBN	Tense=Past|VerbForm=Part	2	dep	_	_
+20	far_lafn	_	VERB	VBN	Tense=Past|VerbForm=Part	6	dep	_	_
 21	un	_	CCONJ	CONJ	_	23	cc	_	_
 22	eyn	_	DET	D	PronType=Art	23	det	_	_
 23	teyl	_	NOUN	N-I	Definite=Ind	20	conj	_	_
@@ -117,18 +117,18 @@
 1	ver	_	PRON	WPRO	_	4	obj	_	_
 2	%t%-1	_	NOUN	NP-SBJ	_	4	nsubj	_	_
 3	vert	_	AUX	RDF	VerbForm=Fin	4	aux	_	_
-4	leyann	_	VERB	VB	VerbForm=Inf	7	nsubj	_	_
+4	leyann	_	VERB	VB	VerbForm=Inf	10	nsubj	_	_
 5	di	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
 6	kinh	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
-7	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-8	zikh	_	PRON	PRO-RFL	PronType=Reflex	7	expl:pv	_	_
-9	gvis	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-10	bzinh	_	VERB	VB	VerbForm=Inf	7	dep	_	_
+7	vert	_	AUX	RDF	VerbForm=Fin	10	aux	_	_
+8	zikh	_	PRON	PRO-RFL	PronType=Reflex	10	expl:pv	_	_
+9	gvis	_	ADV	ADV	Degree=Pos	10	advmod	_	_
+10	bzinh	_	VERB	VB	VerbForm=Inf	0	root	_	_
 11	tsubh	repentance	X	H	_	15	dep	_	_
 12	tfilh	prayer	X	H	_	11	dep	_	_
 13	tsdkh	charity	X	H	_	11	dep	_	_
 14	tsu	_	PART	TO	_	15	mark	_	_
-15	tan	_	VERB	VB	VerbForm=Inf	7	xcomp	_	_
+15	tan	_	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 
 # sent_id = 1648W-KINE,.7
 # X_ID = 1648W-KINE,198.9
@@ -749,20 +749,20 @@
 1	kbud	honor	X	H	_	4	dep	_	_
 2	hgaun	the_Gaon	X	H	_	4	dep	_	_
 3	muhrr	teacher_our_and_rabbi_our_the_master	X	H	_	4	dep	_	_
-4	mikhl	_	PROPN	NPR	_	16	nsubj	_	_
+4	mikhl	_	PROPN	NPR	_	17	nsubj	_	_
 5	eyn	_	DET	D	PronType=Art	6	det	_	_
 6	rb	_	NOUN	N-I	Definite=Ind	4	appos	_	_
 7	fr	_	ADP	P	_	10	case	_	_
 8	di	_	DET	D	PronType=Art	10	det	_	_
 9	gntsi	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	velt	_	NOUN	N-D	Definite=Def	6	obl	_	_
-11	iz	_	AUX	BEF	VerbForm=Fin	16	cop	_	_
-12	akh	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+11	iz	_	AUX	BEF	VerbForm=Fin	17	cop	_	_
+12	akh	_	ADV	ADV	Degree=Pos	17	advmod	_	_
 13	durkh	_	ADP	P	_	15	case	_	_
 14	iri	_	PRON	PRO$	_	15	det:poss	_	_
-15	hend	_	NOUN	N	_	16	obl	_	_
-16	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-17	gifelt	_	VERB	VAN	Tense=Past|VerbForm=Part	16	ccomp	_	_
+15	hend	_	NOUN	N	_	17	obl	_	_
+16	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	17	dep	_	_
+17	gifelt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1648W-KINE,.48
 # X_ID = 1648W-KINE,200.11.61
@@ -849,13 +849,13 @@
 # X_ID = 1648W-KINE,201.13.66
 # text = iri nshmut vern gvis ruan bey andri frumn di %t%-1 el kidush hsm zeyn um kumn
 1	iri	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
-2	nshmut	_	NOUN	N	_	3	nsubj	_	_
-3	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	gvis	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	ruan	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+2	nshmut	_	NOUN	N	_	5	nsubj	_	_
+3	vern	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+4	gvis	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+5	ruan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	bey	_	ADP	P	_	8	case	_	_
 7	andri	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-8	frumn	_	NOUN	N	_	3	obl	_	_
+8	frumn	_	NOUN	N	_	5	obl	_	_
 9	di	_	PRON	WPRO	_	16	obj	_	_
 10	%t%-1	_	NOUN	NP-SBJ	_	16	nsubj	_	_
 11	el	on	X	H	_	16	dep	_	_
@@ -1127,20 +1127,20 @@
 # sent_id = 1648W-KINE,.72
 # X_ID = 1648W-KINE,202.19.93
 # text = kleyn un@ @grus, yung un alt, als gihrgt vardn beu"h mit givlt
-1	kleyn	_	ADJ	ADJ	Degree=Pos	11	obl	_	_
+1	kleyn	_	ADJ	ADJ	Degree=Pos	10	obl	_	_
 2	un@	_	CCONJ	CONJ	_	3	cc	_	_
 3	@grus	_	ADJ	ADJ	Degree=Pos	1	conj	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	1	punct	_	_
 5	yung	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
 6	un	_	CCONJ	CONJ	_	7	cc	_	_
 7	alt	_	ADJ	ADJ	Degree=Pos	5	conj	_	SpaceAfter=No
-8	,	_	PUNCT	PUNC	_	11	punct	_	_
-9	als	_	DET	Q-NOM	Case=Nom	11	nsubj	_	_
-10	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	11	ccomp	_	_
-11	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-12	beu"h	for_sins_our_the_many	X	H	_	11	obl	_	_
+8	,	_	PUNCT	PUNC	_	10	punct	_	_
+9	als	_	DET	Q-NOM	Case=Nom	10	nsubj	_	_
+10	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+11	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	10	dep	_	_
+12	beu"h	for_sins_our_the_many	X	H	_	10	obl	_	_
 13	mit	_	ADP	P	_	14	case	_	_
-14	givlt	_	NOUN	N	_	11	obl	_	_
+14	givlt	_	NOUN	N	_	10	obl	_	_
 
 # sent_id = 1648W-KINE,.73
 # X_ID = 1648W-KINE,202.19.94
@@ -1627,12 +1627,12 @@
 # sent_id = 1648W-KINE,.107
 # X_ID = 1648W-KINE,203.29.138
 # text = %con% zeynn gihrgt gvarn mit shvertir un mesir
-1	%con%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
-2	zeynn	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-3	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
-4	gvarn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
+2	zeynn	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
+3	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+4	gvarn	_	VERB	RDN	Tense=Past|VerbForm=Part	3	dep	_	_
 5	mit	_	ADP	P	_	6	case	_	_
-6	shvertir	_	NOUN	N	_	4	obl	_	_
+6	shvertir	_	NOUN	N	_	3	obl	_	_
 7	un	_	CCONJ	CONJ	_	8	cc	_	_
 8	mesir	_	NOUN	N	_	6	conj	_	_
 
@@ -1695,7 +1695,7 @@
 4	gut	_	NOUN	N	_	2	conj	_	_
 5	hat	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
 6	mn	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-7	niks	_	DET	Q	_	9	obl	_	_
+7	niks	_	DET	Q-NEG	Polarity=Neg	9	obl	_	_
 8	kenn	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	9	aux	_	_
 9	endn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 10	mtsil	_	ADP	RP-H	_	12	compound:prt	_	_
@@ -2067,17 +2067,17 @@
 # sent_id = 1648W-KINE,.142
 # X_ID = 1648W-KINE,205.38.182
 # text = frflukht zal vern der tag un stundn az uns habn giltsert zelkhi hundn
-1	frflukht	_	VERB	VAN	Tense=Past|VerbForm=Part	3	ccomp	_	_
-2	zal	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
-3	vern	_	VERB	RD	VerbForm=Inf	0	root	_	_
+1	frflukht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+2	zal	_	AUX	MDF	VerbForm=Fin	1	aux	_	_
+3	vern	_	AUX	RD	VerbForm=Inf	1	aux	_	_
 4	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
-5	tag	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	_
+5	tag	_	NOUN	N-NOM	Case=Nom	1	nsubj	_	_
 6	un	_	CCONJ	CONJ	_	7	cc	_	_
 7	stundn	_	NOUN	N	_	5	conj	_	_
 8	az	_	SCONJ	C	_	11	mark	_	_
 9	uns	_	PRON	PRO-ACC	Case=Acc	11	obj	_	_
 10	habn	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
-11	giltsert	_	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	_
+11	giltsert	_	VERB	VBN	Tense=Past|VerbForm=Part	1	advcl	_	_
 12	zelkhi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	13	amod	_	_
 13	hundn	_	NOUN	N-NOM	Case=Nom	11	nsubj	_	_
 
@@ -2244,7 +2244,7 @@
 8	inn	_	PRON	PRO	_	10	obl	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
 10	sprekhn	_	VERB	VB	VerbForm=Inf	11	xcomp	_	_
-11	niks	_	DET	Q	_	2	nsubj	_	_
+11	niks	_	DET	Q-NEG	Polarity=Neg	2	nsubj	_	_
 12	andrst	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 13	az	_	ADP	P	_	12	amod	_	_
 14	hoyan	_	VERB	VB	VerbForm=Inf	13	dep	_	_
@@ -2737,11 +2737,11 @@
 # sent_id = 1648W-KINE,.194
 # X_ID = 1648W-KINE,207.52.248
 # text = ikh ver nit kenin %ellps%
-1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-2	ver	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
-4	kenin	_	AUX	MD	VerbForm=Inf	2	aux	_	_
-5	%ellps%	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
+2	ver	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
+4	kenin	_	AUX	MD	VerbForm=Inf	5	aux	_	_
+5	%ellps%	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1648W-KINE,.195
 # X_ID = 1648W-KINE,207.52.249
@@ -3134,14 +3134,14 @@
 # sent_id = 1648W-KINE,.227
 # X_ID = 1648W-KINE,208.60.289
 # text = %con% iz in der shul ghrg givarn far_kert di gagn
-1	%con%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
-2	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
+1	%con%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
+2	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
 3	in	_	ADP	P	_	5	case	_	_
 4	der	_	DET	D	PronType=Art	5	det	_	_
-5	shul	_	NOUN	N-D	Definite=Def	7	obl	_	_
-6	ghrg	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-8	far_kert	_	VERB	VAN	Tense=Past|VerbForm=Part	7	advcl	_	_
+5	shul	_	NOUN	N-D	Definite=Def	6	obl	_	_
+6	ghrg	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	_
+8	far_kert	_	VERB	VAN	Tense=Past|VerbForm=Part	6	advcl	_	_
 9	di	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 10	gagn	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	8	nsubj	_	_
 
@@ -3451,15 +3451,15 @@
 # sent_id = 1648W-KINE,.248
 # X_ID = 1648W-KINE,209.67.317
 # text = sn t"g t' tmuz vard fr_stert ir shini tsir
-1	sn	year	X	H	_	5	dep	_	_
+1	sn	year	X	H	_	6	dep	_	_
 2	t"g	1643	X	H	_	1	dep	_	_
 3	t'	9	X	H	_	1	dep	_	_
 4	tmuz	Tamuz	X	H	_	1	dep	_	_
-5	vard	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	fr_stert	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
+5	vard	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+6	fr_stert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 7	ir	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	det:poss	_	_
 8	shini	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-9	tsir	_	NOUN	N	_	5	nsubj	_	_
+9	tsir	_	NOUN	N	_	6	nsubj	_	_
 
 # sent_id = 1648W-KINE,.249
 # X_ID = 1648W-KINE,210.68.319
@@ -3779,11 +3779,11 @@
 # sent_id = 1648W-KINE,.272
 # X_ID = 1648W-KINE,211.75.349
 # text = %exp% vert bald besr verdn
-1	%exp%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	bald	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-4	besr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
-5	verdn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	%exp%	_	NOUN	NP-SBJ	_	5	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+3	bald	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+4	besr	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	verdn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1648W-KINE,.273
 # X_ID = 1648W-KINE,211.75.350
@@ -3810,20 +3810,20 @@
 # sent_id = 1648W-KINE,.274
 # X_ID = 1648W-KINE,211.76.352
 # text = mshikh zeyn libn knekht vert er dr_vekn emlk un sunaim ir namn oys mekn
-1	mshikh	_	PROPN	NPR-ACC	_	5	dep	_	_
+1	mshikh	_	PROPN	NPR-ACC	_	7	dep	_	_
 2	zeyn	_	PRON	PRO$	_	4	det:poss	_	_
 3	libn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 4	knekht	_	NOUN	N	_	1	appos	_	_
-5	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-7	dr_vekn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+5	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+6	er	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+7	dr_vekn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	emlk	_	NOUN	N-ACC	Case=Acc	14	obj	_	_
 9	un	_	CCONJ	CONJ	_	10	cc	_	_
 10	sunaim	_	NOUN	N-ACC	Case=Acc	8	conj	_	_
 11	ir	_	PRON	PRO$	_	8	det:poss	_	_
 12	namn	_	NOUN	N	_	8	conj	_	_
 13	oys	_	ADP	RP	_	14	compound:prt	_	_
-14	mekn	_	VERB	VB	VerbForm=Inf	5	conj	_	_
+14	mekn	_	VERB	VB	VerbForm=Inf	7	conj	_	_
 
 # sent_id = 1648W-KINE,.275
 # X_ID = 1648W-KINE,211.76.353
@@ -3840,25 +3840,25 @@
 # sent_id = 1648W-KINE,.276
 # X_ID = 1648W-KINE,211.76.354
 # text = den er vert als msptn mit zeynm stekn
-1	den	_	CCONJ	CONJ	_	3	cc	_	_
-2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-3	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	als	_	DET	Q-ACC	Case=Acc	3	obj	_	_
-5	msptn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+1	den	_	CCONJ	CONJ	_	5	cc	_	_
+2	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
+3	vert	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+4	als	_	DET	Q-ACC	Case=Acc	5	obj	_	_
+5	msptn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	mit	_	ADP	P	_	8	case	_	_
 7	zeynm	_	PRON	PRO$	_	8	det:poss	_	_
-8	stekn	_	NOUN	N	_	3	obl	_	_
+8	stekn	_	NOUN	N	_	5	obl	_	_
 
 # sent_id = 1648W-KINE,.277
 # X_ID = 1648W-KINE,211.77.356
 # text = nkhmut un bsurut tubut vern mir shoyan
-1	nkhmut	revenge?	X	H	_	5	dep	_	_
+1	nkhmut	revenge?	X	H	_	7	dep	_	_
 2	un	_	CCONJ	CONJ	_	3	cc	_	_
 3	bsurut	news	X	H	_	1	conj	_	_
 4	tubut	good	X	H	_	3	dep	_	_
-5	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	mir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-7	shoyan	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+5	vern	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+6	mir	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+7	shoyan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1648W-KINE,.278
 # X_ID = 1648W-KINE,211.77.357
@@ -3912,11 +3912,11 @@
 # sent_id = 1648W-KINE,.280
 # X_ID = 1648W-KINE,211.78.360
 # text = fargesn vert vern ali troyarn un leyd
-1	fargesn	_	VERB	VAN	Tense=Past|VerbForm=Part	2	ccomp	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	vern	_	AUX	RD	VerbForm=Inf	2	aux	_	_
+1	fargesn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	1	aux	_	_
+3	vern	_	AUX	RD	VerbForm=Inf	1	aux	_	_
 4	ali	_	DET	Q-NOM	Case=Nom	5	det	_	_
-5	troyarn	_	NOUN	N-NOM	Case=Nom	2	nsubj	_	_
+5	troyarn	_	NOUN	N-NOM	Case=Nom	1	nsubj	_	_
 6	un	_	CCONJ	CONJ	_	7	cc	_	_
 7	leyd	_	NOUN	N	_	5	conj	_	_
 

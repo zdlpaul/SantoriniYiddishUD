@@ -999,7 +999,7 @@
 24	tshubh	_	NOUN	N	_	23	dep	_	_
 25	hilft	_	VERB	VBF	VerbForm=Fin	23	dep	_	_
 26	im	_	PRON	PRO	_	23	nmod	_	_
-27	niks	_	DET	Q	_	23	det	_	_
+27	niks	_	DET	Q-NEG	Polarity=Neg	23	det	_	_
 28	biz	_	ADP	P	_	23	case	_	_
 29	dz	_	SCONJ	C	_	23	mark	_	_
 30	er	_	PRON	PRO	_	23	nmod	_	_
@@ -2720,12 +2720,12 @@
 # sent_id = 1932E-SHTIF,.121
 # X_ID = 1932E-SHTIF,58.127
 # text = azoyarum vert tserunen di gore legende vegn hebreishn zatsboy in yidish
-1	azoyarum	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	tserunen	_	VERB	VAN	Tense=Past|VerbForm=Part	2	ccomp	_	_
+1	azoyarum	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	3	aux	_	_
+3	tserunen	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 5	gore	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	6	amod	_	_
-6	legende	_	NOUN	N-NOM	Case=Nom	2	nsubj	_	_
+6	legende	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	_
 7	vegn	_	ADP	P	_	9	case	_	_
 8	hebreishn	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 9	zatsboy	_	NOUN	N	_	6	obl	_	_

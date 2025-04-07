@@ -47,7 +47,7 @@
 # sent_id = 1946E-MARK,.4
 # X_ID = 1946E-MARK,1.6
 # text = afilu di vos yidish iz zeyer natirlekh loshn, zeyer mutershprakh, kenen geshtroykhlt vern in gevise faln,
-1	afilu	_	PART	FP	Degree=Pos	15	nsubj	_	_
+1	afilu	_	PART	FP	Degree=Pos	14	nsubj	_	_
 2	di	_	DET	D	PronType=Art	1	det	_	_
 3	vos	_	SCONJ	C	_	5	mark	_	_
 4	yidish	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
@@ -58,14 +58,14 @@
 9	,	_	PUNCT	PUNC	_	6	punct	_	_
 10	zeyer	_	PRON	PRO$	_	11	det:poss	_	_
 11	mutershprakh	_	NOUN	N	_	6	appos	_	SpaceAfter=No
-12	,	_	PUNCT	PUNC	_	15	punct	_	_
-13	kenen	_	AUX	MDF	VerbForm=Fin	15	aux	_	_
-14	geshtroykhlt	_	VERB	VAN	Tense=Past|VerbForm=Part	15	ccomp	_	_
-15	vern	_	VERB	RD	VerbForm=Inf	0	root	_	_
+12	,	_	PUNCT	PUNC	_	14	punct	_	_
+13	kenen	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
+14	geshtroykhlt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+15	vern	_	AUX	RD	VerbForm=Inf	14	aux	_	_
 16	in	_	ADP	P	_	18	case	_	_
 17	gevise	_	ADJ	ADJ	Degree=Pos	18	amod	_	_
-18	faln	_	NOUN	N	_	15	obl	_	SpaceAfter=No
-19	,	_	PUNCT	PUNC	_	15	punct	_	_
+18	faln	_	NOUN	N	_	14	obl	_	SpaceAfter=No
+19	,	_	PUNCT	PUNC	_	14	punct	_	_
 
 # sent_id = 1946E-MARK,.5
 # X_ID = 1946E-MARK,1.7
@@ -251,13 +251,13 @@
 # text = der yidisher verter-seyder ken ongerufn vern a gebundener .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 2	yidisher	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	amod	_	_
-3	verter-seyder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-4	ken	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-5	ongerufn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	vern	_	VERB	RD	VerbForm=Inf	0	root	_	_
+3	verter-seyder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
+4	ken	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
+5	ongerufn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+6	vern	_	AUX	RD	VerbForm=Inf	5	aux	_	_
 7	a	_	DET	D	PronType=Art	8	det	_	_
-8	gebundener	_	NOUN	N-I	Definite=Ind	6	xcomp	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	6	punct	_	_
+8	gebundener	_	NOUN	N-I	Definite=Ind	5	xcomp	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1946E-MARK,.12
 # X_ID = 1946E-MARK,1.14
@@ -314,23 +314,23 @@
 # text = ven mir hobn far zikh a konkretn zats, iz der seyder fun zeyne verter bashtimt gevorn durkh drey faktorn : dem historishn, dem psikhologishn un dem ritmishn .
 1	ven	_	SCONJ	C	_	3	mark	_	_
 2	mir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-3	hobn	_	VERB	VBF	VerbForm=Fin	17	advcl	_	_
+3	hobn	_	VERB	VBF	VerbForm=Fin	16	advcl	_	_
 4	far	_	ADP	P	_	5	case	_	_
 5	zikh	_	PRON	PRO	_	3	obl	_	_
 6	a	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
 7	konkretn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	8	amod	_	_
 8	zats	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	3	obj	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	3	punct	_	_
-10	iz	_	AUX	BEF	VerbForm=Fin	17	cop	_	_
+10	iz	_	AUX	BEF	VerbForm=Fin	16	cop	_	_
 11	der	_	DET	D-NOM	Case=Nom|PronType=Art	12	det	_	_
-12	seyder	_	NOUN	N-NOM	Case=Nom	17	nsubj	_	_
+12	seyder	_	NOUN	N-NOM	Case=Nom	16	nsubj	_	_
 13	fun	_	ADP	P	_	15	case	_	_
 14	zeyne	_	PRON	PRO$	_	15	det:poss	_	_
 15	verter	_	NOUN	N	_	12	obl	_	_
-16	bashtimt	_	VERB	VAN	Tense=Past|VerbForm=Part	17	ccomp	_	_
-17	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+16	bashtimt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+17	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	16	dep	_	_
 18	durkh	_	ADP	P	_	19	case	_	_
-19	drey	_	NUM	NUM	_	17	obl	_	_
+19	drey	_	NUM	NUM	_	16	obl	_	_
 20	faktorn	_	NOUN	N	_	19	conj	_	SpaceAfter=No
 21	:	_	PUNCT	PUNC	_	19	punct	_	_
 22	dem	_	DET	D	PronType=Art	23	det	_	_
@@ -341,7 +341,7 @@
 27	un	_	CCONJ	CONJ	_	29	cc	_	_
 28	dem	_	DET	D	PronType=Art	29	det	_	_
 29	ritmishn	_	NOUN	N-D	Definite=Def	23	conj	_	SpaceAfter=No
-30	.	_	PUNCT	PUNC	_	17	punct	_	_
+30	.	_	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = 1946E-MARK,.15
 # X_ID = 1946E-MARK,1.17
@@ -745,20 +745,20 @@
 # sent_id = 1946E-MARK,.32
 # X_ID = 1946E-MARK,2.34
 # text = nor dos ritmishe vert oykh bashtimt fun dem historishn un dem psikhologishn faktor .
-1	nor	_	CCONJ	CONJ	_	4	cc	_	_
+1	nor	_	CCONJ	CONJ	_	6	cc	_	_
 2	dos	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
-3	ritmishe	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
-4	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-5	oykh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-6	bashtimt	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
+3	ritmishe	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
+4	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+5	oykh	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+6	bashtimt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 7	fun	_	ADP	P	_	9	case	_	_
 8	dem	_	DET	D	PronType=Art	9	det	_	_
-9	historishn	_	ADJ	ADJ	Degree=Pos	4	obl	_	_
+9	historishn	_	ADJ	ADJ	Degree=Pos	6	obl	_	_
 10	un	_	CCONJ	CONJ	_	13	cc	_	_
 11	dem	_	DET	D	PronType=Art	13	det	_	_
 12	psikhologishn	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
 13	faktor	_	NOUN	N-D	Definite=Def	9	conj	_	SpaceAfter=No
-14	.	_	PUNCT	PUNC	_	4	punct	_	_
+14	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1946E-MARK,.33
 # X_ID = 1946E-MARK,2.35
@@ -1877,20 +1877,20 @@
 # sent_id = 1946E-MARK,.93
 # X_ID = 1946E-MARK,4.96
 # text = agev, eyder mir geyen vayter, zol %exp% do nokh gezogt vern, az der ufn aroysreydn, di intonatsie fun opteyln oder tsunoyfnemen in eynem, bashtimt tsi mir hobn tsu ton mit eyn seyder-eyns oder mit tsvey .
-1	agev	_	ADV	ADV	Degree=Pos	13	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	13	punct	_	_
+1	agev	_	ADV	ADV	Degree=Pos	12	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	12	punct	_	_
 3	eyder	_	SCONJ	C	_	5	mark	_	_
 4	mir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-5	geyen	_	VERB	VBF	VerbForm=Fin	13	advcl	_	_
+5	geyen	_	VERB	VBF	VerbForm=Fin	12	advcl	_	_
 6	vayter	_	ADV	ADVR	Degree=Cmp	5	advmod	_	SpaceAfter=No
-7	,	_	PUNCT	PUNC	_	13	punct	_	_
-8	zol	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
-9	%exp%	_	NOUN	NP-SBJ-1	_	13	nsubj	_	_
-10	do	_	ADV	ADV	Degree=Pos	13	advmod	_	_
-11	nokh	_	ADV	ADV	Degree=Pos	13	advmod	_	_
-12	gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	13	ccomp	_	_
-13	vern	_	VERB	RD	VerbForm=Inf	0	root	_	SpaceAfter=No
-14	,	_	PUNCT	PUNC	_	13	punct	_	_
+7	,	_	PUNCT	PUNC	_	12	punct	_	_
+8	zol	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
+9	%exp%	_	NOUN	NP-SBJ-1	_	12	nsubj	_	_
+10	do	_	ADV	ADV	Degree=Pos	12	advmod	_	_
+11	nokh	_	ADV	ADV	Degree=Pos	12	advmod	_	_
+12	gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+13	vern	_	AUX	RD	VerbForm=Inf	12	aux	_	SpaceAfter=No
+14	,	_	PUNCT	PUNC	_	12	punct	_	_
 15	az	_	SCONJ	C	_	29	mark	_	_
 16	der	_	DET	D-NOM	Case=Nom|PronType=Art	21	det	_	_
 17	ufn	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	21	amod	_	_
@@ -1905,7 +1905,7 @@
 26	in	_	ADP	P	_	27	case	_	_
 27	eynem	_	PRON	PRO	_	25	obl	_	SpaceAfter=No
 28	,	_	PUNCT	PUNC	_	29	punct	_	_
-29	bashtimt	_	VERB	VBF	VerbForm=Fin	13	ccomp	_	_
+29	bashtimt	_	VERB	VBF	VerbForm=Fin	12	ccomp	_	_
 30	tsi	_	SCONJ	C	_	32	mark	_	_
 31	mir	_	PRON	PRO-NOM	Case=Nom	32	nsubj	_	_
 32	hobn	_	VERB	VBF	VerbForm=Fin	29	dep	_	_
@@ -1917,7 +1917,7 @@
 38	oder	_	CCONJ	CONJ	_	40	cc	_	_
 39	mit	_	ADP	P	_	40	case	_	_
 40	tsvey	_	NOUN	N	_	37	conj	_	SpaceAfter=No
-41	.	_	PUNCT	PUNC	_	13	punct	_	_
+41	.	_	PUNCT	PUNC	_	12	punct	_	_
 
 # sent_id = 1946E-MARK,.94
 # X_ID = 1946E-MARK,4.97
@@ -2818,10 +2818,10 @@
 1	oyf	_	ADP	P	_	4	case	_	_
 2	an	_	DET	D	PronType=Art	4	det	_	_
 3	umbashtimtn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-4	ufn	_	NOUN	N-I	Definite=Ind	5	obl	_	_
-5	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	do	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-7	aroysgebrakht	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	5	ccomp	_	_
+4	ufn	_	NOUN	N-I	Definite=Ind	7	obl	_	_
+5	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+6	do	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+7	aroysgebrakht	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
 8	an	_	DET	D	PronType=Art	16	dep	_	_
 9	erkh	_	X	X	_	8	dep	_	_
 10	dos	_	DET	D	PronType=Art	16	det	_	_
@@ -2830,7 +2830,7 @@
 13	:	_	PUNCT	PUNC	_	16	punct	_	_
 14	dos	_	DET	D	PronType=Art	16	det	_	_
 15	gantse	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
-16	arumike	_	NOUN	N-D	Definite=Def	5	nsubj	_	SpaceAfter=No
+16	arumike	_	NOUN	N-D	Definite=Def	7	nsubj	_	SpaceAfter=No
 17	,	_	PUNCT	PUNC	_	16	punct	_	_
 18	di	_	DET	D	PronType=Art	20	det	_	_
 19	droysndike	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
@@ -3030,13 +3030,13 @@
 # sent_id = 1946E-MARK,.158
 # X_ID = 1946E-MARK,6.163
 # text = un vi nor der emeser subyekt kumt in onheyb, oder ven an ander seyder-eyns farnemt dos ort onheyb zats, vert farshvundn der fiktiver subyekt,
-1	un	_	CCONJ	CONJ	_	22	cc	_	_
+1	un	_	CCONJ	CONJ	_	23	cc	_	_
 2	vi	_	SCONJ	C	_	7	mark	_	_
 3	nor	_	ADV	FP	Degree=Pos	6	advmod	_	_
 4	der	_	DET	D	PronType=Art	6	det	_	_
 5	emeser	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 6	subyekt	_	NOUN	N-D	Definite=Def	7	nsubj	_	_
-7	kumt	_	VERB	VBF	VerbForm=Fin	22	advcl	_	_
+7	kumt	_	VERB	VBF	VerbForm=Fin	23	advcl	_	_
 8	in	_	ADP	P	_	9	case	_	_
 9	onheyb	_	NOUN	N	_	7	obl	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	7	punct	_	_
@@ -3050,13 +3050,13 @@
 18	ort	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
 19	onheyb	_	NOUN	N-ACC	Case=Acc	18	appos	_	_
 20	zats	_	NOUN	N-ACC	Case=Acc	19	nmod:poss	_	SpaceAfter=No
-21	,	_	PUNCT	PUNC	_	22	punct	_	_
-22	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-23	farshvundn	_	VERB	VAN	Tense=Past|VerbForm=Part	22	ccomp	_	_
+21	,	_	PUNCT	PUNC	_	23	punct	_	_
+22	vert	_	AUX	RDF	VerbForm=Fin	23	aux	_	_
+23	farshvundn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 24	der	_	DET	D-NOM	Case=Nom|PronType=Art	26	det	_	_
 25	fiktiver	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	26	amod	_	_
-26	subyekt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	22	nsubj	_	SpaceAfter=No
-27	,	_	PUNCT	PUNC	_	22	punct	_	_
+26	subyekt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	23	nsubj	_	SpaceAfter=No
+27	,	_	PUNCT	PUNC	_	23	punct	_	_
 
 # sent_id = 1946E-MARK,.159
 # X_ID = 1946E-MARK,6.164
@@ -4762,7 +4762,7 @@
 # text = beym lebedikn dertseyln, ven men vil dem enyin makhn %ich%-1 impetdiker, ven men vil onheybn oyf a geviser umgerikhtkeyt, vern mir nitsn an erkh azelkhe zatsn :
 1	beym	_	ADP	P-CL	_	3	case	_	_
 2	lebedikn	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
-3	dertseyln	_	NOUN	N	_	23	obl	_	SpaceAfter=No
+3	dertseyln	_	NOUN	N	_	25	obl	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	3	punct	_	_
 5	ven	_	SCONJ	C	_	10	mark	_	_
 6	men	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
@@ -4781,15 +4781,15 @@
 19	a	_	DET	D	PronType=Art	21	det	_	_
 20	geviser	_	ADJ	ADJ	Degree=Pos	21	amod	_	_
 21	umgerikhtkeyt	_	NOUN	N-I	Definite=Ind	17	obl	_	SpaceAfter=No
-22	,	_	PUNCT	PUNC	_	23	punct	_	_
-23	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-24	mir	_	PRON	PRO-NOM	Case=Nom	23	nsubj	_	_
-25	nitsn	_	VERB	VB	VerbForm=Inf	23	dep	_	_
-26	an	_	ADP	P	_	23	obl	_	_
+22	,	_	PUNCT	PUNC	_	25	punct	_	_
+23	vern	_	AUX	RDF	VerbForm=Fin	25	aux	_	_
+24	mir	_	PRON	PRO-NOM	Case=Nom	25	nsubj	_	_
+25	nitsn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+26	an	_	ADP	P	_	25	obl	_	_
 27	erkh	UNKNOWN	X	H	_	26	dep	_	_
 28	azelkhe	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	29	amod	_	_
-29	zatsn	_	NOUN	N-ACC	Case=Acc	23	obj	_	SpaceAfter=No
-30	:	_	PUNCT	PUNC	_	23	punct	_	_
+29	zatsn	_	NOUN	N-ACC	Case=Acc	25	obj	_	SpaceAfter=No
+30	:	_	PUNCT	PUNC	_	25	punct	_	_
 
 # sent_id = 1946E-MARK,.249
 # X_ID = 1946E-MARK,9.255
@@ -7532,13 +7532,13 @@
 # X_ID = 1946E-MARK,13.413
 # text = dos vort " nekhtn " vert aroysgehoybn .
 1	dos	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	vort	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	SpaceAfter=No
+2	vort	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	SpaceAfter=No
 3	"	_	PUNCT	PUNC	_	2	punct	_	_
 4	nekhtn	_	ADV	ADV	Degree=Pos	2	dep	_	SpaceAfter=No
-5	"	_	PUNCT	PUNC	_	6	punct	_	_
-6	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-7	aroysgehoybn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	6	ccomp	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	6	punct	_	_
+5	"	_	PUNCT	PUNC	_	7	punct	_	_
+6	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+7	aroysgehoybn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1946E-MARK,.406
 # X_ID = 1946E-MARK,13.414
@@ -7580,14 +7580,14 @@
 # X_ID = 1946E-MARK,13.417
 # text = der seyder-eyns " in vald " vert untergeshtrokhn .
 1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	seyder-eyns	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	SpaceAfter=No
+2	seyder-eyns	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	SpaceAfter=No
 3	"	_	PUNCT	PUNC	_	2	punct	_	_
 4	in	_	ADP	P	_	5	case	_	_
 5	vald	_	NOUN	N	_	2	dep	_	SpaceAfter=No
-6	"	_	PUNCT	PUNC	_	7	punct	_	_
-7	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-8	untergeshtrokhn	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	7	punct	_	_
+6	"	_	PUNCT	PUNC	_	8	punct	_	_
+7	vert	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
+8	untergeshtrokhn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = 1946E-MARK,.410
 # X_ID = 1946E-MARK,13.418
@@ -7786,18 +7786,18 @@
 # text = di beyde zatsn 9a un 9b vern aroysgezogt fun dem zelbikn freger, zen_sholem-aleykhem,_funem_yarid,_kapitl_35
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 2	beyde	_	DET	Q-NOM	Case=Nom	3	det	_	_
-3	zatsn	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	_
+3	zatsn	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	_
 4	9a	_	VERB	REF	_	3	appos	_	_
 5	un	_	CCONJ	CONJ	_	6	cc	_	_
 6	9b	_	VERB	REF	_	4	conj	_	_
-7	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-8	aroysgezogt	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	7	ccomp	_	_
+7	vern	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
+8	aroysgezogt	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
 9	fun	_	ADP	P	_	12	case	_	_
 10	dem	_	DET	D	PronType=Art	12	det	_	_
 11	zelbikn	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-12	freger	_	NOUN	N-D	Definite=Def	7	obl	_	SpaceAfter=No
-13	,	_	PUNCT	PUNC	_	7	punct	_	_
-14	zen_sholem-aleykhem,_funem_yarid,_kapitl_35	_	VERB	REF	_	7	dep	_	_
+12	freger	_	NOUN	N-D	Definite=Def	8	obl	_	SpaceAfter=No
+13	,	_	PUNCT	PUNC	_	8	punct	_	_
+14	zen_sholem-aleykhem,_funem_yarid,_kapitl_35	_	VERB	REF	_	8	dep	_	_
 
 # sent_id = 1946E-MARK,.425
 # X_ID = 1946E-MARK,14.433

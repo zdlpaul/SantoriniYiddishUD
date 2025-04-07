@@ -1272,11 +1272,11 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,22.69
 # text = a teyl zeynen gevorn meamldit,
 1	a	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	teyl	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	4	nsubj	_	_
-3	zeynen	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-4	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-5	meamldit	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	SpaceAfter=No
-6	,	_	PUNCT	PUNC	_	4	punct	_	_
+2	teyl	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	5	nsubj	_	_
+3	zeynen	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+4	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	_
+5	meamldit	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.67
 # X_ID = 1928E-ZARETSKI-MENDELE,22.70

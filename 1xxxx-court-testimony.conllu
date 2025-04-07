@@ -790,12 +790,12 @@
 # X_ID = 1XXXX-COURT-TESTIMONY,16_c1450_w.70
 # text = eyn yud bun tb"va ist dr_murt vardn
 1	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	yud	_	NOUN	N-NOM	Case=Nom	7	nsubj	_	_
+2	yud	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
 3	bun	_	ADP	P	_	4	case	_	_
 4	tb"va	_	PROPN	NPR	_	2	obl	_	_
-5	ist	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-6	dr_murt	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+5	ist	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+6	dr_murt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.54
 # X_ID = 1XXXX-COURT-TESTIMONY,17_c1450_w.72
@@ -1602,7 +1602,7 @@
 5	it	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 6	giheysn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 7	%ich%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
-8	niks	_	DET	Q-ACC	Case=Acc	10	obj	_	_
+8	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	10	obj	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
 10	anpfngn	_	VERB	VB	VerbForm=Inf	6	xcomp	_	_
 
@@ -1732,7 +1732,7 @@
 27	ds	_	SCONJ	C	_	31	mark	_	_
 28	men	_	PRON	PRO-NOM	Case=Nom	31	nsubj	_	_
 29	im	_	PRON	PRO-DTV	Case=Dat	31	iobj	_	_
-30	niks	_	DET	Q-ACC	Case=Acc	31	obj	_	_
+30	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	31	obj	_	_
 31	geb	_	VERB	VBF	VerbForm=Fin	22	ccomp	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.114
@@ -2896,15 +2896,15 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.177
 # X_ID = 1XXXX-COURT-TESTIMONY,60_c1465_w.238
 # text = mir is %exp% eyn gebn vardn fun eyn pr
-1	mir	_	PRON	PRO-DTV	Case=Dat	6	iobj	_	_
-2	is	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-3	%exp%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
-4	eyn	_	ADP	RP	_	6	compound:prt	_	_
-5	gebn	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	mir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
+2	is	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+3	%exp%	_	NOUN	NP-SBJ	_	5	nsubj	_	_
+4	eyn	_	ADP	RP	_	5	compound:prt	_	_
+5	gebn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+6	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	_
 7	fun	_	ADP	P	_	9	case	_	_
 8	eyn	_	DET	D	PronType=Art	9	det	_	_
-9	pr	_	NOUN	N-I	Definite=Ind	6	obl	_	_
+9	pr	_	NOUN	N-I	Definite=Ind	5	obl	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.178
 # X_ID = 1XXXX-COURT-TESTIMONY,60_c1465_w.239
@@ -3153,7 +3153,7 @@
 16	ist	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 17	smeun	_	PROPN	NPR-SBJ	_	16	nsubj	_	_
 18	um	_	X	X	_	16	dep	_	_
-19	niks	_	DET	Q	_	16	obl	_	_
+19	niks	_	DET	Q-NEG	Polarity=Neg	16	obl	_	_
 20	mekhoyev	_	ADP	RP-H	_	16	compound:prt	_	_
 21	%ich%-1	_	NOUN	NP-ACC	_	23	dep	_	_
 22	tsu	_	PART	TO	_	23	mark	_	_
@@ -3499,14 +3499,14 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.210
 # X_ID = 1XXXX-COURT-TESTIMONY,62_1558_w.273
 # text = men vert es vaul in zeyn eydies zehn
-1	men	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	es	_	PRON	PRO-ACC	Case=Acc	2	obj	_	_
-4	vaul	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+1	men	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
+3	es	_	PRON	PRO-ACC	Case=Acc	8	obj	_	_
+4	vaul	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 5	in	_	ADP	P	_	7	case	_	_
 6	zeyn	_	PRON	PRO$	_	7	det:poss	_	_
-7	eydies	_	NOUN	N	_	2	obl	_	_
-8	zehn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+7	eydies	_	NOUN	N	_	8	obl	_	_
+8	zehn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.211
 # X_ID = 1XXXX-COURT-TESTIMONY,62_1558_w.274
@@ -4580,7 +4580,7 @@
 5	gienvrt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 7	vil	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
-8	niks	_	DET	Q-ACC	Case=Acc	9	obj	_	_
+8	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	9	obj	_	_
 9	hltn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.282
@@ -6432,17 +6432,17 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.415
 # X_ID = 1XXXX-COURT-TESTIMONY,97_c1605_e.513
 # text = men vert in dakh fun das ihudi vegin nit um brengn
-1	men	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	in	_	PRON	PRO-ACC	Case=Acc	2	obj	_	_
-4	dakh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+1	men	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	11	aux	_	_
+3	in	_	PRON	PRO-ACC	Case=Acc	11	obj	_	_
+4	dakh	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 5	fun	_	ADP	P	_	7	case	_	_
 6	das	_	DET	D	PronType=Art	7	det	_	_
-7	ihudi	_	NOUN	N-D	Definite=Def	2	obl	_	_
+7	ihudi	_	NOUN	N-D	Definite=Def	11	obl	_	_
 8	vegin	_	NOUN	N	_	7	conj	_	_
-9	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
-10	um	_	ADP	RP	_	2	compound:prt	_	_
-11	brengn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+9	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	advmod	_	_
+10	um	_	ADP	RP	_	11	compound:prt	_	_
+11	brengn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.416
 # X_ID = 1XXXX-COURT-TESTIMONY,98_c1605_e.515
@@ -10768,17 +10768,17 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.712
 # X_ID = 1XXXX-COURT-TESTIMONY,145_1632_e.859
 # text = es vert vern sbueut sts"b b' snim az ikh bin givezn in abus
-1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	vern	_	VERB	VB	VerbForm=Inf	2	dep	_	_
-4	sbueut	weeks	X	H	_	2	dep	_	_
+1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	3	expl	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	3	aux	_	_
+3	vern	_	VERB	VB	VerbForm=Inf	0	root	_	_
+4	sbueut	weeks	X	H	_	3	dep	_	_
 5	sts"b	5392_1631-1632	X	H	_	4	dep	_	_
 6	b'	_	NUM	NUM-NOM	Case=Nom	7	nummod	_	_
-7	snim	_	NOUN	N-NOM	Case=Nom	2	nsubj	_	_
+7	snim	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	_
 8	az	_	SCONJ	C	_	11	mark	_	_
 9	ikh	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 10	bin	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
-11	givezn	_	VERB	VBN	Tense=Past|VerbForm=Part	2	advcl	_	_
+11	givezn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	_
 12	in	_	ADP	P	_	13	case	_	_
 13	abus	_	PROPN	NPR	_	11	obl	_	_
 
@@ -11204,10 +11204,10 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.747
 # X_ID = 1XXXX-COURT-TESTIMONY,148_1630_e.897
 # text = iz lible der_sasin givarin
-1	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-2	lible	_	PROPN	NPR-SBJ	_	4	nsubj	_	_
-3	der_sasin	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
-4	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	iz	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
+2	lible	_	PROPN	NPR-SBJ	_	3	nsubj	_	_
+3	der_sasin	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+4	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	3	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.748
 # X_ID = 1XXXX-COURT-TESTIMONY,148_1630_e.898
@@ -13124,22 +13124,22 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.876
 # X_ID = 1XXXX-COURT-TESTIMONY,170_1641_e.1048
 # text = %pro% vert dir den shursh %ich%-3 visin %ich%-1 %ich%-2 tsu zagin vau %t%-4 er iz gihrgt givardin
-1	%pro%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	dir	_	PRON	PRO	_	2	obl	_	_
+1	%pro%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+3	dir	_	PRON	PRO	_	7	obl	_	_
 4	den	_	DET	D	PronType=Art	5	det	_	_
-5	shursh	_	NOUN	N-D	Definite=Def	2	obl	_	_
+5	shursh	_	NOUN	N-D	Definite=Def	7	obl	_	_
 6	%ich%-3	_	SCONJ	CP-REL	_	5	acl:relcl	_	_
-7	visin	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+7	visin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	%ich%-1	_	NOUN	NP-DTV	_	11	dep	_	_
 9	%ich%-2	_	NOUN	NP-ACC	_	11	dep	_	_
 10	tsu	_	PART	TO	_	11	mark	_	_
-11	zagin	_	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+11	zagin	_	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 12	vau	_	ADV	WADV	Degree=Pos	16	advmod	_	_
 13	%t%-4	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	16	advmod	_	_
 14	er	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
 15	iz	_	AUX	BEF	VerbForm=Fin	16	cop	_	_
-16	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+16	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	7	acl:relcl	_	_
 17	givardin	_	VERB	RDN	Tense=Past|VerbForm=Part	16	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.877
@@ -13618,7 +13618,7 @@
 # text = in iz niks mers %ich%-1 da als gripa
 1	in	_	CCONJ	CONJ	_	2	cc	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	niks	_	DET	Q-NOM	Case=Nom	2	nsubj	_	_
+3	niks	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	2	nsubj	_	_
 4	mers	_	ADV	QR	_	3	advmod	_	_
 5	%ich%-1	_	ADP	PP	_	3	obl	_	_
 6	da	_	ADV	ADV	Degree=Pos	2	advmod	_	_
@@ -14732,7 +14732,7 @@
 3	gizagt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 5	veys	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
-6	niks	_	DET	Q-ACC	Case=Acc	5	obj	_	_
+6	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	obj	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.970
 # X_ID = 1XXXX-COURT-TESTIMONY,185_1641_w.1157
@@ -15162,11 +15162,11 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.995
 # X_ID = 1XXXX-COURT-TESTIMONY,189_1639_e.1186
 # text = er iz abr gihrgt givarin
-1	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-2	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-3	abr	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-4	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+2	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+3	abr	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+4	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.996
 # X_ID = 1XXXX-COURT-TESTIMONY,189_1639_e.1187
@@ -16643,25 +16643,25 @@
 # text = oyf dem r' mrkdkhi hn"l zenin kmh edut bktb %ich%-1 gishukt givardn fun mits keyn frnkfurt vi %t%-2 er nhrg givarden
 1	oyf	_	ADP	P	_	3	case	_	_
 2	dem	_	DET	D	PronType=Art	3	det	_	_
-3	r'	_	PROPN	NPR	_	12	obl	_	_
+3	r'	_	PROPN	NPR	_	11	obl	_	_
 4	mrkdkhi	_	PROPN	NPR	_	3	flat:name	_	_
 5	hn"l	aforesaid	X	H	_	3	amod	_	_
-6	zenin	_	AUX	BEF	VerbForm=Fin	12	cop	_	_
+6	zenin	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
 7	kmh	a_few	X	H	_	8	dep	_	_
-8	edut	_	NOUN	N	_	12	nsubj	_	_
+8	edut	_	NOUN	N	_	11	nsubj	_	_
 9	bktb	in_writing	X	H	_	10	dep	_	_
 10	%ich%-1	_	SCONJ	CP-QUE-SUB	_	8	obl	_	_
-11	gishukt	_	VERB	VAN	Tense=Past|VerbForm=Part	12	ccomp	_	_
-12	givardn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+11	gishukt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+12	givardn	_	VERB	RDN	Tense=Past|VerbForm=Part	11	dep	_	_
 13	fun	_	ADP	P	_	14	case	_	_
-14	mits	_	PROPN	NPR	_	12	obl	_	_
+14	mits	_	PROPN	NPR	_	11	obl	_	_
 15	keyn	_	ADP	P	_	16	case	_	_
-16	frnkfurt	_	PROPN	NPR	_	12	obl	_	_
+16	frnkfurt	_	PROPN	NPR	_	11	obl	_	_
 17	vi	_	ADV	WADV	Degree=Pos	21	advmod	_	_
 18	%t%-2	_	ADV	ADVP	Degree=Pos	21	advmod	_	_
 19	er	_	PRON	PRO-NOM	Case=Nom	21	nsubj	_	_
 20	nhrg	_	ADP	RP-H	_	21	compound:prt	_	_
-21	givarden	_	VERB	VBN	Tense=Past|VerbForm=Part	12	dep	_	_
+21	givarden	_	VERB	VBN	Tense=Past|VerbForm=Part	11	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1100
 # X_ID = 1XXXX-COURT-TESTIMONY,198_c1640_e?.1301
@@ -16772,10 +16772,10 @@
 # text = dr zelbig isral iz gihrgt gvardin
 1	dr	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 2	zelbig	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	amod	_	_
-3	isral	_	PROPN	NPR-D	_	6	nsubj	_	_
-4	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-5	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	gvardin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+3	isral	_	PROPN	NPR-D	_	5	nsubj	_	_
+4	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+5	gihrgt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+6	gvardin	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1107
 # X_ID = 1XXXX-COURT-TESTIMONY,199_1647_e.1309
@@ -18365,10 +18365,10 @@
 # X_ID = 1XXXX-COURT-TESTIMONY,207_1648_e.1424
 # text = a teyl zenin fr_brent gvorin
 1	a	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	teyl	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	5	nsubj	_	_
-3	zenin	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-4	fr_brent	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	gvorin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+2	teyl	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	4	nsubj	_	_
+3	zenin	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+4	fr_brent	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	gvorin	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1215
 # X_ID = 1XXXX-COURT-TESTIMONY,208_1648_e.1426
@@ -18973,18 +18973,18 @@
 # sent_id = 1XXXX-COURT-TESTIMONY,.1257
 # X_ID = 1XXXX-COURT-TESTIMONY,211_1658_w.1471
 # text = iz %exp% nor za an bishtelt givorin dz men zi tsu_rik gibrakht hat
-1	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-2	%exp%	_	NOUN	NP-SBJ-1	_	7	nsubj	_	_
-3	nor	_	ADV	FP	Degree=Pos	7	advmod	_	_
-4	za	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-5	an	_	ADP	RP	_	7	compound:prt	_	_
-6	bishtelt	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	givorin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+2	%exp%	_	NOUN	NP-SBJ-1	_	6	nsubj	_	_
+3	nor	_	ADV	FP	Degree=Pos	6	advmod	_	_
+4	za	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+5	an	_	ADP	RP	_	6	compound:prt	_	_
+6	bishtelt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	givorin	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	_
 8	dz	_	SCONJ	C	_	12	mark	_	_
 9	men	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 10	zi	_	PRON	PRO-ACC	Case=Acc	12	obj	_	_
 11	tsu_rik	_	ADV	RP-ADV	_	12	advmod	_	_
-12	gibrakht	_	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	_
+12	gibrakht	_	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	_
 13	hat	_	AUX	HVF	VerbForm=Fin	12	aux	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1258
@@ -19156,7 +19156,7 @@
 1	den	_	CCONJ	CONJ	_	5	cc	_	_
 2	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 3	hat	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
-4	niks	_	DET	Q	_	5	obl	_	_
+4	niks	_	DET	Q-NEG	Polarity=Neg	5	obl	_	_
 5	bigert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	%ich%-2	_	NOUN	NP-ACC	_	8	dep	_	_
 7	tsu	_	PART	TO	_	8	mark	_	_
@@ -20178,7 +20178,7 @@
 1	da	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 2	hab	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 3	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-4	niks	_	DET	Q-ACC	Case=Acc	6	obj	_	_
+4	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	obj	_	_
 5	terin	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	6	aux	_	_
 6	zagin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
@@ -20471,7 +20471,7 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	mir	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-4	niks	_	DET	Q	_	5	amod	_	_
+4	niks	_	DET	Q-NEG	Polarity=Neg	5	amod	_	_
 5	shuldig	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1361
@@ -20581,7 +20581,7 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 2	hat	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 3	zikh	_	PRON	PRO	_	5	obl	_	_
-4	niks	_	DET	Q	_	5	obl	_	_
+4	niks	_	DET	Q-NEG	Polarity=Neg	5	obl	_	_
 5	lazn	_	VERB	VBN-IPP	Tense=Past|VerbForm=Part	0	root	_	_
 6	%arb%	_	NOUN	NP-SBJ	_	9	nsubj	_	_
 7	%ich%-2	_	NOUN	NP-DTV	_	9	dep	_	_
@@ -21523,7 +21523,7 @@
 11	er	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 12	veys	_	VERB	VBF	VerbForm=Fin	10	ccomp	_	_
 13	fun	_	ADP	P	_	14	case	_	_
-14	niks	_	DET	Q	_	12	obl	_	_
+14	niks	_	DET	Q-NEG	Polarity=Neg	12	obl	_	_
 15	un'	_	CCONJ	CONJ	_	19	cc	_	_
 16	%con%	_	NOUN	NP-SBJ	_	19	nsubj	_	_
 17	vil	_	AUX	MDF	VerbForm=Fin	19	aux	_	_
@@ -21531,7 +21531,7 @@
 19	gebn	_	VERB	VB	VerbForm=Inf	10	conj	_	_
 20	daz	_	SCONJ	C	_	23	mark	_	_
 21	er	_	PRON	PRO-NOM	Case=Nom	23	nsubj	_	_
-22	niks	_	DET	Q-ACC	Case=Acc	23	obj	_	_
+22	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	23	obj	_	_
 23	veys	_	VERB	VBF	VerbForm=Fin	19	ccomp	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1440
@@ -23141,16 +23141,16 @@
 # X_ID = 1XXXX-COURT-TESTIMONY,247_1679_w.1791
 # text = di tsvey_arley zeynn nit gidakht vardin i er hat mkbl_knin givezin
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	tsvey_arley	_	NUM	NUM-NOM	Case=Nom	6	nsubj	_	_
-3	zeynn	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
-5	gidakht	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	vardin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+2	tsvey_arley	_	NUM	NUM-NOM	Case=Nom	5	nsubj	_	_
+3	zeynn	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
+5	gidakht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+6	vardin	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	_
 7	i	_	SCONJ	C	_	11	mark	_	_
 8	er	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 9	hat	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
 10	mkbl_knin	_	ADP	RP-H	_	11	compound:prt	_	_
-11	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	_
+11	givezin	_	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1542
 # X_ID = 1XXXX-COURT-TESTIMONY,247_1679_w.1792
@@ -23304,21 +23304,21 @@
 7	zal	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
 8	der	_	DET	D-NOM	Case=Nom|PronType=Art	9	det	_	_
 9	khlifin	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	11	nsubj	_	_
-10	niks	_	DET	Q	_	11	xcomp	_	_
+10	niks	_	DET	Q-NEG	Polarity=Neg	11	xcomp	_	_
 11	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1549
 # X_ID = 1XXXX-COURT-TESTIMONY,248_1679_w.1800
 # text = zulkhi tnaim zeyn nit gidakht vordin bey den khlifin
 1	zulkhi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	2	amod	_	_
-2	tnaim	_	NOUN	N-NOM	Case=Nom	6	nsubj	_	_
-3	zeyn	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
-5	gidakht	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-6	vordin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+2	tnaim	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
+3	zeyn	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
+4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
+5	gidakht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+6	vordin	_	VERB	RDN	Tense=Past|VerbForm=Part	5	dep	_	_
 7	bey	_	ADP	P	_	9	case	_	_
 8	den	_	DET	D	PronType=Art	9	det	_	_
-9	khlifin	_	NOUN	N-D	Definite=Def	6	obl	_	_
+9	khlifin	_	NOUN	N-D	Definite=Def	5	obl	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1550
 # X_ID = 1XXXX-COURT-TESTIMONY,249_c1680_x.1802

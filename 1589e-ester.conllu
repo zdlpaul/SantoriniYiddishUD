@@ -547,22 +547,22 @@
 # sent_id = 1589E-ESTER,.29
 # X_ID = 1589E-ESTER,5.32
 # text = da vert er ali felkir rikhtn
-1	da	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
+1	da	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+3	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 4	ali	_	DET	Q-ACC	Case=Acc	5	det	_	_
-5	felkir	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
-6	rikhtn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+5	felkir	_	NOUN	N-ACC	Case=Acc	6	obj	_	_
+6	rikhtn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1589E-ESTER,.30
 # X_ID = 1589E-ESTER,5.33
 # text = da vert er var_rikhtn den mlakh der %t%-1 in himl iz der %t%-2 da iz gizetst ibr dz zelbig falk
-1	da	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-4	var_rikhtn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	da	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	4	aux	_	_
+3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+4	var_rikhtn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 5	den	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
-6	mlakh	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
+6	mlakh	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
 7	der	_	PRON	WPRO	_	11	obj	_	_
 8	%t%-1	_	NOUN	NP-SBJ	_	11	nsubj	_	_
 9	in	_	ADP	P	_	10	case	_	_
@@ -581,30 +581,30 @@
 # sent_id = 1589E-ESTER,.31
 # X_ID = 1589E-ESTER,5.34
 # text = un %con% vert in hrab %ich%-1 verfn fun himl
-1	un	_	CCONJ	CONJ	_	3	cc	_	_
-2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
-3	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	in	_	PRON	PRO-ACC	Case=Acc	3	obj	_	_
-5	hrab	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+1	un	_	CCONJ	CONJ	_	7	cc	_	_
+2	%con%	_	NOUN	NP-SBJ	_	7	nsubj	_	_
+3	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+4	in	_	PRON	PRO-ACC	Case=Acc	7	obj	_	_
+5	hrab	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 6	%ich%-1	_	ADP	PP	_	5	obl	_	_
-7	verfn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+7	verfn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	fun	_	ADP	P	_	9	case	_	_
-9	himl	_	NOUN	N	_	3	obl	_	_
+9	himl	_	NOUN	N	_	7	obl	_	_
 
 # sent_id = 1589E-ESTER,.32
 # X_ID = 1589E-ESTER,5.35
 # text = un der_nakh vert er eyn nkmh tan an den zelbig falk
-1	un	_	CCONJ	CONJ	_	3	cc	_	_
-2	der_nakh	_	ADP	P	_	3	obl	_	_
-3	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
+1	un	_	CCONJ	CONJ	_	7	cc	_	_
+2	der_nakh	_	ADP	P	_	7	obl	_	_
+3	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+4	er	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 5	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
-6	nkmh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	3	obj	_	_
-7	tan	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+6	nkmh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	7	obj	_	_
+7	tan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	an	_	ADP	P	_	11	case	_	_
 9	den	_	DET	D	PronType=Art	11	det	_	_
 10	zelbig	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
-11	falk	_	NOUN	N-D	Definite=Def	3	obl	_	_
+11	falk	_	NOUN	N-D	Definite=Def	7	obl	_	_
 
 # sent_id = 1589E-ESTER,.33
 # X_ID = 1589E-ESTER,5.36

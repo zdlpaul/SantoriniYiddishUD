@@ -455,7 +455,7 @@
 # sent_id = 1928E-WEINREICH-MESSIAH,.26
 # X_ID = 1928E-WEINREICH-MESSIAH,220.28
 # text = un khotsh in mzrkh-galitsie in podolie in volin hobn di letstn funken fun der bavegung gegliet nokh tsendliker yorn bis vanen %t%-1 es hot fun zey mit a neyer kraft aroysgeshlagn di flam fun khsidut zeynen ober sbti-tsvis tlmidim areyngeleygt gevorn in khrm vi tsesterer un farnikhter fun yidishkeyt
-1	un	_	CCONJ	CONJ	_	41	cc	_	_
+1	un	_	CCONJ	CONJ	_	40	cc	_	_
 2	khotsh	_	SCONJ	C	_	16	mark	_	_
 3	in	_	ADP	P	_	4	case	_	_
 4	mzrkh-galitsie	_	PROPN	NPR	_	16	obl	_	_
@@ -470,7 +470,7 @@
 13	fun	_	ADP	P	_	15	case	_	_
 14	der	_	DET	D	PronType=Art	15	det	_	_
 15	bavegung	_	NOUN	N-D	Definite=Def	12	obl	_	_
-16	gegliet	_	VERB	VBN	Tense=Past|VerbForm=Part	41	advcl	_	_
+16	gegliet	_	VERB	VBN	Tense=Past|VerbForm=Part	40	advcl	_	_
 17	nokh	_	ADV	ADV	Degree=Pos	19	advmod	_	_
 18	tsendliker	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
 19	yorn	_	NOUN	N	_	16	obl	_	_
@@ -490,16 +490,16 @@
 33	flam	_	NOUN	N-NOM	Case=Nom	31	nsubj	_	_
 34	fun	_	ADP	P	_	35	case	_	_
 35	khsidut	_	NOUN	N	_	33	obl	_	_
-36	zeynen	_	AUX	BEF	VerbForm=Fin	41	cop	_	_
-37	ober	_	ADV	ADV	Degree=Pos	41	advmod	_	_
-38	sbti-tsvis	_	NOUN	NPR$	_	41	nsubj	_	_
+36	zeynen	_	AUX	BEF	VerbForm=Fin	40	cop	_	_
+37	ober	_	ADV	ADV	Degree=Pos	40	advmod	_	_
+38	sbti-tsvis	_	NOUN	NPR$	_	40	nsubj	_	_
 39	tlmidim	_	NOUN	N	_	38	conj	_	_
-40	areyngeleygt	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	41	ccomp	_	_
-41	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+40	areyngeleygt	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+41	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	40	dep	_	_
 42	in	_	ADP	P	_	43	case	_	_
-43	khrm	_	NOUN	N	_	41	obl	_	_
+43	khrm	_	NOUN	N	_	40	obl	_	_
 44	vi	_	ADP	P	_	45	case	_	_
-45	tsesterer	_	NOUN	N	_	41	obl	_	_
+45	tsesterer	_	NOUN	N	_	40	obl	_	_
 46	un	_	CCONJ	CONJ	_	47	cc	_	_
 47	farnikhter	_	NOUN	N	_	45	conj	_	_
 48	fun	_	ADP	P	_	49	case	_	_
@@ -1168,18 +1168,18 @@
 1	nokh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 2	a	_	DET	D	PronType=Art	4	det	_	_
 3	tsveyter	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-4	vorsteyer	_	NOUN	N	_	8	nsubj	_	_
+4	vorsteyer	_	NOUN	N	_	9	nsubj	_	_
 5	fun	_	ADP	P	_	7	case	_	_
 6	der	_	DET	D	PronType=Art	7	det	_	_
 7	familie	_	NOUN	N-D	Definite=Def	4	obl	_	_
-8	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-9	der_heykht	_	VERB	VAN	Tense=Past|VerbForm=Part	8	ccomp	_	_
+8	vert	_	AUX	RDF	VerbForm=Fin	9	aux	_	_
+9	der_heykht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 10	un	_	CCONJ	CONJ	_	11	cc	_	_
 11	derhoybn	_	VERB	VAN	Tense=Past|VerbForm=Part	9	conj	_	_
 12	in	_	ADP	P	_	15	case	_	_
 13	der	_	DET	D	PronType=Art	15	det	_	_
 14	yidisher	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
-15	literatur	_	NOUN	N-D	Definite=Def	8	obl	_	_
+15	literatur	_	NOUN	N-D	Definite=Def	9	obl	_	_
 
 # sent_id = 1928E-WEINREICH-MESSIAH,.56
 # X_ID = 1928E-WEINREICH-MESSIAH,222.60

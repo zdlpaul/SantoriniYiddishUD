@@ -390,7 +390,7 @@
 8	eulm	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	16	nsubj	_	_
 9	izt	_	AUX	BEF	VerbForm=Fin	16	cop	_	_
 10	fun	_	ADP	P	_	11	case	_	_
-11	niks	_	DET	Q	_	16	obl	_	_
+11	niks	_	DET	Q-NEG	Polarity=Neg	16	obl	_	_
 12	andrst	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 13	vegin	_	NOUN	N	_	11	conj	_	_
 14	%ich%-2	_	ADP	PP	_	11	obl	_	_
@@ -420,7 +420,7 @@
 14	bishafin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 15	der	_	PRON	WPRO	_	19	obj	_	_
 16	%t%-2	_	NOUN	NP-SBJ	_	19	nsubj	_	_
-17	niks	_	DET	Q	_	18	amod	_	_
+17	niks	_	DET	Q-NEG	Polarity=Neg	18	amod	_	_
 18	un_far_genklikh	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
 19	izt	_	VERB	VBF	VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
 20	,	_	PUNCT	PUNC	_	14	punct	_	_
@@ -773,7 +773,7 @@
 17	un'	_	CCONJ	CONJ	_	19	cc	_	_
 18	%t%-1	_	NOUN	NP-SBJ	_	19	nsubj	_	_
 19	zikht	_	VERB	VBF	VerbForm=Fin	15	conj	_	_
-20	niks	_	DET	Q-ACC	Case=Acc	19	obj	_	_
+20	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	19	obj	_	_
 21	andrst	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	20	amod	_	_
 22	%ich%-2	_	ADP	PP	_	20	obl	_	_
 23	far	_	ADP	P	_	24	case	_	_
@@ -797,7 +797,7 @@
 1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
 2	hindrt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	ihm	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-4	niks	_	DET	Q-NOM	Case=Nom	2	nsubj	_	SpaceAfter=No
+4	niks	_	DET	Q-NOM-NEG	Case=Nom|PronType=Neg	2	nsubj	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1705W-GLIKL,.39
@@ -1212,11 +1212,11 @@
 # sent_id = 1705W-GLIKL,.55
 # X_ID = 1705W-GLIKL,4.60
 # text = zu vert er nit far_zoyfn
-1	zu	_	ADV	ADV	Degree=Pos	2	advmod	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
-5	far_zoyfn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	zu	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+3	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
+4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
+5	far_zoyfn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1705W-GLIKL,.56
 # X_ID = 1705W-GLIKL,4.61
@@ -1340,7 +1340,7 @@
 # text = heyst zi niks,
 1	heyst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	zi	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
-3	niks	_	DET	Q-ACC	Case=Acc	1	obj	_	SpaceAfter=No
+3	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	1	obj	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1705W-GLIKL,.65
@@ -2040,14 +2040,14 @@
 # sent_id = 1705W-GLIKL,.94
 # X_ID = 1705W-GLIKL,310.102
 # text = zi vert nun lerkh i"g snim alt zeyn
-1	zi	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	nun	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+1	zi	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
+3	nun	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 4	lerkh	approximately	X	H	_	5	dep	_	_
 5	i"g	_	NUM	NUM	_	7	obl	_	_
 6	snim	_	NOUN	N	_	5	conj	_	_
-7	alt	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
-8	zeyn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+7	alt	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1705W-GLIKL,.95
 # X_ID = 1705W-GLIKL,310.103
@@ -2140,7 +2140,7 @@
 5	%pro%	_	NOUN	NP-SBJ	_	1	nsubj	_	_
 6	mag	_	AUX	MDF	VerbForm=Fin	1	aux	_	_
 7	veytir	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-8	niks	_	DET	Q-ACC	Case=Acc	1	obj	_	_
+8	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	1	obj	_	_
 9	fun	_	ADP	P	_	1	obl	_	_
 10	gidenkin	_	VERB	VB	VerbForm=Inf	1	dep	_	_
 
@@ -2354,7 +2354,7 @@
 4	zelbirt	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 5	gizehn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	daz	_	SCONJ	C	_	12	mark	_	_
-7	niks	_	DET	Q	_	12	nsubj	_	_
+7	niks	_	DET	Q-NEG	Polarity=Neg	12	nsubj	_	_
 8	%t%-2	_	NOUN	NP-ACC	_	10	dep	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
 10	krigin	_	VERB	VB	VerbForm=Inf	12	xcomp	_	_
@@ -2675,25 +2675,25 @@
 # sent_id = 1705W-GLIKL,.129
 # X_ID = 1705W-GLIKL,311.138
 # text = izt alis oyf gishribn givarin daz er hat niks hat kenin melim zeyn
-1	izt	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-2	alis	_	DET	Q-NOM	Case=Nom	5	nsubj	_	_
-3	oyf	_	ADP	RP	_	5	compound:prt	_	_
-4	gishribn	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	izt	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+2	alis	_	DET	Q-NOM	Case=Nom	4	nsubj	_	_
+3	oyf	_	ADP	RP	_	4	compound:prt	_	_
+4	gishribn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 6	daz	_	SCONJ	C	_	13	mark	_	_
 7	er	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 8	hat	_	AUX	HVF	VerbForm=Fin	13	dep	_	_
-9	niks	_	DET	Q-ACC	Case=Acc	13	obj	_	_
+9	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	13	obj	_	_
 10	hat	_	AUX	HVF	VerbForm=Fin	13	aux	_	_
 11	kenin	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	13	aux	_	_
 12	melim	_	ADP	RP-H	_	13	compound:prt	_	_
-13	zeyn	_	VERB	VB	VerbForm=Inf	5	advcl	_	_
+13	zeyn	_	VERB	VB	VerbForm=Inf	4	advcl	_	_
 
 # sent_id = 1705W-GLIKL,.130
 # X_ID = 1705W-GLIKL,311.139
 # text = akh niks bigert %ich%-1 melim tsu zeyn
 1	akh	_	CCONJ	CONJ	_	7	cc	_	_
-2	niks	_	DET	Q	_	7	obl	_	_
+2	niks	_	DET	Q-NEG	Polarity=Neg	7	obl	_	_
 3	bigert	_	VERB	VBN	Tense=Past|VerbForm=Part	7	dep	_	_
 4	%ich%-1	_	NOUN	NP-ACC	_	7	dep	_	_
 5	melim	_	ADP	RP-H	_	7	compound:prt	_	_
@@ -3385,16 +3385,16 @@
 # sent_id = 1705W-GLIKL,.162
 # X_ID = 1705W-GLIKL,313.173
 # text = %pro% izt akh fun ali menshin gar zer gilibt givarin
-1	%pro%	_	NOUN	NP-SBJ	_	10	nsubj	_	_
-2	izt	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
-3	akh	_	ADV	ADV	Degree=Pos	10	advmod	_	_
+1	%pro%	_	NOUN	NP-SBJ	_	9	nsubj	_	_
+2	izt	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
+3	akh	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 4	fun	_	ADP	P	_	6	case	_	_
 5	ali	_	DET	Q	_	6	det	_	_
-6	menshin	_	NOUN	N	_	10	obl	_	_
-7	gar	_	ADV	ADV	Degree=Pos	10	advmod	_	_
+6	menshin	_	NOUN	N	_	9	obl	_	_
+7	gar	_	ADV	ADV	Degree=Pos	9	advmod	_	_
 8	zer	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-9	gilibt	_	VERB	VAN	Tense=Past|VerbForm=Part	10	ccomp	_	_
-10	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+9	gilibt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+10	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	9	dep	_	_
 
 # sent_id = 1705W-GLIKL,.163
 # X_ID = 1705W-GLIKL,56_from_Shtif_1932.175

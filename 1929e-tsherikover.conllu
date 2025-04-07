@@ -2,7 +2,7 @@
 # X_ID = 1929E-TSHERIKOVER,27.3
 # text = der_doziker areynfir tsu der " mesh gdulh mn uman " fun prof. s. dubnov iz ongeshribn gevorn in yor 1921, bet der khsuber mkhbr hot nokh gevaunt in rusland
 1	der_doziker	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	areynfir	_	NOUN	N-NOM	Case=Nom	17	nsubj	_	_
+2	areynfir	_	NOUN	N-NOM	Case=Nom	16	nsubj	_	_
 3	tsu	_	ADP	P	_	4	case	_	_
 4	der	_	DET	D	PronType=Art	2	obl	_	SpaceAfter=No
 5	"	_	PUNCT	PUNC	_	4	punct	_	_
@@ -15,20 +15,20 @@
 12	prof.	_	PROPN	NPR	_	2	obl	_	_
 13	s.	_	PROPN	NPR	_	12	flat:name	_	_
 14	dubnov	_	PROPN	NPR	_	12	dep	_	_
-15	iz	_	AUX	BEF	VerbForm=Fin	17	cop	_	_
-16	ongeshribn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	17	ccomp	_	_
-17	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+15	iz	_	AUX	BEF	VerbForm=Fin	16	cop	_	_
+16	ongeshribn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+17	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	16	dep	_	_
 18	in	_	ADP	P	_	19	case	_	_
-19	yor	_	NOUN	N	_	17	obl	_	_
+19	yor	_	NOUN	N	_	16	obl	_	_
 20	1921	_	NUM	NUM	_	19	nummod	_	SpaceAfter=No
-21	,	_	PUNCT	PUNC	_	17	punct	_	_
+21	,	_	PUNCT	PUNC	_	16	punct	_	_
 22	bet	_	SCONJ	C	_	28	mark	_	_
 23	der	_	DET	D-NOM	Case=Nom|PronType=Art	25	det	_	_
 24	khsuber	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	25	amod	_	_
 25	mkhbr	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	28	nsubj	_	_
 26	hot	_	AUX	HVF	VerbForm=Fin	28	aux	_	_
 27	nokh	_	ADV	ADV	Degree=Pos	28	advmod	_	_
-28	gevaunt	_	VERB	VBN	Tense=Past|VerbForm=Part	17	advcl	_	_
+28	gevaunt	_	VERB	VBN	Tense=Past|VerbForm=Part	16	advcl	_	_
 29	in	_	ADP	P	_	30	case	_	_
 30	rusland	_	PROPN	NPR	_	28	obl	_	_
 
@@ -183,18 +183,18 @@
 13	bibliografishe	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
 14	zeltnheyt	_	NOUN	N-I	Definite=Ind	11	xcomp	_	_
 
-1	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
+1	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	9	advmod	_	_
 2	anders	_	ADV	ADV	Degree=Pos	1	advmod	_	_
 3	az	_	ADP	P	_	4	case	_	_
 4	bsetu	_	ADV	ADV	Degree=Pos	1	obl	_	_
-5	zeynen	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
+5	zeynen	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 6	di_dozike	_	DET	D-NOM	Case=Nom|PronType=Art	7	det	_	_
-7	oysgaben	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	10	nsubj	_	_
-8	ingantsn	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-9	oysgerotn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	10	ccomp	_	_
-10	gevarn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+7	oysgaben	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	9	nsubj	_	_
+8	ingantsn	_	ADV	ADV	Degree=Pos	9	advmod	_	_
+9	oysgerotn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
+10	gevarn	_	VERB	RDN	Tense=Past|VerbForm=Part	9	dep	_	_
 11	fun	_	ADP	P	_	14	case	_	_
 12	der	_	DET	D	PronType=Art	14	det	_	_
 13	rusisher	_	ADJ	ADJ	Degree=Pos	14	amod	_	_
-14	tsenzur	_	NOUN	N-D	Definite=Def	10	obl	_	_
+14	tsenzur	_	NOUN	N-D	Definite=Def	9	obl	_	_
 

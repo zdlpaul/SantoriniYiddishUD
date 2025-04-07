@@ -49,11 +49,11 @@
 # sent_id = 1671E-VAAD,.2
 # X_ID = 1671E-VAAD,701.4
 # text = un iz frkrigt givarn kmh alpi'
-1	un	_	CCONJ	CONJ	_	4	cc	_	_
-2	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-3	frkrigt	_	VERB	VAN	Tense=Past|VerbForm=Part	4	ccomp	_	_
-4	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-5	kmh	a_few	X	H	_	4	nsubj	_	_
+1	un	_	CCONJ	CONJ	_	3	cc	_	_
+2	iz	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
+3	frkrigt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+4	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	3	dep	_	_
+5	kmh	a_few	X	H	_	3	nsubj	_	_
 6	alpi'	thousands	X	H	_	5	dep	_	_
 
 # sent_id = 1671E-VAAD,.3
@@ -272,24 +272,24 @@
 # sent_id = 1671E-VAAD,.12
 # X_ID = 1671E-VAAD,702.14
 # text = un vas %t%-1 zilkhi zkhin vern gistin vert men gukhh zeyn fun iri heyzr un iri kleydr krn uruhi'
-1	un	_	CCONJ	CONJ	_	8	cc	_	_
+1	un	_	CCONJ	CONJ	_	11	cc	_	_
 2	vas	_	PRON	WPRO	_	7	obj	_	_
 3	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 4	zilkhi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	5	amod	_	_
 5	zkhin	_	NOUN	N-ACC	Case=Acc	7	obj	_	_
 6	vern	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
-7	gistin	_	VERB	VB	VerbForm=Inf	8	obl	_	_
-8	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-9	men	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
-10	gukhh	_	ADP	RP-H	_	8	compound:prt	_	_
-11	zeyn	_	VERB	VB	VerbForm=Inf	8	dep	_	_
+7	gistin	_	VERB	VB	VerbForm=Inf	11	obl	_	_
+8	vert	_	AUX	RDF	VerbForm=Fin	11	aux	_	_
+9	men	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+10	gukhh	_	ADP	RP-H	_	11	compound:prt	_	_
+11	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 12	fun	_	ADP	P	_	14	case	_	_
 13	iri	_	PRON	PRO$	_	14	det:poss	_	_
-14	heyzr	_	NOUN	N	_	8	obl	_	_
+14	heyzr	_	NOUN	N	_	11	obl	_	_
 15	un	_	CCONJ	CONJ	_	17	cc	_	_
 16	iri	_	PRON	PRO$	_	17	det:poss	_	_
 17	kleydr	_	NOUN	N	_	14	conj	_	_
-18	krn	foundation	X	H	_	8	dep	_	_
+18	krn	foundation	X	H	_	11	dep	_	_
 19	uruhi'	and_profitability	X	H	_	18	dep	_	_
 
 # sent_id = 1671E-VAAD,.13
@@ -447,17 +447,17 @@
 # sent_id = 1671E-VAAD,.17
 # X_ID = 1671E-VAAD,702.19
 # text = un der kruz iz eyn gshribn givarn bpnkt dd"a its"u btukp ps"d gmur
-1	un	_	CCONJ	CONJ	_	7	cc	_	_
+1	un	_	CCONJ	CONJ	_	6	cc	_	_
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
-3	kruz	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
-4	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-5	eyn	_	ADP	RP	_	7	compound:prt	_	_
-6	gshribn	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-8	bpnkt	at_registry	X	H	_	7	obl	_	_
+3	kruz	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
+4	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+5	eyn	_	ADP	RP	_	6	compound:prt	_	_
+6	gshribn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	_
+8	bpnkt	at_registry	X	H	_	6	obl	_	_
 9	dd"a	the_four_lands	X	H	_	8	dep	_	_
-10	its"u	he_will_sustain_them	X	H	_	7	discourse	_	_
-11	btukp	in_aggression	X	H	_	7	obl	_	_
+10	its"u	he_will_sustain_them	X	H	_	6	discourse	_	_
+11	btukp	in_aggression	X	H	_	6	obl	_	_
 12	ps"d	ruling_justice	X	H	_	11	dep	_	_
 13	gmur	complete	X	H	_	11	dep	_	_
 

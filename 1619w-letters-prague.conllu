@@ -995,14 +995,14 @@
 # sent_id = 1619W-LETTERS-PRAGUE,.67
 # X_ID = 1619W-LETTERS-PRAGUE,32.71
 # text = %con% vert aykh losen mayne kinder %ich%-1 befoylen zayn
-1	%con%	_	NOUN	NP-SBJ	_	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	aykh	_	PRON	PRO	_	2	obl	_	_
-4	losen	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	%con%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	4	aux	_	_
+3	aykh	_	PRON	PRO	_	4	obl	_	_
+4	losen	_	VERB	VB	VerbForm=Inf	0	root	_	_
 5	mayne	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	6	det:poss	_	_
 6	kinder	_	NOUN	N	_	8	nsubj	_	_
 7	%ich%-1	_	NOUN	NP-DTV	_	8	dep	_	_
-8	befoylen	_	VERB	VAN	Tense=Past|VerbForm=Part	2	xcomp	_	_
+8	befoylen	_	VERB	VAN	Tense=Past|VerbForm=Part	4	xcomp	_	_
 9	zayn	_	AUX	BE	VerbForm=Inf	8	cop	_	_
 
 # sent_id = 1619W-LETTERS-PRAGUE,.68
@@ -1031,14 +1031,14 @@
 # sent_id = 1619W-LETTERS-PRAGUE,.69
 # X_ID = 1619W-LETTERS-PRAGUE,32.73
 # text = vert ir zen, beni an on_stelung helfen, dos er bay den zeynigen blayben kan un %con% khas vesholem nit derum kumt .
-1	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-2	ir	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
-3	zen	_	VERB	VB	VerbForm=Inf	1	dep	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
+1	vert	_	AUX	RDF	VerbForm=Fin	3	aux	_	_
+2	ir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
+3	zen	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	3	punct	_	_
 5	beni	son_my	X	H	_	8	dep	_	_
 6	an	_	ADP	P	_	7	case	_	_
 7	on_stelung	_	NOUN	N	_	8	obl	_	_
-8	helfen	_	VERB	VB	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
+8	helfen	_	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	8	punct	_	_
 10	dos	_	SCONJ	C	_	15	mark	_	_
 11	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
@@ -1054,7 +1054,7 @@
 21	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	23	advmod	_	_
 22	derum	_	ADP	P	_	23	obl	_	_
 23	kumt	_	VERB	VBF	VerbForm=Fin	15	conj	_	SpaceAfter=No
-24	.	_	PUNCT	PUNC	_	1	punct	_	_
+24	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1619W-LETTERS-PRAGUE,.70
 # X_ID = 1619W-LETTERS-PRAGUE,32.74
@@ -1085,9 +1085,9 @@
 3	,	_	PUNCT	PUNC	_	2	punct	_	_
 4	ir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 5	tut	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
-6	un	_	CCONJ	CONJ	_	8	cc	_	_
-7	tun	_	VERB	VB	VerbForm=Inf	8	dep	_	_
-8	vert	_	VERB	RDF	VerbForm=Fin	5	ccomp	_	SpaceAfter=No
+6	un	_	CCONJ	CONJ	_	7	cc	_	_
+7	tun	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
+8	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1619W-LETTERS-PRAGUE,.72

@@ -499,7 +499,7 @@
 4	"	_	PUNCT	PUNC	_	16	punct	_	_
 5	kan	_	AUX	MDF	VerbForm=Fin	16	dep	_	_
 6	men	_	PRON	PRO	_	5	nmod	_	_
-7	niks	_	DET	Q	_	5	det	_	_
+7	niks	_	DET	Q-NEG	Polarity=Neg	5	det	_	_
 8	yutsa	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 9	zeyn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
 10	idi	_	X	X	_	5	dep	_	_
@@ -754,10 +754,10 @@
 1	kegn	_	ADP	P	_	4	case	_	_
 2	di	_	DET	D	PronType=Art	4	det	_	_
 3	ale	_	DET	Q	_	4	det	_	_
-4	kategories	_	NOUN	N-D	Definite=Def	5	obl	_	_
-5	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	derklert	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-7	a	_	DET	D-NOM	Case=Nom|PronType=Art	5	nsubj	_	SpaceAfter=No
+4	kategories	_	NOUN	N-D	Definite=Def	6	obl	_	_
+5	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+6	derklert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	a	_	DET	D-NOM	Case=Nom|PronType=Art	6	nsubj	_	SpaceAfter=No
 8	"	_	PUNCT	PUNC	_	7	punct	_	_
 9	khrm	excommunication	X	H	_	7	dep	_	_
 10	hgdul	the_great	X	H	_	9	dep	_	_
@@ -766,11 +766,11 @@
 13	sufr	shofar	X	H	_	9	dep	_	_
 14	ukkoy	and_extinguishing	X	H	_	9	dep	_	_
 15	ndut	candles	X	H	_	9	dep	_	SpaceAfter=No
-16	"	_	PUNCT	PUNC	_	5	punct	_	SpaceAfter=No
-17	,	_	PUNCT	PUNC	_	5	punct	_	_
+16	"	_	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
+17	,	_	PUNCT	PUNC	_	6	punct	_	_
 18	loyt	_	ADP	P	_	20	case	_	_
 19	der	_	DET	D	PronType=Art	20	det	_	_
-20	tknh	_	NOUN	N-D	Definite=Def	5	obl	_	_
+20	tknh	_	NOUN	N-D	Definite=Def	6	obl	_	_
 21	fun	_	ADP	P	_	24	case	_	_
 22	der	_	DET	D	PronType=Art	24	det	_	_
 23	frierdiker	_	ADJ	ADJ	Degree=Pos	24	amod	_	_
@@ -780,7 +780,7 @@
 27	in	_	ADP	P	_	28	case	_	_
 28	februar	_	NOUN	N	_	24	obl	_	_
 29	1671	_	NUM	NUM	_	28	nummod	_	SpaceAfter=No
-30	.	_	PUNCT	PUNC	_	5	punct	_	_
+30	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1929E-DUBNOV-VAAD,.19
 # X_ID = 1929E-DUBNOV-VAAD,701.21
@@ -1013,15 +1013,15 @@
 19	ton	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 20	.	_	PUNCT	PUNC	_	19	punct	_	_
 
-1	kedey	_	SCONJ	C	_	7	advcl	_	_
+1	kedey	_	SCONJ	C	_	8	advcl	_	_
 2	makhn	_	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 3	tsu	_	ADP	P	_	4	case	_	_
 4	dem	_	DET	D	PronType=Art	2	obl	_	_
 5	a	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
 6	sof	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	2	obj	_	_
-7	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-8	aroysgegebn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	7	ccomp	_	_
+7	vern	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
+8	aroysgegebn	_	VERB	VAN-PART	Tense=Past|VerbForm=Part	0	root	_	_
 9	di	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
-10	kruzim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
-11	:	_	PUNCT	PUNC	_	7	punct	_	_
+10	kruzim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	8	nsubj	_	_
+11	:	_	PUNCT	PUNC	_	8	punct	_	_
 

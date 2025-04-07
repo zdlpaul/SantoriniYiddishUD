@@ -15226,12 +15226,12 @@
 # sent_id = 1910E-GRINE-FELDER,.1127
 # X_ID = 1910E-GRINE-FELDER,92.1157
 # text = 'kh hob gekent geharget vern .
-1	'kh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-2	hob	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
-3	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	5	aux	_	_
-4	geharget	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	vern	_	VERB	RD	VerbForm=Inf	0	root	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	5	punct	_	_
+1	'kh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+2	hob	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
+3	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	4	aux	_	_
+4	geharget	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	vern	_	AUX	RD	VerbForm=Inf	4	aux	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1128
 # X_ID = 1910E-GRINE-FELDER,92.1158
@@ -15431,14 +15431,14 @@
 # sent_id = 1910E-GRINE-FELDER,.1143
 # X_ID = 1910E-GRINE-FELDER,93.1174
 # text = un du bist take bald bashtraft gevorn .
-1	un	_	CCONJ	CONJ	_	7	cc	_	_
-2	du	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-3	bist	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-4	take	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-5	bald	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-6	bashtraft	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	7	punct	_	_
+1	un	_	CCONJ	CONJ	_	6	cc	_	_
+2	du	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
+3	bist	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+4	take	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+5	bald	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+6	bashtraft	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1144
 # X_ID = 1910E-GRINE-FELDER,93.1175

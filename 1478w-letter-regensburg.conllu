@@ -39,14 +39,14 @@
 # sent_id = 1478W-LETTER-REGENSBURG,.4
 # X_ID = 1478W-LETTER-REGENSBURG,156.6
 # text = ikh ver morgen mit dem iren reden, ob ikh deyn zakh kont tsu guet ous makhen .
-1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-2	ver	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	morgen	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+1	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+2	ver	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+3	morgen	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 4	mit	_	ADP	P	_	6	case	_	_
 5	dem	_	DET	D	PronType=Art	6	det	_	_
-6	iren	_	NOUN	N-D	Definite=Def	2	obl	_	_
-7	reden	_	VERB	VB	VerbForm=Inf	2	dep	_	SpaceAfter=No
-8	,	_	PUNCT	PUNC	_	2	punct	_	_
+6	iren	_	NOUN	N-D	Definite=Def	7	obl	_	_
+7	reden	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
+8	,	_	PUNCT	PUNC	_	7	punct	_	_
 9	ob	_	SCONJ	C	_	17	mark	_	_
 10	ikh	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
 11	deyn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	12	det:poss	_	_
@@ -55,8 +55,8 @@
 14	tsu	_	ADP	P	_	15	case	_	_
 15	guet	_	NOUN	N	_	17	obl	_	_
 16	ous	_	ADP	RP	_	17	compound:prt	_	_
-17	makhen	_	VERB	VB	VerbForm=Inf	2	dep	_	SpaceAfter=No
-18	.	_	PUNCT	PUNC	_	2	punct	_	_
+17	makhen	_	VERB	VB	VerbForm=Inf	7	dep	_	SpaceAfter=No
+18	.	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1478W-LETTER-REGENSBURG,.5
 # X_ID = 1478W-LETTER-REGENSBURG,156.7

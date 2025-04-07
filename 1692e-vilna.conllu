@@ -2,23 +2,23 @@
 # X_ID = 1692E-VILNA,210.3
 # text = das blbul iz oyf di drey kdusim bk"k vilna varn gemakht
 1	das	_	DET	D-NOM	Case=Nom|PronType=Art	2	det	_	_
-2	blbul	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	10	nsubj	_	_
-3	iz	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
+2	blbul	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	11	nsubj	_	_
+3	iz	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
 4	oyf	_	ADP	P	_	6	case	_	_
 5	di	_	DET	D	PronType=Art	6	det	_	_
-6	drey	_	NUM	NUM-D	Definite=Def	10	obl	_	_
+6	drey	_	NUM	NUM-D	Definite=Def	11	obl	_	_
 7	kdusim	_	NOUN	N	_	6	conj	_	_
 8	bk"k	in_community_holy	X	H	_	9	dep	_	_
 9	vilna	_	PROPN	NPR	_	6	obl	_	_
-10	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-11	gemakht	_	VERB	VAN	Tense=Past|VerbForm=Part	10	ccomp	_	_
+10	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	11	dep	_	_
+11	gemakht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.2
 # X_ID = 1692E-VILNA,210.4
 # text = nakh den a"b tsvey mol fun der a' biz an dr t' iz es vorin gitrakht
 1	nakh	_	ADP	P	_	3	case	_	_
 2	den	_	DET	D	PronType=Art	3	det	_	_
-3	a"b	_	NOUN	N-D	Definite=Def	15	obl	_	_
+3	a"b	_	NOUN	N-D	Definite=Def	16	obl	_	_
 4	tsvey	_	NUM	NUM	_	3	dep	_	_
 5	mol	_	NOUN	N	_	4	conj	_	_
 6	fun	_	ADP	P	_	8	case	_	_
@@ -28,31 +28,31 @@
 10	an	_	ADP	P	_	12	case	_	_
 11	dr	_	DET	D	PronType=Art	12	det	_	_
 12	t'	_	NOUN	N-D	Definite=Def	4	obl	_	_
-13	iz	_	AUX	BEF	VerbForm=Fin	15	cop	_	_
-14	es	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
-15	vorin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-16	gitrakht	_	VERB	VAN	Tense=Past|VerbForm=Part	15	ccomp	_	_
+13	iz	_	AUX	BEF	VerbForm=Fin	16	cop	_	_
+14	es	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
+15	vorin	_	VERB	RDN	Tense=Past|VerbForm=Part	16	dep	_	_
+16	gitrakht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.3
 # X_ID = 1692E-VILNA,210.5
 # text = oykh zeyer dreya nemin iz nakh den andern a"b in di ersth oysyes varin %ich%-1 areyn gebrakht
 1	oykh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 2	zeyer	_	PRON	PRO$	_	3	det:poss	_	_
-3	dreya	_	NUM	NUM	_	14	nsubj	_	_
+3	dreya	_	NUM	NUM	_	17	nsubj	_	_
 4	nemin	_	NOUN	N	_	3	conj	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	14	cop	_	_
+5	iz	_	AUX	BEF	VerbForm=Fin	17	cop	_	_
 6	nakh	_	ADP	P	_	9	case	_	_
 7	den	_	DET	D	PronType=Art	9	det	_	_
 8	andern	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-9	a"b	_	NOUN	N-D	Definite=Def	14	obl	_	_
+9	a"b	_	NOUN	N-D	Definite=Def	17	obl	_	_
 10	in	_	ADP	P	_	13	case	_	_
 11	di	_	DET	D	PronType=Art	13	det	_	_
 12	ersth	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
-13	oysyes	_	NOUN	N-D	Definite=Def	14	obl	_	_
-14	varin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+13	oysyes	_	NOUN	N-D	Definite=Def	17	obl	_	_
+14	varin	_	VERB	RDN	Tense=Past|VerbForm=Part	17	dep	_	_
 15	%ich%-1	_	ADP	PP	_	16	obl	_	_
-16	areyn	_	ADV	ADV	Degree=Pos	14	advmod	_	_
-17	gebrakht	_	VERB	VAN	Tense=Past|VerbForm=Part	14	ccomp	_	_
+16	areyn	_	ADV	ADV	Degree=Pos	17	advmod	_	_
+17	gebrakht	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.4
 # X_ID = 1692E-VILNA,210.6
@@ -73,16 +73,16 @@
 # sent_id = 1692E-VILNA,.5
 # X_ID = 1692E-VILNA,210.7
 # text = un drum iz es tsveya mal nakh a"b varin gistelt
-1	un	_	CCONJ	CONJ	_	9	cc	_	_
-2	drum	_	ADP	P	_	9	obl	_	_
-3	iz	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
-4	es	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-5	tsveya	_	NUM	NUM	_	9	obl	_	_
+1	un	_	CCONJ	CONJ	_	10	cc	_	_
+2	drum	_	ADP	P	_	10	obl	_	_
+3	iz	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
+4	es	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
+5	tsveya	_	NUM	NUM	_	10	obl	_	_
 6	mal	_	NOUN	N	_	5	conj	_	_
 7	nakh	_	ADP	P	_	8	case	_	_
-8	a"b	_	NOUN	N	_	9	obl	_	_
-9	varin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-10	gistelt	_	VERB	VAN	Tense=Past|VerbForm=Part	9	ccomp	_	_
+8	a"b	_	NOUN	N	_	10	obl	_	_
+9	varin	_	VERB	RDN	Tense=Past|VerbForm=Part	10	dep	_	_
+10	gistelt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.6
 # X_ID = 1692E-VILNA,210.8
@@ -156,15 +156,15 @@
 # sent_id = 1692E-VILNA,.10
 # X_ID = 1692E-VILNA,211.13
 # text = un al di elilut zalin verin fun isral fr_shlasin
-1	un	_	CCONJ	CONJ	_	6	cc	_	_
+1	un	_	CCONJ	CONJ	_	9	cc	_	_
 2	al	_	DET	Q-NOM	Case=Nom	4	det	_	_
 3	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
-4	elilut	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-5	zalin	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-6	verin	_	VERB	RD	VerbForm=Inf	0	root	_	_
+4	elilut	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	9	nsubj	_	_
+5	zalin	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
+6	verin	_	AUX	RD	VerbForm=Inf	9	aux	_	_
 7	fun	_	ADP	P	_	8	case	_	_
-8	isral	_	PROPN	NPR	_	6	obl	_	_
-9	fr_shlasin	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
+8	isral	_	PROPN	NPR	_	9	obl	_	_
+9	fr_shlasin	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.11
 # X_ID = 1692E-VILNA,211.14
@@ -559,18 +559,18 @@
 # sent_id = 1692E-VILNA,.37
 # X_ID = 1692E-VILNA,212.41
 # text = lnu - tsu unz iz varn fr_kert unzer freyd tsu grush leyd
-1	lnu	to_us	X	H	_	6	dep	_	SpaceAfter=No
-2	-	-	PUNCT	PUNC	_	6	punct	_	_
+1	lnu	to_us	X	H	_	7	dep	_	SpaceAfter=No
+2	-	-	PUNCT	PUNC	_	7	punct	_	_
 3	tsu	_	ADP	P	_	4	case	_	_
-4	unz	_	PRON	PRO	_	6	obl	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-6	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-7	fr_kert	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
+4	unz	_	PRON	PRO	_	7	obl	_	_
+5	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
+6	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	7	dep	_	_
+7	fr_kert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 8	unzer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	det:poss	_	_
-9	freyd	_	NOUN	N	_	6	nsubj	_	_
+9	freyd	_	NOUN	N	_	7	nsubj	_	_
 10	tsu	_	ADP	P	_	12	case	_	_
 11	grush	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-12	leyd	_	NOUN	N	_	6	obl	_	_
+12	leyd	_	NOUN	N	_	7	obl	_	_
 
 # sent_id = 1692E-VILNA,.38
 # X_ID = 1692E-VILNA,212.42
@@ -810,7 +810,7 @@
 1	ven_sun	_	SCONJ	C	_	4	mark	_	_
 2	ir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	mekht	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
-4	fresin	_	VERB	VB	VerbForm=Inf	19	advcl	_	_
+4	fresin	_	VERB	VB	VerbForm=Inf	23	advcl	_	_
 5	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
 6	fleys	_	NOUN	N	_	4	obj	_	_
 7	fun	_	ADP	P	_	9	case	_	_
@@ -824,12 +824,12 @@
 15	kindr	_	NOUN	N	_	4	obl	_	_
 16	un	_	CCONJ	CONJ	_	17	cc	_	_
 17	veybr	_	NOUN	N	_	15	conj	_	_
-18	es	_	PRON	PRO-NOM	Case=Nom	19	nsubj	_	_
-19	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-20	aber	_	ADV	ADV	Degree=Pos	19	advmod	_	_
-21	oykh	_	PRON	PRO-DTV	Case=Dat	19	iobj	_	_
-22	ibl	_	ADV	ADV	Degree=Pos	19	advmod	_	_
-23	bkumn	_	VERB	VB	VerbForm=Inf	19	dep	_	_
+18	es	_	PRON	PRO-NOM	Case=Nom	23	nsubj	_	_
+19	vert	_	AUX	RDF	VerbForm=Fin	23	aux	_	_
+20	aber	_	ADV	ADV	Degree=Pos	23	advmod	_	_
+21	oykh	_	PRON	PRO-DTV	Case=Dat	23	iobj	_	_
+22	ibl	_	ADV	ADV	Degree=Pos	23	advmod	_	_
+23	bkumn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1692E-VILNA,.54
 # X_ID = 1692E-VILNA,213.59
@@ -881,14 +881,14 @@
 # sent_id = 1692E-VILNA,.56
 # X_ID = 1692E-VILNA,213.61
 # text = un mit oykh verin mir hbn unzr spil un grush tsnkin
-1	un	_	CCONJ	CONJ	_	4	cc	_	_
+1	un	_	CCONJ	CONJ	_	6	cc	_	_
 2	mit	_	ADP	P	_	3	case	_	_
-3	oykh	_	PRON	PRO	_	4	obl	_	_
-4	verin	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-5	mir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-6	hbn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+3	oykh	_	PRON	PRO	_	6	obl	_	_
+4	verin	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+5	mir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
+6	hbn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 7	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	8	det:poss	_	_
-8	spil	_	NOUN	N	_	4	obj	_	_
+8	spil	_	NOUN	N	_	6	obj	_	_
 9	un	_	CCONJ	CONJ	_	10	cc	_	_
 10	grush	_	ADJ	ADJ	Degree=Pos	8	conj	_	_
 11	tsnkin	_	NOUN	N	_	10	conj	_	_
@@ -1363,22 +1363,22 @@
 # sent_id = 1692E-VILNA,.85
 # X_ID = 1692E-VILNA,215.92
 # text = vers@ @tu bleybn lebn
-1	vers@	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-2	@tu	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
-3	bleybn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
-4	lebn	_	ADP	RP-V	_	1	compound:prt	_	_
+1	vers@	_	AUX	RDF	VerbForm=Fin	3	aux	_	_
+2	@tu	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
+3	bleybn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+4	lebn	_	ADP	RP-V	_	3	compound:prt	_	_
 
 # sent_id = 1692E-VILNA,.86
 # X_ID = 1692E-VILNA,215.93
 # text = un alpi alpim ver ikh dir dr_tsu gebn
-1	un	_	CCONJ	CONJ	_	4	cc	_	_
-2	alpi	thousands_of	X	H	_	4	dep	_	_
+1	un	_	CCONJ	CONJ	_	8	cc	_	_
+2	alpi	thousands_of	X	H	_	8	dep	_	_
 3	alpim	thousands	X	H	_	2	dep	_	_
-4	ver	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-5	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-6	dir	_	PRON	PRO-DTV	Case=Dat	4	iobj	_	_
-7	dr_tsu	_	ADP	P	_	4	obl	_	_
-8	gebn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+4	ver	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
+5	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
+6	dir	_	PRON	PRO-DTV	Case=Dat	8	iobj	_	_
+7	dr_tsu	_	ADP	P	_	8	obl	_	_
+8	gebn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1692E-VILNA,.87
 # X_ID = 1692E-VILNA,215.94
@@ -1419,15 +1419,15 @@
 # sent_id = 1692E-VILNA,.90
 # X_ID = 1692E-VILNA,215.97
 # text = der vert mir helfn el kidush ha-shem tsu bsteyn
-1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	mir	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-4	helfn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+1	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	4	aux	_	_
+3	mir	_	PRON	PRO-DTV	Case=Dat	4	iobj	_	_
+4	helfn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 5	el	on	X	H	_	9	dep	_	_
 6	kidush	sanctification	X	H	_	5	dep	_	_
 7	ha-shem	the_name	X	H	_	5	dep	_	_
 8	tsu	_	PART	TO	_	9	mark	_	_
-9	bsteyn	_	VERB	VB	VerbForm=Inf	2	xcomp	_	_
+9	bsteyn	_	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 
 # sent_id = 1692E-VILNA,.91
 # X_ID = 1692E-VILNA,215.98
@@ -1960,11 +1960,11 @@
 # text = di drey kdusim habn muzin vern vr_larin
 1	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 2	drey	_	NUM	NUM-NOM	Case=Nom	3	nummod	_	_
-3	kdusim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-4	habn	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
-5	muzin	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	6	aux	_	_
-6	vern	_	VERB	RD	VerbForm=Inf	0	root	_	_
-7	vr_larin	_	VERB	VAN	Tense=Past|VerbForm=Part	6	ccomp	_	_
+3	kdusim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
+4	habn	_	AUX	HVF	VerbForm=Fin	7	aux	_	_
+5	muzin	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	7	aux	_	_
+6	vern	_	AUX	RD	VerbForm=Inf	7	aux	_	_
+7	vr_larin	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.124
 # X_ID = 1692E-VILNA,217.133
@@ -2032,15 +2032,15 @@
 # sent_id = 1692E-VILNA,.128
 # X_ID = 1692E-VILNA,217.137
 # text = un di kdusim zenn varn bey eyn vart bstent
-1	un	_	CCONJ	CONJ	_	5	cc	_	_
+1	un	_	CCONJ	CONJ	_	9	cc	_	_
 2	di	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
-3	kdusim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
-4	zenn	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-5	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+3	kdusim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	9	nsubj	_	_
+4	zenn	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
+5	varn	_	VERB	RDN	Tense=Past|VerbForm=Part	9	dep	_	_
 6	bey	_	ADP	P	_	8	case	_	_
 7	eyn	_	DET	D	PronType=Art	8	det	_	_
-8	vart	_	NOUN	N-I	Definite=Ind	5	obl	_	_
-9	bstent	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
+8	vart	_	NOUN	N-I	Definite=Ind	9	obl	_	_
+9	bstent	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.129
 # X_ID = 1692E-VILNA,218.139
@@ -2188,7 +2188,7 @@
 # text = habn zi niks oys girekht
 1	habn	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 2	zi	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-3	niks	_	DET	Q-ACC	Case=Acc	5	obj	_	_
+3	niks	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	5	obj	_	_
 4	oys	_	ADP	RP	_	5	compound:prt	_	_
 5	girekht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
@@ -2877,12 +2877,12 @@
 1	tsu	_	ADP	P	_	4	case	_	_
 2	eyn	_	DET	D	PronType=Art	4	det	_	_
 3	grusr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-4	leydn	_	NOUN	N-I	Definite=Ind	8	obl	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
-6	es	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
-7	ir	_	PRON	PRO-DTV	Case=Dat	8	iobj	_	_
-8	vorin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-9	fr_kert	_	VERB	VAN	Tense=Past|VerbForm=Part	8	ccomp	_	_
+4	leydn	_	NOUN	N-I	Definite=Ind	9	obl	_	_
+5	iz	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
+6	es	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
+7	ir	_	PRON	PRO-DTV	Case=Dat	9	iobj	_	_
+8	vorin	_	VERB	RDN	Tense=Past|VerbForm=Part	9	dep	_	_
+9	fr_kert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.180
 # X_ID = 1692E-VILNA,220.192
@@ -2903,14 +2903,14 @@
 # sent_id = 1692E-VILNA,.181
 # X_ID = 1692E-VILNA,220.193
 # text = un zier gelt iz ... erstn varin fr_darbn
-1	un	_	CCONJ	CONJ	_	7	cc	_	_
+1	un	_	CCONJ	CONJ	_	8	cc	_	_
 2	zier	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	3	det:poss	_	_
-3	gelt	_	NOUN	N	_	7	nsubj	_	_
-4	iz	_	AUX	BEF	VerbForm=Fin	7	cop	_	SpaceAfter=No
-5	...	_	PUNCT	PUNC	_	7	punct	_	_
-6	erstn	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-7	varin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-8	fr_darbn	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
+3	gelt	_	NOUN	N	_	8	nsubj	_	_
+4	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	SpaceAfter=No
+5	...	_	PUNCT	PUNC	_	8	punct	_	_
+6	erstn	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+7	varin	_	VERB	RDN	Tense=Past|VerbForm=Part	8	dep	_	_
+8	fr_darbn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1692E-VILNA,.182
 # X_ID = 1692E-VILNA,220.194

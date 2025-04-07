@@ -24,15 +24,15 @@
 # sent_id = 1507W-BOVO,.3
 # X_ID = 1507W-BOVO,Title.5
 # text = %pro% iz vardn gidrukt tsu eyznh in der stat
-1	%pro%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
-2	iz	_	AUX	BEF	VerbForm=Fin	3	cop	_	_
-3	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-4	gidrukt	_	VERB	VAN	Tense=Past|VerbForm=Part	3	ccomp	_	_
+1	%pro%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
+2	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+3	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
+4	gidrukt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 5	tsu	_	ADP	P	_	6	case	_	_
-6	eyznh	_	PROPN	NPR	_	3	obl	_	_
+6	eyznh	_	PROPN	NPR	_	4	obl	_	_
 7	in	_	ADP	P	_	9	case	_	_
 8	der	_	DET	D	PronType=Art	9	det	_	_
-9	stat	_	NOUN	N-D	Definite=Def	3	obl	_	_
+9	stat	_	NOUN	N-D	Definite=Def	4	obl	_	_
 
 # sent_id = 1507W-BOVO,.4
 # X_ID = 1507W-BOVO,Title.6
@@ -175,7 +175,7 @@
 # text = di_veyl ikh halt an end meynr tagn un' hoyt udr murgn kir ikh oyf di gagn da vern al meyni bukhr un' meyni lidr vr_gesn un' giligt dr_nidr
 1	di_veyl	_	SCONJ	C	_	3	mark	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-3	halt	_	VERB	VBF	VerbForm=Fin	18	advcl	_	_
+3	halt	_	VERB	VBF	VerbForm=Fin	25	advcl	_	_
 4	an	_	ADP	P	_	5	case	_	_
 5	end	_	NOUN	N	_	3	obl	_	_
 6	meynr	_	PRON	PRO$	_	7	det:poss	_	_
@@ -189,17 +189,17 @@
 14	oyf	_	ADP	RP	_	12	compound:prt	_	_
 15	di	_	DET	D-ACC	Case=Acc|PronType=Art	16	det	_	_
 16	gagn	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	12	obj	_	_
-17	da	_	ADV	ADV	Degree=Pos	18	advmod	_	_
-18	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
+17	da	_	ADV	ADV	Degree=Pos	25	advmod	_	_
+18	vern	_	AUX	RDF	VerbForm=Fin	25	aux	_	_
 19	al	_	DET	Q-NOM	Case=Nom	21	det	_	_
 20	meyni	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	21	det:poss	_	_
-21	bukhr	_	NOUN	N-NOM	Case=Nom	18	nsubj	_	_
+21	bukhr	_	NOUN	N-NOM	Case=Nom	25	nsubj	_	_
 22	un'	_	CCONJ	CONJ	_	24	cc	_	_
 23	meyni	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	24	det:poss	_	_
 24	lidr	_	NOUN	N	_	21	conj	_	_
-25	vr_gesn	_	VERB	VAN	Tense=Past|VerbForm=Part	18	ccomp	_	_
+25	vr_gesn	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 26	un'	_	CCONJ	CONJ	_	27	cc	_	_
-27	giligt	_	VERB	VAN	Tense=Past|VerbForm=Part	18	conj	_	_
+27	giligt	_	VERB	VAN	Tense=Past|VerbForm=Part	25	conj	_	_
 28	dr_nidr	_	ADV	ADV	Degree=Pos	27	advmod	_	_
 
 # sent_id = 1507W-BOVO,.11

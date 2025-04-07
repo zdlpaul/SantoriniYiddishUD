@@ -77,21 +77,21 @@
 # sent_id = 1743E-TESHUAT-PREFACE,.4
 # X_ID = 1743E-TESHUAT-PREFACE,17.1.6
 # text = un' den in_halt virt yedr mensh kenn zehn ven er ali drey bikhr durkh leyant
-1	un'	_	CCONJ	CONJ	_	4	cc	_	_
+1	un'	_	CCONJ	CONJ	_	8	cc	_	_
 2	den	_	DET	D-ACC	Case=Acc|PronType=Art	3	det	_	_
-3	in_halt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	4	obj	_	_
-4	virt	_	VERB	RDF	VerbForm=Fin	0	root	_	_
+3	in_halt	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	8	obj	_	_
+4	virt	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
 5	yedr	_	DET	Q-NOM	Case=Nom	6	det	_	_
-6	mensh	_	NOUN	N-NOM	Case=Nom	4	nsubj	_	_
-7	kenn	_	AUX	MD	VerbForm=Inf	4	aux	_	_
-8	zehn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+6	mensh	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	_
+7	kenn	_	AUX	MD	VerbForm=Inf	8	aux	_	_
+8	zehn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 9	ven	_	SCONJ	C	_	15	mark	_	_
 10	er	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 11	ali	_	DET	Q-ACC	Case=Acc	13	det	_	_
 12	drey	_	NUM	NUM-ACC	Case=Acc	13	nummod	_	_
 13	bikhr	_	NOUN	N-ACC	Case=Acc	15	obj	_	_
 14	durkh	_	ADP	RP	_	15	compound:prt	_	_
-15	leyant	_	VERB	VBF	VerbForm=Fin	4	advcl	_	_
+15	leyant	_	VERB	VBF	VerbForm=Fin	8	advcl	_	_
 
 # sent_id = 1743E-TESHUAT-PREFACE,.5
 # X_ID = 1743E-TESHUAT-PREFACE,17.1.7
@@ -532,19 +532,19 @@
 # sent_id = 1743E-TESHUAT-PREFACE,.22
 # X_ID = 1743E-TESHUAT-PREFACE,17.4.27
 # text = den zeyn anshim khshubim mdint pulin gshikt vardn lrum zalkhs sfr tsu bkumn
-1	den	_	CCONJ	CONJ	_	8	cc	_	_
-2	zeyn	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
+1	den	_	CCONJ	CONJ	_	7	cc	_	_
+2	zeyn	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 3	anshim	people	X	H	_	6	dep	_	_
 4	khshubim	important	X	H	_	6	dep	_	_
 5	mdint	states	X	H	_	6	dep	_	_
-6	pulin	_	PROPN	NPR	_	8	nsubj	_	_
-7	gshikt	_	VERB	VAN	Tense=Past|VerbForm=Part	8	ccomp	_	_
-8	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-9	lrum	to_Rome	X	H	_	8	obl	_	_
+6	pulin	_	PROPN	NPR	_	7	nsubj	_	_
+7	gshikt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+8	vardn	_	VERB	RDN	Tense=Past|VerbForm=Part	7	dep	_	_
+9	lrum	to_Rome	X	H	_	7	obl	_	_
 10	zalkhs	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	11	amod	_	_
 11	sfr	_	NOUN	N-ACC	Case=Acc	13	obj	_	_
 12	tsu	_	PART	TO	_	13	advcl	_	_
-13	bkumn	_	VERB	VB	VerbForm=Inf	8	advcl	_	_
+13	bkumn	_	VERB	VB	VerbForm=Inf	7	advcl	_	_
 
 # sent_id = 1743E-TESHUAT-PREFACE,.23
 # X_ID = 1743E-TESHUAT-PREFACE,17.4.28
@@ -552,7 +552,7 @@
 1	%con%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
 2	hbn	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 3	abir	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-4	niksz	_	DET	Q-ACC	Case=Acc	6	obj	_	_
+4	niksz	_	DET	Q-ACC-NEG	Case=Acc|PronType=Neg	6	obj	_	_
 5	oyz	_	ADP	RP	_	6	compound:prt	_	_
 6	grikht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 
@@ -729,12 +729,12 @@
 16	tsu	_	PART	TO	_	10	mark	_	_
 17	hengn	_	VERB	VB	VerbForm=Inf	10	dep	_	_
 
-1	bzkhut	in_merit	X	H	_	3	dep	_	_
+1	bzkhut	in_merit	X	H	_	6	dep	_	_
 2	zh	this	X	H	_	1	dep	_	_
-3	verdn	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	mir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-5	zukhh	_	ADP	RP-H	_	3	compound:prt	_	_
-6	zeyn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+3	verdn	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+4	mir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
+5	zukhh	_	ADP	RP-H	_	6	compound:prt	_	_
+6	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 7	alz	_	SCONJ	C	_	14	mark	_	_
 8	veytr	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 9	gruzi	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	amod	_	_
@@ -742,7 +742,7 @@
 11	vern	_	AUX	RDF	VerbForm=Fin	14	aux	_	_
 12	ibr	_	ADP	P	_	13	case	_	_
 13	unts	_	PRON	PRO	_	14	obl	_	_
-14	hltn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
+14	hltn	_	VERB	VB	VerbForm=Inf	6	ccomp	_	_
 15	un'	_	CCONJ	CONJ	_	21	cc	_	_
 16	%pro%	_	NOUN	NP-SBJ	_	21	nsubj	_	_
 17	veytr	_	ADV	ADV	Degree=Pos	21	advmod	_	_
