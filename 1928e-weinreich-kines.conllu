@@ -576,7 +576,7 @@
 # X_ID = 1928E-WEINREICH-KINES,193.29
 # text = anit volt di shilderung nit geven azoy frtimdik un lebedik ;
 1	anit	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	6	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	6	dep	_	_
 3	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	shilderung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_

@@ -158,8 +158,8 @@
 # text = nun zikht libn leyt
 1	nun	_	INTJ	INTJ	_	2	discourse	_	_
 2	zikht	_	VERB	VBI	Mood=Imp	0	root	_	_
-3	libn	_	ADJ	ADJ	Degree=Pos	2	vocative	_	_
-4	leyt	_	NOUN	N	_	3	conj	_	_
+3	libn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	leyt	_	NOUN	N	_	2	vocative	_	_
 
 # sent_id = 1589E-ESTER,.12
 # X_ID = 1589E-ESTER,4.14
@@ -2174,12 +2174,12 @@
 18	zi	_	PRON	PRO-NOM	Case=Nom	20	nsubj	_	_
 19	zikh	_	PRON	PRO-RFL	PronType=Reflex	20	expl:pv	_	_
 20	gidakhtn	_	VERB	VBF	VerbForm=Fin	13	advcl	_	_
-21	varum	_	ADP	P	_	20	dep	_	_
+21	varum	_	ADP	P	_	26	obl	_	_
 22	%t%-2	_	ADP	PP	_	26	obl	_	_
 23	zalin	_	AUX	MDF	VerbForm=Fin	26	aux	_	_
 24	mir	_	PRON	PRO-NOM	Case=Nom	26	nsubj	_	_
 25	kindr	_	NOUN	N-ACC	Case=Acc	26	obj	_	_
-26	habn	_	VERB	VB	VerbForm=Inf	21	conj	_	_
+26	habn	_	VERB	VB	VerbForm=Inf	20	dep	_	_
 
 # sent_id = 1589E-ESTER,.128
 # X_ID = 1589E-ESTER,8.134
@@ -2726,9 +2726,9 @@
 13	der	_	DET	D-NOM	Case=Nom|PronType=Art	14	det	_	_
 14	yud	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	12	nsubj	_	_
 15	vidr	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-16	varum	_	ADP	P	_	12	dep	_	_
+16	varum	_	ADP	P	_	18	obl	_	_
 17	%t%-1	_	ADP	PP	_	18	obl	_	_
-18	leyg@	_	VERB	VBF	VerbForm=Fin	16	conj	_	_
+18	leyg@	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
 19	@tu	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
 
 # sent_id = 1589E-ESTER,.152
@@ -3169,11 +3169,11 @@
 # sent_id = 1589E-ESTER,.174
 # X_ID = 1589E-ESTER,10.181
 # text = meyn zun meyn erstr isral du zalst mir shikn dz zi mir feyarn in der vistney
-1	meyn	_	PRON	PRO$	_	9	vocative	_	_
-2	zun	_	NOUN	N	_	1	conj	_	_
-3	meyn	_	PRON	PRO$	_	1	appos	_	_
+1	meyn	_	PRON	PRO$	_	2	det:poss	_	_
+2	zun	_	NOUN	N	_	9	vocative	_	_
+3	meyn	_	PRON	PRO$	_	2	appos	_	_
 4	erstr	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
-5	isral	_	PROPN	NPR	_	1	appos	_	_
+5	isral	_	PROPN	NPR	_	2	appos	_	_
 6	du	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 7	zalst	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
 8	mir	_	PRON	PRO-DTV	Case=Dat	9	iobj	_	_
@@ -3422,8 +3422,8 @@
 1	ir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 2	zalt	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
 3	visn	_	VERB	VB	VerbForm=Inf	0	root	_	_
-4	libi	_	ADJ	ADJ	Degree=Pos	3	vocative	_	_
-5	leyt	_	NOUN	N	_	4	conj	_	_
+4	libi	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	leyt	_	NOUN	N	_	3	vocative	_	_
 6	ub	_	SCONJ	C	_	16	mark	_	_
 7	gut	_	PROPN	NPR-SBJ	_	16	nsubj	_	_
 8	itbrkh	may_be_blessed	X	H	_	7	dep	_	_

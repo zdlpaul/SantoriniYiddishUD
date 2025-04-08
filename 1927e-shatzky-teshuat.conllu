@@ -2489,7 +2489,7 @@
 # text = ven men volt gevolt urteyln loyt der zaftiker yidisher sprakh fun zeyn hkdmh un dem trukenem deytshishn stil fun di drey bikhlekh damolt iz %exp% klor az nisht er iz %ich%-2 der iberzetser nor der oysgeber
 1	ven	_	SCONJ	C	_	5	mark	_	_
 2	men	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	gevolt	_	AUX	MDN	Tense=Past|VerbForm=Part	5	aux	_	_
 5	urteyln	_	VERB	VB	VerbForm=Inf	24	advcl	_	_
 6	loyt	_	ADP	P	_	10	case	_	_
@@ -2556,7 +2556,7 @@
 12	mentsls	_	NOUN	NPR$	_	9	obl	_	_
 13	deytshishn	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
 14	tekst	_	NOUN	N	_	12	conj	_	_
-15	volt	_	VERB	VLF	VerbForm=Fin	18	dep	_	_
+15	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	18	dep	_	_
 16	gekont	_	AUX	MDN	Tense=Past|VerbForm=Part	18	aux	_	_
 17	fest	_	ADP	RP-ADJ	_	18	compound:prt	_	_
 18	steln	_	VERB	VB	VerbForm=Inf	0	root	_	_

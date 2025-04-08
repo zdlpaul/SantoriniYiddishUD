@@ -343,13 +343,13 @@
 8	gorten	_	NOUN	N	_	6	obl	_	_
 9	gerufen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 10	:	_	PUNCT	PUNC	_	9	punct	_	_
-11	ey	_	INTJ	INTJ	_	12	discourse	_	_
-12	du	_	PRON	PRO	_	9	ccomp	_	_
-13	nar	_	NOUN	N	_	12	conj	_	SpaceAfter=No
-14	,	_	PUNCT	PUNC	_	12	punct	_	_
+11	ey	_	INTJ	INTJ	_	13	discourse	_	_
+12	du	_	PRON	PRO	_	13	nmod	_	_
+13	nar	_	NOUN	N	_	9	ccomp	_	SpaceAfter=No
+14	,	_	PUNCT	PUNC	_	13	punct	_	_
 15	zels@	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 16	@tu	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
-17	visen	_	VERB	VB	VerbForm=Inf	12	advcl	_	SpaceAfter=No
+17	visen	_	VERB	VB	VerbForm=Inf	13	advcl	_	SpaceAfter=No
 18	,	_	PUNCT	PUNC	_	17	punct	_	_
 19	vos	_	PRON	WPRO	_	17	dep	_	_
 20	%t%-1	_	NOUN	NP-ACC	_	24	dep	_	_
@@ -358,13 +358,13 @@
 23	mir	_	PRON	PRO	_	24	obl	_	_
 24	forloren	_	VERB	VBN	Tense=Past|VerbForm=Part	19	conj	_	_
 25	host	_	AUX	HVF	VerbForm=Fin	24	aux	_	SpaceAfter=No
-26	,	_	PUNCT	PUNC	_	12	punct	_	_
-27	gehers@	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
-28	@tu	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
+26	,	_	PUNCT	PUNC	_	13	punct	_	_
+27	gehers@	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
+28	@tu	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 29	dikh	_	PRON	PRO-RFL	PronType=Reflex	32	expl:pv	_	_
 30	m'tsar	_	ADP	RP-H	_	32	compound:prt	_	_
 31	tsu	_	PART	TO	_	32	mark	_	_
-32	zeyn	_	VERB	VB	VerbForm=Inf	12	xcomp	_	_
+32	zeyn	_	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 33	driber	_	ADP	P	_	32	obl	_	_
 34	ale	_	DET	Q	_	36	det	_	_
 35	deyne	_	PRON	PRO$	_	36	det:poss	_	_
@@ -380,15 +380,15 @@
 4	fogel	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	5	obj	_	_
 5	gefregt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	:	_	PUNCT	PUNC	_	5	punct	_	_
-7	vos	_	PRON	WPRO	_	5	dep	_	_
+7	vos	_	PRON	WPRO	_	14	obj	_	_
 8	%t%-1	_	NOUN	NP-ACC	_	14	dep	_	_
 9	hob	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
 10	ikh	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 11	den	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 12	on	_	ADP	P	_	13	case	_	_
 13	dir	_	PRON	PRO	_	14	obl	_	_
-14	forloren	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	SpaceAfter=No
-15	?	_	PUNCT	PUNC	_	7	punct	_	_
+14	forloren	_	VERB	VBN	Tense=Past|VerbForm=Part	5	dep	_	SpaceAfter=No
+15	?	_	PUNCT	PUNC	_	14	punct	_	_
 
 # sent_id = 1723W-SIMKHES,.24
 # X_ID = 1723W-SIMKHES,64.26
@@ -549,22 +549,22 @@
 5	im	_	PRON	PRO	_	6	obl	_	_
 6	ongefangen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	:	_	PUNCT	PUNC	_	6	punct	_	_
-8	du	_	PRON	PRO	_	6	dep	_	_
-9	groser	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-10	nar	_	NOUN	N	_	8	conj	_	SpaceAfter=No
-11	,	_	PUNCT	PUNC	_	8	punct	_	_
+8	du	_	PRON	PRO	_	10	nmod	_	_
+9	groser	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+10	nar	_	NOUN	N	_	16	vocative	_	SpaceAfter=No
+11	,	_	PUNCT	PUNC	_	16	punct	_	_
 12	hob	_	AUX	HVF	VerbForm=Fin	16	aux	_	_
 13	ikh	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
 14	dir	_	PRON	PRO-DTV	Case=Dat	16	iobj	_	_
 15	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	16	advmod	_	_
-16	gelernt	_	VERB	VBN	Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No
+16	gelernt	_	VERB	VBN	Tense=Past|VerbForm=Part	6	dep	_	SpaceAfter=No
 17	,	_	PUNCT	PUNC	_	16	punct	_	_
 18	dreyerley	_	NUM	NUM-DTV	Case=Dat	16	dep	_	_
 19	zakhen	_	NOUN	N-DTV	Case=Dat	18	conj	_	_
 20	zols@	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
 21	@tu	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
 22	nokhkumen	_	VERB	VB-PART	VerbForm=Inf	18	dep	_	SpaceAfter=No
-23	?	_	PUNCT	PUNC	_	8	punct	_	_
+23	?	_	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = 1723W-SIMKHES,.35
 # X_ID = 1723W-SIMKHES,64.37

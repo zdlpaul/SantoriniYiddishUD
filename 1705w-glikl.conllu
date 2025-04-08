@@ -123,9 +123,9 @@
 3	hat	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 4	%exp%	_	NOUN	NP-SBJ	_	5	nsubj	_	_
 5	gidakht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	vaz	_	PRON	WPRO	_	5	dep	_	_
+6	vaz	_	PRON	WPRO	_	8	obj	_	_
 7	%t%-1	_	NOUN	NP-ACC	_	8	dep	_	_
-8	kumin	_	VERB	VBF	VerbForm=Fin	6	conj	_	_
+8	kumin	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
 9	di	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 10	dreyarley	_	NUM	NUM-NOM	Case=Nom	8	nsubj	_	_
 11	tsu	_	ADP	P	_	12	case	_	_
@@ -940,9 +940,9 @@
 1	mh	what	X	H	_	11	dep	_	_
 2	li	to_me	X	H	_	11	dep	_	_
 3	lharikh	to_lengthen	X	H	_	11	dep	_	_
-4	meyn	_	PRON	PRO$	_	11	vocative	_	_
-5	libi	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-6	kindir	_	NOUN	N	_	4	conj	_	_
+4	meyn	_	PRON	PRO$	_	6	det:poss	_	_
+5	libi	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	kindir	_	NOUN	N	_	11	vocative	_	_
 7	ikh	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 8	habi	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
 9	dizus	_	DET	D	PronType=Art	11	dep	_	_
@@ -1043,9 +1043,9 @@
 # sent_id = 1705W-GLIKL,.45
 # X_ID = 1705W-GLIKL,4.50
 # text = meyn libi kindr ikh bin akh nit oyzn eykh eyn sfr musr tsu makhin un' tsu shreybn
-1	meyn	_	PRON	PRO$	_	5	vocative	_	_
-2	libi	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	kindr	_	NOUN	N	_	1	conj	_	_
+1	meyn	_	PRON	PRO$	_	3	det:poss	_	_
+2	libi	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	kindr	_	NOUN	N	_	5	vocative	_	_
 4	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 5	bin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	akh	_	ADV	ADV	Degree=Pos	5	advmod	_	_

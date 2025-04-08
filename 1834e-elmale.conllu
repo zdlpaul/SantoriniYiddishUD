@@ -486,8 +486,8 @@
 # sent_id = 1834E-ELMALE,.29
 # X_ID = 1834E-ELMALE,50.32
 # text = libe bridr vi vos %t%-1 zeynin unzri tnaim
-1	libe	_	ADJ	ADJ	Degree=Pos	6	vocative	_	_
-2	bridr	_	NOUN	N	_	1	conj	_	_
+1	libe	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	bridr	_	NOUN	N	_	6	vocative	_	_
 3	vi	_	INTJ	INTJ	_	6	discourse	_	_
 4	vos	_	PRON	WPRO	_	6	obj	_	_
 5	%t%-1	_	NOUN	NP-PRD	_	6	xcomp	_	_
@@ -544,7 +544,7 @@
 # sent_id = 1834E-ELMALE,.32
 # X_ID = 1834E-ELMALE,50.35
 # text = valt hshm itbrkh nit gisheynkt dem khsid fan barntski valt %exp% hlilh given azoy vi gzirh khmil im"s
-1	valt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+1	valt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 2	hshm	the_name	X	H	_	5	dep	_	_
 3	itbrkh	may_be_blessed	X	H	_	2	dep	_	_
 4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
@@ -553,7 +553,7 @@
 7	khsid	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
 8	fan	_	PROPN	NPR-D	_	7	dep	_	_
 9	barntski	_	PROPN	NPR-D	_	7	dep	_	_
-10	valt	_	VERB	VLF	VerbForm=Fin	13	dep	_	_
+10	valt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	_
 11	%exp%	_	NOUN	NP-SBJ	_	13	nsubj	_	_
 12	hlilh	_	INTJ	INTJ	_	13	discourse	_	_
 13	given	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -1029,8 +1029,8 @@
 1	kh.	_	NUM	LS	_	7	dep	_	_
 2	khi	UNKNOWN	X	H	_	7	dep	_	_
 3	ukim	UNKNOWN	X	H	_	7	dep	_	_
-4	libr	_	ADJ	ADJ	Degree=Pos	7	vocative	_	_
-5	gut	_	NOUN	N	_	4	conj	_	_
+4	libr	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	gut	_	NOUN	N	_	7	vocative	_	_
 6	eybig	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	deyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	det:poss	_	_
@@ -2053,8 +2053,8 @@
 1	r.	_	NUM	LS	_	6	dep	_	_
 2	rkhum	UNKNOWN	X	H	_	6	dep	_	_
 3	tsdik	righteous_person	X	H	_	6	dep	_	_
-4	der_barimigr	_	ADJ	ADJ	Degree=Pos	6	vocative	_	_
-5	fatr	_	NOUN	N	_	4	conj	_	_
+4	der_barimigr	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	fatr	_	NOUN	N	_	6	vocative	_	_
 6	helf	_	VERB	VBI	Mood=Imp	0	root	_	_
 7	unz	_	PRON	PRO-DTV	Case=Dat	6	iobj	_	_
 

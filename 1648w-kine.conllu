@@ -12,9 +12,9 @@
 # sent_id = 1648W-KINE,.2
 # X_ID = 1648W-KINE,198.4
 # text = ir libn rbuti, vist, az di kinh gar shin oyf lsun hkuds gimkht izt
-1	ir	_	PRON	PRO	_	5	vocative	_	_
-2	libn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	rbuti	_	NOUN	N	_	1	conj	_	SpaceAfter=No
+1	ir	_	PRON	PRO	_	3	nmod	_	_
+2	libn	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	rbuti	_	NOUN	N	_	5	vocative	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	5	punct	_	_
 5	vist	_	VERB	VBI	Mood=Imp	0	root	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	5	punct	_	_
@@ -295,9 +295,9 @@
 # sent_id = 1648W-KINE,.17
 # X_ID = 1648W-KINE,199.1.20
 # text = ir libi freynd lat uns veynn un klagn oyf di gzrut vas %t%-1 gisehn zeyn in unzrn tagn
-1	ir	_	PRON	PRO	_	4	vocative	_	_
-2	libi	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	freynd	_	NOUN	N	_	1	conj	_	_
+1	ir	_	PRON	PRO	_	3	nmod	_	_
+2	libi	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	freynd	_	NOUN	N	_	4	vocative	_	_
 4	lat	_	VERB	VBI	Mood=Imp	0	root	_	_
 5	uns	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	veynn	_	VERB	VB	VerbForm=Inf	4	xcomp	_	_
@@ -342,11 +342,11 @@
 # X_ID = 1648W-KINE,199.2.24
 # text = bfrt ir frumi veybr un meydn vi %t%-1 iz far_stert vardn unzr freydn
 1	bfrt	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-2	ir	_	PRON	PRO	_	10	vocative	_	_
-3	frumi	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
-4	veybr	_	NOUN	N	_	2	conj	_	_
+2	ir	_	PRON	PRO	_	4	nmod	_	_
+3	frumi	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	veybr	_	NOUN	N	_	10	vocative	_	_
 5	un	_	CCONJ	CONJ	_	6	cc	_	_
-6	meydn	_	NOUN	N	_	2	conj	_	_
+6	meydn	_	NOUN	N	_	4	conj	_	_
 7	vi	_	ADV	WADV	Degree=Pos	10	advmod	_	_
 8	%t%-1	_	ADV	ADVP	Degree=Pos	10	advmod	_	_
 9	iz	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
@@ -930,8 +930,8 @@
 # sent_id = 1648W-KINE,.57
 # X_ID = 1648W-KINE,201.15.74
 # text = heyligi turh vi %t%-1 zal dikh das nit far_drisn
-1	heyligi	_	ADJ	ADJ	Degree=Pos	9	vocative	_	_
-2	turh	_	PROPN	NPR	_	1	dep	_	_
+1	heyligi	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	turh	_	PROPN	NPR	_	9	vocative	_	_
 3	vi	_	ADV	WADV	Degree=Pos	9	advmod	_	_
 4	%t%-1	_	ADV	ADVP	Degree=Pos	9	advmod	_	_
 5	zal	_	AUX	MDF	VerbForm=Fin	9	aux	_	_
@@ -1217,8 +1217,8 @@
 # sent_id = 1648W-KINE,.79
 # X_ID = 1648W-KINE,202.21.102
 # text = shini zun, vi %t%-1 has@ @tu kenn deyn likht sheynn am tag %t%-2 mn hat tan fr_lirn al di meynn
-1	shini	_	ADJ	ADJ	Degree=Pos	11	vocative	_	_
-2	zun	_	NOUN	N	_	1	conj	_	SpaceAfter=No
+1	shini	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	zun	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	11	punct	_	_
 4	vi	_	ADV	WADV	Degree=Pos	11	advmod	_	_
 5	%t%-1	_	ADV	ADVP	Degree=Pos	11	advmod	_	_
@@ -1746,8 +1746,8 @@
 # sent_id = 1648W-KINE,.117
 # X_ID = 1648W-KINE,203.31.150
 # text = libr gat varum %t%-1 hls@ @tu dikh oyf
-1	libr	_	ADJ	ADJ	Degree=Pos	5	vocative	_	_
-2	gat	_	PROPN	NPR	_	1	dep	_	_
+1	libr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	gat	_	PROPN	NPR	_	5	vocative	_	_
 3	varum	_	ADP	P	_	5	obl	_	_
 4	%t%-1	_	ADP	PP	_	5	obl	_	_
 5	hls@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -1969,8 +1969,8 @@
 # sent_id = 1648W-KINE,.136
 # X_ID = 1648W-KINE,204.36.174
 # text = libr gat, zikh vas %t%-1 gisikht deynm falk di libn tsu_teyln in gurl az kroyt adr ribn
-1	libr	_	ADJ	ADJ	Degree=Pos	4	vocative	_	_
-2	gat	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
+1	libr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	gat	_	PROPN	NPR	_	4	vocative	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	4	punct	_	_
 4	zikh	_	VERB	VBI	Mood=Imp	0	root	_	_
 5	vas	_	PRON	WPRO	_	7	obj	_	_
@@ -2296,8 +2296,8 @@
 # sent_id = 1648W-KINE,.160
 # X_ID = 1648W-KINE,205.43.205
 # text = hikhr gat der_brm daz ilnt vezn az zi hat gfirt zi vau %t%-1 di rtskhnim zenn givezn
-1	hikhr	_	ADJ	ADJ	Degree=Pos	3	vocative	_	_
-2	gat	_	PROPN	NPR	_	1	dep	_	_
+1	hikhr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	gat	_	PROPN	NPR	_	3	vocative	_	_
 3	der_brm	_	VERB	VBI	Mood=Imp	0	root	_	_
 4	daz	_	DET	D-ACC	Case=Acc|PronType=Art	6	det	_	_
 5	ilnt	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	6	amod	_	_
@@ -2806,8 +2806,8 @@
 # sent_id = 1648W-KINE,.200
 # X_ID = 1648W-KINE,207.54.256
 # text = al rkhum tu unzr tsrut zehn
-1	al	_	DET	Q	_	6	vocative	_	_
-2	rkhum	_	NOUN	N	_	1	conj	_	_
+1	al	_	DET	Q	_	2	det	_	_
+2	rkhum	_	NOUN	N	_	6	vocative	_	_
 3	tu	_	VERB	DOI	Mood=Imp	6	xcomp	_	_
 4	unzr	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
 5	tsrut	_	NOUN	N	_	6	obj	_	_
@@ -3160,8 +3160,8 @@
 # sent_id = 1648W-KINE,.229
 # X_ID = 1648W-KINE,208.61.292
 # text = heyligr sbt varum %t%-1 zals@ @tu nit far uns betn
-1	heyligr	_	ADJ	ADJ	Degree=Pos	10	vocative	_	_
-2	sbt	_	NOUN	N	_	1	conj	_	_
+1	heyligr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	sbt	_	NOUN	N	_	10	vocative	_	_
 3	varum	_	ADP	P	_	10	obl	_	_
 4	%t%-1	_	ADP	PP	_	10	obl	_	_
 5	zals@	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
@@ -3342,8 +3342,8 @@
 # sent_id = 1648W-KINE,.242
 # X_ID = 1648W-KINE,209.65.309
 # text = libr gat dr_brm dikh ibr itumim ualmnut un iber di almnut hiut uegunut
-1	libr	_	ADJ	ADJ	Degree=Pos	3	vocative	_	_
-2	gat	_	PROPN	NPR	_	1	dep	_	_
+1	libr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	gat	_	PROPN	NPR	_	3	vocative	_	_
 3	dr_brm	_	VERB	VBI	Mood=Imp	0	root	_	_
 4	dikh	_	PRON	PRO-ACC	Case=Acc	3	obj	_	_
 5	ibr	_	ADP	P	_	6	dep	_	_

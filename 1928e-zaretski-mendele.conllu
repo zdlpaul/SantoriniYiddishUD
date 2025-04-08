@@ -383,7 +383,7 @@
 16	vu	_	ADV	WADV	Degree=Pos	20	advmod	_	_
 17	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	20	advmod	_	_
 18	s	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	20	expl	_	_
-19	volt	_	VERB	VLF	VerbForm=Fin	20	dep	_	_
+19	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	20	dep	_	_
 20	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	14	acl:relcl	_	SpaceAfter=No
 21	"	_	PUNCT	PUNC	_	20	punct	_	_
 22	un	_	CCONJ	CONJ	_	20	dep	_	SpaceAfter=No
@@ -492,7 +492,7 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,20.27
 # text = s volt gekent zayn
 1	s	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	4	dep	_	_
 3	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	4	aux	_	_
 4	zayn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
@@ -592,8 +592,8 @@
 1	1	_	NUM	NUM	_	8	obl	_	_
 2	mol	_	NOUN	N	_	1	conj	_	SpaceAfter=No
 3	"	_	PUNCT	PUNC	_	8	punct	_	_
-4	vos	_	PRON	WPRO	_	8	obl	_	_
-5	heyst	_	VERB	VBF	VerbForm=Fin	4	dep	_	SpaceAfter=No
+4	vos	_	PRON	WPRO	_	5	nmod	_	_
+5	heyst	_	VERB	VBF	VerbForm=Fin	8	obl	_	SpaceAfter=No
 6	"	_	PUNCT	PUNC	_	8	punct	_	_
 7	me	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 8	zogt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -605,8 +605,8 @@
 14	un	_	CCONJ	CONJ	_	8	conj	_	_
 15	2	_	NUM	NUM	_	14	xcomp	_	_
 16	mol	_	NOUN	N	_	15	conj	_	_
-17	dos	_	DET	D	PronType=Art	15	obl	_	_
-18	heyst	_	VERB	VBF	VerbForm=Fin	17	dep	_	_
+17	dos	_	DET	D	PronType=Art	18	det	_	_
+18	heyst	_	VERB	VBF	VerbForm=Fin	15	obl	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.32
 # X_ID = 1928E-ZARETSKI-MENDELE,21.34
@@ -995,7 +995,7 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,21.53
 # text = ikh volt gezogt : tsi ken ikh yuitse zeyn
 1	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	3	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	3	dep	_	_
 3	gezogt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 4	:	_	PUNCT	PUNC	_	3	punct	_	_
 5	tsi	_	SCONJ	C	_	3	dep	_	_
@@ -1304,8 +1304,8 @@
 4	,	_	PUNCT	PUNC	_	1	punct	_	_
 5	az	_	SCONJ	C	_	10	mark	_	SpaceAfter=No
 6	"	_	PUNCT	PUNC	_	10	punct	_	_
-7	misteyns-@	_	ADV	ADV	Degree=Pos	6	dep	_	_
-8	@gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	7	xcomp	_	SpaceAfter=No
+7	misteyns-@	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+8	@gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	6	dep	_	SpaceAfter=No
 9	"	_	PUNCT	PUNC	_	10	punct	_	_
 10	tsit	_	VERB	VBF	VerbForm=Fin	1	ccomp	_	_
 11	do	_	ADV	ADV	Degree=Pos	10	advmod	_	_
@@ -1364,8 +1364,8 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,22.75
 # text = " misteyns-@ @gezogt " vet demolt klar tsien tsu " toygn " .
 1	"	_	PUNCT	PUNC	_	8	punct	_	_
-2	misteyns-@	_	ADV	ADV	Degree=Pos	1	dep	_	_
-3	@gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	2	xcomp	_	SpaceAfter=No
+2	misteyns-@	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+3	@gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	1	dep	_	SpaceAfter=No
 4	"	_	PUNCT	PUNC	_	8	punct	_	_
 5	vet	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 6	demolt	_	ADV	ADV	Degree=Pos	8	advmod	_	_
@@ -1409,8 +1409,8 @@
 27	funm	_	ADP	P-CL	_	28	case	_	_
 28	vort	_	NOUN	N	_	23	obl	_	SpaceAfter=No
 29	"	_	PUNCT	PUNC	_	28	punct	_	_
-30	misteyns-@	_	ADV	ADV	Degree=Pos	28	dep	_	_
-31	@gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	30	xcomp	_	SpaceAfter=No
+30	misteyns-@	_	ADV	ADV	Degree=Pos	31	advmod	_	_
+31	@gezogt	_	VERB	VAN	Tense=Past|VerbForm=Part	28	dep	_	SpaceAfter=No
 32	"	_	PUNCT	PUNC	_	2	punct	_	SpaceAfter=No
 33	.	_	PUNCT	PUNC	_	2	punct	_	_
 
@@ -1808,8 +1808,8 @@
 12	als	_	ADP	P	_	13	case	_	_
 13	dativ	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 14	"	_	PUNCT	PUNC	_	13	punct	_	_
-15	far	_	ADP	P	_	13	appos	_	_
-16	unz	_	PRON	PRO	_	15	nmod	_	SpaceAfter=No
+15	far	_	ADP	P	_	16	case	_	_
+16	unz	_	PRON	PRO	_	13	appos	_	SpaceAfter=No
 17	"	_	PUNCT	PUNC	_	11	punct	_	SpaceAfter=No
 18	.	_	PUNCT	PUNC	_	11	punct	_	_
 
@@ -1853,7 +1853,7 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,23.102
 # text = me volt gekent zogn : 11a mir yidn, vos mir zeynen azoy in der klem, geshtikt, gedrikt fun ale zeytn, far unz %ellps% nishto keyn ander veg .
 1	me	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	4	dep	_	_
 3	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	4	aux	_	_
 4	zogn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 5	:	_	PUNCT	PUNC	_	4	punct	_	_
@@ -1889,7 +1889,7 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,23.103
 # text = demolt volt, dukht %exp% zikh, di farbindung tsvishn beyde baheftn geven shvakher .
 1	demolt	_	ADV	ADV	Degree=Pos	13	advmod	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	13	dep	_	SpaceAfter=No
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	13	punct	_	_
 4	dukht	_	VERB	VBF	VerbForm=Fin	13	parataxis	_	_
 5	%exp%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
@@ -2173,7 +2173,7 @@
 17	eyder	_	ADP	P	_	19	case	_	SpaceAfter=No
 18	"	_	PUNCT	PUNC	_	19	punct	_	_
 19	ir	_	PRON	PRO	_	11	obl	_	_
-20	zet	_	VERB	VBF	VerbForm=Fin	19	dep	_	SpaceAfter=No
+20	zet	_	VERB	VBF	VerbForm=Fin	19	obl	_	SpaceAfter=No
 21	"	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1928E-ZARETSKI-MENDELE,.116
@@ -2985,7 +2985,7 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,25.162
 # text = demolt volt dos perzonvort geven afn tsveytn ort, vayl dos bindvort rekhnt zikh nit nor far a fregvort inm beyzats gufe,
 1	demolt	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 3	dos	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	perzonvort	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
 5	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -3081,7 +3081,7 @@
 # X_ID = 1928E-ZARETSKI-MENDELE,25.166
 # text = demolt volt dos perzonvort geven afn tsveytn ort .
 1	demolt	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 3	dos	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	perzonvort	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	5	nsubj	_	_
 5	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -3151,7 +3151,7 @@
 # text = tsveytns, volt %exp% afile fun a genug groysn material shver geven tsu makhn oysfirn
 1	tsveytns	_	ADV	ADV	Degree=Pos	12	advmod	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	12	punct	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	12	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	12	dep	_	_
 4	%exp%	_	NOUN	NP-SBJ-1	_	12	nsubj	_	_
 5	afile	_	ADV	FP	Degree=Pos	10	advmod	_	_
 6	fun	_	ADP	P	_	10	case	_	_

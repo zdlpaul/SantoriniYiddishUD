@@ -72,12 +72,12 @@
 # sent_id = 1589E-ESTER-PREFACE,.3
 # X_ID = 1589E-ESTER-PREFACE,2.6
 # text = ir libn vrumn veybr un meydn ikh vil eykh eynrley tun bsheydn vaz %t%-1 di meynug %ich%-2 iz fun dem sfr un dz ez iz nit az andri shlekhti bikhr un %pro% hat es in taytshn tun an shreybn neyart dz zi zikh zaln di veyl fr_treybn
-1	ir	_	PRON	PRO	_	12	vocative	_	_
-2	libn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	vrumn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-4	veybr	_	NOUN	N	_	1	conj	_	_
+1	ir	_	PRON	PRO	_	4	nmod	_	_
+2	libn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+3	vrumn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	veybr	_	NOUN	N	_	12	vocative	_	_
 5	un	_	CCONJ	CONJ	_	6	cc	_	_
-6	meydn	_	NOUN	N	_	1	conj	_	_
+6	meydn	_	NOUN	N	_	4	conj	_	_
 7	ikh	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 8	vil	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 9	eykh	_	PRON	PRO-DTV	Case=Dat	12	iobj	_	_
@@ -398,9 +398,9 @@
 # text = un drum ir lib veybr dahr_fun tut man lernn dz di veybr zeyn oykh shuldig tsu lernn vas %t%-1 an bilangn iz das khumsh un das esrim varbe un ali hlkut fun tumah un thrh un itur uhitr azu vaul az di mnin
 1	un	_	CCONJ	CONJ	_	9	cc	_	_
 2	drum	_	ADP	P	_	9	obl	_	_
-3	ir	_	PRON	PRO	_	9	vocative	_	_
-4	lib	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
-5	veybr	_	NOUN	N	_	3	conj	_	_
+3	ir	_	PRON	PRO	_	5	nmod	_	_
+4	lib	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	veybr	_	NOUN	N	_	9	vocative	_	_
 6	dahr_fun	_	ADP	P	_	9	obl	_	_
 7	tut	_	VERB	DOF	VerbForm=Fin	9	ccomp	_	_
 8	man	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_

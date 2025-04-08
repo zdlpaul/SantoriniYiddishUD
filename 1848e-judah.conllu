@@ -17,11 +17,11 @@
 # sent_id = 1848E-JUDAH,.2
 # X_ID = 1848E-JUDAH,634.4
 # text = libe hartsidike bruderherts apor verter vos %t%-1 zenen eykh tsind neytig %t%-2 tsu visen
-1	libe	_	ADJ	ADJ	Degree=Pos	0	root	_	_
-2	hartsidike	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	bruderherts	_	NOUN	N	_	1	conj	_	_
+1	libe	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+2	hartsidike	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	bruderherts	_	NOUN	N	_	0	root	_	_
 4	apor	_	DET	Q	_	5	det	_	_
-5	verter	_	NOUN	N	_	1	obl	_	_
+5	verter	_	NOUN	N	_	3	obl	_	_
 6	vos	_	SCONJ	C	_	8	mark	_	_
 7	%t%-1	_	NOUN	NP-SBJ	_	8	nsubj	_	_
 8	zenen	_	VERB	VBF	VerbForm=Fin	5	acl:relcl	_	_
@@ -1541,18 +1541,18 @@
 17	di	_	DET	D-DTV	Case=Dat|PronType=Art	18	det	_	_
 18	minister	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	16	iobj	_	_
 19	fr	_	ADP	P	_	20	case	_	_
-20	vos	_	PRON	WPRO	_	16	dep	_	_
+20	vos	_	PRON	WPRO	_	22	obl	_	_
 21	%t%-1	_	ADP	PP	_	22	obl	_	_
-22	iz	_	VERB	VBF	VerbForm=Fin	20	conj	_	_
+22	iz	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
 23	dos	_	DET	D-NOM	Case=Nom|PronType=Art	22	nsubj	_	_
 
 # sent_id = 1848E-JUDAH,.77
 # X_ID = 1848E-JUDAH,636.81
 # text = fr vos %t%-1 iz yens
 1	fr	_	ADP	P	_	2	case	_	_
-2	vos	_	PRON	WPRO	_	0	root	_	_
+2	vos	_	PRON	WPRO	_	4	obl	_	_
 3	%t%-1	_	ADP	PP	_	4	obl	_	_
-4	iz	_	VERB	VBF	VerbForm=Fin	2	conj	_	_
+4	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	yens	_	DET	D-NOM	Case=Nom|PronType=Art	4	nsubj	_	_
 
 # sent_id = 1848E-JUDAH,.78

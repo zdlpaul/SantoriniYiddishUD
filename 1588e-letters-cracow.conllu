@@ -883,9 +883,9 @@
 # X_ID = 1588E-LETTERS-CRACOW,52.63
 # text = drum libr r' msh zikht fr eykh
 1	drum	_	ADP	P	_	5	obl	_	_
-2	libr	_	ADJ	ADJ	Degree=Pos	5	vocative	_	_
-3	r'	_	PROPN	NPR	_	2	dep	_	_
-4	msh	_	PROPN	NPR	_	2	dep	_	_
+2	libr	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	r'	_	PROPN	NPR	_	5	vocative	_	_
+4	msh	_	PROPN	NPR	_	3	flat:name	_	_
 5	zikht	_	VERB	VBI	Mood=Imp	0	root	_	_
 6	fr	_	ADP	RP	_	5	compound:prt	_	_
 7	eykh	_	PRON	PRO-RFL	PronType=Reflex	5	expl:pv	_	_
@@ -1938,8 +1938,8 @@
 # sent_id = 1588E-LETTERS-CRACOW,.129
 # X_ID = 1588E-LETTERS-CRACOW,66.135
 # text = liben raboysay, vos %t%-1 zolen mir aykh fil shrayben un gor hukh der_manen
-1	liben	_	ADJ	ADJ	Degree=Pos	0	vocative	_	_
-2	raboysay	_	NOUN	N	_	1	conj	_	SpaceAfter=No
+1	liben	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	raboysay	_	NOUN	N	_	0	vocative	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	0	punct	_	_
 4	vos	_	PRON	WPRO	_	0	obj	_	_
 5	%t%-1	_	NOUN	NP-ADV	_	0	obl	_	_

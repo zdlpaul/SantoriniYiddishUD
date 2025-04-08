@@ -317,8 +317,8 @@
 7	oyz	_	ADP	P	_	8	case	_	_
 8	gott	_	PROPN	NPR	_	14	discourse	_	_
 9	vilin	_	NOUN	N	_	8	conj	_	_
-10	ir	_	PRON	PRO	_	14	vocative	_	_
-11	ihudim	_	NOUN	N	_	10	conj	_	_
+10	ir	_	PRON	PRO	_	11	nmod	_	_
+11	ihudim	_	NOUN	N	_	14	vocative	_	_
 12	di	_	DET	D-NOM	Case=Nom|PronType=Art	13	det	_	_
 13	rutskhnim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	_
 14	kumn	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
@@ -1618,9 +1618,9 @@
 # sent_id = 1783E-UKRAINE-1,.118
 # X_ID = 1783E-UKRAINE-1,35.124
 # text = ir libe leyt denkt amol di hrugi hat givehrt akht tagi lang
-1	ir	_	PRON	PRO	_	9	vocative	_	_
-2	libe	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	leyt	_	NOUN	N	_	1	conj	_	_
+1	ir	_	PRON	PRO	_	3	nmod	_	_
+2	libe	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	leyt	_	NOUN	N	_	9	vocative	_	_
 4	denkt	_	VERB	VBI	Mood=Imp	9	ccomp	_	_
 5	amol	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	di	_	DET	D-NOM	Case=Nom|PronType=Art	7	det	_	_

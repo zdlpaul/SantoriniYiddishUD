@@ -648,8 +648,8 @@
 # text = un drum libn rbusi nemt fun mir gduld
 1	un	_	CCONJ	CONJ	_	5	cc	_	_
 2	drum	_	ADP	P	_	5	obl	_	_
-3	libn	_	ADJ	ADJ	Degree=Pos	5	vocative	_	_
-4	rbusi	_	NOUN	N	_	3	conj	_	_
+3	libn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	rbusi	_	NOUN	N	_	5	vocative	_	_
 5	nemt	_	VERB	VBI	Mood=Imp	0	root	_	_
 6	fun	_	ADP	P	_	7	case	_	_
 7	mir	_	PRON	PRO	_	5	obl	_	_
@@ -1019,8 +1019,8 @@
 # sent_id = 1579E-SHIR-PREFACE,.46
 # X_ID = 1579E-SHIR-PREFACE,4.50
 # text = libn rbusi ikh zikh dz %exp% mir hat mislung un mikh eyn stuth hat btsvungn dz ikh bin gitretn in irn ampt hneyn den grusn herin di %t%-1 ful mit turh zeyn un %t%-1 gntsi teg un nkht ibr iri sfrim zitsn
-1	libn	_	ADJ	ADJ	Degree=Pos	4	vocative	_	_
-2	rbusi	_	NOUN	N	_	1	conj	_	_
+1	libn	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	rbusi	_	NOUN	N	_	4	vocative	_	_
 3	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	zikh	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	dz	_	SCONJ	C	_	9	mark	_	_
@@ -1593,9 +1593,9 @@
 4	ezrih	_	PROPN	NPR	_	1	dep	_	_
 5	zagt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	tsu	_	ADP	P	_	7	case	_	_
-7	vas	_	PRON	WPRO	_	5	dep	_	_
+7	vas	_	PRON	WPRO	_	9	obl	_	_
 8	%t%-1	_	ADP	PP	_	9	obl	_	_
-9	iz	_	VERB	VBF	VerbForm=Fin	7	conj	_	_
+9	iz	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
 10	das	_	DET	D-NOM	Case=Nom|PronType=Art	9	nsubj	_	_
 11	gleykh	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 12	tsu	_	ADP	P	_	14	case	_	_

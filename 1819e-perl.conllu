@@ -848,8 +848,8 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 3	zi	_	PRON	PRO-DTV	Case=Dat	4	iobj	_	_
 4	gifregt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	vi	_	ADV	WADV	Degree=Pos	4	dep	_	_
-6	kums@	_	VERB	VBF	VerbForm=Fin	5	conj	_	_
+5	vi	_	ADV	WADV	Degree=Pos	6	advmod	_	_
+6	kums@	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
 7	@tu	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 8	%t%-1	_	ADV	ADVP	Degree=Pos	6	advmod	_	_
 9	aher	_	ADV	ADV	Degree=Pos	8	advmod	_	_
@@ -926,13 +926,13 @@
 3	hat	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 4	zi	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
 5	gefregt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	vi_azoy	_	ADV	WADV	Degree=Pos	5	dep	_	_
+6	vi_azoy	_	ADV	WADV	Degree=Pos	12	advmod	_	_
 7	%t%-1	_	ADV	ADVP	Degree=Pos	12	advmod	_	_
 8	ken	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 9	ikh	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 10	dikh	_	PRON	PRO-ACC	Case=Acc	12	obj	_	_
 11	aroys	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-12	nemen	_	VERB	VB	VerbForm=Inf	6	conj	_	_
+12	nemen	_	VERB	VB	VerbForm=Inf	5	dep	_	_
 
 # sent_id = 1819E-PERL,.71
 # X_ID = 1819E-PERL,103.73
@@ -1232,9 +1232,9 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	dem	_	DET	D-DTV	Case=Dat|PronType=Art	4	det	_	_
 4	msrt	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	1	iobj	_	_
-5	vi	_	ADV	WADV	Degree=Pos	1	dep	_	_
+5	vi	_	ADV	WADV	Degree=Pos	7	advmod	_	_
 6	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	7	advmod	_	_
-7	bin	_	VERB	VBF	VerbForm=Fin	5	conj	_	_
+7	bin	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
 8	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 9	un	_	ADP	P	_	11	case	_	_
 10	der	_	DET	D	PronType=Art	11	det	_	_
@@ -1393,7 +1393,7 @@
 6	un	_	ADP	P	_	8	case	_	_
 7	dem	_	DET	D	PronType=Art	8	det	_	_
 8	tag	_	NOUN	N-D	Definite=Def	5	obl	_	_
-9	vals@	_	VERB	VLF	VerbForm=Fin	13	dep	_	_
+9	vals@	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	_
 10	@tu	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 11	mikh	_	PRON	PRO-ACC	Case=Acc	13	obj	_	_
 12	aroys	_	ADV	ADV	Degree=Pos	13	advmod	_	_
@@ -1970,9 +1970,9 @@
 4	gifregt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	dem	_	DET	D-DTV	Case=Dat|PronType=Art	6	det	_	_
 6	msrh	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	4	iobj	_	_
-7	vi	_	ADV	WADV	Degree=Pos	4	dep	_	_
+7	vi	_	ADV	WADV	Degree=Pos	9	advmod	_	_
 8	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	9	advmod	_	_
-9	bin	_	VERB	VBF	VerbForm=Fin	7	conj	_	_
+9	bin	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
 10	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 11	in	_	ADP	P	_	13	case	_	_
 12	der	_	DET	D	PronType=Art	13	det	_	_
@@ -2054,9 +2054,9 @@
 2	er	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	gifregt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	fun	_	ADP	P	_	5	case	_	_
-5	vanen	_	ADV	WADV	Degree=Pos	3	dep	_	_
+5	vanen	_	ADV	WADV	Degree=Pos	7	obl	_	_
 6	%t%-1	_	ADP	PP	_	7	obl	_	_
-7	iz	_	VERB	VBF	VerbForm=Fin	5	conj	_	_
+7	iz	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
 8	dos	_	DET	D-NOM	Case=Nom|PronType=Art	7	nsubj	_	_
 
 # sent_id = 1819E-PERL,.158
@@ -2336,9 +2336,9 @@
 3	hat	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 4	im	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
 5	gifregt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	ver	_	PRON	WPRO	_	5	dep	_	_
+6	ver	_	PRON	WPRO	_	8	obj	_	_
 7	%t%-1	_	NOUN	NP-PRD	_	8	xcomp	_	_
-8	bis@	_	VERB	VBF	VerbForm=Fin	6	conj	_	_
+8	bis@	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
 9	@tu	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 
 # sent_id = 1819E-PERL,.178
@@ -3378,13 +3378,13 @@
 5	uf	_	ADP	P	_	6	case	_	_
 6	im	_	PRON	PRO	_	7	obl	_	_
 7	gibeyzirt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-8	vas	_	PRON	WPRO	_	7	dep	_	_
+8	vas	_	PRON	WPRO	_	14	obj	_	_
 9	%t%-1	_	NOUN	NP-ADV	_	14	obl	_	_
 10	has@	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
 11	@tu	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 12	zikh	_	PRON	PRO-RFL	PronType=Reflex	14	expl:pv	_	_
 13	azu	_	ADV	ADV	Degree=Pos	14	advmod	_	_
-14	fr_spetikt	_	VERB	VBN	Tense=Past|VerbForm=Part	8	conj	_	_
+14	fr_spetikt	_	VERB	VBN	Tense=Past|VerbForm=Part	7	dep	_	_
 15	tsu	_	PART	TO	_	16	mark	_	_
 16	kumin	_	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 
@@ -3406,12 +3406,12 @@
 # X_ID = 1819E-PERL,108.262
 # text = fr vas %t%-1 bis@ @tu nit gikumin mit zey
 1	fr	_	ADP	P	_	2	case	_	_
-2	vas	_	PRON	WPRO	_	0	root	_	_
+2	vas	_	PRON	WPRO	_	7	obl	_	_
 3	%t%-1	_	ADP	PP	_	7	obl	_	_
 4	bis@	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 5	@tu	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
-7	gikumin	_	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	_	_
+7	gikumin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 8	mit	_	ADP	P	_	9	case	_	_
 9	zey	_	PRON	PRO	_	7	obl	_	_
 
@@ -3490,9 +3490,9 @@
 6	vintin	_	NOUN	N	_	4	obl	_	_
 7	dem	_	DET	D-DTV	Case=Dat|PronType=Art	8	det	_	_
 8	vint	_	NOUN	N-DTV-D	Case=Dat|Definite=Def	2	iobj	_	_
-9	vas	_	PRON	WPRO	_	2	dep	_	_
+9	vas	_	PRON	WPRO	_	11	obj	_	_
 10	%t%-1	_	NOUN	NP-SBJ	_	11	nsubj	_	_
-11	iz	_	VERB	VBF	VerbForm=Fin	9	conj	_	_
+11	iz	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
 12	dartin	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 13	toyar	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 

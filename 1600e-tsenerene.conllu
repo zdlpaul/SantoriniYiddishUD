@@ -208,13 +208,13 @@
 4	der	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	bekhaye	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	conj	_	_
 6	shrayben	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-7	vorim	_	ADP	P	_	6	dep	_	_
+7	vorim	_	ADP	P	_	13	obl	_	_
 8	%t%-1	_	ADP	PP	_	13	obl	_	_
 9	hot	_	AUX	HVF	VerbForm=Fin	13	aux	_	_
 10	zikh	_	PRON	PRO-RFL	PronType=Reflex	13	expl:pv	_	_
 11	koydesh	_	PROPN	NPR-SBJ	_	13	nsubj	_	_
 12	borkhi	_	PROPN	NPR	_	11	flat:name	_	_
-13	bevizen	_	VERB	VBN	Tense=Past|VerbForm=Part	7	conj	_	_
+13	bevizen	_	VERB	VBN	Tense=Past|VerbForm=Part	6	dep	_	_
 14	dorkh	_	ADP	P	_	15	case	_	_
 15	fayer	_	NOUN	N	_	13	obl	_	_
 

@@ -713,9 +713,9 @@
 # text = ashknz gdenkt vau %t%-1 hab ikh %t%-2 mit dem palk tsu shikn udr %t%-2 tsu shafn dz er kumt mir in meyn hoyz areyn tsu lafn
 1	ashknz	_	PROPN	NPR-SBJ	_	2	nsubj	_	_
 2	gdenkt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	vau	_	ADV	WADV	Degree=Pos	2	dep	_	_
+3	vau	_	ADV	WADV	Degree=Pos	5	advmod	_	_
 4	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	5	advmod	_	_
-5	hab	_	VERB	VBF	VerbForm=Fin	3	conj	_	_
+5	hab	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 7	%t%-2	_	NOUN	NP-ACC	_	5	dep	_	_
 8	mit	_	ADP	P	_	10	case	_	_
@@ -843,8 +843,8 @@
 3	her	_	ADV	RP-ADV	_	2	advmod	_	_
 4	den	_	DET	D-ACC	Case=Acc|PronType=Art	5	det	_	_
 5	telir	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	2	obj	_	_
-6	ir	_	PRON	PRO	_	2	vocative	_	_
-7	kindr	_	NOUN	N	_	6	conj	_	_
+6	ir	_	PRON	PRO	_	7	nmod	_	_
+7	kindr	_	NOUN	N	_	2	vocative	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.56
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,542.59
@@ -1324,8 +1324,8 @@
 # text = ashknz fragt gst zeyt ir zat
 1	ashknz	_	PROPN	NPR-SBJ	_	2	nsubj	_	_
 2	fragt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	gst	_	NOUN	N	_	2	dep	_	_
-4	zeyt	_	VERB	VBF	VerbForm=Fin	3	conj	_	_
+3	gst	_	NOUN	N	_	4	vocative	_	_
+4	zeyt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
 5	ir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 6	zat	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 
@@ -2201,12 +2201,12 @@
 5	lng	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 6	tsu	_	ADP	RP	_	7	compound:prt	_	_
 7	ghert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-8	ir	_	PRON	PRO	_	7	vocative	_	_
-9	palkin	_	NOUN	N	_	8	conj	_	_
+8	ir	_	PRON	PRO	_	9	nmod	_	_
+9	palkin	_	NOUN	N	_	7	vocative	_	_
 10	mit	_	ADP	P	_	13	case	_	_
 11	eyeri	_	PRON	PRO$	_	13	det:poss	_	_
 12	breyti	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
-13	bert	_	NOUN	N	_	8	obl	_	_
+13	bert	_	NOUN	N	_	9	obl	_	_
 
 # sent_id = 1675E-ASHKENAZ-UN-POLAK,.152
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,545.157
@@ -2999,8 +2999,8 @@
 # X_ID = 1675E-ASHKENAZ-UN-POLAK,548.224
 # text = drum ir palkin ir hndlt un' gnbt un' snart oykh dr_bey
 1	drum	_	ADP	P	_	5	obl	_	_
-2	ir	_	PRON	PRO	_	5	vocative	_	_
-3	palkin	_	NOUN	N	_	2	conj	_	_
+2	ir	_	PRON	PRO	_	3	nmod	_	_
+3	palkin	_	NOUN	N	_	5	vocative	_	_
 4	ir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 5	hndlt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	un'	_	CCONJ	CONJ	_	7	cc	_	_
@@ -4004,8 +4004,8 @@
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	ashknz	_	PROPN	NPR-D	_	1	nsubj	_	_
 4	oy	_	INTJ	INTJ	_	7	discourse	_	_
-5	ir	_	PRON	PRO	_	7	vocative	_	_
-6	pregr	_	NOUN	N	_	5	conj	_	_
+5	ir	_	PRON	PRO	_	6	nmod	_	_
+6	pregr	_	NOUN	N	_	7	vocative	_	_
 7	fr_lazt	_	VERB	VBI	Mood=Imp	1	ccomp	_	_
 8	oykh	_	PRON	PRO-ACC	Case=Acc	7	obj	_	_
 9	oyf	_	ADP	P	_	11	case	_	_

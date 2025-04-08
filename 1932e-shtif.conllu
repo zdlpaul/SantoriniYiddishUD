@@ -587,9 +587,9 @@
 8	shtayger	_	NOUN	N	_	1	obl	_	SpaceAfter=No
 9	:	_	PUNCT	PUNC	_	8	punct	_	SpaceAfter=No
 10	"	_	PUNCT	PUNC	_	8	punct	_	_
-11	vos	_	SCONJ	C	_	8	appos	_	_
-12	mit	_	ADP	P	_	11	case	_	_
-13	im	_	PRON	PRO	_	11	nmod	_	SpaceAfter=No
+11	vos	_	SCONJ	C	_	13	mark	_	_
+12	mit	_	ADP	P	_	13	case	_	_
+13	im	_	PRON	PRO	_	8	appos	_	SpaceAfter=No
 14	"	_	PUNCT	PUNC	_	16	punct	_	_
 15	dos	_	DET	D-NOM	Case=Nom|PronType=Art	16	nsubj	_	_
 16	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -627,18 +627,18 @@
 7	fun	_	ADP	P	_	9	case	_	_
 8	daytshe	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
 9	yidn	_	NOUN	N	_	6	obl	_	_
-10	volt	_	VERB	VLF	VerbForm=Fin	14	dep	_	_
+10	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	14	dep	_	_
 11	men	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 12	do	_	ADV	ADV	Degree=Pos	14	advmod	_	_
 13	gemuzt	_	AUX	MDN	Tense=Past|VerbForm=Part	14	aux	_	_
 14	zogn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 15	"	_	PUNCT	PUNC	_	14	punct	_	_
-16	mit	_	ADP	P	_	14	dep	_	_
-17	dem	_	PRON	WPRO	_	16	nmod	_	SpaceAfter=No
+16	mit	_	ADP	P	_	17	case	_	_
+17	dem	_	PRON	WPRO	_	14	dep	_	SpaceAfter=No
 18	"	_	PUNCT	PUNC	_	14	punct	_	_
 19	oyb	_	SCONJ	C	_	23	mark	_	_
 20	me	_	PRON	PRO-NOM	Case=Nom	23	nsubj	_	_
-21	volt	_	VERB	VLF	VerbForm=Fin	23	dep	_	_
+21	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	23	dep	_	_
 22	gevolt	_	AUX	MDN	Tense=Past|VerbForm=Part	23	aux	_	_
 23	hobn	_	VERB	VB	VerbForm=Inf	14	advcl	_	_
 24	a	_	DET	D-ACC	Case=Acc|PronType=Art	25	det	_	_
@@ -649,7 +649,7 @@
 # text = oder me volt gemakht a freyem satz bemerkverter fn._16 .
 1	oder	_	CCONJ	CONJ	_	4	cc	_	_
 2	me	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	4	dep	_	_
 4	gemakht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	a	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 6	freyem	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
@@ -732,8 +732,8 @@
 23	vi	_	ADP	P	_	25	case	_	SpaceAfter=No
 24	"	_	PUNCT	PUNC	_	25	punct	_	_
 25	vos	_	SCONJ	C	_	22	obl	_	_
-26	mit	_	ADP	P	_	25	case	_	_
-27	im	_	PRON	PRO	_	25	nmod	_	SpaceAfter=No
+26	mit	_	ADP	P	_	27	case	_	_
+27	im	_	PRON	PRO	_	25	obl	_	SpaceAfter=No
 28	"	_	PUNCT	PUNC	_	6	punct	_	SpaceAfter=No
 29	.	_	PUNCT	PUNC	_	6	punct	_	_
 
@@ -925,9 +925,9 @@
 1	di	_	DET	D	PronType=Art	2	det	_	_
 2	konstruktsie	_	NOUN	N-D	Definite=Def	20	obl	_	SpaceAfter=No
 3	"	_	PUNCT	PUNC	_	2	punct	_	_
-4	vos	_	SCONJ	C	_	2	dep	_	_
-5	mit	_	ADP	P	_	4	case	_	_
-6	zey	_	PRON	PRO	_	4	nmod	_	SpaceAfter=No
+4	vos	_	SCONJ	C	_	6	mark	_	_
+5	mit	_	ADP	P	_	6	case	_	_
+6	zey	_	PRON	PRO	_	2	dep	_	SpaceAfter=No
 7	"	_	PUNCT	PUNC	_	2	punct	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	2	punct	_	_
 9	afn	_	ADP	P-CL	_	10	case	_	_
@@ -1270,7 +1270,7 @@
 2	dem	_	DET	D	PronType=Art	4	det	_	_
 3	deytshn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 4	sintaks	_	NOUN	N-D	Definite=Def	8	obl	_	_
-5	volt	_	VERB	VLF	VerbForm=Fin	8	dep	_	_
+5	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	8	dep	_	_
 6	%pro%	_	NOUN	NP-SBJ	_	8	nsubj	_	_
 7	gedarft	_	AUX	MDN	Tense=Past|VerbForm=Part	8	aux	_	_
 8	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
@@ -1973,8 +1973,8 @@
 20	"	_	PUNCT	PUNC	_	19	punct	_	SpaceAfter=No
 21	,	_	PUNCT	PUNC	_	19	punct	_	SpaceAfter=No
 22	"	_	PUNCT	PUNC	_	19	punct	_	_
-23	mit	_	ADP	P	_	19	conj	_	_
-24	velkhn	_	PRON	WPRO	_	23	nmod	_	SpaceAfter=No
+23	mit	_	ADP	P	_	24	case	_	_
+24	velkhn	_	PRON	WPRO	_	19	conj	_	SpaceAfter=No
 25	"	_	PUNCT	PUNC	_	2	punct	_	SpaceAfter=No
 26	;	_	PUNCT	PUNC	_	2	punct	_	_
 
@@ -2006,9 +2006,9 @@
 4	sintaktisher	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 5	figur	_	NOUN	N	_	15	obl	_	SpaceAfter=No
 6	"	_	PUNCT	PUNC	_	5	punct	_	_
-7	vos	_	SCONJ	C	_	5	dep	_	_
-8	mit	_	ADP	P	_	7	case	_	_
-9	im	_	PRON	PRO	_	7	nmod	_	SpaceAfter=No
+7	vos	_	SCONJ	C	_	9	mark	_	_
+8	mit	_	ADP	P	_	9	case	_	_
+9	im	_	PRON	PRO	_	5	dep	_	SpaceAfter=No
 10	"	_	PUNCT	PUNC	_	15	punct	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	15	punct	_	_
 12	hob	_	AUX	HVF	VerbForm=Fin	15	aux	_	_
@@ -2073,9 +2073,9 @@
 16	funem	_	ADP	P-CL	_	17	case	_	SpaceAfter=No
 17	...	_	PUNCT	PUNC	_	15	punct	_	SpaceAfter=No
 18	"	_	PUNCT	PUNC	_	17	punct	_	_
-19	vos	_	SCONJ	C	_	17	dep	_	_
-20	mit	_	ADP	P	_	19	case	_	_
-21	im	_	PRON	PRO	_	19	nmod	_	SpaceAfter=No
+19	vos	_	SCONJ	C	_	21	mark	_	_
+20	mit	_	ADP	P	_	21	case	_	_
+21	im	_	PRON	PRO	_	17	dep	_	SpaceAfter=No
 22	"	_	PUNCT	PUNC	_	2	punct	_	SpaceAfter=No
 23	.	_	PUNCT	PUNC	_	2	punct	_	_
 
@@ -2210,9 +2210,9 @@
 5	di	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	kombinatsie	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	SpaceAfter=No
 7	"	_	PUNCT	PUNC	_	6	punct	_	_
-8	vos	_	SCONJ	C	_	6	dep	_	_
-9	mit	_	ADP	P	_	8	case	_	_
-10	im	_	PRON	PRO	_	8	nmod	_	SpaceAfter=No
+8	vos	_	SCONJ	C	_	10	mark	_	_
+9	mit	_	ADP	P	_	10	case	_	_
+10	im	_	PRON	PRO	_	6	dep	_	SpaceAfter=No
 11	"	_	PUNCT	PUNC	_	3	punct	_	_
 12	azu@	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 13	@vi	_	ADP	P	_	12	obl	_	_
@@ -2276,9 +2276,9 @@
 17	ikh	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
 18	dikh	_	PRON	PRO-ACC	Case=Acc	15	obj	_	SpaceAfter=No
 19	,	_	PUNCT	PUNC	_	15	punct	_	_
-20	meyn	_	PRON	PRO$	_	15	vocative	_	_
-21	zis	_	ADJ	ADJ	Degree=Pos	20	amod	_	_
-22	lebn	_	NOUN	N	_	20	conj	_	SpaceAfter=No
+20	meyn	_	PRON	PRO$	_	22	det:poss	_	_
+21	zis	_	ADJ	ADJ	Degree=Pos	22	amod	_	_
+22	lebn	_	NOUN	N	_	15	vocative	_	SpaceAfter=No
 23	"	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1932E-SHTIF,.93

@@ -415,9 +415,9 @@
 1	oy	_	INTJ	INTJ	_	13	discourse	_	_
 2	vey	_	NOUN	N	_	1	discourse	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	13	punct	_	_
-4	du	_	PRON	PRO	_	13	vocative	_	_
-5	libr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-6	got	_	PROPN	NPR	_	4	dep	_	SpaceAfter=No
+4	du	_	PRON	PRO	_	6	nmod	_	_
+5	libr	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	got	_	PROPN	NPR	_	13	vocative	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	13	punct	_	_
 8	vi	_	ADV	WADV	Degree=Pos	13	advmod	_	_
 9	%t%-1	_	ADV	ADVP	Degree=Pos	13	advmod	_	_
@@ -486,8 +486,8 @@
 # sent_id = 1692E-VILNA,.32
 # X_ID = 1692E-VILNA,212.36
 # text = libr got, tu az on hmn on zi eyn tseykhn
-1	libr	_	ADJ	ADJ	Degree=Pos	4	vocative	_	_
-2	got	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
+1	libr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	got	_	PROPN	NPR	_	4	vocative	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	4	punct	_	_
 4	tu	_	VERB	VBI	Mood=Imp	0	root	_	_
 5	az	_	ADP	P	_	7	case	_	_
@@ -921,8 +921,8 @@
 # X_ID = 1692E-VILNA,214.65
 # text = drum ir kumrim di rid fun enk iz unts nor bng un eng
 1	drum	_	ADP	P	_	8	obl	_	_
-2	ir	_	PRON	PRO	_	8	vocative	_	_
-3	kumrim	_	NOUN	N	_	2	conj	_	_
+2	ir	_	PRON	PRO	_	3	nmod	_	_
+3	kumrim	_	NOUN	N	_	8	vocative	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	rid	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	_
 6	fun	_	ADP	P	_	7	case	_	_
@@ -963,8 +963,8 @@
 2	%ich%-1	_	X	IP-MAT-THT	_	0	root	_	_
 3	zeyt	_	AUX	BEI	Mood=Imp	2	cop	_	_
 4	visn	_	VERB	VAG	Tense=Pres|VerbForm=Part	2	amod	_	_
-5	ir	_	PRON	PRO	_	2	vocative	_	_
-6	leyt	_	NOUN	N	_	5	conj	_	SpaceAfter=No
+5	ir	_	PRON	PRO	_	6	nmod	_	_
+6	leyt	_	NOUN	N	_	2	vocative	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	2	punct	_	_
 8	um	_	ADP	RP	_	10	compound:prt	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
@@ -2569,11 +2569,11 @@
 # text = er zogt vos %t%-1 vil ikh gvinn
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	zogt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	vos	_	PRON	WPRO	_	2	dep	_	_
+3	vos	_	PRON	WPRO	_	7	obj	_	_
 4	%t%-1	_	NOUN	NP-ACC	_	7	dep	_	_
 5	vil	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-7	gvinn	_	VERB	VB	VerbForm=Inf	3	conj	_	_
+7	gvinn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
 
 # sent_id = 1692E-VILNA,.158
 # X_ID = 1692E-VILNA,219.169
@@ -2594,8 +2594,8 @@
 2	fil	_	DET	Q-ACC	Case=Acc	3	det	_	_
 3	gelt	_	NOUN	N-ACC	Case=Acc	13	obj	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	13	punct	_	_
-5	ir	_	PRON	PRO	_	13	vocative	_	_
-6	ihudim	_	NOUN	N	_	5	conj	_	SpaceAfter=No
+5	ir	_	PRON	PRO	_	6	nmod	_	_
+6	ihudim	_	NOUN	N	_	13	vocative	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	13	punct	_	_
 8	zalt	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
 9	ir	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
@@ -2728,8 +2728,8 @@
 # sent_id = 1692E-VILNA,.168
 # X_ID = 1692E-VILNA,220.180
 # text = meyn kind tu zetigh rid veytr nit mern
-1	meyn	_	PRON	PRO$	_	8	vocative	_	_
-2	kind	_	NOUN	N	_	1	conj	_	_
+1	meyn	_	PRON	PRO$	_	2	det:poss	_	_
+2	kind	_	NOUN	N	_	8	vocative	_	_
 3	tu	_	VERB	DOI	Mood=Imp	8	xcomp	_	_
 4	zetigh	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	5	amod	_	_
 5	rid	_	NOUN	N-ACC	Case=Acc	8	obj	_	_
@@ -2811,9 +2811,9 @@
 8	fr	_	ADP	P	_	10	case	_	_
 9	kl	_	DET	Q	_	10	det	_	_
 10	isral	_	PROPN	NPR	_	6	conj	_	_
-11	lbh	_	ADJ	ADJ	Degree=Pos	1	vocative	_	_
-12	khbrim	_	NOUN	N	_	11	conj	_	_
-13	meynh	_	PRON	PRO$	_	11	det:poss	_	_
+11	lbh	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
+12	khbrim	_	NOUN	N	_	1	vocative	_	_
+13	meynh	_	PRON	PRO$	_	12	det:poss	_	_
 
 # sent_id = 1692E-VILNA,.175
 # X_ID = 1692E-VILNA,220.187

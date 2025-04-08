@@ -541,10 +541,10 @@
 7	zeyn	_	VERB	VBF	VerbForm=Fin	3	acl:relcl	_	_
 8	banus	_	X	FW	Foreign=Yes	3	discourse	_	_
 9	dies	_	X	FW	Foreign=Yes	8	flat:foreign	_	_
-10	ir	_	PRON	PRO	_	3	vocative	_	_
-11	herin	_	NOUN	N	_	10	conj	_	_
-12	ali	_	ADV	Q	_	10	advmod	_	_
-13	tsu_gleykh	_	ADV	ADV	Degree=Pos	10	advmod	_	_
+10	ir	_	PRON	PRO	_	11	nmod	_	_
+11	herin	_	NOUN	N	_	3	vocative	_	_
+12	ali	_	ADV	Q	_	11	advmod	_	_
+13	tsu_gleykh	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 
 # sent_id = 1697E-PURIM,.34
 # X_ID = 1697E-PURIM,52.66
@@ -606,18 +606,18 @@
 # X_ID = 1697E-PURIM,58.73
 # text = drum oykh oyf zeyt, oyf zeyt ir libn leyt, hreyn hreyn
 1	drum	_	ADP	P	_	2	case	_	_
-2	oykh	_	ADV	ADV	Degree=Pos	8	obl	_	_
+2	oykh	_	ADV	ADV	Degree=Pos	10	obl	_	_
 3	oyf	_	ADP	P	_	4	case	_	_
-4	zeyt	_	NOUN	N	_	8	obl	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	8	punct	_	_
+4	zeyt	_	NOUN	N	_	10	obl	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	10	punct	_	_
 6	oyf	_	ADP	P	_	7	case	_	_
-7	zeyt	_	NOUN	N	_	8	obl	_	_
-8	ir	_	PRON	PRO	_	0	root	_	_
-9	libn	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-10	leyt	_	NOUN	N	_	8	conj	_	SpaceAfter=No
-11	,	_	PUNCT	PUNC	_	8	punct	_	_
-12	hreyn	_	ADV	ADV	Degree=Pos	8	discourse	_	_
-13	hreyn	_	ADV	ADV	Degree=Pos	8	discourse	_	_
+7	zeyt	_	NOUN	N	_	10	obl	_	_
+8	ir	_	PRON	PRO	_	10	nmod	_	_
+9	libn	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
+10	leyt	_	NOUN	N	_	0	root	_	SpaceAfter=No
+11	,	_	PUNCT	PUNC	_	10	punct	_	_
+12	hreyn	_	ADV	ADV	Degree=Pos	10	discourse	_	_
+13	hreyn	_	ADV	ADV	Degree=Pos	10	discourse	_	_
 
 # sent_id = 1697E-PURIM,.39
 # X_ID = 1697E-PURIM,62.75
@@ -657,10 +657,10 @@
 # sent_id = 1697E-PURIM,.42
 # X_ID = 1697E-PURIM,66.81
 # text = idlr hukh_gibarnir king meyn in der gntsin velt kan zeyn gleykhn nikht zeyn
-1	idlr	_	ADJ	ADJ	Degree=Pos	13	vocative	_	_
-2	hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	king	_	NOUN	N	_	1	conj	_	_
-4	meyn	_	PRON	PRO$	_	1	det:poss	_	_
+1	idlr	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+2	hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	king	_	NOUN	N	_	13	vocative	_	_
+4	meyn	_	PRON	PRO$	_	3	det:poss	_	_
 5	in	_	ADP	P	_	8	case	_	_
 6	der	_	DET	D	PronType=Art	8	det	_	_
 7	gntsin	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
@@ -732,9 +732,9 @@
 1	er	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	zey	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	vil_kumin	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
-4	hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	2	vocative	_	_
-5	king	_	NOUN	N	_	4	conj	_	_
-6	meyn	_	PRON	PRO$	_	4	det:poss	_	_
+4	hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	king	_	NOUN	N	_	2	vocative	_	_
+6	meyn	_	PRON	PRO$	_	5	det:poss	_	_
 
 # sent_id = 1697E-PURIM,.49
 # X_ID = 1697E-PURIM,75.95
@@ -969,10 +969,10 @@
 13	der_mart	_	VERB	VAN	Tense=Past|VerbForm=Part	8	ccomp	_	_
 14	drum	_	ADP	P	_	15	case	_	_
 15	oykh	_	ADV	ADV	Degree=Pos	13	obl	_	_
-16	du	_	PRON	PRO	_	8	vocative	_	_
-17	gtreyar	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
-18	dinr	_	NOUN	N	_	16	conj	_	_
-19	mmukhn	UNKNOWN	X	H	_	16	dep	_	_
+16	du	_	PRON	PRO	_	18	nmod	_	_
+17	gtreyar	_	ADJ	ADJ	Degree=Pos	18	amod	_	_
+18	dinr	_	NOUN	N	_	8	vocative	_	_
+19	mmukhn	UNKNOWN	X	H	_	18	dep	_	_
 
 # sent_id = 1697E-PURIM,.64
 # X_ID = 1697E-PURIM,102.125
@@ -1141,12 +1141,12 @@
 1	frid	_	NOUN	N	_	12	obl	_	_
 2	tsu	_	ADP	P	_	3	case	_	_
 3	eykh	_	PRON	PRO	_	12	obl	_	_
-4	ir	_	PRON	PRO	_	12	vocative	_	_
-5	herin	_	NOUN	N	_	4	conj	_	_
-6	ferstn	_	NOUN	N	_	4	conj	_	_
+4	ir	_	PRON	PRO	_	5	nmod	_	_
+5	herin	_	NOUN	N	_	12	vocative	_	_
+6	ferstn	_	NOUN	N	_	5	conj	_	_
 7	un	_	CCONJ	CONJ	_	8	cc	_	_
-8	gravin	_	NOUN	N	_	4	conj	_	_
-9	prs	Persia	X	H	_	4	nmod:poss	_	_
+8	gravin	_	NOUN	N	_	5	conj	_	_
+9	prs	Persia	X	H	_	5	nmod:poss	_	_
 10	nmdi	and_Media	X	H	_	9	dep	_	_
 11	es	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 12	zeyn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -1246,8 +1246,8 @@
 # sent_id = 1697E-PURIM,.76
 # X_ID = 1697E-PURIM,131.148
 # text = alir_hukh_gibarnir king lebin zalt ir imr un ebig
-1	alir_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	3	vocative	_	_
-2	king	_	NOUN	N	_	1	conj	_	_
+1	alir_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	king	_	NOUN	N	_	3	vocative	_	_
 3	lebin	_	VERB	VB	VerbForm=Inf	0	root	_	_
 4	zalt	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
 5	ir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
@@ -1379,8 +1379,8 @@
 # sent_id = 1697E-PURIM,.84
 # X_ID = 1697E-PURIM,145.164
 # text = alir_hukh_gibarnir king in dizn zeyn dinstn bin ikh givezin gar fleysg un bgirg
-1	alir_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	9	vocative	_	_
-2	king	_	NOUN	N	_	1	conj	_	_
+1	alir_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	king	_	NOUN	N	_	9	vocative	_	_
 3	in	_	ADP	P	_	6	case	_	_
 4	dizn	_	DET	D	PronType=Art	6	det	_	_
 5	zeyn	_	PRON	PRO$	_	6	det:poss	_	_
@@ -1637,8 +1637,8 @@
 # X_ID = 1697E-PURIM,159.191
 # text = mrdkhi altr nr di naz nakh
 1	mrdkhi	_	PROPN	NPR	_	0	root	_	_
-2	altr	_	ADJ	ADJ	Degree=Pos	1	vocative	_	_
-3	nr	_	NOUN	N	_	2	conj	_	_
+2	altr	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	nr	_	NOUN	N	_	1	vocative	_	_
 4	di	_	DET	D	PronType=Art	5	det	_	_
 5	naz	_	NOUN	N-D	Definite=Def	1	obl	_	_
 6	nakh	_	ADP	P	_	5	case	_	_
@@ -1765,8 +1765,8 @@
 # sent_id = 1697E-PURIM,.113
 # X_ID = 1697E-PURIM,174.206
 # text = altr nar er hat ki fal
-1	altr	_	ADJ	ADJ	Degree=Pos	4	vocative	_	_
-2	nar	_	NOUN	N	_	1	conj	_	_
+1	altr	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	nar	_	NOUN	N	_	4	vocative	_	_
 3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	hat	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	ki	_	X	X	_	4	dep	_	_
@@ -2117,8 +2117,8 @@
 # sent_id = 1697E-PURIM,.139
 # X_ID = 1697E-PURIM,212.254
 # text = alir_idl_hukh_gibarnir king di yung_fr tu ikh fr in shtelin ub zi virt in val gifalin
-1	alir_idl_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	9	vocative	_	_
-2	king	_	NOUN	N	_	1	conj	_	_
+1	alir_idl_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	king	_	NOUN	N	_	9	vocative	_	_
 3	di	_	DET	D-ACC	Case=Acc|PronType=Art	4	det	_	_
 4	yung_fr	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	9	obj	_	_
 5	tu	_	VERB	DOF	VerbForm=Fin	9	ccomp	_	_
@@ -2181,8 +2181,8 @@
 # sent_id = 1697E-PURIM,.144
 # X_ID = 1697E-PURIM,218.264
 # text = alir_idl_hukh_gibarnir king ikh bin nikht vert der ehrin dz mikh der king zalt tsu eyn yung_fr bigerin
-1	alir_idl_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	4	vocative	_	_
-2	king	_	NOUN	N	_	1	conj	_	_
+1	alir_idl_hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	king	_	NOUN	N	_	4	vocative	_	_
 3	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	bin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	nikht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
@@ -2286,9 +2286,9 @@
 # sent_id = 1697E-PURIM,.153
 # X_ID = 1697E-PURIM,226.280
 # text = ali_idlh_hukh_gibarni kingn reykh in der gantsh velt in der gantsi velt findet men irr nit %ich%-1 gleykh
-1	ali_idlh_hukh_gibarni	_	ADJ	ADJ	Degree=Pos	12	vocative	_	_
-2	kingn	_	NOUN	N	_	1	conj	_	_
-3	reykh	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+1	ali_idlh_hukh_gibarni	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	kingn	_	NOUN	N	_	12	vocative	_	_
+3	reykh	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
 4	in	_	ADP	P	_	7	case	_	_
 5	der	_	DET	D	PronType=Art	7	det	_	_
 6	gantsh	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
@@ -2687,11 +2687,11 @@
 1	frid	_	NOUN	N	_	0	root	_	_
 2	tsu	_	ADP	P	_	3	case	_	_
 3	eykh	_	PRON	PRO	_	1	obl	_	_
-4	ir	_	PRON	PRO	_	1	vocative	_	_
-5	hern	_	NOUN	N	_	4	conj	_	_
+4	ir	_	PRON	PRO	_	5	nmod	_	_
+5	hern	_	NOUN	N	_	1	vocative	_	_
 6	unt	_	CCONJ	CONJ	_	7	cc	_	_
-7	firstn	_	NOUN	N	_	4	conj	_	_
-8	frs	Persia	X	H	_	4	nmod:poss	_	_
+7	firstn	_	NOUN	N	_	5	conj	_	_
+8	frs	Persia	X	H	_	5	nmod:poss	_	_
 9	umdi	and_Media	X	H	_	8	dep	_	_
 10	es	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 11	zey	_	VERB	VBF	VerbForm=Fin	8	parataxis	_	_
@@ -2790,9 +2790,9 @@
 # X_ID = 1697E-PURIM,283.344
 # text = mrdkhi du altir nr buk dikh
 1	mrdkhi	_	PROPN	NPR	_	5	vocative	_	_
-2	du	_	PRON	PRO	_	5	vocative	_	_
-3	altir	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
-4	nr	_	NOUN	N	_	2	conj	_	_
+2	du	_	PRON	PRO	_	4	nmod	_	_
+3	altir	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	nr	_	NOUN	N	_	5	vocative	_	_
 5	buk	_	VERB	VBI	Mood=Imp	0	root	_	_
 6	dikh	_	PRON	PRO-ACC	Case=Acc	5	obj	_	_
 
@@ -2807,9 +2807,9 @@
 # text = bukt dikh du altir nr
 1	bukt	_	VERB	VBI	Mood=Imp	0	root	_	_
 2	dikh	_	PRON	PRO-ACC	Case=Acc	1	obj	_	_
-3	du	_	PRON	PRO	_	1	vocative	_	_
-4	altir	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
-5	nr	_	NOUN	N	_	3	conj	_	_
+3	du	_	PRON	PRO	_	5	nmod	_	_
+4	altir	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	nr	_	NOUN	N	_	1	vocative	_	_
 
 # sent_id = 1697E-PURIM,.190
 # X_ID = 1697E-PURIM,286.350
@@ -2825,8 +2825,8 @@
 # text = buk dikh altir nr zag ikh dir
 1	buk	_	VERB	VBI	Mood=Imp	5	ccomp	_	_
 2	dikh	_	PRON	PRO-ACC	Case=Acc	1	obj	_	_
-3	altir	_	ADJ	ADJ	Degree=Pos	1	vocative	_	_
-4	nr	_	NOUN	N	_	3	conj	_	_
+3	altir	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	nr	_	NOUN	N	_	1	vocative	_	_
 5	zag	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 7	dir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
@@ -2928,8 +2928,8 @@
 # sent_id = 1697E-PURIM,.199
 # X_ID = 1697E-PURIM,297.368
 # text = du dib der her zal bukin fir zeyn knekht du du hast dikh tsu mir fr_koyft um eyn shtik brut
-1	du	_	PRON	PRO	_	6	vocative	_	_
-2	dib	_	NOUN	N	_	1	conj	_	_
+1	du	_	PRON	PRO	_	2	nmod	_	_
+2	dib	_	NOUN	N	_	6	vocative	_	_
 3	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	her	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
 5	zal	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
@@ -3086,11 +3086,11 @@
 3	kurts	UNKNOWN	X	H	_	1	dep	_	_
 4	uaum'	UNKNOWN	X	H	_	1	dep	_	_
 5	msirh	UNKNOWN	X	H	_	1	dep	_	_
-6	alir_idlir	_	ADJ	ADJ	Degree=Pos	14	vocative	_	_
-7	hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
-8	her	_	NOUN	N	_	6	conj	_	_
+6	alir_idlir	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+7	hukh_gibarnir	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	her	_	NOUN	N	_	14	vocative	_	_
 9	unt	_	CCONJ	CONJ	_	10	cc	_	_
-10	king	_	NOUN	N	_	6	conj	_	_
+10	king	_	NOUN	N	_	8	conj	_	_
 11	zeyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	12	det:poss	_	_
 12	king_reykh	_	NOUN	N	_	14	nsubj	_	_
 13	zal	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
@@ -3887,8 +3887,8 @@
 # X_ID = 1697E-PURIM,395.499
 # text = mrdkhi idlr king vi eyn lignr %t%-1 izt das
 1	mrdkhi	_	PROPN	NPR	_	8	dep	_	_
-2	idlr	_	ADJ	ADJ	Degree=Pos	8	vocative	_	_
-3	king	_	NOUN	N	_	2	conj	_	_
+2	idlr	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	king	_	NOUN	N	_	8	vocative	_	_
 4	vi	_	ADV	WADV	Degree=Pos	8	obj	_	_
 5	eyn	_	DET	D	PronType=Art	4	det	_	_
 6	lignr	_	NOUN	N	_	4	dep	_	_
@@ -4195,9 +4195,9 @@
 8	zagt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	zi	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 10	yu	_	INTJ	INTJ	_	14	discourse	_	_
-11	meyn	_	PRON	PRO$	_	14	vocative	_	_
-12	libr	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
-13	man	_	NOUN	N	_	11	conj	_	_
+11	meyn	_	PRON	PRO$	_	13	det:poss	_	_
+12	libr	_	ADJ	ADJ	Degree=Pos	13	amod	_	_
+13	man	_	NOUN	N	_	14	vocative	_	_
 14	greyf	_	VERB	VBI	Mood=Imp	8	ccomp	_	_
 15	mir	_	PRON	PRO-DTV	Case=Dat	14	iobj	_	_
 16	dran	_	ADP	P	_	14	obl	_	_
@@ -4263,9 +4263,9 @@
 1	zagt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	zi	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	yu	_	INTJ	INTJ	_	8	discourse	_	_
-4	meyn	_	PRON	PRO$	_	8	vocative	_	_
-5	libr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-6	gumpil	_	PROPN	NPR	_	4	dep	_	_
+4	meyn	_	PRON	PRO$	_	6	det:poss	_	_
+5	libr	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	gumpil	_	PROPN	NPR	_	8	vocative	_	_
 7	du	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 8	hast	_	VERB	VBF	VerbForm=Fin	1	ccomp	_	_
 9	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
@@ -5619,11 +5619,11 @@
 1	frid	_	NOUN	N	_	11	obl	_	_
 2	tsu	_	ADP	P	_	3	case	_	_
 3	oykh	_	NOUN	N	_	11	obl	_	_
-4	ir	_	PRON	PRO	_	11	vocative	_	_
-5	herin	_	NOUN	N	_	4	conj	_	_
+4	ir	_	PRON	PRO	_	5	nmod	_	_
+5	herin	_	NOUN	N	_	11	vocative	_	_
 6	un'	_	CCONJ	CONJ	_	7	cc	_	_
-7	ferstin	_	NOUN	N	_	4	conj	_	_
-8	prs	Persia	X	H	_	4	nmod:poss	_	_
+7	ferstin	_	NOUN	N	_	5	conj	_	_
+8	prs	Persia	X	H	_	5	nmod:poss	_	_
 9	umdi	and_Media	X	H	_	8	dep	_	_
 10	es	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 11	zey	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5690,8 +5690,8 @@
 # sent_id = 1697E-PURIM,.391
 # X_ID = 1697E-PURIM,562.747
 # text = altir nr vi %t%-1 shmekt es dir
-1	altir	_	ADJ	ADJ	Degree=Pos	5	vocative	_	_
-2	nr	_	NOUN	N	_	1	conj	_	_
+1	altir	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	nr	_	NOUN	N	_	5	vocative	_	_
 3	vi	_	ADV	WADV	Degree=Pos	5	advmod	_	_
 4	%t%-1	_	ADV	ADVP	Degree=Pos	5	advmod	_	_
 5	shmekt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5830,9 +5830,9 @@
 # text = zagt zi vau %t%-1 has@ @tu den zak
 1	zagt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	zi	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
-3	vau	_	ADV	WADV	Degree=Pos	1	dep	_	_
+3	vau	_	ADV	WADV	Degree=Pos	5	advmod	_	_
 4	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	5	advmod	_	_
-5	has@	_	VERB	VBF	VerbForm=Fin	3	conj	_	_
+5	has@	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
 6	@tu	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 7	den	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
 8	zak	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	5	obj	_	_
@@ -6545,8 +6545,8 @@
 # text = eynr sprekht libr khbr mir velin zi koyfn
 1	eynr	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	sprekht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	libr	_	ADJ	ADJ	Degree=Pos	8	vocative	_	_
-4	khbr	_	NOUN	N	_	3	conj	_	_
+3	libr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	khbr	_	NOUN	N	_	8	vocative	_	_
 5	mir	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 6	velin	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 7	zi	_	PRON	PRO-ACC	Case=Acc	8	obj	_	_

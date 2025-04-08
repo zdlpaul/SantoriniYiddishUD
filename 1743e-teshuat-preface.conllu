@@ -667,16 +667,16 @@
 # sent_id = 1743E-TESHUAT-PREFACE,.29
 # X_ID = 1743E-TESHUAT-PREFACE,17.5.35
 # text = alz zen irh libh leyt vaz %t%-2 ikh hab gtahn vegn kll isral zalt ihr mir gdenkn un' zalkhs sfr um teyer gelt tsu kafn
-1	alz	_	DET	Q-ACC	Case=Acc	3	det	_	_
-2	zen	_	X	X	_	3	dep	_	_
-3	irh	_	PRON	PRO	_	17	obj	_	_
-4	libh	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
-5	leyt	_	NOUN	N	_	3	conj	_	_
+1	alz	_	DET	Q-ACC	Case=Acc	5	det	_	_
+2	zen	_	X	X	_	5	dep	_	_
+3	irh	_	PRON	PRO	_	5	nmod	_	_
+4	libh	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	leyt	_	NOUN	N	_	17	obj	_	_
 6	vaz	_	PRON	WPRO	_	10	obj	_	_
 7	%t%-2	_	NOUN	NP-ACC	_	10	dep	_	_
 8	ikh	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 9	hab	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
-10	gtahn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	acl:relcl	_	_
+10	gtahn	_	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 11	vegn	_	ADP	P	_	13	case	_	_
 12	kll	_	DET	Q	_	13	det	_	_
 13	isral	_	PROPN	NPR	_	10	obl	_	_

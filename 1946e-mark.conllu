@@ -3759,9 +3759,9 @@
 19	di	_	DET	D-NOM	Case=Nom|PronType=Art	20	det	_	_
 20	farbindung	_	NOUN	N-NOM	Case=Nom	15	nsubj	_	SpaceAfter=No
 21	:	_	PUNCT	PUNC	_	20	punct	_	_
-22	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	20	dep	_	_
-23	nor	_	ADV	FP	Degree=Pos	22	advmod	_	_
-24	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	22	advmod	_	_
+22	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	23	advmod	_	_
+23	nor	_	PART	FP	Degree=Pos	20	dep	_	_
+24	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	23	advmod	_	_
 
 # sent_id = 1946E-MARK,.197
 # X_ID = 1946E-MARK,7.202
@@ -5852,9 +5852,9 @@
 5	mir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 6	dem	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 7	hilfsverb	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
-8	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
-9	voltsu	_	VERB	VLF	VerbForm=Fin	8	conj	_	_
-10	voltn	_	VERB	VLF	VerbForm=Fin	8	conj	_	SpaceAfter=No
+8	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
+9	voltsu	_	VERB	VLF	Mood=Sub|VerbForm=Fin	8	conj	_	_
+10	voltn	_	VERB	VLF	Mood=Sub|VerbForm=Fin	8	conj	_	SpaceAfter=No
 11	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1946E-MARK,.309
@@ -5868,7 +5868,7 @@
 6	shtendik	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 7	dem	_	DET	D-ACC	Case=Acc|PronType=Art	4	obj	_	SpaceAfter=No
 8	"	_	PUNCT	PUNC	_	7	punct	_	_
-9	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	SpaceAfter=No
+9	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	SpaceAfter=No
 10	"	_	PUNCT	PUNC	_	4	punct	_	_
 11	gleykh	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 12	in	_	ADP	P	_	13	case	_	_
@@ -5887,7 +5887,7 @@
 7	a	_	DET	D	PronType=Art	8	det	_	_
 8	brik	_	NOUN	N-I	Definite=Ind	6	xcomp	_	SpaceAfter=No
 9	,	_	PUNCT	PUNC	_	13	punct	_	_
-10	volt	_	VERB	VLF	VerbForm=Fin	13	dep	_	_
+10	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	_
 11	ikh	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 12	moyre	_	ADP	RP-H	_	13	compound:prt	_	_
 13	gehot	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -5905,7 +5905,7 @@
 6	az	_	SCONJ	C	_	12	mark	_	_
 7	der	_	DET	D-NOM	Case=Nom|PronType=Art	12	nsubj	_	SpaceAfter=No
 8	"	_	PUNCT	PUNC	_	7	punct	_	_
-9	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	SpaceAfter=No
+9	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	SpaceAfter=No
 10	"	_	PUNCT	PUNC	_	12	punct	_	_
 11	zol	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 12	farnemen	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
@@ -5944,7 +5944,7 @@
 # text = lemoshl : volt ikh geven a rov,
 1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
 2	:	_	PUNCT	PUNC	_	3	punct	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	0	root	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	0	root	_	_
 4	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 5	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	_
 6	a	_	DET	D	PronType=Art	7	det	_	_
@@ -5964,7 +5964,7 @@
 # sent_id = 1946E-MARK,.315
 # X_ID = 1946E-MARK,11.322
 # text = volt ikh geven a soykher,
-1	volt	_	VERB	VLF	VerbForm=Fin	0	root	_	_
+1	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	0	root	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	1	dep	_	_
 4	a	_	DET	D	PronType=Art	5	det	_	_
@@ -6116,9 +6116,9 @@
 2	gedenks@	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
 3	@tu	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	2	punct	_	_
-5	mayn	_	PRON	PRO$	_	2	vocative	_	_
-6	tayer	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-7	zis-lebn	_	NOUN	N	_	5	conj	_	SpaceAfter=No
+5	mayn	_	PRON	PRO$	_	7	det:poss	_	_
+6	tayer	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
+7	zis-lebn	_	NOUN	N	_	2	vocative	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	2	punct	_	_
 9	ven	_	SCONJ	C	_	13	mark	_	_
 10	mir	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
@@ -6195,9 +6195,9 @@
 3	@tu	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	geshtorbn	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	1	punct	_	_
-6	meyn	_	PRON	PRO$	_	1	vocative	_	_
-7	tayer	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
-8	zis-lebn	_	NOUN	N	_	6	conj	_	SpaceAfter=No
+6	meyn	_	PRON	PRO$	_	8	det:poss	_	_
+7	tayer	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
+8	zis-lebn	_	NOUN	N	_	1	vocative	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1946E-MARK,.330
@@ -7255,7 +7255,7 @@
 10	,	_	PUNCT	PUNC	_	6	punct	_	_
 11	beys	_	SCONJ	C	_	15	mark	_	_
 12	zey	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
-13	voltn	_	VERB	VLF	VerbForm=Fin	15	dep	_	_
+13	voltn	_	VERB	VLF	Mood=Sub|VerbForm=Fin	15	dep	_	_
 14	gedarft	_	AUX	MDN	Tense=Past|VerbForm=Part	15	aux	_	_
 15	kumen	_	VERB	VB	VerbForm=Inf	6	advcl	_	_
 16	bskhnut	in_proximity	X	H	_	15	obl	_	_
@@ -7745,10 +7745,10 @@
 # text = 8b. di klezmer vu %t%-1 zaynen %pro% fregt khtsns tsd sholem-aleykhem
 1	8b.	_	NUM	LS	_	8	dep	_	_
 2	di	_	DET	D	PronType=Art	3	det	_	_
-3	klezmer	_	NOUN	N-D	Definite=Def	8	dep	_	_
-4	vu	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+3	klezmer	_	NOUN	N-D	Definite=Def	6	obl	_	_
+4	vu	_	ADV	WADV	Degree=Pos	6	advmod	_	_
 5	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	6	advmod	_	_
-6	zaynen	_	VERB	VBF	VerbForm=Fin	3	conj	_	_
+6	zaynen	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
 7	%pro%	_	NOUN	NP-SBJ-RSP	_	6	nsubj	_	_
 8	fregt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	khtsns	_	NOUN	N$	_	8	nsubj	_	_
@@ -8026,8 +8026,8 @@
 2	bey	_	ADP	P	_	3	case	_	_
 3	mir	_	PRON	PRO	_	11	obl	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	11	punct	_	_
-5	orem	_	ADJ	ADJ	Degree=Pos	11	vocative	_	_
-6	shneyderl	_	NOUN	N	_	5	conj	_	SpaceAfter=No
+5	orem	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	shneyderl	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	11	punct	_	_
 8	dos	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 9	shvakh	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	amod	_	_

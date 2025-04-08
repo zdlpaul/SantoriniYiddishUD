@@ -3,8 +3,8 @@
 # text = bekitser, libe shvegerin, vis, dos mir hoben dayne ksovem mekabel gevezen
 1	bekitser	_	ADV	ADV	Degree=Pos	6	advmod	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	6	punct	_	_
-3	libe	_	ADJ	ADJ	Degree=Pos	6	vocative	_	_
-4	shvegerin	_	NOUN	N	_	3	conj	_	SpaceAfter=No
+3	libe	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	shvegerin	_	NOUN	N	_	6	vocative	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	6	punct	_	_
 6	vis	_	VERB	VBI	Mood=Imp	0	root	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	6	punct	_	_
@@ -187,13 +187,13 @@
 2	hob	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 3	imer_tsu	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	gezogt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	vi	_	ADV	WADV	Degree=Pos	4	dep	_	_
+5	vi	_	ADV	WADV	Degree=Pos	11	advmod	_	_
 6	%t%-1	_	ADV	ADVP	Degree=Pos	11	advmod	_	_
 7	viltn	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
 8	%pro%	_	NOUN	NP-SBJ	_	11	nsubj	_	_
 9	on	_	ADP	P	_	10	case	_	_
 10	vayb	_	NOUN	N	_	11	obl	_	_
-11	hauzen	_	VERB	VB	VerbForm=Inf	5	conj	_	SpaceAfter=No
+11	hauzen	_	VERB	VB	VerbForm=Inf	4	dep	_	SpaceAfter=No
 12	?	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1619W-LETTERS-PRAGUE,.14
@@ -252,9 +252,9 @@
 4	vil@	_	AUX	MDF	VerbForm=Fin	15	aux	_	_
 5	@tu	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	15	punct	_	_
-7	mayn	_	PRON	PRO$	_	15	vocative	_	_
-8	herts-libe	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
-9	shvegerin	_	NOUN	N	_	7	conj	_	SpaceAfter=No
+7	mayn	_	PRON	PRO$	_	9	det:poss	_	_
+8	herts-libe	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
+9	shvegerin	_	NOUN	N	_	15	vocative	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	15	punct	_	_
 11	dir	_	PRON	PRO-DTV	Case=Dat	15	iobj	_	_
 12	in	_	ADP	P	_	14	case	_	_
@@ -428,9 +428,9 @@
 # text = nun, mayn herts-libe shvegerin, ikh bit dikh gor zer un zer
 1	nun	_	INTJ	INTJ	_	8	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	8	punct	_	_
-3	mayn	_	PRON	PRO$	_	8	vocative	_	_
-4	herts-libe	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
-5	shvegerin	_	NOUN	N	_	3	conj	_	SpaceAfter=No
+3	mayn	_	PRON	PRO$	_	5	det:poss	_	_
+4	herts-libe	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	shvegerin	_	NOUN	N	_	8	vocative	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	8	punct	_	_
 7	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 8	bit	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -587,8 +587,8 @@
 # sent_id = 1619W-LETTERS-PRAGUE,.38
 # X_ID = 1619W-LETTERS-PRAGUE,31.41
 # text = libes herts, a@ @m yom bes, e der sliekh iz kumen zoy iz bele tokhter %ich%-1 kumen un maatle
-1	libes	_	ADJ	ADJ	Degree=Pos	19	vocative	_	_
-2	herts	_	NOUN	N	_	1	conj	_	SpaceAfter=No
+1	libes	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	herts	_	NOUN	N	_	19	vocative	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	19	punct	_	_
 4	a@	_	ADP	P	_	13	case	_	_
 5	@m	_	DET	D	PronType=Art	13	obl	_	_
@@ -813,8 +813,8 @@
 # sent_id = 1619W-LETTERS-PRAGUE,.53
 # X_ID = 1619W-LETTERS-PRAGUE,31.56
 # text = libes herts, az du shraybst dos do fil fremde layt bay enk zayn iz %exp% kan vunder,
-1	libes	_	ADJ	ADJ	Degree=Pos	15	vocative	_	_
-2	herts	_	NOUN	N	_	1	conj	_	SpaceAfter=No
+1	libes	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	herts	_	NOUN	N	_	15	vocative	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	15	punct	_	_
 4	az	_	SCONJ	C	_	6	mark	_	_
 5	du	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
@@ -941,10 +941,10 @@
 # sent_id = 1619W-LETTERS-PRAGUE,.63
 # X_ID = 1619W-LETTERS-PRAGUE,32.67
 # text = ahuvi mekhutoni kmar zanvel . %pro% velt aykh geren barikhes shrayben .
-1	ahuvi	beloved_my	X	H	_	11	dep	_	_
-2	mekhutoni	father_in_law	X	H	_	1	dep	_	_
-3	kmar	_	PROPN	NPR	_	1	dep	_	_
-4	zanvel	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
+1	ahuvi	beloved_my	X	H	_	3	dep	_	_
+2	mekhutoni	father_in_law	X	H	_	3	dep	_	_
+3	kmar	_	PROPN	NPR	_	11	vocative	_	_
+4	zanvel	_	PROPN	NPR	_	3	flat:name	_	SpaceAfter=No
 5	.	_	PUNCT	PUNC	_	11	punct	_	_
 6	%pro%	_	NOUN	NP-SBJ	_	11	nsubj	_	_
 7	velt	_	AUX	MDF	VerbForm=Fin	11	aux	_	_

@@ -610,9 +610,9 @@
 1	zi	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 2	habin	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
 3	gishprokhin	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	vau	_	ADV	WADV	Degree=Pos	3	dep	_	_
+4	vau	_	ADV	WADV	Degree=Pos	6	advmod	_	_
 5	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	6	advmod	_	_
-6	iz	_	VERB	VBF	VerbForm=Fin	4	conj	_	_
+6	iz	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
 7	eyer	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	8	det:poss	_	_
 8	got	_	PROPN	NPR	_	6	nsubj	_	_
 

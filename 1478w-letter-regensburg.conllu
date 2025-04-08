@@ -1,12 +1,12 @@
 # sent_id = 1478W-LETTER-REGENSBURG,.1
 # X_ID = 1478W-LETTER-REGENSBURG,156.3
 # text = liebe froyndin, du liebe kron, ikh kasven dir fil,
-1	liebe	_	ADJ	ADJ	Degree=Pos	9	vocative	_	_
-2	froyndin	_	NOUN	N	_	1	conj	_	SpaceAfter=No
+1	liebe	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	froyndin	_	NOUN	N	_	9	vocative	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	9	punct	_	_
-4	du	_	PRON	PRO	_	9	vocative	_	_
-5	liebe	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-6	kron	_	NOUN	N	_	4	conj	_	SpaceAfter=No
+4	du	_	PRON	PRO	_	6	nmod	_	_
+5	liebe	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
+6	kron	_	NOUN	N	_	9	vocative	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	9	punct	_	_
 8	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 9	kasven	_	VERB	VBF	VerbForm=Fin	0	root	_	_

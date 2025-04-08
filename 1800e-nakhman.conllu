@@ -569,7 +569,7 @@
 7	veshulem	and_peace	X	H	_	6	discourse	_	_
 8	oys	_	ADP	RP	_	9	compound:prt	_	_
 9	gayn	_	VERB	VB	VerbForm=Inf	15	advcl	_	_
-10	volt	_	VERB	VLF	VerbForm=Fin	15	dep	_	_
+10	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	15	dep	_	_
 11	gur	_	ADV	ADV	Degree=Pos	15	advmod	_	_
 12	di	_	DET	D-NOM	Case=Nom|PronType=Art	13	det	_	_
 13	velt	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	15	nsubj	_	_

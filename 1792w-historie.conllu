@@ -647,9 +647,9 @@
 2	ihm	_	PRON	PRO-DTV	Case=Dat	1	iobj	_	_
 3	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	gbaim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	1	nsubj	_	_
-5	vaz	_	PRON	WPRO	_	1	dep	_	_
+5	vaz	_	PRON	WPRO	_	7	obj	_	_
 6	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
-7	foylt	_	VERB	VBF	VerbForm=Fin	5	conj	_	_
+7	foylt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
 8	oykh	_	PRON	PRO-DTV	Case=Dat	7	iobj	_	_
 
 # sent_id = 1792W-HISTORIE,.57
