@@ -2264,10 +2264,10 @@
 12	%exp%	_	NOUN	NP-SBJ-1	_	14	nsubj	_	_
 13	uns	_	PRON	PRO-DTV	Case=Dat	14	iobj	_	_
 14	dukhtn	_	VERB	VB	VerbForm=Inf	11	xcomp	_	_
-15	mir	_	PRON	PRO-NOM	Case=Nom	14	dep	_	_
-16	zenn	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
+15	mir	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
+16	zenn	_	VERB	VBF	VerbForm=Fin	14	ccomp	_	_
 17	in	_	ADP	P	_	18	case	_	_
-18	iruslim	_	PROPN	NPR	_	15	obl	_	_
+18	iruslim	_	PROPN	NPR	_	16	obl	_	_
 
 # sent_id = 1692E-VILNA,.142
 # X_ID = 1692E-VILNA,218.152

@@ -147,15 +147,15 @@
 1	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 2	hob	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
 3	gemant	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	du	_	PRON	PRO-NOM	Case=Nom	3	dep	_	_
-5	bist	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
-6	shabes	_	NOUN	N	_	4	obl	_	_
+4	du	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
+5	bist	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
+6	shabes	_	NOUN	N	_	9	obl	_	_
 7	in	_	ADP	P	_	8	case	_	_
-8	amsterdam	_	PROPN	NPR	_	4	obl	_	_
-9	gevezt	_	VERB	VBN	Tense=Past|VerbForm=Part	4	dep	_	_
+8	amsterdam	_	PROPN	NPR	_	9	obl	_	_
+9	gevezt	_	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	_
 10	um	_	ADP	P	_	11	case	_	_
-11	uf	_	ADP	RP	_	4	obl	_	_
-12	gerufn	_	VERB	VAN	Tense=Past|VerbForm=Part	11	xcomp	_	_
+11	uf	_	ADP	RP	_	9	obl	_	_
+12	gerufn	_	VERB	VAN	Tense=Past|VerbForm=Part	11	ccomp	_	_
 13	tsu	_	PART	TO	_	11	mark	_	_
 14	vern	_	AUX	RD	VerbForm=Inf	11	aux	_	_
 
@@ -180,12 +180,12 @@
 1	hob	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 3	gemant	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	shabes	_	NOUN	N	_	3	dep	_	_
-5	kumt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-6	es	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+4	shabes	_	NOUN	N	_	5	obl	_	_
+5	kumt	_	VERB	VBF	VerbForm=Fin	3	ccomp	_	_
+6	es	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 7	on	_	ADP	P	_	9	case	_	_
 8	di	_	DET	D	PronType=Art	9	det	_	_
-9	dalfonem	_	NOUN	N-D	Definite=Def	4	obl	_	_
+9	dalfonem	_	NOUN	N-D	Definite=Def	5	obl	_	_
 
 # sent_id = 1798W-DISKURS,.19
 # X_ID = 1798W-DISKURS,164.21
@@ -398,9 +398,9 @@
 3	mir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 4	gebesert	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 5	zenen	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
-6	o	_	INTJ	INTJ	_	1	vocative	_	_
-7	shma	hear	X	H	_	6	dep	_	_
-8	beni	sons	X	H	_	6	dep	_	_
+6	o	_	INTJ	INTJ	_	7	discourse	_	_
+7	shma	hear	X	H	_	1	vocative	_	_
+8	beni	sons	X	H	_	7	dep	_	_
 
 1	den	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	vas@	_	VERB	VBF	VerbForm=Fin	0	root	_	_

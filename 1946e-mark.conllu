@@ -2103,20 +2103,20 @@
 # sent_id = 1946E-MARK,.106
 # X_ID = 1946E-MARK,5.110
 # text = vos %t%-1 klert ir ?
-1	vos	_	PRON	WPRO	_	0	root	_	_
+1	vos	_	PRON	WPRO	_	3	obj	_	_
 2	%t%-1	_	NOUN	NP-ACC	_	3	dep	_	_
-3	klert	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+3	klert	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	ir	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	SpaceAfter=No
 5	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1946E-MARK,.107
 # X_ID = 1946E-MARK,5.111
 # text = vi_azoy %t%-1 iz er arayngekumen ?
-1	vi_azoy	_	ADV	WADV	Degree=Pos	0	root	_	_
+1	vi_azoy	_	ADV	WADV	Degree=Pos	5	advmod	_	_
 2	%t%-1	_	ADV	ADVP	Degree=Pos	5	advmod	_	_
 3	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 4	er	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-5	arayngekumen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+5	arayngekumen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 6	?	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1946E-MARK,.108
@@ -5537,11 +5537,11 @@
 # sent_id = 1946E-MARK,.291
 # X_ID = 1946E-MARK,10.298
 # text = 10a. geyst shoyn aheym ?
-1	10a.	_	NUM	LS	_	0	root	_	_
-2	geyst	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+1	10a.	_	NUM	LS	_	2	dep	_	_
+2	geyst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	shoyn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	aheym	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
-5	?	_	PUNCT	PUNC	_	1	punct	_	_
+5	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1946E-MARK,.292
 # X_ID = 1946E-MARK,10.299
@@ -6112,8 +6112,8 @@
 # sent_id = 1946E-MARK,.323
 # X_ID = 1946E-MARK,11.330
 # text = tsi gedenks@ @tu, mayn tayer zis-lebn, ven mir hobn tsuzamen farbrakht ?
-1	tsi	_	SCONJ	C	_	0	root	_	_
-2	gedenks@	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+1	tsi	_	SCONJ	C	_	2	mark	_	_
+2	gedenks@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	@tu	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	2	punct	_	_
 5	mayn	_	PRON	PRO$	_	7	det:poss	_	_
@@ -6125,30 +6125,30 @@
 11	hobn	_	AUX	HVF	VerbForm=Fin	13	aux	_	_
 12	tsuzamen	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 13	farbrakht	_	VERB	VBN	Tense=Past|VerbForm=Part	2	advcl	_	SpaceAfter=No
-14	?	_	PUNCT	PUNC	_	1	punct	_	_
+14	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1946E-MARK,.324
 # X_ID = 1946E-MARK,11.331
 # text = tsi hot ir gehert vos %t%-1 es hot zikh getrofn ?
-1	tsi	_	SCONJ	C	_	0	root	_	_
+1	tsi	_	SCONJ	C	_	4	mark	_	_
 2	hot	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 3	ir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	gehert	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	_
+4	gehert	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	vos	_	PRON	WPRO	_	10	obj	_	_
 6	%t%-1	_	NOUN	NP-LGS	_	10	dep	_	_
 7	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	10	expl	_	_
 8	hot	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
 9	zikh	_	PRON	PRO-RFL	PronType=Reflex	10	expl:pv	_	_
 10	getrofn	_	VERB	VBN	Tense=Past|VerbForm=Part	4	dep	_	SpaceAfter=No
-11	?	_	PUNCT	PUNC	_	1	punct	_	_
+11	?	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1946E-MARK,.325
 # X_ID = 1946E-MARK,11.332
 # text = tsi hot ir gezen mit ayere oygn ?
-1	tsi	_	SCONJ	C	_	0	root	_	_
+1	tsi	_	SCONJ	C	_	4	mark	_	_
 2	hot	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
 3	ir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	gezen	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	_
+4	gezen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	mit	_	ADP	P	_	7	case	_	_
 6	ayere	_	PRON	PRO$	_	7	det:poss	_	_
 7	oygn	_	NOUN	N	_	4	obl	_	SpaceAfter=No
@@ -6157,8 +6157,8 @@
 # sent_id = 1946E-MARK,.326
 # X_ID = 1946E-MARK,11.333
 # text = tsi hos@ @tu nisht dayn esn ?
-1	tsi	_	SCONJ	C	_	0	root	_	_
-2	hos@	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+1	tsi	_	SCONJ	C	_	2	mark	_	_
+2	hos@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	@tu	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
 5	dayn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
@@ -6168,8 +6168,8 @@
 # sent_id = 1946E-MARK,.327
 # X_ID = 1946E-MARK,11.334
 # text = tsi hos@ @tu nisht dayn trinken ?
-1	tsi	_	SCONJ	C	_	0	root	_	_
-2	hos@	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+1	tsi	_	SCONJ	C	_	2	mark	_	_
+2	hos@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	@tu	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
 5	dayn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
@@ -6179,8 +6179,8 @@
 # sent_id = 1946E-MARK,.328
 # X_ID = 1946E-MARK,11.335
 # text = tsi host nisht dayn sheynem gang ?
-1	tsi	_	SCONJ	C	_	0	root	_	_
-2	host	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+1	tsi	_	SCONJ	C	_	2	mark	_	_
+2	host	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
 4	dayn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	6	det:poss	_	_
 5	sheynem	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
@@ -6190,15 +6190,15 @@
 # sent_id = 1946E-MARK,.329
 # X_ID = 1946E-MARK,11.336
 # text = tsi bis@ @tu geshtorbn, meyn tayer zis-lebn ?
-1	tsi	_	SCONJ	C	_	0	root	_	_
+1	tsi	_	SCONJ	C	_	4	mark	_	_
 2	bis@	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
 3	@tu	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-4	geshtorbn	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	1	punct	_	_
+4	geshtorbn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	4	punct	_	_
 6	meyn	_	PRON	PRO$	_	8	det:poss	_	_
 7	tayer	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-8	zis-lebn	_	NOUN	N	_	1	vocative	_	SpaceAfter=No
-9	?	_	PUNCT	PUNC	_	1	punct	_	_
+8	zis-lebn	_	NOUN	N	_	4	vocative	_	SpaceAfter=No
+9	?	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1946E-MARK,.330
 # X_ID = 1946E-MARK,11.337
@@ -6418,17 +6418,17 @@
 # sent_id = 1946E-MARK,.343
 # X_ID = 1946E-MARK,12.350
 # text = felt dir oyset, krigs@ @tu vu %t%-1 tsu layen ?
-1	felt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+1	felt	_	VERB	VBF	VerbForm=Fin	5	advcl	_	_
 2	dir	_	PRON	PRO-DTV	Case=Dat	1	iobj	_	_
 3	oyset	_	NOUN	N-NOM	Case=Nom	1	nsubj	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	krigs@	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+4	,	_	PUNCT	PUNC	_	5	punct	_	_
+5	krigs@	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	@tu	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 7	vu	_	ADV	WADV	Degree=Pos	5	dep	_	_
 8	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	10	advmod	_	_
 9	tsu	_	PART	TO	_	10	mark	_	_
 10	layen	_	VERB	VB	VerbForm=Inf	7	xcomp	_	SpaceAfter=No
-11	?	_	PUNCT	PUNC	_	1	punct	_	_
+11	?	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1946E-MARK,.344
 # X_ID = 1946E-MARK,12.351
@@ -6502,23 +6502,23 @@
 # sent_id = 1946E-MARK,.350
 # X_ID = 1946E-MARK,12.357
 # text = gendzelekh, gendzelekh, gendzelekh, hot ets nisht gezen a meydele mit a zeydn kleydele ?
-1	gendzelekh	_	NOUN	N	_	0	root	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	1	punct	_	_
-3	gendzelekh	_	NOUN	N	_	1	vocative	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	gendzelekh	_	NOUN	N	_	1	vocative	_	SpaceAfter=No
-6	,	_	PUNCT	PUNC	_	1	punct	_	_
+1	gendzelekh	_	NOUN	N	_	10	vocative	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	10	punct	_	_
+3	gendzelekh	_	NOUN	N	_	10	vocative	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	10	punct	_	_
+5	gendzelekh	_	NOUN	N	_	10	vocative	_	SpaceAfter=No
+6	,	_	PUNCT	PUNC	_	10	punct	_	_
 7	hot	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
 8	ets	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 9	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
-10	gezen	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	_
+10	gezen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 11	a	_	DET	D-ACC	Case=Acc|PronType=Art	12	det	_	_
 12	meydele	_	NOUN	N-ACC	Case=Acc	10	obj	_	_
 13	mit	_	ADP	P	_	16	case	_	_
 14	a	_	DET	D	PronType=Art	16	det	_	_
 15	zeydn	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
 16	kleydele	_	NOUN	N-I	Definite=Ind	12	obl	_	SpaceAfter=No
-17	?	_	PUNCT	PUNC	_	1	punct	_	_
+17	?	_	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = 1946E-MARK,.351
 # X_ID = 1946E-MARK,12.358
@@ -7058,34 +7058,34 @@
 # sent_id = 1946E-MARK,.379
 # X_ID = 1946E-MARK,13.387
 # text = 1a. tomer kumt a gast, vos %t%-1 ves@ @tu ton ?
-1	1a.	_	NUM	LS	_	0	root	_	_
-2	tomer	_	ADV	ADV	Degree=Pos	1	dep	_	_
+1	1a.	_	NUM	LS	_	11	dep	_	_
+2	tomer	_	ADV	ADV	Degree=Pos	11	dep	_	_
 3	kumt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
 4	a	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	gast	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	2	nsubj	_	SpaceAfter=No
-6	,	_	PUNCT	PUNC	_	1	punct	_	_
-7	vos	_	PRON	WPRO	_	1	obj	_	_
+6	,	_	PUNCT	PUNC	_	11	punct	_	_
+7	vos	_	PRON	WPRO	_	11	obj	_	_
 8	%t%-1	_	NOUN	NP-ACC	_	11	dep	_	_
 9	ves@	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
 10	@tu	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-11	ton	_	VERB	VB	VerbForm=Inf	1	conj	_	SpaceAfter=No
-12	?	_	PUNCT	PUNC	_	1	punct	_	_
+11	ton	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
+12	?	_	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = 1946E-MARK,.380
 # X_ID = 1946E-MARK,13.388
 # text = 1b. a gast tomer kumt, vos %t%-1 ves@ @tu ton ?
-1	1b.	_	NUM	LS	_	0	root	_	_
+1	1b.	_	NUM	LS	_	11	dep	_	_
 2	a	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
-3	gast	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	1	dep	_	_
+3	gast	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	11	dep	_	_
 4	tomer	_	ADV	ADV	Degree=Pos	3	advmod	_	_
 5	kumt	_	VERB	VBF	VerbForm=Fin	3	dep	_	SpaceAfter=No
-6	,	_	PUNCT	PUNC	_	1	punct	_	_
-7	vos	_	PRON	WPRO	_	1	obj	_	_
+6	,	_	PUNCT	PUNC	_	11	punct	_	_
+7	vos	_	PRON	WPRO	_	11	obj	_	_
 8	%t%-1	_	NOUN	NP-ACC	_	11	dep	_	_
 9	ves@	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
 10	@tu	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-11	ton	_	VERB	VB	VerbForm=Inf	1	conj	_	SpaceAfter=No
-12	?	_	PUNCT	PUNC	_	1	punct	_	_
+11	ton	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
+12	?	_	PUNCT	PUNC	_	11	punct	_	_
 
 # sent_id = 1946E-MARK,.381
 # X_ID = 1946E-MARK,13.389
@@ -7498,16 +7498,16 @@
 # sent_id = 1946E-MARK,.402
 # X_ID = 1946E-MARK,13.410
 # text = lemoshl : 3a. vu %t%-1 bis@ @tu nekhtn geven ?
-1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
-2	:	_	PUNCT	PUNC	_	3	punct	_	_
-3	3a.	_	NUM	LS	_	0	root	_	_
-4	vu	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+1	lemoshl	for_example	X	H	_	9	dep	_	SpaceAfter=No
+2	:	_	PUNCT	PUNC	_	9	punct	_	_
+3	3a.	_	NUM	LS	_	9	dep	_	_
+4	vu	_	ADV	WADV	Degree=Pos	9	advmod	_	_
 5	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	9	advmod	_	_
 6	bis@	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
 7	@tu	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 8	nekhtn	_	ADV	ADV	Degree=Pos	9	advmod	_	_
-9	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
-10	?	_	PUNCT	PUNC	_	3	punct	_	_
+9	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+10	?	_	PUNCT	PUNC	_	9	punct	_	_
 
 # sent_id = 1946E-MARK,.403
 # X_ID = 1946E-MARK,13.411
@@ -7519,13 +7519,13 @@
 # sent_id = 1946E-MARK,.404
 # X_ID = 1946E-MARK,13.412
 # text = 3b. nekhtn vu %t%-1 bis@ @tu geven ?
-1	3b.	_	NUM	LS	_	0	root	_	_
-2	nekhtn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-3	vu	_	ADV	WADV	Degree=Pos	1	advmod	_	_
+1	3b.	_	NUM	LS	_	7	dep	_	_
+2	nekhtn	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+3	vu	_	ADV	WADV	Degree=Pos	7	advmod	_	_
 4	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	7	advmod	_	_
 5	bis@	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
 6	@tu	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 8	?	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1946E-MARK,.405
@@ -7543,16 +7543,16 @@
 # sent_id = 1946E-MARK,.406
 # X_ID = 1946E-MARK,13.414
 # text = 4a. ver fun aykh %t%-1 vet geyn in vald ?
-1	4a.	_	NUM	LS	_	0	root	_	_
-2	ver	_	PRON	WPRO	_	1	obj	_	_
+1	4a.	_	NUM	LS	_	7	dep	_	_
+2	ver	_	PRON	WPRO	_	7	obj	_	_
 3	fun	_	ADP	P	_	4	case	_	_
 4	aykh	_	PRON	PRO	_	2	obl	_	_
 5	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 6	vet	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
-7	geyn	_	VERB	VB	VerbForm=Inf	1	conj	_	_
+7	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	in	_	ADP	P	_	9	case	_	_
 9	vald	_	NOUN	N	_	7	obl	_	SpaceAfter=No
-10	?	_	PUNCT	PUNC	_	1	punct	_	_
+10	?	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1946E-MARK,.407
 # X_ID = 1946E-MARK,13.415
@@ -7564,17 +7564,17 @@
 # sent_id = 1946E-MARK,.408
 # X_ID = 1946E-MARK,13.416
 # text = 4b. in vald, ver fun aykh %t%-1 vet geyn ?
-1	4b.	_	NUM	LS	_	0	root	_	_
+1	4b.	_	NUM	LS	_	10	dep	_	_
 2	in	_	ADP	P	_	3	case	_	_
-3	vald	_	NOUN	N	_	1	obl	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	ver	_	PRON	WPRO	_	1	obj	_	_
+3	vald	_	NOUN	N	_	10	obl	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	10	punct	_	_
+5	ver	_	PRON	WPRO	_	10	obj	_	_
 6	fun	_	ADP	P	_	7	case	_	_
 7	aykh	_	PRON	PRO	_	5	obl	_	_
 8	%t%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
 9	vet	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
-10	geyn	_	VERB	VB	VerbForm=Inf	1	conj	_	SpaceAfter=No
-11	?	_	PUNCT	PUNC	_	1	punct	_	_
+10	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
+11	?	_	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = 1946E-MARK,.409
 # X_ID = 1946E-MARK,13.417
@@ -7608,39 +7608,39 @@
 # sent_id = 1946E-MARK,.411
 # X_ID = 1946E-MARK,14.419
 # text = lemoshl : 5a. ver %t%-1 vet geyn mit aykh ?
-1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
-2	:	_	PUNCT	PUNC	_	3	punct	_	_
-3	5a.	_	NUM	LS	_	0	root	_	_
-4	ver	_	PRON	WPRO	_	3	obj	_	_
+1	lemoshl	for_example	X	H	_	7	dep	_	SpaceAfter=No
+2	:	_	PUNCT	PUNC	_	7	punct	_	_
+3	5a.	_	NUM	LS	_	7	dep	_	_
+4	ver	_	PRON	WPRO	_	7	obj	_	_
 5	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 6	vet	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
-7	geyn	_	VERB	VB	VerbForm=Inf	3	conj	_	_
+7	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	mit	_	ADP	P	_	9	case	_	_
 9	aykh	_	PRON	PRO	_	7	obl	_	SpaceAfter=No
-10	?	_	PUNCT	PUNC	_	3	punct	_	_
+10	?	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1946E-MARK,.412
 # X_ID = 1946E-MARK,14.420
 # text = vuhin %t%-1 vet men geyn mit aykh ?
-1	vuhin	_	ADV	WADV	Degree=Pos	0	root	_	_
+1	vuhin	_	ADV	WADV	Degree=Pos	5	advmod	_	_
 2	%t%-1	_	ADV	ADVP-DIR	AdvType=Loc|Degree=Pos	5	advmod	_	_
 3	vet	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
 4	men	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-5	geyn	_	VERB	VB	VerbForm=Inf	1	conj	_	_
+5	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	mit	_	ADP	P	_	7	case	_	_
 7	aykh	_	PRON	PRO	_	5	obl	_	SpaceAfter=No
-8	?	_	PUNCT	PUNC	_	1	punct	_	_
+8	?	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1946E-MARK,.413
 # X_ID = 1946E-MARK,14.421
 # text = 5b. ver vuhin %t%-1 %t%-2 vet geyn mit aykh ?
-1	5b.	_	NUM	LS	_	0	root	_	_
-2	ver	_	PRON	WPRO	_	1	obj	_	_
-3	vuhin	_	ADV	WADV	Degree=Pos	1	advmod	_	_
+1	5b.	_	NUM	LS	_	7	dep	_	_
+2	ver	_	PRON	WPRO	_	7	obj	_	_
+3	vuhin	_	ADV	WADV	Degree=Pos	7	advmod	_	_
 4	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
 5	%t%-2	_	ADV	ADVP-DIR	AdvType=Loc|Degree=Pos	7	advmod	_	_
 6	vet	_	AUX	MDF	VerbForm=Fin	7	aux	_	_
-7	geyn	_	VERB	VB	VerbForm=Inf	1	conj	_	_
+7	geyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	mit	_	ADP	P	_	9	case	_	_
 9	aykh	_	PRON	PRO	_	7	obl	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	7	punct	_	_
@@ -7648,41 +7648,41 @@
 # sent_id = 1946E-MARK,.414
 # X_ID = 1946E-MARK,14.422
 # text = 6a. far vos %t%-1 hot er es geton ?
-1	6a.	_	NUM	LS	_	0	root	_	_
+1	6a.	_	NUM	LS	_	8	dep	_	_
 2	far	_	ADP	P	_	3	case	_	_
-3	vos	_	PRON	WPRO	_	1	obl	_	_
+3	vos	_	PRON	WPRO	_	8	obl	_	_
 4	%t%-1	_	ADP	PP	_	8	obl	_	_
 5	hot	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
 6	er	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 7	es	_	PRON	PRO-ACC	Case=Acc	8	obj	_	_
-8	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+8	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = 1946E-MARK,.415
 # X_ID = 1946E-MARK,14.423
 # text = vi_azoy %t%-1 hot er es geton ?
-1	vi_azoy	_	ADV	WADV	Degree=Pos	0	root	_	_
+1	vi_azoy	_	ADV	WADV	Degree=Pos	6	advmod	_	_
 2	%t%-1	_	ADV	ADVP	Degree=Pos	6	advmod	_	_
 3	hot	_	AUX	HVF	VerbForm=Fin	6	aux	_	_
 4	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 5	es	_	PRON	PRO-ACC	Case=Acc	6	obj	_	_
-6	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
+6	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	?	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1946E-MARK,.416
 # X_ID = 1946E-MARK,14.424
 # text = 6b. far vos un vi_azoy %t%-1 hot er es geton ?
-1	6b.	_	NUM	LS	_	0	root	_	_
+1	6b.	_	NUM	LS	_	10	dep	_	_
 2	far	_	ADP	P	_	3	case	_	_
-3	vos	_	PRON	WPRO	_	1	obl	_	_
+3	vos	_	PRON	WPRO	_	10	obl	_	_
 4	un	_	CCONJ	CONJ	_	3	conj	_	_
 5	vi_azoy	_	ADV	WADV	Degree=Pos	4	advmod	_	_
 6	%t%-1	_	ADP	PP	_	10	obl	_	_
 7	hot	_	AUX	HVF	VerbForm=Fin	10	aux	_	_
 8	er	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 9	es	_	PRON	PRO-ACC	Case=Acc	10	obj	_	_
-10	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	1	conj	_	SpaceAfter=No
-11	?	_	PUNCT	PUNC	_	1	punct	_	_
+10	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+11	?	_	PUNCT	PUNC	_	10	punct	_	_
 
 # sent_id = 1946E-MARK,.417
 # X_ID = 1946E-MARK,14.425
@@ -7705,38 +7705,38 @@
 # sent_id = 1946E-MARK,.418
 # X_ID = 1946E-MARK,14.426
 # text = lemoshl : 7a. fun vanen %t%-1 kumt ir ?
-1	lemoshl	for_example	X	H	_	3	dep	_	SpaceAfter=No
-2	:	_	PUNCT	PUNC	_	3	punct	_	_
-3	7a.	_	NUM	LS	_	0	root	_	_
+1	lemoshl	for_example	X	H	_	7	dep	_	SpaceAfter=No
+2	:	_	PUNCT	PUNC	_	7	punct	_	_
+3	7a.	_	NUM	LS	_	7	dep	_	_
 4	fun	_	ADP	P	_	5	case	_	_
-5	vanen	_	ADV	WADV	Degree=Pos	3	obl	_	_
+5	vanen	_	ADV	WADV	Degree=Pos	7	obl	_	_
 6	%t%-1	_	ADP	PP	_	7	obl	_	_
-7	kumt	_	VERB	VBF	VerbForm=Fin	3	conj	_	_
+7	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	ir	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	SpaceAfter=No
-9	?	_	PUNCT	PUNC	_	3	punct	_	_
+9	?	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1946E-MARK,.419
 # X_ID = 1946E-MARK,14.427
 # text = 7b. fun vanen %t%-1 ir kumt ?
-1	7b.	_	NUM	LS	_	0	root	_	_
+1	7b.	_	NUM	LS	_	6	dep	_	_
 2	fun	_	ADP	P	_	3	case	_	_
-3	vanen	_	ADV	WADV	Degree=Pos	1	obl	_	_
+3	vanen	_	ADV	WADV	Degree=Pos	6	obl	_	_
 4	%t%-1	_	ADP	PP	_	6	obl	_	_
 5	ir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-6	kumt	_	VERB	VBF	VerbForm=Fin	1	conj	_	SpaceAfter=No
-7	?	_	PUNCT	PUNC	_	1	punct	_	_
+6	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
+7	?	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1946E-MARK,.420
 # X_ID = 1946E-MARK,14.428
 # text = 8a. vu %t%-1 zaynen di klezmer ? fregt khtsns tsd
-1	8a.	_	NUM	LS	_	0	root	_	_
-2	vu	_	ADV	WADV	Degree=Pos	1	advmod	_	_
+1	8a.	_	NUM	LS	_	4	dep	_	_
+2	vu	_	ADV	WADV	Degree=Pos	4	advmod	_	_
 3	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	4	advmod	_	_
-4	zaynen	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+4	zaynen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	di	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	klezmer	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	SpaceAfter=No
-7	?	_	PUNCT	PUNC	_	1	punct	_	_
-8	fregt	_	VERB	VBF	VerbForm=Fin	1	parataxis	_	_
+7	?	_	PUNCT	PUNC	_	4	punct	_	_
+8	fregt	_	VERB	VBF	VerbForm=Fin	4	parataxis	_	_
 9	khtsns	_	NOUN	N$	_	8	nsubj	_	_
 10	tsd	_	NOUN	N	_	9	conj	_	_
 
@@ -7758,10 +7758,10 @@
 # sent_id = 1946E-MARK,.422
 # X_ID = 1946E-MARK,14.430
 # text = 9a. vos %t%-1 tut men mit di kinder ?
-1	9a.	_	NUM	LS	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	_
+1	9a.	_	NUM	LS	_	4	dep	_	_
+2	vos	_	PRON	WPRO	_	4	obj	_	_
 3	%t%-1	_	NOUN	NP-ACC	_	4	dep	_	_
-4	tut	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+4	tut	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	men	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 6	mit	_	ADP	P	_	8	case	_	_
 7	di	_	DET	D	PronType=Art	8	det	_	_
@@ -7771,13 +7771,13 @@
 # sent_id = 1946E-MARK,.423
 # X_ID = 1946E-MARK,14.431
 # text = 9b. mit di kinder vos %t%-1 tut men ?
-1	9b.	_	NUM	LS	_	0	root	_	_
+1	9b.	_	NUM	LS	_	7	dep	_	_
 2	mit	_	ADP	P	_	4	case	_	_
 3	di	_	DET	D	PronType=Art	4	det	_	_
-4	kinder	_	NOUN	N-D	Definite=Def	1	obl	_	_
-5	vos	_	PRON	WPRO	_	1	obj	_	_
+4	kinder	_	NOUN	N-D	Definite=Def	7	obl	_	_
+5	vos	_	PRON	WPRO	_	7	obj	_	_
 6	%t%-1	_	NOUN	NP-ACC	_	7	dep	_	_
-7	tut	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+7	tut	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	men	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	SpaceAfter=No
 9	?	_	PUNCT	PUNC	_	7	punct	_	_
 

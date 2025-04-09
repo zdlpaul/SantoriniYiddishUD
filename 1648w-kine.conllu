@@ -3628,8 +3628,8 @@
 # X_ID = 1648W-KINE,210.72.335
 # text = zekht libi abut
 1	zekht	_	VERB	VBI	Mood=Imp	0	root	_	_
-2	libi	_	ADJ	ADJ	Degree=Pos	1	vocative	_	_
-3	abut	fathers	X	H	_	2	dep	_	_
+2	libi	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	abut	fathers	X	H	_	1	vocative	_	_
 
 # sent_id = 1648W-KINE,.262
 # X_ID = 1648W-KINE,210.72.336

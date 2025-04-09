@@ -999,12 +999,12 @@
 1	kumst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 2	du	_	PRON	PRO-NOM	Case=Nom	1	nsubj	_	_
 3	frutsh	UNKNOWN	X	H	_	1	vocative	_	_
-4	du	_	PRON	PRO	_	1	vocative	_	_
-5	zunh	prostitute	X	H	_	4	dep	_	_
-6	du	_	PRON	PRO	_	1	vocative	_	_
-7	ast	wife_of	X	H	_	6	dep	_	_
-8	is	person	X	H	_	6	dep	_	_
-9	sunh	enemy	X	H	_	6	dep	_	_
+4	du	_	PRON	PRO	_	5	nmod	_	_
+5	zunh	prostitute	X	H	_	1	vocative	_	_
+6	du	_	PRON	PRO	_	7	nmod	_	_
+7	ast	wife_of	X	H	_	1	vocative	_	_
+8	is	person	X	H	_	7	dep	_	_
+9	sunh	enemy	X	H	_	7	dep	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.68
 # X_ID = 1XXXX-COURT-TESTIMONY,25_c1460_w.94
@@ -1168,12 +1168,12 @@
 10	dz	_	SCONJ	C	_	12	mark	_	_
 11	du	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
 12	sprikhst	_	VERB	VBF	VerbForm=Fin	8	advcl	_	_
-13	du	_	PRON	PRO-NOM	Case=Nom	12	dep	_	_
-14	vilst	_	AUX	MDF	VerbForm=Fin	13	aux	_	_
+13	du	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
+14	vilst	_	AUX	MDF	VerbForm=Fin	18	aux	_	_
 15	din	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	16	det:poss	_	_
-16	gt	_	NOUN	N	_	13	obj	_	_
-17	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
-18	nemn	_	VERB	VB	VerbForm=Inf	13	dep	_	_
+16	gt	_	NOUN	N	_	18	obj	_	_
+17	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	18	advmod	_	_
+18	nemn	_	VERB	VB	VerbForm=Inf	12	ccomp	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.82
 # X_ID = 1XXXX-COURT-TESTIMONY,30_c1460_w?.113
@@ -6855,16 +6855,16 @@
 9	ahria"b	_	PROPN	NPR	_	7	obl	_	_
 10	hat	_	AUX	HVF	VerbForm=Fin	11	aux	_	_
 11	giheysin	_	VERB	VBN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-12	mir	_	PRON	PRO-NOM	Case=Nom	11	dep	_	_
-13	zalin	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
+12	mir	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
+13	zalin	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
 14	di	_	DET	D-ACC	Case=Acc|PronType=Art	15	det	_	_
-15	ihudim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	12	obj	_	_
-16	brengn	_	VERB	VB	VerbForm=Inf	12	dep	_	_
+15	ihudim	_	NOUN	N-ACC-D	Case=Acc|Definite=Def	16	obj	_	_
+16	brengn	_	VERB	VB	VerbForm=Inf	11	ccomp	_	_
 17	tsu	_	ADP	P	_	18	case	_	_
-18	im	_	PRON	PRO	_	12	obl	_	_
+18	im	_	PRON	PRO	_	16	obl	_	_
 19	mit	_	ADP	P	_	21	case	_	_
 20	irm	_	PRON	PRO$	_	21	det:poss	_	_
-21	mmun	_	NOUN	N	_	12	obl	_	_
+21	mmun	_	NOUN	N	_	16	obl	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.448
 # X_ID = 1XXXX-COURT-TESTIMONY,105_1612_e.554
@@ -8223,15 +8223,15 @@
 7	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 8	ferkht	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
 9	mikh	_	PRON	PRO-RFL	PronType=Reflex	8	expl:pv	_	_
-10	ir	_	PRON	PRO-NOM	Case=Nom	8	dep	_	_
-11	ver	_	AUX	BEF	VerbForm=Fin	10	cop	_	_
+10	ir	_	PRON	PRO-NOM	Case=Nom	18	nsubj	_	_
+11	ver	_	AUX	BEF	VerbForm=Fin	18	cop	_	_
 12	tsu	_	ADP	P	_	13	case	_	_
-13	dir	_	PRON	PRO	_	10	obl	_	_
+13	dir	_	PRON	PRO	_	18	obl	_	_
 14	in	_	ADP	P	_	16	case	_	_
 15	dr	_	DET	D	PronType=Art	16	det	_	_
 16	hnd	_	NOUN	N-D	Definite=Def	17	obl	_	_
-17	areyn	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-18	kumn	_	VERB	VBN	Tense=Past|VerbForm=Part	10	dep	_	_
+17	areyn	_	ADV	ADV	Degree=Pos	18	advmod	_	_
+18	kumn	_	VERB	VBN	Tense=Past|VerbForm=Part	8	ccomp	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.540
 # X_ID = 1XXXX-COURT-TESTIMONY,122_c1600_e.663
@@ -11122,12 +11122,12 @@
 3	hab	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
 4	mikh	_	PRON	PRO-RFL	PronType=Reflex	5	expl:pv	_	_
 5	gifrkht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	er	_	PRON	PRO-NOM	Case=Nom	5	dep	_	_
-7	vet	_	AUX	MDF	VerbForm=Fin	6	aux	_	_
-8	mikh	_	PRON	PRO-ACC	Case=Acc	6	obj	_	_
-9	mit	_	ADV	RP-ADV	_	6	advmod	_	_
-10	areyn	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-11	shlepn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+6	er	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+7	vet	_	AUX	MDF	VerbForm=Fin	11	aux	_	_
+8	mikh	_	PRON	PRO-ACC	Case=Acc	11	obj	_	_
+9	mit	_	ADV	RP-ADV	_	11	advmod	_	_
+10	areyn	_	ADV	ADV	Degree=Pos	11	advmod	_	_
+11	shlepn	_	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.740
 # X_ID = 1XXXX-COURT-TESTIMONY,147_1630_e.889
@@ -15482,15 +15482,15 @@
 5	giret	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 7	meyn	_	VERB	VBF	VerbForm=Fin	5	ccomp	_	_
-8	ikh	_	PRON	PRO-NOM	Case=Nom	7	dep	_	_
-9	vil	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
-10	fr_dihnen	_	VERB	VB	VerbForm=Inf	8	dep	_	_
-11	mah	a_hundred	X	H	_	8	dep	_	_
+8	ikh	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
+9	vil	_	AUX	MDF	VerbForm=Fin	10	aux	_	_
+10	fr_dihnen	_	VERB	VB	VerbForm=Inf	7	ccomp	_	_
+11	mah	a_hundred	X	H	_	10	dep	_	_
 12	zhubim	_	NOUN	N	_	11	conj	_	_
 13	ven	_	SCONJ	C	_	16	mark	_	_
 14	ikh	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
 15	vel	_	AUX	MDF	VerbForm=Fin	16	aux	_	_
-16	brengin	_	VERB	VB	VerbForm=Inf	8	advcl	_	_
+16	brengin	_	VERB	VB	VerbForm=Inf	10	advcl	_	_
 17	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	18	det	_	_
 18	edut	_	NOUN	N-ACC	Case=Acc	16	obj	_	_
 19	ds	_	SCONJ	C	_	24	mark	_	_
@@ -24245,10 +24245,10 @@
 3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
 4	deyn	_	PRON	PRO$-DTV	Case=Dat|PronType=Poss	5	det:poss	_	_
 5	mem	_	NOUN	N	_	2	iobj	_	_
-6	du	_	PRON	PRO-NOM	Case=Nom	2	dep	_	_
-7	verst	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
-8	meyn	_	PRON	PRO$	_	6	xcomp	_	_
-9	zeyn	_	VERB	VB	VerbForm=Inf	6	dep	_	_
+6	du	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
+7	verst	_	AUX	RDF	VerbForm=Fin	9	aux	_	_
+8	meyn	_	PRON	PRO$	_	9	xcomp	_	_
+9	zeyn	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1614
 # X_ID = 1XXXX-COURT-TESTIMONY,258_c1650_w.1875
@@ -24603,12 +24603,12 @@
 7	zag	_	VERB	VBI	Mood=Imp	2	ccomp	_	_
 8	lipman	_	PROPN	NPR-DTV	_	7	dep	_	_
 9	mz"t	UNKNOWN	X	H	_	7	dep	_	_
-10	er	_	PRON	PRO-NOM	Case=Nom	7	dep	_	_
-11	iz	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
-12	khtn	_	NOUN	N	_	10	xcomp	_	_
+10	er	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+11	iz	_	VERB	VBF	VerbForm=Fin	7	ccomp	_	_
+12	khtn	_	NOUN	N	_	11	xcomp	_	_
 13	mit	_	ADP	P	_	15	case	_	_
 14	unzr	_	PRON	PRO$	_	15	det:poss	_	_
-15	meyt	_	NOUN	N	_	10	obl	_	_
+15	meyt	_	NOUN	N	_	11	obl	_	_
 16	hendl	_	PROPN	NPR	_	15	appos	_	_
 
 # sent_id = 1XXXX-COURT-TESTIMONY,.1639
@@ -24688,15 +24688,15 @@
 6	gitan	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 7	un'	_	CCONJ	CONJ	_	8	cc	_	_
 8	gizagt	_	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	_
-9	ikh	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
-10	bin	_	AUX	BEF	VerbForm=Fin	14	cop	_	_
-11	dir	_	PRON	PRO-DTV	Case=Dat	14	iobj	_	_
-12	mkdsh	_	ADP	RP-H	_	14	compound:prt	_	_
-13	dr_mit	_	ADP	P	_	14	obl	_	_
-14	du	_	PRON	PRO-NOM	Case=Nom	8	ccomp	_	_
-15	bist	_	VERB	VBF	VerbForm=Fin	14	dep	_	_
+9	ikh	_	PRON	PRO-NOM	Case=Nom	15	nsubj	_	_
+10	bin	_	AUX	BEF	VerbForm=Fin	15	cop	_	_
+11	dir	_	PRON	PRO-DTV	Case=Dat	15	iobj	_	_
+12	mkdsh	_	ADP	RP-H	_	15	compound:prt	_	_
+13	dr_mit	_	ADP	P	_	15	obl	_	_
+14	du	_	PRON	PRO-NOM	Case=Nom	15	obl	_	_
+15	bist	_	VERB	VBF	VerbForm=Fin	8	ccomp	_	_
 16	meyn	_	PRON	PRO$	_	17	det:poss	_	_
-17	khlh	_	NOUN	N	_	14	xcomp	_	_
+17	khlh	_	NOUN	N	_	15	xcomp	_	_
 18	un'	_	CCONJ	CONJ	_	20	cc	_	_
 19	meyn	_	PRON	PRO$	_	20	det:poss	_	_
 20	froy	_	NOUN	N	_	17	conj	_	SpaceAfter=No

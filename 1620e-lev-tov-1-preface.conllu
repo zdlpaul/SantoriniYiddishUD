@@ -1088,9 +1088,9 @@
 29	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	28	expl	_	_
 30	im	_	PRON	PRO-DTV	Case=Dat	28	iobj	_	_
 31	di	_	DET	D-NOM	Case=Nom|PronType=Art	32	det	_	_
-32	zind	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	28	dep	_	_
-33	zey	_	VERB	VBF	VerbForm=Fin	32	dep	_	_
-34	musr	_	ADJ	ADJ	Degree=Pos	32	amod	_	_
+32	zind	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	33	nsubj	_	_
+33	zey	_	VERB	VBF	VerbForm=Fin	28	ccomp	_	_
+34	musr	_	ADJ	ADJ	Degree=Pos	33	amod	_	_
 35	der_veyl	_	ADV	ADV	Degree=Pos	41	advmod	_	_
 36	dz	_	SCONJ	C	_	41	mark	_	_
 37	er	_	PRON	PRO-NOM	Case=Nom	41	nsubj	_	_

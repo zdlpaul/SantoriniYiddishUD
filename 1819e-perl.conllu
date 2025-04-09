@@ -3347,11 +3347,11 @@
 4	gizagt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	veys	_	VERB	VBF	VerbForm=Fin	4	ccomp	_	_
-7	es	_	PRON	PRO-NOM	Case=Nom	6	dep	_	_
-8	iz	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-9	bvday	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-10	yu	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-11	da	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+7	es	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
+8	iz	_	VERB	VBF	VerbForm=Fin	6	ccomp	_	_
+9	bvday	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+10	yu	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+11	da	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 
 # sent_id = 1819E-PERL,.256
 # X_ID = 1819E-PERL,108.259

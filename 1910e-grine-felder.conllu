@@ -408,11 +408,11 @@
 # sent_id = 1910E-GRINE-FELDER,.28
 # X_ID = 1910E-GRINE-FELDER,63.30
 # text = rokhl: vorem vos kholile ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	vorem	_	ADV	WADV	Degree=Pos	1	advmod	_	_
-3	vos	_	PRON	WPRO	_	1	obj	_	_
-4	kholile	_	INTJ	INTJ	_	1	discourse	_	SpaceAfter=No
-5	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	3	dep	_	_
+2	vorem	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+3	vos	_	PRON	WPRO	_	0	root	_	_
+4	kholile	_	INTJ	INTJ	_	3	discourse	_	SpaceAfter=No
+5	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.29
 # X_ID = 1910E-GRINE-FELDER,63.31
@@ -1436,8 +1436,8 @@
 # X_ID = 1910E-GRINE-FELDER,65.106
 # text = rokhl: vorem vos, er hot dokh a gildern harts .
 1	rokhl:	_	PROPN	NPR	_	6	dep	_	_
-2	vorem	_	ADV	WADV	Degree=Pos	6	xcomp	_	_
-3	vos	_	PRON	WPRO	_	2	obj	_	SpaceAfter=No
+2	vorem	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+3	vos	_	PRON	WPRO	_	6	xcomp	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	6	punct	_	_
 5	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	hot	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -2069,20 +2069,20 @@
 # sent_id = 1910E-GRINE-FELDER,.154
 # X_ID = 1910E-GRINE-FELDER,67.160
 # text = un az zi iz gekumen helfn hersh-bern, to vos zhe %t%-1 iz ?
-1	un	_	CCONJ	CONJ	_	12	cc	_	_
+1	un	_	CCONJ	CONJ	_	13	cc	_	_
 2	az	_	SCONJ	C	_	5	mark	_	_
 3	zi	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-5	gekumen	_	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	_	_
+5	gekumen	_	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	_
 6	helfn	_	VERB	VB	VerbForm=Inf	5	advcl	_	_
 7	hersh-bern	_	PROPN	NPR-DTV	_	6	dep	_	SpaceAfter=No
-8	,	_	PUNCT	PUNC	_	12	punct	_	_
-9	to	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-10	vos	_	PRON	WPRO	_	12	obj	_	_
+8	,	_	PUNCT	PUNC	_	13	punct	_	_
+9	to	_	ADV	ADV	Degree=Pos	13	advmod	_	_
+10	vos	_	PRON	WPRO	_	13	obj	_	_
 11	zhe	_	ADV	FP	Degree=Pos	10	advmod	_	_
-12	%t%-1	_	NOUN	NP-SBJ	_	0	root	_	_
-13	iz	_	AUX	BEF	VerbForm=Fin	12	cop	_	SpaceAfter=No
-14	?	_	PUNCT	PUNC	_	12	punct	_	_
+12	%t%-1	_	NOUN	NP-SBJ	_	13	nsubj	_	_
+13	iz	_	VERB	BEF	VerbForm=Fin	0	root	_	SpaceAfter=No
+14	?	_	PUNCT	PUNC	_	13	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.155
 # X_ID = 1910E-GRINE-FELDER,67.161
@@ -2297,10 +2297,10 @@
 # sent_id = 1910E-GRINE-FELDER,.170
 # X_ID = 1910E-GRINE-FELDER,67.176
 # text = rokhl: vos nisht ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	_
-3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	SpaceAfter=No
-4	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	vos	_	PRON	WPRO	_	0	root	_	_
+3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	SpaceAfter=No
+4	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.171
 # X_ID = 1910E-GRINE-FELDER,67.177
@@ -2382,9 +2382,9 @@
 # sent_id = 1910E-GRINE-FELDER,.177
 # X_ID = 1910E-GRINE-FELDER,67.183
 # text = rokhl: ver ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	ver	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	ver	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.178
 # X_ID = 1910E-GRINE-FELDER,67.184
@@ -2403,9 +2403,9 @@
 # sent_id = 1910E-GRINE-FELDER,.179
 # X_ID = 1910E-GRINE-FELDER,67.185
 # text = rokhl: vos ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	vos	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.180
 # X_ID = 1910E-GRINE-FELDER,67.186
@@ -2816,9 +2816,9 @@
 # sent_id = 1910E-GRINE-FELDER,.208
 # X_ID = 1910E-GRINE-FELDER,68.215
 # text = stere: vos ?
-1	stere:	_	PROPN	NPR	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere:	_	PROPN	NPR	_	2	dep	_	_
+2	vos	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.209
 # X_ID = 1910E-GRINE-FELDER,68.216
@@ -3081,18 +3081,18 @@
 # sent_id = 1910E-GRINE-FELDER,.227
 # X_ID = 1910E-GRINE-FELDER,69.235
 # text = tsine: sterele, narele, vos %t%-1 bist du azoy tseshrokn ?
-1	tsine:	_	PROPN	NPR	_	11	dep	_	_
-2	sterele	_	PROPN	NPR	_	11	vocative	_	SpaceAfter=No
-3	,	_	PUNCT	PUNC	_	11	punct	_	_
-4	narele	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	11	punct	_	_
-6	vos	_	PRON	WPRO	_	11	obj	_	_
-7	%t%-1	_	NOUN	NP-ADV	_	11	obl	_	_
-8	bist	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
-9	du	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+1	tsine:	_	PROPN	NPR	_	8	dep	_	_
+2	sterele	_	PROPN	NPR	_	8	vocative	_	SpaceAfter=No
+3	,	_	PUNCT	PUNC	_	8	punct	_	_
+4	narele	_	NOUN	N	_	8	vocative	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	8	punct	_	_
+6	vos	_	PRON	WPRO	_	8	obj	_	_
+7	%t%-1	_	NOUN	NP-ADV	_	8	obl	_	_
+8	bist	_	VERB	BEF	VerbForm=Fin	0	root	_	_
+9	du	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 10	azoy	_	ADV	ADV	Degree=Pos	11	amod	_	_
-11	tseshrokn	_	ADJ	ADJ	Degree=Pos	0	root	_	SpaceAfter=No
-12	?	_	PUNCT	PUNC	_	11	punct	_	_
+11	tseshrokn	_	ADJ	ADJ	Degree=Pos	8	amod	_	SpaceAfter=No
+12	?	_	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.228
 # X_ID = 1910E-GRINE-FELDER,69.236
@@ -5502,10 +5502,10 @@
 # sent_id = 1910E-GRINE-FELDER,.408
 # X_ID = 1910E-GRINE-FELDER,73.420
 # text = hersh-ber: tsetumlt vos ?
-1	hersh-ber:	_	PROPN	NPR	_	0	root	_	_
+1	hersh-ber:	_	PROPN	NPR	_	3	dep	_	_
 2	tsetumlt	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	vos	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-4	?	_	PUNCT	PUNC	_	1	punct	_	_
+3	vos	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+4	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.409
 # X_ID = 1910E-GRINE-FELDER,73.421
@@ -15618,11 +15618,11 @@
 1	tsine:	_	PROPN	NPR	_	2	dep	_	_
 2	leyent	_	VERB	VBI	Mood=Imp	0	root	_	_
 3	iber	_	ADP	RP	_	2	compound:prt	_	_
-4	vos	_	PRON	WPRO	_	8	obj	_	_
-5	%t%-1	_	NOUN	NP-SBJ	_	8	nsubj	_	_
-6	do	_	ADV	ADV	Degree=Pos	8	advmod	_	_
-7	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
-8	ongeshribn	_	ADJ	ADJ	Degree=Pos	2	dep	_	SpaceAfter=No
+4	vos	_	PRON	WPRO	_	7	obj	_	_
+5	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
+6	do	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+7	iz	_	AUX	BEF	VerbForm=Fin	2	dep	_	_
+8	ongeshribn	_	ADJ	ADJ	Degree=Pos	7	amod	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1156
@@ -15815,13 +15815,13 @@
 # sent_id = 1910E-GRINE-FELDER,.1173
 # X_ID = 1910E-GRINE-FELDER,94.1205
 # text = nu, vos %t%-1 iz geshribn ?
-1	nu	_	INTJ	INTJ	_	6	discourse	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	6	punct	_	_
-3	vos	_	PRON	WPRO	_	6	obj	_	_
-4	%t%-1	_	NOUN	NP-SBJ	_	6	nsubj	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-6	geshribn	_	ADJ	ADJ	Degree=Pos	0	root	_	SpaceAfter=No
-7	?	_	PUNCT	PUNC	_	6	punct	_	_
+1	nu	_	INTJ	INTJ	_	5	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	5	punct	_	_
+3	vos	_	PRON	WPRO	_	5	obj	_	_
+4	%t%-1	_	NOUN	NP-SBJ	_	5	nsubj	_	_
+5	iz	_	VERB	BEF	VerbForm=Fin	0	root	_	_
+6	geshribn	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+7	?	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1174
 # X_ID = 1910E-GRINE-FELDER,94.1206
@@ -17579,8 +17579,8 @@
 # X_ID = 1910E-GRINE-FELDER,97.1345
 # text = dovid-noyekh: vorem vos, di kinder folgn im take nisht ?
 1	dovid-noyekh:	_	PROPN	NPR	_	7	dep	_	_
-2	vorem	_	ADV	WADV	Degree=Pos	7	xcomp	_	_
-3	vos	_	PRON	WPRO	_	2	obj	_	SpaceAfter=No
+2	vorem	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+3	vos	_	PRON	WPRO	_	7	xcomp	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	7	punct	_	_
 5	di	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	kinder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
@@ -20713,9 +20713,9 @@
 # sent_id = 1910E-GRINE-FELDER,.1550
 # X_ID = 1910E-GRINE-FELDER,102.1590
 # text = levi-yitskhok: vemen ?
-1	levi-yitskhok:	_	PROPN	NPR	_	0	root	_	_
-2	vemen	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok:	_	PROPN	NPR	_	2	dep	_	_
+2	vemen	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1551
 # X_ID = 1910E-GRINE-FELDER,103.1592
@@ -21426,10 +21426,10 @@
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
 8	az	_	SCONJ	C	_	14	mark	_	_
 9	der	_	DET	D-NOM	Case=Nom|PronType=Art	14	nsubj	_	_
-10	vos	_	SCONJ	C	_	13	mark	_	_
-11	%t%-1	_	NOUN	NP-SBJ	_	13	nsubj	_	_
-12	in	_	ADP	P	_	13	case	_	_
-13	himl	_	NOUN	N	_	9	acl:relcl	_	_
+10	vos	_	SCONJ	C	_	12	mark	_	_
+11	%t%-1	_	NOUN	NP-SBJ	_	12	nsubj	_	_
+12	in	_	ADP	P	_	9	acl:relcl	_	_
+13	himl	_	NOUN	N	_	12	obl	_	_
 14	helft	_	VERB	VBF	VerbForm=Fin	4	advcl	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	14	punct	_	_
 
@@ -21562,10 +21562,10 @@
 4	vil	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	azoy	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	nsubj	_	_
-7	vos	_	SCONJ	C	_	10	mark	_	_
-8	%t%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
-9	in	_	ADP	P	_	10	case	_	_
-10	himl	_	NOUN	N	_	6	acl:relcl	_	SpaceAfter=No
+7	vos	_	SCONJ	C	_	9	mark	_	_
+8	%t%-1	_	NOUN	NP-SBJ	_	9	nsubj	_	_
+9	in	_	ADP	P	_	6	acl:relcl	_	_
+10	himl	_	NOUN	N	_	9	obl	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	4	punct	_	_
 12	az	_	SCONJ	C	_	13	mark	_	_
 13	lebn	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
@@ -22132,10 +22132,10 @@
 6	oysbetn	_	VERB	VB-PART	VerbForm=Inf	0	root	_	_
 7	bay	_	ADP	P	_	8	case	_	_
 8	dem	_	DET	D	PronType=Art	6	obl	_	_
-9	vos	_	SCONJ	C	_	12	mark	_	_
-10	%t%-2	_	NOUN	NP-SBJ	_	12	nsubj	_	_
-11	in	_	ADP	P	_	12	case	_	_
-12	himl	_	NOUN	N	_	8	acl:relcl	_	SpaceAfter=No
+9	vos	_	SCONJ	C	_	11	mark	_	_
+10	%t%-2	_	NOUN	NP-SBJ	_	11	nsubj	_	_
+11	in	_	ADP	P	_	8	acl:relcl	_	_
+12	himl	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 13	?	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1655
@@ -23059,10 +23059,10 @@
 12	oykh	_	PRON	PRO-ACC	Case=Acc	11	obj	_	_
 13	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	advmod	_	_
 14	der	_	DET	D-NOM	Case=Nom|PronType=Art	11	nsubj	_	_
-15	vos	_	SCONJ	C	_	18	mark	_	_
-16	%t%-1	_	NOUN	NP-SBJ	_	18	nsubj	_	_
-17	in	_	ADP	P	_	18	case	_	_
-18	himl	_	NOUN	N	_	14	acl:relcl	_	SpaceAfter=No
+15	vos	_	SCONJ	C	_	17	mark	_	_
+16	%t%-1	_	NOUN	NP-SBJ	_	17	nsubj	_	_
+17	in	_	ADP	P	_	14	acl:relcl	_	_
+18	himl	_	NOUN	N	_	17	obl	_	SpaceAfter=No
 19	...	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1725

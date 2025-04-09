@@ -3327,12 +3327,12 @@
 17	shirn	_	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 18	un'	_	CCONJ	CONJ	_	19	cc	_	_
 19	zagin	_	VERB	VB	VerbForm=Inf	10	ccomp	_	_
-20	mir	_	PRON	PRO-NOM	Case=Nom	19	dep	_	_
-21	drfin	_	AUX	MDF	VerbForm=Fin	20	aux	_	_
-22	es	_	PRON	PRO-ACC	Case=Acc	20	obj	_	_
-23	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	20	advmod	_	_
-24	an	_	ADP	RP	_	20	compound:prt	_	_
-25	rirn	_	VERB	VB	VerbForm=Inf	20	dep	_	_
+20	mir	_	PRON	PRO-NOM	Case=Nom	25	nsubj	_	_
+21	drfin	_	AUX	MDF	VerbForm=Fin	25	aux	_	_
+22	es	_	PRON	PRO-ACC	Case=Acc	25	obj	_	_
+23	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	25	advmod	_	_
+24	an	_	ADP	RP	_	25	compound:prt	_	_
+25	rirn	_	VERB	VB	VerbForm=Inf	19	ccomp	_	_
 
 # sent_id = 1697E-PURIM,.227
 # X_ID = 1697E-PURIM,336.423

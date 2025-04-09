@@ -1195,15 +1195,15 @@
 8	dos	_	DET	D-ACC	Case=Acc|PronType=Art	7	obj	_	_
 9	erste	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	8	amod	_	_
 10	azoy	_	ADV	ADVP	Degree=Pos	7	advmod	_	_
-11	vi	_	ADP	P	_	13	case	_	SpaceAfter=No
-12	:	_	PUNCT	PUNC	_	13	punct	_	_
-13	vos	_	PRON	WPRO	_	10	obl	_	_
+11	vi	_	ADP	P	_	17	case	_	SpaceAfter=No
+12	:	_	PUNCT	PUNC	_	17	punct	_	_
+13	vos	_	PRON	WPRO	_	17	obj	_	_
 14	%t%-1	_	NOUN	NP-ACC	_	17	dep	_	_
 15	zal	_	AUX	MDF	VerbForm=Fin	17	aux	_	_
 16	ikh	_	PRON	PRO-NOM	Case=Nom	17	nsubj	_	_
-17	ton	_	VERB	VB	VerbForm=Inf	13	conj	_	SpaceAfter=No
-18	,	_	PUNCT	PUNC	_	13	punct	_	_
-19	vos	_	PRON	WPRO	_	13	dep	_	SpaceAfter=No
+17	ton	_	VERB	VB	VerbForm=Inf	10	obl	_	SpaceAfter=No
+18	,	_	PUNCT	PUNC	_	17	punct	_	_
+19	vos	_	PRON	WPRO	_	17	dep	_	SpaceAfter=No
 20	?	_	PUNCT	PUNC	_	7	punct	_	_
 
 # sent_id = 1927E-ZARETSKI-SHOLEM,.70
@@ -2355,11 +2355,11 @@
 15	der	_	DET	D	PronType=Art	16	det	_	_
 16	zatsgrupe	_	NOUN	N-D	Definite=Def	10	conj	_	SpaceAfter=No
 17	,	_	PUNCT	PUNC	_	16	punct	_	_
-18	vos	_	SCONJ	C	_	22	mark	_	_
-19	%t%-1	_	NOUN	NP-SBJ	_	22	nsubj	_	_
-20	nokh	_	ADP	P	_	22	case	_	SpaceAfter=No
+18	vos	_	SCONJ	C	_	20	mark	_	_
+19	%t%-1	_	NOUN	NP-SBJ	_	20	nsubj	_	_
+20	nokh	_	ADP	P	_	16	acl:relcl	_	SpaceAfter=No
 21	"	_	PUNCT	PUNC	_	22	punct	_	_
-22	kedai	_	X	X	_	16	acl:relcl	_	SpaceAfter=No
+22	kedai	_	X	X	_	20	obl	_	SpaceAfter=No
 23	"	_	PUNCT	PUNC	_	5	punct	_	SpaceAfter=No
 24	.	_	PUNCT	PUNC	_	5	punct	_	_
 25	red.	_	X	X	_	5	dep	_	_

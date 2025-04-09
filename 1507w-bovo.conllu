@@ -1505,11 +1505,11 @@
 1	ikh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
 2	vil	_	AUX	MDF	VerbForm=Fin	3	aux	_	_
 3	sreyan	_	VERB	VB	VerbForm=Inf	0	root	_	_
-4	du	_	PRON	PRO-NOM	Case=Nom	3	dep	_	_
-5	hbst	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
-6	mikh	_	PRON	PRO-ACC	Case=Acc	4	obj	_	_
-7	veln	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	4	aux	_	_
-8	nutn	_	VERB	VB	VerbForm=Inf	4	dep	_	_
+4	du	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
+5	hbst	_	AUX	HVF	VerbForm=Fin	8	aux	_	_
+6	mikh	_	PRON	PRO-ACC	Case=Acc	8	obj	_	_
+7	veln	_	AUX	MDN-IPP	Tense=Past|VerbForm=Part	8	aux	_	_
+8	nutn	_	VERB	VB	VerbForm=Inf	3	ccomp	_	_
 
 # sent_id = 1507W-BOVO,.104
 # X_ID = 1507W-BOVO,15.122
@@ -2259,13 +2259,13 @@
 # X_ID = 1507W-BOVO,23.190
 # text = sprikh ikh vil ir helfn oyz ir nut
 1	sprikh	_	VERB	VBI	Mood=Imp	0	root	_	_
-2	ikh	_	PRON	PRO-NOM	Case=Nom	1	dep	_	_
-3	vil	_	AUX	MDF	VerbForm=Fin	2	aux	_	_
-4	ir	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
-5	helfn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+2	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
+3	vil	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
+4	ir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
+5	helfn	_	VERB	VB	VerbForm=Inf	1	ccomp	_	_
 6	oyz	_	ADP	P	_	8	case	_	_
 7	ir	_	PRON	PRO$	_	8	det:poss	_	_
-8	nut	_	NOUN	N	_	2	obl	_	_
+8	nut	_	NOUN	N	_	5	obl	_	_
 
 # sent_id = 1507W-BOVO,.165
 # X_ID = 1507W-BOVO,23.191
@@ -2555,11 +2555,11 @@
 9	mikh	_	PRON	PRO-ACC	Case=Acc	10	obj	_	_
 10	dukht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 11	%exp%	_	NOUN	NP-SBJ-1	_	10	nsubj	_	_
-12	es	_	PRON	PRO-NOM	Case=Nom	10	dep	_	_
-13	vaurd	_	AUX	RDF	VerbForm=Fin	12	aux	_	_
-14	mikh	_	PRON	PRO-ACC	Case=Acc	12	obj	_	_
-15	gnts	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-16	dr_kvikn	_	VERB	VB	VerbForm=Inf	12	dep	_	_
+12	es	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
+13	vaurd	_	AUX	RDF	VerbForm=Fin	16	aux	_	_
+14	mikh	_	PRON	PRO-ACC	Case=Acc	16	obj	_	_
+15	gnts	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+16	dr_kvikn	_	VERB	VB	VerbForm=Inf	10	ccomp	_	_
 
 # sent_id = 1507W-BOVO,.186
 # X_ID = 1507W-BOVO,27.216
@@ -2663,10 +2663,10 @@
 7	im	_	ADP	P-CL	_	8	case	_	_
 8	rekhtn	_	NOUN	N	_	6	obl	_	_
 9	ds	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
-10	harnish	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	dep	_	_
-11	mukht	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+10	harnish	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	11	nsubj	_	_
+11	mukht	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 12	oykh	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
-13	dr_hitsn	_	VERB	VB	VerbForm=Inf	10	xcomp	_	_
+13	dr_hitsn	_	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 
 # sent_id = 1507W-BOVO,.194
 # X_ID = 1507W-BOVO,28.225
@@ -4243,10 +4243,10 @@
 # text = ikh zikh er vurt vur_retrishi verkn
 1	ikh	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
 2	zikh	_	VERB	VBF	VerbForm=Fin	0	root	_	_
-3	er	_	PRON	PRO-NOM	Case=Nom	2	dep	_	_
-4	vurt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+3	er	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+4	vurt	_	VERB	VBF	VerbForm=Fin	2	ccomp	_	_
 5	vur_retrishi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	6	amod	_	_
-6	verkn	_	NOUN	N-ACC	Case=Acc	3	obj	_	_
+6	verkn	_	NOUN	N-ACC	Case=Acc	4	obj	_	_
 
 # sent_id = 1507W-BOVO,.306
 # X_ID = 1507W-BOVO,48.357
@@ -5140,11 +5140,11 @@
 7	irn	_	NOUN	N	_	2	obl	_	_
 8	der	_	DET	D-NOM	Case=Nom|PronType=Art	10	det	_	_
 9	duzig	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	10	amod	_	_
-10	iung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	2	dep	_	_
-11	vert	_	AUX	RDF	VerbForm=Fin	10	aux	_	_
-12	dikh	_	PRON	PRO-ACC	Case=Acc	10	obj	_	_
-13	nukh	_	ADV	ADV	Degree=Pos	10	advmod	_	_
-14	plugn	_	VERB	VB	VerbForm=Inf	10	dep	_	_
+10	iung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	_
+11	vert	_	AUX	RDF	VerbForm=Fin	14	aux	_	_
+12	dikh	_	PRON	PRO-ACC	Case=Acc	14	obj	_	_
+13	nukh	_	ADV	ADV	Degree=Pos	14	advmod	_	_
+14	plugn	_	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 
 # sent_id = 1507W-BOVO,.373
 # X_ID = 1507W-BOVO,59.435
@@ -6557,12 +6557,12 @@
 14	veyt	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 15	vun	_	ADP	P	_	16	case	_	_
 16	hinn	_	ADV	ADV	Degree=Pos	13	obl	_	_
-17	da	_	ADV	ADV	Degree=Pos	11	dep	_	_
-18	ligt	_	VERB	VBF	VerbForm=Fin	17	dep	_	_
+17	da	_	ADV	ADV	Degree=Pos	18	advmod	_	_
+18	ligt	_	VERB	VBF	VerbForm=Fin	11	ccomp	_	_
 19	eyn	_	DET	D-NOM	Case=Nom|PronType=Art	20	det	_	_
-20	mn	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	17	nsubj	_	_
+20	mn	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	18	nsubj	_	_
 21	tut	_	ADJ	ADJ	Degree=Pos	22	amod	_	_
-22	dr_shlgn	_	VERB	VAN	Tense=Past|VerbForm=Part	17	acl	_	_
+22	dr_shlgn	_	VERB	VAN	Tense=Past|VerbForm=Part	18	advcl	_	_
 23	den	_	SCONJ	C	_	25	mark	_	_
 24	mikh	_	PRON	PRO-ACC	Case=Acc	25	obj	_	_
 25	trign	_	VERB	VBF	VerbForm=Fin	11	advcl	_	_
