@@ -150,10 +150,10 @@
 55	u-ksuvem	and_Writings	X	H	_	53	dep	_	_
 56	maytik	_	ADP	RP-H	_	57	compound:prt	_	_
 57	gevezen	_	VERB	VBN	Tense=Past|VerbForm=Part	47	acl:relcl	_	_
-58	un	_	CCONJ	CONJ	_	59	cc	_	_
-59	vi	_	ADV	WADV	Degree=Pos	14	ccomp	_	_
+58	un	_	CCONJ	CONJ	_	61	cc	_	_
+59	vi	_	ADV	WADV	Degree=Pos	61	advmod	_	_
 60	%t%-3	_	ADV	ADVP	Degree=Pos	61	advmod	_	_
-61	lozt	_	VERB	VBF	VerbForm=Fin	59	conj	_	_
+61	lozt	_	VERB	VBF	VerbForm=Fin	14	ccomp	_	_
 62	man	_	PRON	PRO-NOM	Case=Nom	61	nsubj	_	_
 63	es	_	PRON	PRO-NOM	Case=Nom	66	nsubj	_	_
 64	den	_	ADV	ADV	Degree=Pos	66	advmod	_	_
@@ -209,9 +209,9 @@
 # sent_id = 1677W-WITZENHAUSEN,.5
 # X_ID = 1677W-WITZENHAUSEN,163.7
 # text = vi %t%-1 kumt es, dos itsundert kumt ayn gemayner, shlekhter lamden un %con% fregt ayn groyse kashe uf poskem hageoynem hakadmoynem ?
-1	vi	_	ADV	WADV	Degree=Pos	0	root	_	_
+1	vi	_	ADV	WADV	Degree=Pos	3	advmod	_	_
 2	%t%-1	_	ADV	ADVP	Degree=Pos	3	advmod	_	_
-3	kumt	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+3	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	3	xcomp	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	3	punct	_	_
 6	dos	_	SCONJ	C	_	4	mark	_	_
@@ -232,7 +232,7 @@
 21	poskem	adjudicators	X	H	_	16	obl	_	_
 22	hageoynem	the_Geonim	X	H	_	21	dep	_	_
 23	hakadmoynem	the_first	X	H	_	21	dep	_	SpaceAfter=No
-24	?	_	PUNCT	PUNC	_	1	punct	_	_
+24	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1677W-WITZENHAUSEN,.6
 # X_ID = 1677W-WITZENHAUSEN,163.8

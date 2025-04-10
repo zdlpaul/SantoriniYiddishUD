@@ -50,19 +50,19 @@
 # X_ID = 1944E-BIOKHEMIE,187.5
 # text = khemishe farbindungen vern ksayder tseshtert
 1	khemishe	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	2	amod	_	_
-2	farbindungen	_	NOUN	N-NOM	Case=Nom	3	nsubj	_	_
-3	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	ksayder	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-5	tseshtert	_	VERB	VAN	Tense=Past|VerbForm=Part	3	ccomp	_	_
+2	farbindungen	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
+3	vern	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+4	ksayder	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+5	tseshtert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 
 # sent_id = 1944E-BIOKHEMIE,.4
 # X_ID = 1944E-BIOKHEMIE,187.6
 # text = un naye vern geboyt .
-1	un	_	CCONJ	CONJ	_	3	cc	_	_
+1	un	_	CCONJ	CONJ	_	4	cc	_	_
 2	naye	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	3	amod	_	_
-3	vern	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	geboyt	_	VERB	VAN	Tense=Past|VerbForm=Part	3	xcomp	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	3	punct	_	_
+3	vern	_	AUX	RDF	VerbForm=Fin	4	aux	_	_
+4	geboyt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1944E-BIOKHEMIE,.5
 # X_ID = 1944E-BIOKHEMIE,187.7
@@ -131,7 +131,7 @@
 1	ven	_	SCONJ	C	_	4	mark	_	_
 2	der	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
 3	organizm	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
-4	iz	_	VERB	VBF	VerbForm=Fin	14	advcl	_	_
+4	iz	_	VERB	VBF	VerbForm=Fin	17	advcl	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
 6	bekoyekh	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 7	tsu	_	PART	TO	_	8	mark	_	_
@@ -139,16 +139,16 @@
 9	zeyne	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	11	det:poss	_	_
 10	biokhemishe	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
 11	protsesn	_	NOUN	N	_	8	obj	_	SpaceAfter=No
-12	,	_	PUNCT	PUNC	_	14	punct	_	_
-13	demolt	_	ADV	ADV	Degree=Pos	14	advmod	_	_
-14	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
+12	,	_	PUNCT	PUNC	_	17	punct	_	_
+13	demolt	_	ADV	ADV	Degree=Pos	17	advmod	_	_
+14	vert	_	AUX	RDF	VerbForm=Fin	17	aux	_	_
 15	in	_	ADP	P	_	16	case	_	_
-16	im	_	PRON	PRO	_	14	obl	_	_
-17	tseshtert	_	VERB	VAN	Tense=Past|VerbForm=Part	14	ccomp	_	_
+16	im	_	PRON	PRO	_	17	obl	_	_
+17	tseshtert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
 18	di	_	DET	D-NOM	Case=Nom|PronType=Art	20	det	_	_
 19	khemishe	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	20	amod	_	_
-20	glaykh-vog	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	SpaceAfter=No
-21	,	_	PUNCT	PUNC	_	14	punct	_	_
+20	glaykh-vog	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	17	nsubj	_	SpaceAfter=No
+21	,	_	PUNCT	PUNC	_	17	punct	_	_
 
 # sent_id = 1944E-BIOKHEMIE,.8
 # X_ID = 1944E-BIOKHEMIE,187.10

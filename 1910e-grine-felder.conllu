@@ -1,71 +1,71 @@
 # sent_id = 1910E-GRINE-FELDER,.1
 # X_ID = 1910E-GRINE-FELDER,63.3
 # text = ershter akt . oyf@ @n yishev bay dovid-noyekhn, onheyb friling . arum halbn tog . rekhts, a dorfish shtibl . links, a shtal . in hintergrunt tsit zikh avek a kartofl-gortn . etlekhe frukhtbeymer grinen . bay@ @m tsoym fun gortn, a brunem . rokhl zitst far@ @n shtub, tseshneydt kartofl in tsvayen . dovid-noyekh kumt on fun gortn .
-1	ershter	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-2	akt	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	8	punct	_	_
-4	oyf@	_	ADP	P	_	8	case	_	_
-5	@n	_	DET	D	PronType=Art	8	det	_	_
-6	yishev	_	NOUN	N-I	Definite=Ind	8	dep	_	_
-7	bay	_	ADP	P	_	8	case	_	_
-8	dovid-noyekhn	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
-9	,	_	PUNCT	PUNC	_	8	punct	_	_
-10	onheyb	_	NOUN	N-I	Definite=Ind	8	dep	_	_
-11	friling	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-12	.	_	PUNCT	PUNC	_	8	punct	_	_
-13	arum	_	ADP	P	_	8	case	_	_
-14	halbn	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-15	tog	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-16	.	_	PUNCT	PUNC	_	8	punct	_	_
-17	rekhts	_	ADV	ADV	Degree=Pos	8	advmod	_	SpaceAfter=No
-18	,	_	PUNCT	PUNC	_	8	punct	_	_
-19	a	_	DET	D	PronType=Art	8	det	_	_
-20	dorfish	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
-21	shtibl	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-22	.	_	PUNCT	PUNC	_	8	punct	_	_
-23	links	_	ADV	ADV	Degree=Pos	8	advmod	_	SpaceAfter=No
-24	,	_	PUNCT	PUNC	_	8	punct	_	_
-25	a	_	DET	D	PronType=Art	8	det	_	_
-26	shtal	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-27	.	_	PUNCT	PUNC	_	8	punct	_	_
-28	in	_	ADP	P	_	8	case	_	_
-29	hintergrunt	_	NOUN	N-I	Definite=Ind	8	dep	_	_
-30	tsit	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
-31	zikh	_	PRON	PRO	_	8	nmod	_	_
-32	avek	_	ADP	RP-ADV	_	8	compound:prt	_	_
-33	a	_	DET	D	PronType=Art	8	det	_	_
-34	kartofl-gortn	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-35	.	_	PUNCT	PUNC	_	8	punct	_	_
-36	etlekhe	_	DET	Q	_	8	det	_	_
-37	frukhtbeymer	_	NOUN	N-I	Definite=Ind	8	dep	_	_
-38	grinen	_	VERB	VBF	VerbForm=Fin	8	dep	_	SpaceAfter=No
-39	.	_	PUNCT	PUNC	_	8	punct	_	_
-40	bay@	_	ADP	P	_	8	case	_	_
-41	@m	_	DET	D	PronType=Art	8	det	_	_
-42	tsoym	_	NOUN	N-I	Definite=Ind	8	dep	_	_
-43	fun	_	ADP	P	_	8	case	_	_
-44	gortn	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-45	,	_	PUNCT	PUNC	_	8	punct	_	_
-46	a	_	DET	D	PronType=Art	8	det	_	_
-47	brunem	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-48	.	_	PUNCT	PUNC	_	8	punct	_	_
-49	rokhl	_	PROPN	NPR	_	8	dep	_	_
-50	zitst	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
-51	far@	_	ADP	P	_	8	case	_	_
-52	@n	_	DET	D	PronType=Art	8	det	_	_
-53	shtub	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-54	,	_	PUNCT	PUNC	_	8	punct	_	_
-55	tseshneydt	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
-56	kartofl	_	NOUN	N-I	Definite=Ind	8	dep	_	_
-57	in	_	ADP	P	_	8	case	_	_
-58	tsvayen	_	NUM	NUM	_	8	nummod	_	SpaceAfter=No
-59	.	_	PUNCT	PUNC	_	8	punct	_	_
-60	dovid-noyekh	_	PROPN	NPR	_	8	dep	_	_
-61	kumt	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
-62	on	_	ADP	RP	_	8	compound:prt	_	_
-63	fun	_	ADP	P	_	8	case	_	_
-64	gortn	_	NOUN	N-I	Definite=Ind	8	dep	_	SpaceAfter=No
-65	.	_	PUNCT	PUNC	_	8	punct	_	_
+1	ershter	_	ADJ	ADJ	Degree=Pos	30	amod	_	_
+2	akt	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	30	punct	_	_
+4	oyf@	_	ADP	P	_	30	case	_	_
+5	@n	_	DET	D	PronType=Art	30	det	_	_
+6	yishev	_	NOUN	N-I	Definite=Ind	30	dep	_	_
+7	bay	_	ADP	P	_	30	case	_	_
+8	dovid-noyekhn	_	PROPN	NPR	_	30	dep	_	SpaceAfter=No
+9	,	_	PUNCT	PUNC	_	30	punct	_	_
+10	onheyb	_	NOUN	N-I	Definite=Ind	30	dep	_	_
+11	friling	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+12	.	_	PUNCT	PUNC	_	30	punct	_	_
+13	arum	_	ADP	P	_	30	case	_	_
+14	halbn	_	ADJ	ADJ	Degree=Pos	30	amod	_	_
+15	tog	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+16	.	_	PUNCT	PUNC	_	30	punct	_	_
+17	rekhts	_	ADV	ADV	Degree=Pos	30	advmod	_	SpaceAfter=No
+18	,	_	PUNCT	PUNC	_	30	punct	_	_
+19	a	_	DET	D	PronType=Art	30	det	_	_
+20	dorfish	_	ADJ	ADJ	Degree=Pos	30	amod	_	_
+21	shtibl	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+22	.	_	PUNCT	PUNC	_	30	punct	_	_
+23	links	_	ADV	ADV	Degree=Pos	30	advmod	_	SpaceAfter=No
+24	,	_	PUNCT	PUNC	_	30	punct	_	_
+25	a	_	DET	D	PronType=Art	30	det	_	_
+26	shtal	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+27	.	_	PUNCT	PUNC	_	30	punct	_	_
+28	in	_	ADP	P	_	30	case	_	_
+29	hintergrunt	_	NOUN	N-I	Definite=Ind	30	dep	_	_
+30	tsit	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+31	zikh	_	PRON	PRO	_	30	nmod	_	_
+32	avek	_	ADP	RP-ADV	_	30	compound:prt	_	_
+33	a	_	DET	D	PronType=Art	30	det	_	_
+34	kartofl-gortn	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+35	.	_	PUNCT	PUNC	_	30	punct	_	_
+36	etlekhe	_	DET	Q	_	30	det	_	_
+37	frukhtbeymer	_	NOUN	N-I	Definite=Ind	30	dep	_	_
+38	grinen	_	VERB	VBF	VerbForm=Fin	30	dep	_	SpaceAfter=No
+39	.	_	PUNCT	PUNC	_	30	punct	_	_
+40	bay@	_	ADP	P	_	30	case	_	_
+41	@m	_	DET	D	PronType=Art	30	det	_	_
+42	tsoym	_	NOUN	N-I	Definite=Ind	30	dep	_	_
+43	fun	_	ADP	P	_	30	case	_	_
+44	gortn	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+45	,	_	PUNCT	PUNC	_	30	punct	_	_
+46	a	_	DET	D	PronType=Art	30	det	_	_
+47	brunem	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+48	.	_	PUNCT	PUNC	_	30	punct	_	_
+49	rokhl	_	PROPN	NPR	_	30	dep	_	_
+50	zitst	_	VERB	VBF	VerbForm=Fin	30	dep	_	_
+51	far@	_	ADP	P	_	30	case	_	_
+52	@n	_	DET	D	PronType=Art	30	det	_	_
+53	shtub	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+54	,	_	PUNCT	PUNC	_	30	punct	_	_
+55	tseshneydt	_	VERB	VBF	VerbForm=Fin	30	dep	_	_
+56	kartofl	_	NOUN	N-I	Definite=Ind	30	dep	_	_
+57	in	_	ADP	P	_	30	case	_	_
+58	tsvayen	_	NUM	NUM	_	30	nummod	_	SpaceAfter=No
+59	.	_	PUNCT	PUNC	_	30	punct	_	_
+60	dovid-noyekh	_	PROPN	NPR	_	30	dep	_	_
+61	kumt	_	VERB	VBF	VerbForm=Fin	30	dep	_	_
+62	on	_	ADP	RP	_	30	compound:prt	_	_
+63	fun	_	ADP	P	_	30	case	_	_
+64	gortn	_	NOUN	N-I	Definite=Ind	30	dep	_	SpaceAfter=No
+65	.	_	PUNCT	PUNC	_	30	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.2
 # X_ID = 1910E-GRINE-FELDER,63.4
@@ -163,7 +163,7 @@
 # X_ID = 1910E-GRINE-FELDER,63.11
 # text = ikh volt nisht sdonzhen aza zakh tsu dzhvigen oyf di pleytses .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	4	dep	_	_
 3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
 4	sdonzhen	_	VERB	VB	VerbForm=Inf	0	root	_	_
 5	aza	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	6	amod	_	_
@@ -238,7 +238,7 @@
 # text = rokhl: elkone volt kheyshek hobn .
 1	rokhl:	_	PROPN	NPR	_	5	dep	_	_
 2	elkone	_	PROPN	NPR-SBJ	_	5	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	kheyshek	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
 5	hobn	_	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	5	punct	_	_
@@ -263,7 +263,7 @@
 4	meyns@	_	VERB	VBF	VerbForm=Fin	9	dep	_	_
 5	@tu	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	9	punct	_	_
-7	volt	_	VERB	VLF	VerbForm=Fin	9	dep	_	_
+7	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	9	dep	_	_
 8	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	9	advmod	_	_
 9	veln	_	VERB	VB	VerbForm=Inf	0	root	_	_
 10	hersh-bern	_	PROPN	NPR-ACC	_	9	dep	_	_
@@ -276,7 +276,7 @@
 # X_ID = 1910E-GRINE-FELDER,63.19
 # text = er volt shoyn efsher ergets nadn oykh oysgekratst ...
 1	er	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	8	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	8	dep	_	_
 3	shoyn	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 4	efsher	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 5	ergets	_	ADV	ADV	Degree=Pos	8	advmod	_	_
@@ -298,12 +298,12 @@
 # sent_id = 1910E-GRINE-FELDER,.19
 # X_ID = 1910E-GRINE-FELDER,63.21
 # text = elkone un gitl kumen on .
-1	elkone	_	PROPN	NPR	_	0	root	_	_
-2	un	_	CCONJ	CONJ	_	3	cc	_	_
-3	gitl	_	PROPN	NPR	_	1	conj	_	_
-4	kumen	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-5	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	elkone	_	PROPN	NPR	_	4	dep	_	_
+2	un	_	CCONJ	CONJ	_	4	cc	_	_
+3	gitl	_	PROPN	NPR	_	4	dep	_	_
+4	kumen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+5	on	_	ADP	RP	_	4	compound:prt	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.20
 # X_ID = 1910E-GRINE-FELDER,63.22
@@ -395,10 +395,10 @@
 3	nor	_	PART	FP	Degree=Pos	7	nsubj	_	_
 4	dos	_	DET	D	PronType=Art	3	det	_	_
 5	aleyn	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-6	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
+6	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
 7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	13	punct	_	_
-9	volt	_	VERB	VLF	VerbForm=Fin	13	dep	_	_
+9	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	_
 10	%exp%	_	NOUN	NP-SBJ	_	13	nsubj	_	_
 11	shoyn	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 12	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	13	advmod	_	_
@@ -408,11 +408,11 @@
 # sent_id = 1910E-GRINE-FELDER,.28
 # X_ID = 1910E-GRINE-FELDER,63.30
 # text = rokhl: vorem vos kholile ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	vorem	_	ADV	WADV	Degree=Pos	1	advmod	_	_
-3	vos	_	PRON	WPRO	_	1	obj	_	_
-4	kholile	_	INTJ	INTJ	_	1	discourse	_	SpaceAfter=No
-5	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	3	dep	_	_
+2	vorem	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+3	vos	_	PRON	WPRO	_	0	root	_	_
+4	kholile	_	INTJ	INTJ	_	3	discourse	_	SpaceAfter=No
+5	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.29
 # X_ID = 1910E-GRINE-FELDER,63.31
@@ -945,7 +945,7 @@
 # X_ID = 1910E-GRINE-FELDER,64.70
 # text = tsine volt es nisht geton .
 1	tsine	_	PROPN	NPR-SBJ	_	5	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 3	es	_	PRON	PRO-ACC	Case=Acc	5	obj	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
 5	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -1105,7 +1105,7 @@
 # text = ekh, volt ikh nor a groysn zun gehat ...
 1	ekh	_	INTJ	INTJ	_	9	discourse	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	9	punct	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	9	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	9	dep	_	_
 4	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 5	nor	_	PART	FP	Degree=Pos	9	dep	_	_
 6	a	_	DET	D	PronType=Art	5	det	_	_
@@ -1151,8 +1151,8 @@
 1	dovid-noyekh:	_	PROPN	NPR	_	2	dep	_	_
 2	veyst	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	2	punct	_	_
-4	mayn	_	PRON	PRO$	_	2	vocative	_	_
-5	vayb	_	NOUN	N	_	4	conj	_	SpaceAfter=No
+4	mayn	_	PRON	PRO$	_	5	det:poss	_	_
+5	vayb	_	NOUN	N	_	2	vocative	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	2	punct	_	_
 7	vos	_	PRON	WPRO	_	12	obj	_	_
 8	%t%-1	_	NOUN	NP-ACC	_	12	dep	_	_
@@ -1300,7 +1300,7 @@
 # text = dovid-noyekh: me volt on ir, meld ikh dir, oykh farzetst di kartofl .
 1	dovid-noyekh:	_	PROPN	NPR	_	12	dep	_	_
 2	me	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	12	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	12	dep	_	_
 4	on	_	ADP	P	_	5	case	_	_
 5	ir	_	PRON	PRO	_	12	obl	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	12	punct	_	_
@@ -1436,8 +1436,8 @@
 # X_ID = 1910E-GRINE-FELDER,65.106
 # text = rokhl: vorem vos, er hot dokh a gildern harts .
 1	rokhl:	_	PROPN	NPR	_	6	dep	_	_
-2	vorem	_	ADV	WADV	Degree=Pos	6	xcomp	_	_
-3	vos	_	PRON	WPRO	_	2	obj	_	SpaceAfter=No
+2	vorem	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+3	vos	_	PRON	WPRO	_	6	xcomp	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	6	punct	_	_
 5	er	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	hot	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -1512,7 +1512,7 @@
 3	meynst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 4	du	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	3	punct	_	_
-6	volt	_	VERB	VLF	VerbForm=Fin	9	dep	_	_
+6	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	9	dep	_	_
 7	men	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 8	zi	_	PRON	PRO	_	9	obl	_	_
 9	gelozn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	_
@@ -1643,15 +1643,15 @@
 # sent_id = 1910E-GRINE-FELDER,.118
 # X_ID = 1910E-GRINE-FELDER,66.123
 # text = tsine: bavayzt zikh oyf der anderer zayt tsam . host mikh gerufn, mame ?
-1	tsine:	_	PROPN	NPR	_	12	dep	_	_
-2	bavayzt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zikh	_	PRON	PRO	_	1	nmod	_	_
-4	oyf	_	ADP	P	_	1	case	_	_
-5	der	_	DET	D	PronType=Art	1	det	_	_
-6	anderer	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-7	zayt	_	NOUN	N	_	1	dep	_	_
-8	tsam	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine:	_	PROPN	NPR	_	2	dep	_	_
+2	bavayzt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
+3	zikh	_	PRON	PRO	_	2	nmod	_	_
+4	oyf	_	ADP	P	_	2	case	_	_
+5	der	_	DET	D	PronType=Art	2	det	_	_
+6	anderer	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+7	zayt	_	NOUN	N	_	2	dep	_	_
+8	tsam	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	2	punct	_	_
 10	host	_	AUX	HVF	VerbForm=Fin	12	aux	_	_
 11	mikh	_	PRON	PRO-ACC	Case=Acc	12	obj	_	_
 12	gerufn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -1667,19 +1667,19 @@
 3	nor	_	ADV	FP	Degree=Pos	2	advmod	_	_
 4	aher	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	2	punct	_	_
-6	mayn	_	PRON	PRO$	_	2	vocative	_	_
-7	kind	_	NOUN	N	_	6	conj	_	SpaceAfter=No
+6	mayn	_	PRON	PRO$	_	7	det:poss	_	_
+7	kind	_	NOUN	N	_	2	vocative	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.120
 # X_ID = 1910E-GRINE-FELDER,66.125
 # text = tsine: kletert ariber dem tsam . veyst, mir zaynen shoyn bald fartik mit der arbet .
-1	tsine:	_	PROPN	NPR	_	10	dep	_	_
-2	kletert	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	ariber	_	ADP	P	_	1	case	_	_
-4	dem	_	DET	D	PronType=Art	1	det	_	_
-5	tsam	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine:	_	PROPN	NPR	_	2	dep	_	_
+2	kletert	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+3	ariber	_	ADP	P	_	2	case	_	_
+4	dem	_	DET	D	PronType=Art	2	det	_	_
+5	tsam	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	2	punct	_	_
 7	veyst	_	VERB	VBF	VerbForm=Fin	10	parataxis	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	10	punct	_	_
 9	mir	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
@@ -1764,18 +1764,18 @@
 # sent_id = 1910E-GRINE-FELDER,.127
 # X_ID = 1910E-GRINE-FELDER,66.132
 # text = rokhl kusht zi, flekhtndik di royte stenge in di hor .
-1	rokhl	_	PROPN	NPR	_	0	root	_	_
-2	kusht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zi	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	flekhtndik	_	VERB	VAG	Tense=Pres|VerbForm=Part	1	amod	_	_
-6	di	_	DET	D	PronType=Art	1	det	_	_
-7	royte	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-8	stenge	_	NOUN	N-D	Definite=Def	1	dep	_	_
-9	in	_	ADP	P	_	1	case	_	_
-10	di	_	DET	D	PronType=Art	1	det	_	_
-11	hor	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-12	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl	_	PROPN	NPR	_	2	dep	_	_
+2	kusht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	zi	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	2	punct	_	_
+5	flekhtndik	_	VERB	VAG	Tense=Pres|VerbForm=Part	2	amod	_	_
+6	di	_	DET	D	PronType=Art	2	det	_	_
+7	royte	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+8	stenge	_	NOUN	N-D	Definite=Def	2	dep	_	_
+9	in	_	ADP	P	_	2	case	_	_
+10	di	_	DET	D	PronType=Art	2	det	_	_
+11	hor	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+12	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.128
 # X_ID = 1910E-GRINE-FELDER,66.133
@@ -2069,20 +2069,20 @@
 # sent_id = 1910E-GRINE-FELDER,.154
 # X_ID = 1910E-GRINE-FELDER,67.160
 # text = un az zi iz gekumen helfn hersh-bern, to vos zhe %t%-1 iz ?
-1	un	_	CCONJ	CONJ	_	12	cc	_	_
+1	un	_	CCONJ	CONJ	_	13	cc	_	_
 2	az	_	SCONJ	C	_	5	mark	_	_
 3	zi	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
 4	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-5	gekumen	_	VERB	VBN	Tense=Past|VerbForm=Part	12	advcl	_	_
+5	gekumen	_	VERB	VBN	Tense=Past|VerbForm=Part	13	advcl	_	_
 6	helfn	_	VERB	VB	VerbForm=Inf	5	advcl	_	_
 7	hersh-bern	_	PROPN	NPR-DTV	_	6	dep	_	SpaceAfter=No
-8	,	_	PUNCT	PUNC	_	12	punct	_	_
-9	to	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-10	vos	_	PRON	WPRO	_	12	obj	_	_
+8	,	_	PUNCT	PUNC	_	13	punct	_	_
+9	to	_	ADV	ADV	Degree=Pos	13	advmod	_	_
+10	vos	_	PRON	WPRO	_	13	obj	_	_
 11	zhe	_	ADV	FP	Degree=Pos	10	advmod	_	_
-12	%t%-1	_	NOUN	NP-SBJ	_	0	root	_	_
-13	iz	_	AUX	BEF	VerbForm=Fin	12	cop	_	SpaceAfter=No
-14	?	_	PUNCT	PUNC	_	12	punct	_	_
+12	%t%-1	_	NOUN	NP-SBJ	_	13	nsubj	_	_
+13	iz	_	VERB	BEF	VerbForm=Fin	0	root	_	SpaceAfter=No
+14	?	_	PUNCT	PUNC	_	13	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.155
 # X_ID = 1910E-GRINE-FELDER,67.161
@@ -2106,19 +2106,19 @@
 # sent_id = 1910E-GRINE-FELDER,.157
 # X_ID = 1910E-GRINE-FELDER,67.163
 # text = tsine falt der muter oyf@ @n haldz ; kusht zi un lakht .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	falt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	der	_	DET	D	PronType=Art	1	det	_	_
-4	muter	_	NOUN	N-D	Definite=Def	1	dep	_	_
-5	oyf@	_	ADP	P	_	1	case	_	_
-6	@n	_	DET	D	PronType=Art	1	det	_	_
-7	haldz	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-8	;	_	PUNCT	PUNC	_	1	punct	_	_
-9	kusht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-10	zi	_	PRON	PRO	_	1	nmod	_	_
-11	un	_	CCONJ	CONJ	_	1	cc	_	_
-12	lakht	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	falt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	der	_	DET	D	PronType=Art	2	det	_	_
+4	muter	_	NOUN	N-D	Definite=Def	2	dep	_	_
+5	oyf@	_	ADP	P	_	2	case	_	_
+6	@n	_	DET	D	PronType=Art	2	det	_	_
+7	haldz	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+8	;	_	PUNCT	PUNC	_	2	punct	_	_
+9	kusht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+10	zi	_	PRON	PRO	_	2	nmod	_	_
+11	un	_	CCONJ	CONJ	_	2	cc	_	_
+12	lakht	_	VERB	VBF	VerbForm=Fin	2	dep	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.158
 # X_ID = 1910E-GRINE-FELDER,67.164
@@ -2297,10 +2297,10 @@
 # sent_id = 1910E-GRINE-FELDER,.170
 # X_ID = 1910E-GRINE-FELDER,67.176
 # text = rokhl: vos nisht ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	_
-3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	SpaceAfter=No
-4	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	vos	_	PRON	WPRO	_	0	root	_	_
+3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	SpaceAfter=No
+4	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.171
 # X_ID = 1910E-GRINE-FELDER,67.177
@@ -2382,9 +2382,9 @@
 # sent_id = 1910E-GRINE-FELDER,.177
 # X_ID = 1910E-GRINE-FELDER,67.183
 # text = rokhl: ver ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	ver	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	ver	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.178
 # X_ID = 1910E-GRINE-FELDER,67.184
@@ -2403,9 +2403,9 @@
 # sent_id = 1910E-GRINE-FELDER,.179
 # X_ID = 1910E-GRINE-FELDER,67.185
 # text = rokhl: vos ?
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	vos	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.180
 # X_ID = 1910E-GRINE-FELDER,67.186
@@ -2479,7 +2479,7 @@
 # text = rokhl: ikh volt es oyf ir keynmol nisht gegleybt .
 1	rokhl:	_	PROPN	NPR	_	9	dep	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	9	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	9	dep	_	_
 4	es	_	PRON	PRO-ACC	Case=Acc	9	obj	_	_
 5	oyf	_	ADP	P	_	6	case	_	_
 6	ir	_	PRON	PRO	_	9	obl	_	_
@@ -2561,9 +2561,9 @@
 # sent_id = 1910E-GRINE-FELDER,.191
 # X_ID = 1910E-GRINE-FELDER,67.197
 # text = stere: kumt on vos %t%-1 host du zikh bahaltn, tsine,
-1	stere:	_	PROPN	NPR	_	9	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	_
+1	stere:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	9	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	_
 4	vos	_	PRON	WPRO	_	9	obj	_	_
 5	%t%-1	_	NOUN	NP-ADV	_	9	obl	_	_
 6	host	_	AUX	HVF	VerbForm=Fin	9	aux	_	_
@@ -2763,19 +2763,19 @@
 # sent_id = 1910E-GRINE-FELDER,.204
 # X_ID = 1910E-GRINE-FELDER,68.211
 # text = farnemt oyf@ @n pleytse a bisl kartofl in zekl un geyt avek .
-1	farnemt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	oyf@	_	ADP	P	_	4	case	_	_
-3	@n	_	DET	D	PronType=Art	4	det	_	_
-4	pleytse	_	NOUN	N	_	0	root	_	_
-5	a	_	DET	D	PronType=Art	4	det	_	_
-6	bisl	_	NOUN	N	_	4	dep	_	_
-7	kartofl	_	NOUN	N	_	4	dep	_	_
-8	in	_	ADP	P	_	4	case	_	_
-9	zekl	_	NOUN	N	_	4	dep	_	_
-10	un	_	CCONJ	CONJ	_	4	cc	_	_
-11	geyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-12	avek	_	ADP	RP-ADV	_	4	compound:prt	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	farnemt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	oyf@	_	ADP	P	_	1	case	_	_
+3	@n	_	DET	D	PronType=Art	1	det	_	_
+4	pleytse	_	NOUN	N	_	1	dep	_	_
+5	a	_	DET	D	PronType=Art	1	det	_	_
+6	bisl	_	NOUN	N	_	1	dep	_	_
+7	kartofl	_	NOUN	N	_	1	dep	_	_
+8	in	_	ADP	P	_	1	case	_	_
+9	zekl	_	NOUN	N	_	1	dep	_	_
+10	un	_	CCONJ	CONJ	_	1	cc	_	_
+11	geyt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+12	avek	_	ADP	RP-ADV	_	1	compound:prt	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.205
 # X_ID = 1910E-GRINE-FELDER,68.212
@@ -2816,9 +2816,9 @@
 # sent_id = 1910E-GRINE-FELDER,.208
 # X_ID = 1910E-GRINE-FELDER,68.215
 # text = stere: vos ?
-1	stere:	_	PROPN	NPR	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere:	_	PROPN	NPR	_	2	dep	_	_
+2	vos	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.209
 # X_ID = 1910E-GRINE-FELDER,68.216
@@ -2848,14 +2848,14 @@
 # sent_id = 1910E-GRINE-FELDER,.211
 # X_ID = 1910E-GRINE-FELDER,68.218
 # text = tsine: nemt zi arum un kusht zi . nar, 's makht nisht oys .
-1	tsine:	_	PROPN	NPR	_	12	dep	_	_
-2	nemt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zi	_	PRON	PRO	_	1	nmod	_	_
-4	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-5	un	_	CCONJ	CONJ	_	1	cc	_	_
-6	kusht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-7	zi	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine:	_	PROPN	NPR	_	2	dep	_	_
+2	nemt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
+3	zi	_	PRON	PRO	_	2	nmod	_	_
+4	arum	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+5	un	_	CCONJ	CONJ	_	2	cc	_	_
+6	kusht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+7	zi	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
 9	nar	_	NOUN	N	_	12	vocative	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	12	punct	_	_
 11	's	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
@@ -3061,7 +3061,7 @@
 5	groysn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 6	bruder	_	NOUN	N	_	4	conj	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	13	punct	_	_
-8	volt	_	VERB	VLF	VerbForm=Fin	13	dep	_	_
+8	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	_
 9	ikh	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 10	efsher	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 11	oykh	_	ADV	ADV	Degree=Pos	13	advmod	_	_
@@ -3081,18 +3081,18 @@
 # sent_id = 1910E-GRINE-FELDER,.227
 # X_ID = 1910E-GRINE-FELDER,69.235
 # text = tsine: sterele, narele, vos %t%-1 bist du azoy tseshrokn ?
-1	tsine:	_	PROPN	NPR	_	11	dep	_	_
-2	sterele	_	PROPN	NPR	_	11	vocative	_	SpaceAfter=No
-3	,	_	PUNCT	PUNC	_	11	punct	_	_
-4	narele	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	11	punct	_	_
-6	vos	_	PRON	WPRO	_	11	obj	_	_
-7	%t%-1	_	NOUN	NP-ADV	_	11	obl	_	_
-8	bist	_	AUX	BEF	VerbForm=Fin	11	cop	_	_
-9	du	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
+1	tsine:	_	PROPN	NPR	_	8	dep	_	_
+2	sterele	_	PROPN	NPR	_	8	vocative	_	SpaceAfter=No
+3	,	_	PUNCT	PUNC	_	8	punct	_	_
+4	narele	_	NOUN	N	_	8	vocative	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	8	punct	_	_
+6	vos	_	PRON	WPRO	_	8	obj	_	_
+7	%t%-1	_	NOUN	NP-ADV	_	8	obl	_	_
+8	bist	_	VERB	BEF	VerbForm=Fin	0	root	_	_
+9	du	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 10	azoy	_	ADV	ADV	Degree=Pos	11	amod	_	_
-11	tseshrokn	_	ADJ	ADJ	Degree=Pos	0	root	_	SpaceAfter=No
-12	?	_	PUNCT	PUNC	_	11	punct	_	_
+11	tseshrokn	_	ADJ	ADJ	Degree=Pos	8	amod	_	SpaceAfter=No
+12	?	_	PUNCT	PUNC	_	8	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.228
 # X_ID = 1910E-GRINE-FELDER,69.236
@@ -3256,20 +3256,20 @@
 # sent_id = 1910E-GRINE-FELDER,.240
 # X_ID = 1910E-GRINE-FELDER,69.248
 # text = stere: lakht un veynt . mir volt es nisht geart, ven er volt es geton ...
-1	stere:	_	PROPN	NPR	_	10	dep	_	_
-2	lakht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	un	_	CCONJ	CONJ	_	1	cc	_	_
-4	veynt	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere:	_	PROPN	NPR	_	2	dep	_	_
+2	lakht	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+3	un	_	CCONJ	CONJ	_	4	cc	_	_
+4	veynt	_	VERB	VBF	VerbForm=Fin	2	conj	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
 6	mir	_	PRON	PRO-DTV	Case=Dat	10	iobj	_	_
-7	volt	_	VERB	VLF	VerbForm=Fin	10	dep	_	_
+7	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	10	dep	_	_
 8	es	_	PRON	PRO-NOM	Case=Nom	10	nsubj	_	_
 9	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	10	advmod	_	_
 10	geart	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	10	punct	_	_
 12	ven	_	SCONJ	C	_	16	mark	_	_
 13	er	_	PRON	PRO-NOM	Case=Nom	16	nsubj	_	_
-14	volt	_	VERB	VLF	VerbForm=Fin	16	dep	_	_
+14	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	16	dep	_	_
 15	es	_	PRON	PRO-ACC	Case=Acc	16	obj	_	_
 16	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No
 17	...	_	PUNCT	PUNC	_	16	punct	_	_
@@ -3304,7 +3304,7 @@
 6	groysn	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	7	amod	_	_
 7	bruder	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	4	punct	_	_
-9	volt	_	VERB	VLF	VerbForm=Fin	11	dep	_	_
+9	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	11	dep	_	_
 10	ikh	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 11	gemakht	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 12	,	_	PUNCT	PUNC	_	11	punct	_	_
@@ -3361,7 +3361,7 @@
 # X_ID = 1910E-GRINE-FELDER,69.253
 # text = mir volt %exp% geven azoy gut ven keyner veyst nisht .
 1	mir	_	PRON	PRO-DTV	Case=Dat	4	iobj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	4	dep	_	_
 3	%exp%	_	NOUN	NP-SBJ	_	4	nsubj	_	_
 4	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	azoy	_	ADV	ADV	Degree=Pos	6	amod	_	_
@@ -3480,12 +3480,12 @@
 # sent_id = 1910E-GRINE-FELDER,.253
 # X_ID = 1910E-GRINE-FELDER,69.261
 # text = stere veynt in der shtil .
-1	stere	_	PROPN	NPR	_	0	root	_	_
-2	veynt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	in	_	ADP	P	_	1	case	_	_
-4	der	_	DET	D	PronType=Art	1	det	_	_
-5	shtil	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere	_	PROPN	NPR	_	2	dep	_	_
+2	veynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	in	_	ADP	P	_	2	case	_	_
+4	der	_	DET	D	PronType=Art	2	det	_	_
+5	shtil	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.254
 # X_ID = 1910E-GRINE-FELDER,69.262
@@ -3512,7 +3512,7 @@
 # text = stere: mir volt nisht geart di gantse zakh, ven dayn mame volt mikh nor nisht faynt hobn .
 1	stere:	_	PROPN	NPR	_	5	dep	_	_
 2	mir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
 5	geart	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	di	_	DET	D-NOM	Case=Nom|PronType=Art	8	det	_	_
@@ -3610,11 +3610,11 @@
 # sent_id = 1910E-GRINE-FELDER,.264
 # X_ID = 1910E-GRINE-FELDER,70.273
 # text = stere: lakht durkh trern . oy, 'kh vel mikh azoy shemen .
-1	stere:	_	PROPN	NPR	_	12	dep	_	_
-2	lakht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	durkh	_	ADP	P	_	1	case	_	_
-4	trern	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere:	_	PROPN	NPR	_	2	dep	_	_
+2	lakht	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
+3	durkh	_	ADP	P	_	2	case	_	_
+4	trern	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
 6	oy	_	INTJ	INTJ	_	12	discourse	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	12	punct	_	_
 8	'kh	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
@@ -3684,59 +3684,59 @@
 # sent_id = 1910E-GRINE-FELDER,.270
 # X_ID = 1910E-GRINE-FELDER,70.279
 # text = fun gortn kumen on un dernentern zikh tsu@ @m tsam, avrom-yankev un a yungerman, frum gekleydt un mit a frum ponem . trogt a pekl oyf@ @n pleytse . kletert umgeshikt ariber dem ployt . tsine halt zikh ayn nisht tsu lakhn . stere shist oys mit an opgehaktn gelekhter .
-1	fun	_	ADP	P	_	12	case	_	_
-2	gortn	_	NOUN	N-I	Definite=Ind	12	dep	_	_
-3	kumen	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-4	on	_	ADP	RP	_	12	compound:prt	_	_
-5	un	_	CCONJ	CONJ	_	12	cc	_	_
-6	dernentern	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-7	zikh	_	PRON	PRO	_	12	nmod	_	_
-8	tsu@	_	ADP	P	_	12	case	_	_
-9	@m	_	DET	D	PronType=Art	12	det	_	_
-10	tsam	_	NOUN	N-I	Definite=Ind	12	dep	_	SpaceAfter=No
-11	,	_	PUNCT	PUNC	_	12	punct	_	_
-12	avrom-yankev	_	PROPN	NPR	_	0	root	_	_
-13	un	_	CCONJ	CONJ	_	14	cc	_	_
-14	a	_	DET	D	PronType=Art	12	conj	_	_
-15	yungerman	_	NOUN	N-I	Definite=Ind	12	dep	_	SpaceAfter=No
-16	,	_	PUNCT	PUNC	_	12	punct	_	_
-17	frum	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-18	gekleydt	_	VERB	VAN	Tense=Past|VerbForm=Part	12	xcomp	_	_
-19	un	_	CCONJ	CONJ	_	12	cc	_	_
-20	mit	_	ADP	P	_	12	case	_	_
-21	a	_	DET	D	PronType=Art	12	det	_	_
-22	frum	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-23	ponem	_	NOUN	N-I	Definite=Ind	12	dep	_	SpaceAfter=No
-24	.	_	PUNCT	PUNC	_	12	punct	_	_
-25	trogt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-26	a	_	DET	D	PronType=Art	12	det	_	_
-27	pekl	_	NOUN	N-I	Definite=Ind	12	dep	_	_
-28	oyf@	_	ADP	P	_	12	case	_	_
-29	@n	_	DET	D	PronType=Art	12	det	_	_
-30	pleytse	_	NOUN	N-I	Definite=Ind	12	dep	_	SpaceAfter=No
-31	.	_	PUNCT	PUNC	_	12	punct	_	_
-32	kletert	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-33	umgeshikt	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-34	ariber	_	ADP	P	_	12	case	_	_
-35	dem	_	DET	D	PronType=Art	12	det	_	_
-36	ployt	_	NOUN	N-I	Definite=Ind	12	dep	_	SpaceAfter=No
-37	.	_	PUNCT	PUNC	_	12	punct	_	_
-38	tsine	_	PROPN	NPR	_	12	dep	_	_
-39	halt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-40	zikh	_	PRON	PRO	_	12	nmod	_	_
-41	ayn	_	ADP	RP	_	12	compound:prt	_	_
-42	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	_
-43	tsu	_	PART	TO	_	12	mark	_	_
-44	lakhn	_	VERB	VB	VerbForm=Inf	12	dep	_	SpaceAfter=No
-45	.	_	PUNCT	PUNC	_	12	punct	_	_
-46	stere	_	PROPN	NPR	_	12	dep	_	_
-47	shist	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-48	oys	_	ADP	RP	_	12	compound:prt	_	_
-49	mit	_	ADP	P	_	12	case	_	_
-50	an	_	DET	D	PronType=Art	12	det	_	_
-51	opgehaktn	_	ADJ	ADJ	Degree=Pos	12	amod	_	_
-52	gelekhter	_	NOUN	N-I	Definite=Ind	12	dep	_	SpaceAfter=No
-53	.	_	PUNCT	PUNC	_	12	punct	_	_
+1	fun	_	ADP	P	_	3	case	_	_
+2	gortn	_	NOUN	N-I	Definite=Ind	3	dep	_	_
+3	kumen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+4	on	_	ADP	RP	_	3	compound:prt	_	_
+5	un	_	CCONJ	CONJ	_	3	cc	_	_
+6	dernentern	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+7	zikh	_	PRON	PRO	_	3	nmod	_	_
+8	tsu@	_	ADP	P	_	3	case	_	_
+9	@m	_	DET	D	PronType=Art	3	det	_	_
+10	tsam	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
+11	,	_	PUNCT	PUNC	_	3	punct	_	_
+12	avrom-yankev	_	PROPN	NPR	_	3	dep	_	_
+13	un	_	CCONJ	CONJ	_	3	cc	_	_
+14	a	_	DET	D	PronType=Art	3	det	_	_
+15	yungerman	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
+16	,	_	PUNCT	PUNC	_	3	punct	_	_
+17	frum	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+18	gekleydt	_	VERB	VAN	Tense=Past|VerbForm=Part	3	xcomp	_	_
+19	un	_	CCONJ	CONJ	_	3	cc	_	_
+20	mit	_	ADP	P	_	3	case	_	_
+21	a	_	DET	D	PronType=Art	3	det	_	_
+22	frum	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+23	ponem	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
+24	.	_	PUNCT	PUNC	_	3	punct	_	_
+25	trogt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+26	a	_	DET	D	PronType=Art	3	det	_	_
+27	pekl	_	NOUN	N-I	Definite=Ind	3	dep	_	_
+28	oyf@	_	ADP	P	_	3	case	_	_
+29	@n	_	DET	D	PronType=Art	3	det	_	_
+30	pleytse	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
+31	.	_	PUNCT	PUNC	_	3	punct	_	_
+32	kletert	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+33	umgeshikt	_	ADV	ADV	Degree=Pos	3	advmod	_	_
+34	ariber	_	ADP	P	_	3	case	_	_
+35	dem	_	DET	D	PronType=Art	3	det	_	_
+36	ployt	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
+37	.	_	PUNCT	PUNC	_	3	punct	_	_
+38	tsine	_	PROPN	NPR	_	3	dep	_	_
+39	halt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+40	zikh	_	PRON	PRO	_	3	nmod	_	_
+41	ayn	_	ADP	RP	_	3	compound:prt	_	_
+42	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
+43	tsu	_	PART	TO	_	3	mark	_	_
+44	lakhn	_	VERB	VB	VerbForm=Inf	3	dep	_	SpaceAfter=No
+45	.	_	PUNCT	PUNC	_	3	punct	_	_
+46	stere	_	PROPN	NPR	_	3	dep	_	_
+47	shist	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+48	oys	_	ADP	RP	_	3	compound:prt	_	_
+49	mit	_	ADP	P	_	3	case	_	_
+50	an	_	DET	D	PronType=Art	3	det	_	_
+51	opgehaktn	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+52	gelekhter	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
+53	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.271
 # X_ID = 1910E-GRINE-FELDER,70.280
@@ -3786,23 +3786,23 @@
 # sent_id = 1910E-GRINE-FELDER,.275
 # X_ID = 1910E-GRINE-FELDER,70.284
 # text = geyen beyde in shtub . tsine un stere khapn zikh arum un shtikn zikh fun gelekhter .
-1	geyen	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-2	beyde	_	DET	Q	_	6	det	_	_
-3	in	_	ADP	P	_	6	case	_	_
-4	shtub	_	NOUN	N	_	6	dep	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	6	punct	_	_
-6	tsine	_	PROPN	NPR	_	0	root	_	_
-7	un	_	CCONJ	CONJ	_	8	cc	_	_
-8	stere	_	PROPN	NPR	_	6	conj	_	_
-9	khapn	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-10	zikh	_	PRON	PRO	_	6	nmod	_	_
-11	arum	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-12	un	_	CCONJ	CONJ	_	6	cc	_	_
-13	shtikn	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-14	zikh	_	PRON	PRO	_	6	nmod	_	_
-15	fun	_	ADP	P	_	6	case	_	_
-16	gelekhter	_	NOUN	N	_	6	dep	_	SpaceAfter=No
-17	.	_	PUNCT	PUNC	_	6	punct	_	_
+1	geyen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	beyde	_	DET	Q	_	1	det	_	_
+3	in	_	ADP	P	_	1	case	_	_
+4	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	1	punct	_	_
+6	tsine	_	PROPN	NPR	_	1	dep	_	_
+7	un	_	CCONJ	CONJ	_	1	cc	_	_
+8	stere	_	PROPN	NPR	_	1	dep	_	_
+9	khapn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+10	zikh	_	PRON	PRO	_	1	nmod	_	_
+11	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+12	un	_	CCONJ	CONJ	_	1	cc	_	_
+13	shtikn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+14	zikh	_	PRON	PRO	_	1	nmod	_	_
+15	fun	_	ADP	P	_	1	case	_	_
+16	gelekhter	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+17	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.276
 # X_ID = 1910E-GRINE-FELDER,70.285
@@ -3913,12 +3913,12 @@
 # sent_id = 1910E-GRINE-FELDER,.284
 # X_ID = 1910E-GRINE-FELDER,70.293
 # text = farganvet zikh tsu@ @m fentster .
-1	farganvet	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-2	zikh	_	PRON	PRO	_	5	nmod	_	_
-3	tsu@	_	ADP	P	_	5	case	_	_
-4	@m	_	DET	D	PronType=Art	5	det	_	_
-5	fentster	_	NOUN	N	_	0	root	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	5	punct	_	_
+1	farganvet	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	zikh	_	PRON	PRO	_	1	nmod	_	_
+3	tsu@	_	ADP	P	_	1	case	_	_
+4	@m	_	DET	D	PronType=Art	1	det	_	_
+5	fentster	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.285
 # X_ID = 1910E-GRINE-FELDER,70.294
@@ -4007,10 +4007,10 @@
 # sent_id = 1910E-GRINE-FELDER,.293
 # X_ID = 1910E-GRINE-FELDER,70.302
 # text = rokhl: kumt on . vos %t%-1 shteyt ir hintern fentster ?
-1	rokhl:	_	PROPN	NPR	_	7	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	vos	_	PRON	WPRO	_	7	obj	_	_
 6	%t%-1	_	NOUN	NP-ADV	_	7	obl	_	_
 7	shteyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -4079,9 +4079,9 @@
 # sent_id = 1910E-GRINE-FELDER,.299
 # X_ID = 1910E-GRINE-FELDER,71.309
 # text = tsine lakht .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	lakht	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	lakht	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.300
 # X_ID = 1910E-GRINE-FELDER,71.310
@@ -4139,10 +4139,10 @@
 # sent_id = 1910E-GRINE-FELDER,.304
 # X_ID = 1910E-GRINE-FELDER,71.314
 # text = dovid-noyekh: kumt on . vu %t%-1 iz der mentsh ?
-1	dovid-noyekh:	_	PROPN	NPR	_	7	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	dovid-noyekh:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	vu	_	ADV	WADV	Degree=Pos	7	advmod	_	_
 6	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	7	advmod	_	_
 7	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -4189,10 +4189,10 @@
 # sent_id = 1910E-GRINE-FELDER,.308
 # X_ID = 1910E-GRINE-FELDER,71.318
 # text = geyt arayn in shtub
-1	geyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	arayn	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-3	in	_	ADP	P	_	4	case	_	_
-4	shtub	_	NOUN	N	_	0	root	_	_
+1	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+3	in	_	ADP	P	_	1	case	_	_
+4	shtub	_	NOUN	N	_	1	dep	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.309
 # X_ID = 1910E-GRINE-FELDER,71.319
@@ -4403,10 +4403,10 @@
 # sent_id = 1910E-GRINE-FELDER,.326
 # X_ID = 1910E-GRINE-FELDER,71.336
 # text = hersh-ber kumt on .
-1	hersh-ber	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	hersh-ber	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.327
 # X_ID = 1910E-GRINE-FELDER,71.337
@@ -4516,16 +4516,16 @@
 # sent_id = 1910E-GRINE-FELDER,.336
 # X_ID = 1910E-GRINE-FELDER,72.347
 # text = er yogt nokh tsinen in shpas, zi antloyft .
-1	er	_	PRON	PRO	_	4	nmod	_	_
-2	yogt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-3	nokh	_	ADP	RP	_	4	compound:prt	_	_
-4	tsinen	_	PROPN	NPR	_	0	root	_	_
-5	in	_	ADP	P	_	4	case	_	_
-6	shpas	_	NOUN	N	_	4	dep	_	SpaceAfter=No
-7	,	_	PUNCT	PUNC	_	4	punct	_	_
-8	zi	_	PRON	PRO	_	4	nmod	_	_
-9	antloyft	_	VERB	VBF	VerbForm=Fin	4	dep	_	SpaceAfter=No
-10	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	er	_	PRON	PRO	_	2	nmod	_	_
+2	yogt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	nokh	_	ADP	RP	_	2	compound:prt	_	_
+4	tsinen	_	PROPN	NPR	_	2	dep	_	_
+5	in	_	ADP	P	_	2	case	_	_
+6	shpas	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+7	,	_	PUNCT	PUNC	_	2	punct	_	_
+8	zi	_	PRON	PRO	_	2	nmod	_	_
+9	antloyft	_	VERB	VBF	VerbForm=Fin	2	dep	_	SpaceAfter=No
+10	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.337
 # X_ID = 1910E-GRINE-FELDER,72.348
@@ -4552,14 +4552,14 @@
 # sent_id = 1910E-GRINE-FELDER,.339
 # X_ID = 1910E-GRINE-FELDER,72.350
 # text = tsine shpringt ariber dem tsam un farshvindt .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	shpringt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	ariber	_	ADP	P	_	1	case	_	_
-4	dem	_	DET	D	PronType=Art	1	det	_	_
-5	tsam	_	NOUN	N-D	Definite=Def	1	dep	_	_
-6	un	_	CCONJ	CONJ	_	1	cc	_	_
-7	farshvindt	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	shpringt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	ariber	_	ADP	P	_	2	case	_	_
+4	dem	_	DET	D	PronType=Art	2	det	_	_
+5	tsam	_	NOUN	N-D	Definite=Def	2	dep	_	_
+6	un	_	CCONJ	CONJ	_	2	cc	_	_
+7	farshvindt	_	VERB	VBF	VerbForm=Fin	2	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.340
 # X_ID = 1910E-GRINE-FELDER,72.351
@@ -4926,14 +4926,14 @@
 # sent_id = 1910E-GRINE-FELDER,.367
 # X_ID = 1910E-GRINE-FELDER,72.378
 # text = zi varft zikh im oyf@ @n haldz .
-1	zi	_	PRON	PRO	_	7	nmod	_	_
-2	varft	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-3	zikh	_	PRON	PRO	_	7	nmod	_	_
-4	im	_	PRON	PRO	_	7	nmod	_	_
-5	oyf@	_	ADP	P	_	7	case	_	_
-6	@n	_	DET	D	PronType=Art	7	det	_	_
-7	haldz	_	NOUN	N	_	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	7	punct	_	_
+1	zi	_	PRON	PRO	_	2	nmod	_	_
+2	varft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	zikh	_	PRON	PRO	_	2	nmod	_	_
+4	im	_	PRON	PRO	_	2	nmod	_	_
+5	oyf@	_	ADP	P	_	2	case	_	_
+6	@n	_	DET	D	PronType=Art	2	det	_	_
+7	haldz	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.368
 # X_ID = 1910E-GRINE-FELDER,72.379
@@ -4973,21 +4973,21 @@
 # sent_id = 1910E-GRINE-FELDER,.370
 # X_ID = 1910E-GRINE-FELDER,72.381
 # text = farshemt, tsetumlt, shpringt ariber dem tsam un antloyft . tsine kumt on .
-1	farshemt	_	ADJ	ADJ	Degree=Pos	12	amod	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	12	punct	_	_
-3	tsetumlt	_	ADJ	ADJ	Degree=Pos	12	amod	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	12	punct	_	_
-5	shpringt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-6	ariber	_	ADP	P	_	12	case	_	_
-7	dem	_	DET	D	PronType=Art	12	det	_	_
-8	tsam	_	NOUN	N	_	12	dep	_	_
-9	un	_	CCONJ	CONJ	_	12	cc	_	_
-10	antloyft	_	VERB	VBF	VerbForm=Fin	12	dep	_	SpaceAfter=No
-11	.	_	PUNCT	PUNC	_	12	punct	_	_
-12	tsine	_	PROPN	NPR	_	0	root	_	_
-13	kumt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-14	on	_	ADP	RP	_	12	compound:prt	_	SpaceAfter=No
-15	.	_	PUNCT	PUNC	_	12	punct	_	_
+1	farshemt	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	5	punct	_	_
+3	tsetumlt	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	5	punct	_	_
+5	shpringt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+6	ariber	_	ADP	P	_	5	case	_	_
+7	dem	_	DET	D	PronType=Art	5	det	_	_
+8	tsam	_	NOUN	N	_	5	dep	_	_
+9	un	_	CCONJ	CONJ	_	5	cc	_	_
+10	antloyft	_	VERB	VBF	VerbForm=Fin	5	dep	_	SpaceAfter=No
+11	.	_	PUNCT	PUNC	_	5	punct	_	_
+12	tsine	_	PROPN	NPR	_	5	dep	_	_
+13	kumt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
+14	on	_	ADP	RP	_	5	compound:prt	_	SpaceAfter=No
+15	.	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.371
 # X_ID = 1910E-GRINE-FELDER,72.382
@@ -5057,7 +5057,7 @@
 4	oyf	_	ADP	P	_	5	case	_	_
 5	mir	_	PRON	PRO	_	3	obl	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	3	punct	_	_
-7	volst	_	VERB	VLF	VerbForm=Fin	11	dep	_	_
+7	volst	_	VERB	VLF	Mood=Sub|VerbForm=Fin	11	dep	_	_
 8	du	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
 9	mikh	_	PRON	PRO-DTV	Case=Dat	11	iobj	_	_
 10	shoyn	_	ADV	ADV	Degree=Pos	11	advmod	_	_
@@ -5269,15 +5269,15 @@
 # sent_id = 1910E-GRINE-FELDER,.390
 # X_ID = 1910E-GRINE-FELDER,73.402
 # text = tsine lakht zikh funander oyf@ @n hoykhn kol .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	lakht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zikh	_	PRON	PRO	_	1	nmod	_	_
-4	funander	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-5	oyf@	_	ADP	P	_	1	case	_	_
-6	@n	_	DET	D	PronType=Art	1	det	_	_
-7	hoykhn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-8	kol	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	lakht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	zikh	_	PRON	PRO	_	2	nmod	_	_
+4	funander	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+5	oyf@	_	ADP	P	_	2	case	_	_
+6	@n	_	DET	D	PronType=Art	2	det	_	_
+7	hoykhn	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+8	kol	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.391
 # X_ID = 1910E-GRINE-FELDER,73.403
@@ -5306,12 +5306,12 @@
 # sent_id = 1910E-GRINE-FELDER,.393
 # X_ID = 1910E-GRINE-FELDER,73.405
 # text = rokhl: kumt aroys fun shtub . ay, sara mentsh %t%-1 dos iz %EXCL%
-1	rokhl:	_	PROPN	NPR	_	13	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-4	fun	_	ADP	P	_	1	case	_	_
-5	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	13	dep	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+4	fun	_	ADP	P	_	2	case	_	_
+5	shtub	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	2	punct	_	_
 7	ay	_	INTJ	INTJ	_	13	discourse	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	13	punct	_	_
 9	sara	_	DET	WD	_	13	obj	_	_
@@ -5416,15 +5416,15 @@
 # sent_id = 1910E-GRINE-FELDER,.401
 # X_ID = 1910E-GRINE-FELDER,73.413
 # text = geyt arayn in shtub, vi farganvenendik zikh .
-1	geyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	arayn	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-3	in	_	ADP	P	_	4	case	_	_
-4	shtub	_	NOUN	N	_	0	root	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	4	punct	_	_
-6	vi	_	ADP	P	_	4	case	_	_
-7	farganvenendik	_	VERB	VAG	Tense=Pres|VerbForm=Part	4	amod	_	_
-8	zikh	_	PRON	PRO	_	4	nmod	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+3	in	_	ADP	P	_	1	case	_	_
+4	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	1	punct	_	_
+6	vi	_	ADP	P	_	1	case	_	_
+7	farganvenendik	_	VERB	VAG	Tense=Pres|VerbForm=Part	1	amod	_	_
+8	zikh	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.402
 # X_ID = 1910E-GRINE-FELDER,73.414
@@ -5502,10 +5502,10 @@
 # sent_id = 1910E-GRINE-FELDER,.408
 # X_ID = 1910E-GRINE-FELDER,73.420
 # text = hersh-ber: tsetumlt vos ?
-1	hersh-ber:	_	PROPN	NPR	_	0	root	_	_
+1	hersh-ber:	_	PROPN	NPR	_	3	dep	_	_
 2	tsetumlt	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	vos	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-4	?	_	PUNCT	PUNC	_	1	punct	_	_
+3	vos	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+4	?	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.409
 # X_ID = 1910E-GRINE-FELDER,73.421
@@ -5565,10 +5565,10 @@
 # sent_id = 1910E-GRINE-FELDER,.414
 # X_ID = 1910E-GRINE-FELDER,74.427
 # text = avrom-yankev: kumt aroys . veyst, mame, vi_azoy %t%-1 men ruft im ?
-1	avrom-yankev:	_	PROPN	NPR	_	5	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	avrom-yankev:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	veyst	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	5	punct	_	_
 7	mame	_	NOUN	N	_	5	vocative	_	SpaceAfter=No
@@ -5624,9 +5624,9 @@
 # sent_id = 1910E-GRINE-FELDER,.419
 # X_ID = 1910E-GRINE-FELDER,74.432
 # text = dovid-noyekh: kumt aroys vu %t%-1 bist du, rokhl ?
-1	dovid-noyekh:	_	PROPN	NPR	_	6	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+1	dovid-noyekh:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	vu	_	ADV	WADV	Degree=Pos	6	advmod	_	_
 5	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	6	advmod	_	_
 6	bist	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -5857,13 +5857,13 @@
 # sent_id = 1910E-GRINE-FELDER,.436
 # X_ID = 1910E-GRINE-FELDER,74.449
 # text = elkone: kumt on . a got-helf %EXCL%
-1	elkone:	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	elkone:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	a	_	DET	D	PronType=Art	6	det	_	_
-6	got-helf	_	NOUN	N-I	Definite=Ind	1	discourse	_	SpaceAfter=No
-7	%EXCL%	_	PUNCT	PUNC	_	1	punct	_	_
+6	got-helf	_	NOUN	N-I	Definite=Ind	2	discourse	_	SpaceAfter=No
+7	%EXCL%	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.437
 # X_ID = 1910E-GRINE-FELDER,74.450
@@ -5964,10 +5964,10 @@
 # sent_id = 1910E-GRINE-FELDER,.446
 # X_ID = 1910E-GRINE-FELDER,74.459
 # text = levi-yitskhok kumt aroys .
-1	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.447
 # X_ID = 1910E-GRINE-FELDER,74.460
@@ -6238,8 +6238,8 @@
 # text = kinder, voyle kinder, nor 's hot zikh nisht gemakht epes a melamed, a mentsh .
 1	kinder	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
 2	,	_	PUNCT	PUNC	_	11	punct	_	_
-3	voyle	_	ADJ	ADJ	Degree=Pos	11	vocative	_	_
-4	kinder	_	NOUN	N	_	3	conj	_	SpaceAfter=No
+3	voyle	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
+4	kinder	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	11	punct	_	_
 6	nor	_	ADV	FP	Degree=Pos	11	advmod	_	_
 7	's	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	11	expl	_	_
@@ -6457,7 +6457,7 @@
 # text = hersh-ber: ikh volt shoyn gegebn a khvotshen .
 1	hersh-ber:	_	PROPN	NPR	_	5	dep	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	shoyn	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 5	gegebn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	a	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
@@ -6623,7 +6623,7 @@
 # text = levi-yitskhok: ikh volt veln hobn tsayt far zikh aleyn oykh tsum lernen .
 1	levi-yitskhok:	_	PROPN	NPR	_	5	dep	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	veln	_	AUX	MD	VerbForm=Inf	5	aux	_	_
 5	hobn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	tsayt	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
@@ -6812,11 +6812,11 @@
 # sent_id = 1910E-GRINE-FELDER,.510
 # X_ID = 1910E-GRINE-FELDER,76.525
 # text = levi-yitskhok: kukt zikh arum . a sheyner tog bay aykh .
-1	levi-yitskhok:	_	PROPN	NPR	_	8	dep	_	_
-2	kukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zikh	_	PRON	PRO	_	1	nmod	_	_
-4	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok:	_	PROPN	NPR	_	2	dep	_	_
+2	kukt	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
+3	zikh	_	PRON	PRO	_	2	nmod	_	_
+4	arum	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
 6	a	_	DET	D	PronType=Art	8	det	_	_
 7	sheyner	_	ADJ	ADJ	Degree=Pos	8	amod	_	_
 8	tog	_	NOUN	N-I	Definite=Ind	0	root	_	_
@@ -6908,24 +6908,24 @@
 # sent_id = 1910E-GRINE-FELDER,.517
 # X_ID = 1910E-GRINE-FELDER,76.532
 # text = geyt in shtub .
-1	geyt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-2	in	_	ADP	P	_	3	case	_	_
-3	shtub	_	NOUN	N	_	0	root	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	3	punct	_	_
+1	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	in	_	ADP	P	_	1	case	_	_
+3	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.518
 # X_ID = 1910E-GRINE-FELDER,76.533
 # text = hersh-ber: shoyn tsu@ @m shtub geyendik tsu der muter . 's vet lang nemen biz du, mame, vest im oppashen .
-1	hersh-ber:	_	PROPN	NPR	_	14	dep	_	_
-2	shoyn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-3	tsu@	_	ADP	P	_	1	case	_	_
-4	@m	_	DET	D	PronType=Art	1	det	_	_
-5	shtub	_	NOUN	N	_	1	dep	_	_
-6	geyendik	_	VERB	VAG	Tense=Pres|VerbForm=Part	1	amod	_	_
-7	tsu	_	ADP	P	_	1	case	_	_
-8	der	_	DET	D	PronType=Art	1	det	_	_
-9	muter	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-10	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	hersh-ber:	_	PROPN	NPR	_	6	dep	_	_
+2	shoyn	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+3	tsu@	_	ADP	P	_	6	case	_	_
+4	@m	_	DET	D	PronType=Art	6	det	_	_
+5	shtub	_	NOUN	N	_	6	dep	_	_
+6	geyendik	_	VERB	VAG	Tense=Pres|VerbForm=Part	14	dep	_	_
+7	tsu	_	ADP	P	_	6	case	_	_
+8	der	_	DET	D	PronType=Art	6	det	_	_
+9	muter	_	NOUN	N-D	Definite=Def	6	dep	_	SpaceAfter=No
+10	.	_	PUNCT	PUNC	_	6	punct	_	_
 11	's	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 12	vet	_	AUX	MDF	VerbForm=Fin	14	aux	_	_
 13	lang	_	ADV	ADV	Degree=Pos	14	advmod	_	_
@@ -6956,11 +6956,11 @@
 # sent_id = 1910E-GRINE-FELDER,.520
 # X_ID = 1910E-GRINE-FELDER,76.535
 # text = geyt arayn in shtub .
-1	geyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	arayn	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-3	in	_	ADP	P	_	4	case	_	_
-4	shtub	_	NOUN	N	_	0	root	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+3	in	_	ADP	P	_	1	case	_	_
+4	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.521
 # X_ID = 1910E-GRINE-FELDER,76.536
@@ -7084,37 +7084,37 @@
 # sent_id = 1910E-GRINE-FELDER,.532
 # X_ID = 1910E-GRINE-FELDER,76.547
 # text = geyen beyde avek in shtal . tsine kumt aroys . farganvet zikh tsu@ @m shtal, kukt durkh a shpalt . levi-yitskhok kumt aroys fun shtal . nokh im avrom-yankev .
-1	geyen	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-2	beyde	_	DET	Q	_	7	det	_	_
-3	avek	_	ADP	RP-ADV	_	7	compound:prt	_	_
-4	in	_	ADP	P	_	7	case	_	_
-5	shtal	_	NOUN	N	_	7	dep	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	7	punct	_	_
-7	tsine	_	PROPN	NPR-I	_	0	root	_	_
-8	kumt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-9	aroys	_	ADV	ADV	Degree=Pos	7	advmod	_	SpaceAfter=No
-10	.	_	PUNCT	PUNC	_	7	punct	_	_
-11	farganvet	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-12	zikh	_	PRON	PRO	_	7	nmod	_	_
-13	tsu@	_	ADP	P	_	7	case	_	_
-14	@m	_	DET	D	PronType=Art	7	det	_	_
-15	shtal	_	NOUN	N	_	7	dep	_	SpaceAfter=No
-16	,	_	PUNCT	PUNC	_	7	punct	_	_
-17	kukt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-18	durkh	_	ADP	P	_	7	case	_	_
-19	a	_	DET	D	PronType=Art	7	det	_	_
-20	shpalt	_	NOUN	N	_	7	dep	_	SpaceAfter=No
-21	.	_	PUNCT	PUNC	_	7	punct	_	_
-22	levi-yitskhok	_	PROPN	NPR-I	_	7	dep	_	_
-23	kumt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-24	aroys	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-25	fun	_	ADP	P	_	7	case	_	_
-26	shtal	_	NOUN	N	_	7	dep	_	SpaceAfter=No
-27	.	_	PUNCT	PUNC	_	7	punct	_	_
-28	nokh	_	ADP	P	_	7	case	_	_
-29	im	_	PRON	PRO	_	7	nmod	_	_
-30	avrom-yankev	_	PROPN	NPR-I	_	7	dep	_	SpaceAfter=No
-31	.	_	PUNCT	PUNC	_	7	punct	_	_
+1	geyen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	beyde	_	DET	Q	_	1	det	_	_
+3	avek	_	ADP	RP-ADV	_	1	compound:prt	_	_
+4	in	_	ADP	P	_	1	case	_	_
+5	shtal	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	1	punct	_	_
+7	tsine	_	PROPN	NPR-I	_	1	dep	_	_
+8	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+9	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+10	.	_	PUNCT	PUNC	_	1	punct	_	_
+11	farganvet	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+12	zikh	_	PRON	PRO	_	1	nmod	_	_
+13	tsu@	_	ADP	P	_	1	case	_	_
+14	@m	_	DET	D	PronType=Art	1	det	_	_
+15	shtal	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+16	,	_	PUNCT	PUNC	_	1	punct	_	_
+17	kukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+18	durkh	_	ADP	P	_	1	case	_	_
+19	a	_	DET	D	PronType=Art	1	det	_	_
+20	shpalt	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+21	.	_	PUNCT	PUNC	_	1	punct	_	_
+22	levi-yitskhok	_	PROPN	NPR-I	_	1	dep	_	_
+23	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+24	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+25	fun	_	ADP	P	_	1	case	_	_
+26	shtal	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+27	.	_	PUNCT	PUNC	_	1	punct	_	_
+28	nokh	_	ADP	P	_	1	case	_	_
+29	im	_	PRON	PRO	_	1	nmod	_	_
+30	avrom-yankev	_	PROPN	NPR-I	_	1	dep	_	SpaceAfter=No
+31	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.533
 # X_ID = 1910E-GRINE-FELDER,76.548
@@ -7151,35 +7151,35 @@
 # sent_id = 1910E-GRINE-FELDER,.536
 # X_ID = 1910E-GRINE-FELDER,77.552
 # text = merkt nisht tsinen, vos hot zikh bahaltn hinter@ @n shtal ven zey geyen farbay in shtub arayn .
-1	merkt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-2	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
-3	tsinen	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	3	punct	_	_
-5	vos	_	SCONJ	C	_	3	mark	_	_
-6	hot	_	AUX	HVF	VerbForm=Fin	3	aux	_	_
-7	zikh	_	PRON	PRO	_	3	nmod	_	_
-8	bahaltn	_	VERB	VBN	Tense=Past|VerbForm=Part	3	dep	_	_
-9	hinter@	_	ADP	P	_	3	case	_	_
-10	@n	_	DET	D	PronType=Art	3	det	_	_
-11	shtal	_	NOUN	N	_	3	dep	_	_
-12	ven	_	SCONJ	C	_	3	mark	_	_
-13	zey	_	PRON	PRO	_	3	nmod	_	_
-14	geyen	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-15	farbay	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-16	in	_	ADP	P	_	3	case	_	_
-17	shtub	_	NOUN	N	_	3	dep	_	_
-18	arayn	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
-19	.	_	PUNCT	PUNC	_	3	punct	_	_
+1	merkt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
+3	tsinen	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	1	punct	_	_
+5	vos	_	SCONJ	C	_	1	mark	_	_
+6	hot	_	AUX	HVF	VerbForm=Fin	1	aux	_	_
+7	zikh	_	PRON	PRO	_	1	nmod	_	_
+8	bahaltn	_	VERB	VBN	Tense=Past|VerbForm=Part	1	dep	_	_
+9	hinter@	_	ADP	P	_	1	case	_	_
+10	@n	_	DET	D	PronType=Art	1	det	_	_
+11	shtal	_	NOUN	N	_	1	dep	_	_
+12	ven	_	SCONJ	C	_	1	mark	_	_
+13	zey	_	PRON	PRO	_	1	nmod	_	_
+14	geyen	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+15	farbay	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+16	in	_	ADP	P	_	1	case	_	_
+17	shtub	_	NOUN	N	_	1	dep	_	_
+18	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+19	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.537
 # X_ID = 1910E-GRINE-FELDER,77.553
 # text = tsine: kumt aroys, ruft shtil avrom-yankev %EXCL% avrom-yankev %EXCL%
-1	tsine:	_	PROPN	NPR	_	7	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	ruft	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-6	shtil	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+1	tsine:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	2	punct	_	_
+5	ruft	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+6	shtil	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 7	avrom-yankev	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
 8	%EXCL%	_	PUNCT	PUNC	_	7	punct	_	_
 9	avrom-yankev	_	PROPN	NPR	_	7	vocative	_	SpaceAfter=No
@@ -7188,67 +7188,67 @@
 # sent_id = 1910E-GRINE-FELDER,.538
 # X_ID = 1910E-GRINE-FELDER,77.554
 # text = yener hert nisht . zi blaybt aleyn . tut zikh a ris fun ort, vi zi volt veln loyfn in shtub arayn . shoyn bay@ @m shvel blaybt zi shteyn a vayle, fartrakht zikh . nemt on in a koshek kartofl un avek in gortn .
-1	yener	_	PRON	PRO	_	12	nmod	_	_
-2	hert	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	12	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	12	punct	_	_
-5	zi	_	PRON	PRO	_	12	nmod	_	_
-6	blaybt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-7	aleyn	_	ADJ	ADJ	Degree=Pos	12	amod	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	12	punct	_	_
-9	tut	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-10	zikh	_	PRON	PRO	_	12	nmod	_	_
-11	a	_	DET	D	PronType=Art	12	det	_	_
-12	ris	_	NOUN	N	_	0	root	_	_
-13	fun	_	ADP	P	_	12	case	_	_
-14	ort	_	NOUN	N	_	12	dep	_	SpaceAfter=No
-15	,	_	PUNCT	PUNC	_	12	punct	_	_
-16	vi	_	SCONJ	C	_	12	mark	_	_
-17	zi	_	PRON	PRO	_	12	nmod	_	_
-18	volt	_	VERB	VLF	VerbForm=Fin	12	dep	_	_
-19	veln	_	AUX	MD	VerbForm=Inf	12	aux	_	_
-20	loyfn	_	VERB	VB	VerbForm=Inf	12	dep	_	_
-21	in	_	ADP	P	_	12	case	_	_
-22	shtub	_	NOUN	N	_	12	dep	_	_
-23	arayn	_	ADV	ADV	Degree=Pos	12	advmod	_	SpaceAfter=No
-24	.	_	PUNCT	PUNC	_	12	punct	_	_
-25	shoyn	_	ADV	ADV	Degree=Pos	12	advmod	_	_
-26	bay@	_	ADP	P	_	12	case	_	_
-27	@m	_	DET	D	PronType=Art	12	det	_	_
-28	shvel	_	NOUN	N	_	12	dep	_	_
-29	blaybt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-30	zi	_	PRON	PRO	_	12	nmod	_	_
-31	shteyn	_	ADP	RP-V	_	12	compound:prt	_	_
-32	a	_	DET	D	PronType=Art	12	det	_	_
-33	vayle	_	NOUN	N	_	12	dep	_	SpaceAfter=No
-34	,	_	PUNCT	PUNC	_	12	punct	_	_
-35	fartrakht	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-36	zikh	_	PRON	PRO	_	12	nmod	_	SpaceAfter=No
-37	.	_	PUNCT	PUNC	_	12	punct	_	_
-38	nemt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
-39	on	_	ADP	RP	_	12	compound:prt	_	_
-40	in	_	ADP	P	_	12	case	_	_
-41	a	_	DET	D	PronType=Art	12	det	_	_
-42	koshek	_	NOUN	N	_	12	dep	_	_
-43	kartofl	_	NOUN	N	_	12	dep	_	_
-44	un	_	CCONJ	CONJ	_	12	cc	_	_
-45	avek	_	ADP	RP-ADV	_	12	compound:prt	_	_
-46	in	_	ADP	P	_	12	case	_	_
-47	gortn	_	NOUN	N	_	12	dep	_	SpaceAfter=No
-48	.	_	PUNCT	PUNC	_	12	punct	_	_
+1	yener	_	PRON	PRO	_	2	nmod	_	_
+2	hert	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
+5	zi	_	PRON	PRO	_	2	nmod	_	_
+6	blaybt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+7	aleyn	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
+9	tut	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+10	zikh	_	PRON	PRO	_	2	nmod	_	_
+11	a	_	DET	D	PronType=Art	2	det	_	_
+12	ris	_	NOUN	N	_	2	dep	_	_
+13	fun	_	ADP	P	_	2	case	_	_
+14	ort	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+15	,	_	PUNCT	PUNC	_	2	punct	_	_
+16	vi	_	SCONJ	C	_	2	mark	_	_
+17	zi	_	PRON	PRO	_	2	nmod	_	_
+18	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	2	dep	_	_
+19	veln	_	AUX	MD	VerbForm=Inf	2	aux	_	_
+20	loyfn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+21	in	_	ADP	P	_	2	case	_	_
+22	shtub	_	NOUN	N	_	2	dep	_	_
+23	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+24	.	_	PUNCT	PUNC	_	2	punct	_	_
+25	shoyn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+26	bay@	_	ADP	P	_	2	case	_	_
+27	@m	_	DET	D	PronType=Art	2	det	_	_
+28	shvel	_	NOUN	N	_	2	dep	_	_
+29	blaybt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+30	zi	_	PRON	PRO	_	2	nmod	_	_
+31	shteyn	_	ADP	RP-V	_	2	compound:prt	_	_
+32	a	_	DET	D	PronType=Art	2	det	_	_
+33	vayle	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+34	,	_	PUNCT	PUNC	_	2	punct	_	_
+35	fartrakht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+36	zikh	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+37	.	_	PUNCT	PUNC	_	2	punct	_	_
+38	nemt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+39	on	_	ADP	RP	_	2	compound:prt	_	_
+40	in	_	ADP	P	_	2	case	_	_
+41	a	_	DET	D	PronType=Art	2	det	_	_
+42	koshek	_	NOUN	N	_	2	dep	_	_
+43	kartofl	_	NOUN	N	_	2	dep	_	_
+44	un	_	CCONJ	CONJ	_	2	cc	_	_
+45	avek	_	ADP	RP-ADV	_	2	compound:prt	_	_
+46	in	_	ADP	P	_	2	case	_	_
+47	gortn	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+48	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.539
 # X_ID = 1910E-GRINE-FELDER,77.555
 # text = rokhl: ir shtime hert zikh fun shtub rufn . tsine, tsine ...
-1	rokhl:	_	PROPN	NPR	_	10	dep	_	_
-2	ir	_	PRON	PRO$	_	1	det:poss	_	_
-3	shtime	_	NOUN	N	_	1	dep	_	_
-4	hert	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-5	zikh	_	PRON	PRO	_	1	nmod	_	_
-6	fun	_	ADP	P	_	1	case	_	_
-7	shtub	_	NOUN	N	_	1	dep	_	_
-8	rufn	_	VERB	VB	VerbForm=Inf	1	dep	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	4	dep	_	_
+2	ir	_	PRON	PRO$	_	4	det:poss	_	_
+3	shtime	_	NOUN	N	_	4	dep	_	_
+4	hert	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+5	zikh	_	PRON	PRO	_	4	nmod	_	_
+6	fun	_	ADP	P	_	4	case	_	_
+7	shtub	_	NOUN	N	_	4	dep	_	_
+8	rufn	_	VERB	VB	VerbForm=Inf	4	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	4	punct	_	_
 10	tsine	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	10	punct	_	_
 12	tsine	_	PROPN	NPR	_	10	vocative	_	SpaceAfter=No
@@ -7263,47 +7263,47 @@
 # sent_id = 1910E-GRINE-FELDER,.541
 # X_ID = 1910E-GRINE-FELDER,77.557
 # text = tsveyter akt . bay dovid-noyekhn in shtub . onheyb zumer . arum halbn tog . levi-yitskhok zitst bay a sefer fartrakht . heybt zikh oyf fun ort, geyt um oyf un op .
-1	tsveyter	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-2	akt	_	NOUN	N-I	Definite=Ind	5	dep	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	5	punct	_	_
-4	bay	_	ADP	P	_	5	case	_	_
-5	dovid-noyekhn	_	PROPN	NPR	_	0	root	_	_
-6	in	_	ADP	P	_	5	case	_	_
-7	shtub	_	NOUN	N-I	Definite=Ind	5	dep	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	5	punct	_	_
-9	onheyb	_	NOUN	N-I	Definite=Ind	5	dep	_	_
-10	zumer	_	NOUN	N-I	Definite=Ind	5	dep	_	SpaceAfter=No
-11	.	_	PUNCT	PUNC	_	5	punct	_	_
-12	arum	_	ADP	P	_	5	case	_	_
-13	halbn	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-14	tog	_	NOUN	N-I	Definite=Ind	5	dep	_	SpaceAfter=No
-15	.	_	PUNCT	PUNC	_	5	punct	_	_
-16	levi-yitskhok	_	PROPN	NPR	_	5	dep	_	_
-17	zitst	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-18	bay	_	ADP	P	_	5	case	_	_
-19	a	_	DET	D	PronType=Art	5	det	_	_
-20	sefer	_	NOUN	N-I	Definite=Ind	5	dep	_	_
-21	fartrakht	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
-22	.	_	PUNCT	PUNC	_	5	punct	_	_
-23	heybt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-24	zikh	_	PRON	PRO	_	5	nmod	_	_
-25	oyf	_	ADP	RP	_	5	compound:prt	_	_
-26	fun	_	ADP	P	_	5	case	_	_
-27	ort	_	NOUN	N-I	Definite=Ind	5	dep	_	SpaceAfter=No
-28	,	_	PUNCT	PUNC	_	5	punct	_	_
-29	geyt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-30	um	_	ADP	P	_	5	case	_	_
-31	oyf	_	ADP	RP	_	5	compound:prt	_	_
-32	un	_	CCONJ	CONJ	_	5	cc	_	_
-33	op	_	ADP	RP	_	5	compound:prt	_	SpaceAfter=No
-34	.	_	PUNCT	PUNC	_	5	punct	_	_
+1	tsveyter	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+2	akt	_	NOUN	N-I	Definite=Ind	17	dep	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	17	punct	_	_
+4	bay	_	ADP	P	_	17	case	_	_
+5	dovid-noyekhn	_	PROPN	NPR	_	17	dep	_	_
+6	in	_	ADP	P	_	17	case	_	_
+7	shtub	_	NOUN	N-I	Definite=Ind	17	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	17	punct	_	_
+9	onheyb	_	NOUN	N-I	Definite=Ind	17	dep	_	_
+10	zumer	_	NOUN	N-I	Definite=Ind	17	dep	_	SpaceAfter=No
+11	.	_	PUNCT	PUNC	_	17	punct	_	_
+12	arum	_	ADP	P	_	17	case	_	_
+13	halbn	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
+14	tog	_	NOUN	N-I	Definite=Ind	17	dep	_	SpaceAfter=No
+15	.	_	PUNCT	PUNC	_	17	punct	_	_
+16	levi-yitskhok	_	PROPN	NPR	_	17	dep	_	_
+17	zitst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+18	bay	_	ADP	P	_	17	case	_	_
+19	a	_	DET	D	PronType=Art	17	det	_	_
+20	sefer	_	NOUN	N-I	Definite=Ind	17	dep	_	_
+21	fartrakht	_	ADJ	ADJ	Degree=Pos	17	amod	_	SpaceAfter=No
+22	.	_	PUNCT	PUNC	_	17	punct	_	_
+23	heybt	_	VERB	VBF	VerbForm=Fin	17	dep	_	_
+24	zikh	_	PRON	PRO	_	17	nmod	_	_
+25	oyf	_	ADP	RP	_	17	compound:prt	_	_
+26	fun	_	ADP	P	_	17	case	_	_
+27	ort	_	NOUN	N-I	Definite=Ind	17	dep	_	SpaceAfter=No
+28	,	_	PUNCT	PUNC	_	17	punct	_	_
+29	geyt	_	VERB	VBF	VerbForm=Fin	17	dep	_	_
+30	um	_	ADP	P	_	17	case	_	_
+31	oyf	_	ADP	RP	_	17	compound:prt	_	_
+32	un	_	CCONJ	CONJ	_	17	cc	_	_
+33	op	_	ADP	RP	_	17	compound:prt	_	SpaceAfter=No
+34	.	_	PUNCT	PUNC	_	17	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.542
 # X_ID = 1910E-GRINE-FELDER,77.558
 # text = avrom-yankev: kumt arayn ot bin ikh .
-1	avrom-yankev:	_	PROPN	NPR	_	5	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+1	avrom-yankev:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	ot	_	ADV	FP	Degree=Pos	5	advmod	_	_
 5	bin	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	SpaceAfter=No
@@ -7574,7 +7574,7 @@
 # text = avrom-yankev: ikh volt gekent vern a rov ?
 1	avrom-yankev:	_	PROPN	NPR	_	5	dep	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	5	aux	_	_
 5	vern	_	VERB	VB	VerbForm=Inf	0	root	_	_
 6	a	_	DET	D	PronType=Art	7	det	_	_
@@ -7748,7 +7748,7 @@
 3	,	_	PUNCT	PUNC	_	2	punct	_	_
 4	az	_	SCONJ	C	_	7	mark	_	_
 5	's	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-6	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
+6	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
 7	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	2	ccomp	_	_
 8	shlekht	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 9	on	_	ADP	P	_	10	case	_	_
@@ -7791,7 +7791,7 @@
 # X_ID = 1910E-GRINE-FELDER,78.597
 # text = mentshn voltn efsher geven gazlonim, ven nisht got .
 1	mentshn	_	NOUN	N-NOM	Case=Nom	4	nsubj	_	_
-2	voltn	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
+2	voltn	_	VERB	VLF	Mood=Sub|VerbForm=Fin	4	dep	_	_
 3	efsher	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 4	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 5	gazlonim	_	NOUN	N	_	4	xcomp	_	SpaceAfter=No
@@ -8003,7 +8003,7 @@
 2	ober	_	CCONJ	CONJ	_	8	cc	_	_
 3	a	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	mentsh	_	NOUN	N-NOM-I	Case=Nom|Definite=Ind	8	nsubj	_	_
-5	volt	_	VERB	VLF	VerbForm=Fin	8	dep	_	_
+5	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	8	dep	_	_
 6	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
 7	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	8	aux	_	_
 8	bashafn	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -8140,7 +8140,7 @@
 # text = avrom-yankev: ikh volt azoy veln mitgeyn mit aykh ;
 1	avrom-yankev:	_	PROPN	NPR	_	6	dep	_	_
 2	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	6	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	6	dep	_	_
 4	azoy	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 5	veln	_	AUX	MD	VerbForm=Inf	6	aux	_	_
 6	mitgeyn	_	VERB	VB-PART	VerbForm=Inf	0	root	_	_
@@ -8356,70 +8356,70 @@
 # sent_id = 1910E-GRINE-FELDER,.622
 # X_ID = 1910E-GRINE-FELDER,79.639
 # text = loyft aroys . levi-yitskhok farkukt zikh in fentster, vi er volt emetsn bamerkt ; er aylt tsu@ @m tish, grobt ayn di oygn in sefer .
-1	loyft	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	aroys	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	4	punct	_	_
-4	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-5	farkukt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-6	zikh	_	PRON	PRO	_	4	nmod	_	_
-7	in	_	ADP	P	_	4	case	_	_
-8	fentster	_	NOUN	N-D	Definite=Def	4	dep	_	SpaceAfter=No
-9	,	_	PUNCT	PUNC	_	4	punct	_	_
-10	vi	_	SCONJ	C	_	4	mark	_	_
-11	er	_	PRON	PRO	_	4	nmod	_	_
-12	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
-13	emetsn	_	DET	Q	_	4	det	_	_
-14	bamerkt	_	VERB	VBN	Tense=Past|VerbForm=Part	4	dep	_	SpaceAfter=No
-15	;	_	PUNCT	PUNC	_	4	punct	_	_
-16	er	_	PRON	PRO	_	4	nmod	_	_
-17	aylt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-18	tsu@	_	ADP	P	_	4	case	_	_
-19	@m	_	DET	D	PronType=Art	4	det	_	_
-20	tish	_	NOUN	N-D	Definite=Def	4	dep	_	SpaceAfter=No
-21	,	_	PUNCT	PUNC	_	4	punct	_	_
-22	grobt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-23	ayn	_	ADP	RP	_	4	compound:prt	_	_
-24	di	_	DET	D	PronType=Art	4	det	_	_
-25	oygn	_	NOUN	N-D	Definite=Def	4	dep	_	_
-26	in	_	ADP	P	_	4	case	_	_
-27	sefer	_	NOUN	N-D	Definite=Def	4	dep	_	SpaceAfter=No
-28	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	loyft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	1	punct	_	_
+4	levi-yitskhok	_	PROPN	NPR	_	1	dep	_	_
+5	farkukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+6	zikh	_	PRON	PRO	_	1	nmod	_	_
+7	in	_	ADP	P	_	1	case	_	_
+8	fentster	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+9	,	_	PUNCT	PUNC	_	1	punct	_	_
+10	vi	_	SCONJ	C	_	1	mark	_	_
+11	er	_	PRON	PRO	_	1	nmod	_	_
+12	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	1	dep	_	_
+13	emetsn	_	DET	Q	_	1	det	_	_
+14	bamerkt	_	VERB	VBN	Tense=Past|VerbForm=Part	1	dep	_	SpaceAfter=No
+15	;	_	PUNCT	PUNC	_	1	punct	_	_
+16	er	_	PRON	PRO	_	1	nmod	_	_
+17	aylt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+18	tsu@	_	ADP	P	_	1	case	_	_
+19	@m	_	DET	D	PronType=Art	1	det	_	_
+20	tish	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+21	,	_	PUNCT	PUNC	_	1	punct	_	_
+22	grobt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+23	ayn	_	ADP	RP	_	1	compound:prt	_	_
+24	di	_	DET	D	PronType=Art	1	det	_	_
+25	oygn	_	NOUN	N-D	Definite=Def	1	dep	_	_
+26	in	_	ADP	P	_	1	case	_	_
+27	sefer	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+28	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.623
 # X_ID = 1910E-GRINE-FELDER,79.640
 # text = tsine: kumt arayn . borves . 's kleydl farshtekt bay@ @m zayt . araynkumendik farrikht zi es, farnemt zikh onleygn a fayer oyf@ @n koymen . vendt zikh tsu levi-yitskhok . di mame hot gefregt, tsi ir vilt esn ?
-1	tsine:	_	PROPN	NPR	_	36	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
-5	borves	_	ADJ	ADJ	Degree=Pos	1	amod	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
-7	's	_	DET	D	PronType=Art	1	det	_	_
-8	kleydl	_	NOUN	N	_	1	dep	_	_
-9	farshtekt	_	VERB	VAN	Tense=Past|VerbForm=Part	1	ccomp	_	_
-10	bay@	_	ADP	P	_	1	case	_	_
-11	@m	_	DET	D	PronType=Art	1	det	_	_
-12	zayt	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	1	punct	_	_
-14	araynkumendik	_	VERB	VAG-PART	Tense=Pres|VerbForm=Part	1	amod	_	_
-15	farrikht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-16	zi	_	PRON	PRO	_	1	nmod	_	_
-17	es	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-18	,	_	PUNCT	PUNC	_	1	punct	_	_
-19	farnemt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-20	zikh	_	PRON	PRO	_	1	nmod	_	_
-21	onleygn	_	VERB	VB-PART	VerbForm=Inf	1	dep	_	_
-22	a	_	DET	D	PronType=Art	1	det	_	_
-23	fayer	_	NOUN	N-I	Definite=Ind	1	dep	_	_
-24	oyf@	_	ADP	P	_	1	case	_	_
-25	@n	_	DET	D	PronType=Art	1	det	_	_
-26	koymen	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-27	.	_	PUNCT	PUNC	_	1	punct	_	_
-28	vendt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-29	zikh	_	PRON	PRO	_	1	nmod	_	_
-30	tsu	_	ADP	P	_	1	case	_	_
-31	levi-yitskhok	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
-32	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	36	dep	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
+5	borves	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	2	punct	_	_
+7	's	_	DET	D	PronType=Art	2	det	_	_
+8	kleydl	_	NOUN	N	_	2	dep	_	_
+9	farshtekt	_	VERB	VAN	Tense=Past|VerbForm=Part	2	ccomp	_	_
+10	bay@	_	ADP	P	_	2	case	_	_
+11	@m	_	DET	D	PronType=Art	2	det	_	_
+12	zayt	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	2	punct	_	_
+14	araynkumendik	_	VERB	VAG-PART	Tense=Pres|VerbForm=Part	2	amod	_	_
+15	farrikht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+16	zi	_	PRON	PRO	_	2	nmod	_	_
+17	es	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+18	,	_	PUNCT	PUNC	_	2	punct	_	_
+19	farnemt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+20	zikh	_	PRON	PRO	_	2	nmod	_	_
+21	onleygn	_	VERB	VB-PART	VerbForm=Inf	2	dep	_	_
+22	a	_	DET	D	PronType=Art	2	det	_	_
+23	fayer	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+24	oyf@	_	ADP	P	_	2	case	_	_
+25	@n	_	DET	D	PronType=Art	2	det	_	_
+26	koymen	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+27	.	_	PUNCT	PUNC	_	2	punct	_	_
+28	vendt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+29	zikh	_	PRON	PRO	_	2	nmod	_	_
+30	tsu	_	ADP	P	_	2	case	_	_
+31	levi-yitskhok	_	PROPN	NPR	_	2	dep	_	SpaceAfter=No
+32	.	_	PUNCT	PUNC	_	2	punct	_	_
 33	di	_	DET	D-NOM	Case=Nom|PronType=Art	34	det	_	_
 34	mame	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	36	nsubj	_	_
 35	hot	_	AUX	HVF	VerbForm=Fin	36	aux	_	_
@@ -8519,7 +8519,7 @@
 # X_ID = 1910E-GRINE-FELDER,79.647
 # text = ir volt zikh nisht gekent shtayern mit hersh-bern .
 1	ir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	6	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	6	dep	_	_
 3	zikh	_	PRON	PRO-RFL	PronType=Reflex	6	expl:pv	_	_
 4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 5	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	6	aux	_	_
@@ -8566,24 +8566,24 @@
 # sent_id = 1910E-GRINE-FELDER,.634
 # X_ID = 1910E-GRINE-FELDER,79.651
 # text = zi vil iberbrekhn a tsvayg oyf@ @n kni ; zi ken nisht . vendt zikh tsu im .
-1	zi	_	PRON	PRO	_	5	nmod	_	_
-2	vil	_	AUX	MD	VerbForm=Inf	5	aux	_	_
-3	iberbrekhn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
-4	a	_	DET	D	PronType=Art	5	det	_	_
-5	tsvayg	_	NOUN	N	_	0	root	_	_
-6	oyf@	_	ADP	P	_	5	case	_	_
-7	@n	_	DET	D	PronType=Art	5	det	_	_
-8	kni	_	NOUN	N	_	5	dep	_	SpaceAfter=No
-9	;	_	PUNCT	PUNC	_	5	punct	_	_
-10	zi	_	PRON	PRO	_	5	nmod	_	_
-11	ken	_	AUX	MD	VerbForm=Inf	5	aux	_	_
-12	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	5	punct	_	_
-14	vendt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-15	zikh	_	PRON	PRO	_	5	nmod	_	_
-16	tsu	_	ADP	P	_	5	case	_	_
-17	im	_	PRON	PRO	_	5	nmod	_	SpaceAfter=No
-18	.	_	PUNCT	PUNC	_	5	punct	_	_
+1	zi	_	PRON	PRO	_	3	nmod	_	_
+2	vil	_	AUX	MD	VerbForm=Inf	3	aux	_	_
+3	iberbrekhn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+4	a	_	DET	D	PronType=Art	3	det	_	_
+5	tsvayg	_	NOUN	N	_	3	dep	_	_
+6	oyf@	_	ADP	P	_	3	case	_	_
+7	@n	_	DET	D	PronType=Art	3	det	_	_
+8	kni	_	NOUN	N	_	3	dep	_	SpaceAfter=No
+9	;	_	PUNCT	PUNC	_	3	punct	_	_
+10	zi	_	PRON	PRO	_	3	nmod	_	_
+11	ken	_	AUX	MD	VerbForm=Inf	3	aux	_	_
+12	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	3	punct	_	_
+14	vendt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+15	zikh	_	PRON	PRO	_	3	nmod	_	_
+16	tsu	_	ADP	P	_	3	case	_	_
+17	im	_	PRON	PRO	_	3	nmod	_	SpaceAfter=No
+18	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.635
 # X_ID = 1910E-GRINE-FELDER,79.652
@@ -9311,7 +9311,7 @@
 3	,	_	PUNCT	PUNC	_	9	punct	_	_
 4	ven	_	SCONJ	C	_	9	mark	_	_
 5	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
-6	volt	_	VERB	VLF	VerbForm=Fin	9	dep	_	_
+6	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	9	dep	_	_
 7	es	_	PRON	PRO-ACC	Case=Acc	9	obj	_	_
 8	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	9	aux	_	_
 9	makhn	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -9407,11 +9407,11 @@
 # sent_id = 1910E-GRINE-FELDER,.699
 # X_ID = 1910E-GRINE-FELDER,81.718
 # text = levi-yitskhok shmaykhlt in farlegnhayt .
-1	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-2	shmaykhlt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	in	_	ADP	P	_	1	case	_	_
-4	farlegnhayt	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok	_	PROPN	NPR	_	2	dep	_	_
+2	shmaykhlt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	in	_	ADP	P	_	2	case	_	_
+4	farlegnhayt	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.700
 # X_ID = 1910E-GRINE-FELDER,81.719
@@ -9470,10 +9470,10 @@
 # sent_id = 1910E-GRINE-FELDER,.702
 # X_ID = 1910E-GRINE-FELDER,81.721
 # text = avrom-yankev: kumt arayn . ot hob ikh a bretl mit a shtikl krayd ;
-1	avrom-yankev:	_	PROPN	NPR	_	6	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	avrom-yankev:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	ot	_	ADV	FP	Degree=Pos	6	advmod	_	_
 6	hob	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 7	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
@@ -9539,16 +9539,16 @@
 # sent_id = 1910E-GRINE-FELDER,.707
 # X_ID = 1910E-GRINE-FELDER,81.726
 # text = levi-yitskhok shraybt on mit groyse oysyes " avrom-yankev " .
-1	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-2	shraybt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	_
-4	mit	_	ADP	P	_	1	case	_	_
-5	groyse	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-6	oysyes	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-7	"	_	PUNCT	PUNC	_	1	punct	_	_
-8	avrom-yankev	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
-9	"	_	PUNCT	PUNC	_	1	punct	_	SpaceAfter=No
-10	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok	_	PROPN	NPR	_	2	dep	_	_
+2	shraybt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	_
+4	mit	_	ADP	P	_	2	case	_	_
+5	groyse	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+6	oysyes	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+7	"	_	PUNCT	PUNC	_	2	punct	_	_
+8	avrom-yankev	_	PROPN	NPR	_	2	dep	_	SpaceAfter=No
+9	"	_	PUNCT	PUNC	_	2	punct	_	SpaceAfter=No
+10	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.708
 # X_ID = 1910E-GRINE-FELDER,81.727
@@ -9590,9 +9590,9 @@
 # sent_id = 1910E-GRINE-FELDER,.711
 # X_ID = 1910E-GRINE-FELDER,81.730
 # text = levi-yitskhok shraybt .
-1	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-2	shraybt	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok	_	PROPN	NPR	_	2	dep	_	_
+2	shraybt	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.712
 # X_ID = 1910E-GRINE-FELDER,81.731
@@ -9641,10 +9641,10 @@
 # sent_id = 1910E-GRINE-FELDER,.716
 # X_ID = 1910E-GRINE-FELDER,81.735
 # text = levi-yitskhok shraybt on .
-1	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-2	shraybt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok	_	PROPN	NPR	_	2	dep	_	_
+2	shraybt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.717
 # X_ID = 1910E-GRINE-FELDER,81.736
@@ -9707,10 +9707,10 @@
 # sent_id = 1910E-GRINE-FELDER,.722
 # X_ID = 1910E-GRINE-FELDER,82.742
 # text = elkone: kumt arayn . a got_helf, rebe .
-1	elkone:	_	PROPN	NPR	_	8	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	elkone:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	a	_	DET	D	PronType=Art	6	det	_	_
 6	got_helf	_	NOUN	N-I	Definite=Ind	8	discourse	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	8	punct	_	_
@@ -9909,31 +9909,31 @@
 # sent_id = 1910E-GRINE-FELDER,.739
 # X_ID = 1910E-GRINE-FELDER,82.759
 # text = tsine zogt epes in der shtil tsu avrom-yankev, er geyt shtil aroys . mit groys umruikayt hert zi zikh tsu tsu@ @m shmus .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	zogt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	epes	_	DET	Q	_	1	det	_	_
-4	in	_	ADP	P	_	1	case	_	_
-5	der	_	DET	D	PronType=Art	1	det	_	_
-6	shtil	_	NOUN	N-D	Definite=Def	1	dep	_	_
-7	tsu	_	ADP	P	_	1	case	_	_
-8	avrom-yankev	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
-9	,	_	PUNCT	PUNC	_	1	punct	_	_
-10	er	_	PRON	PRO	_	1	nmod	_	_
-11	geyt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-12	shtil	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-13	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-14	.	_	PUNCT	PUNC	_	1	punct	_	_
-15	mit	_	ADP	P	_	1	case	_	_
-16	groys	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-17	umruikayt	_	NOUN	N-D	Definite=Def	1	dep	_	_
-18	hert	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-19	zi	_	PRON	PRO	_	1	nmod	_	_
-20	zikh	_	PRON	PRO	_	1	nmod	_	_
-21	tsu	_	ADP	RP	_	1	compound:prt	_	_
-22	tsu@	_	ADP	P	_	1	case	_	_
-23	@m	_	DET	D	PronType=Art	1	det	_	_
-24	shmus	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-25	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	zogt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	epes	_	DET	Q	_	2	det	_	_
+4	in	_	ADP	P	_	2	case	_	_
+5	der	_	DET	D	PronType=Art	2	det	_	_
+6	shtil	_	NOUN	N-D	Definite=Def	2	dep	_	_
+7	tsu	_	ADP	P	_	2	case	_	_
+8	avrom-yankev	_	PROPN	NPR	_	2	dep	_	SpaceAfter=No
+9	,	_	PUNCT	PUNC	_	2	punct	_	_
+10	er	_	PRON	PRO	_	2	nmod	_	_
+11	geyt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+12	shtil	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+13	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+14	.	_	PUNCT	PUNC	_	2	punct	_	_
+15	mit	_	ADP	P	_	2	case	_	_
+16	groys	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+17	umruikayt	_	NOUN	N-D	Definite=Def	2	dep	_	_
+18	hert	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+19	zi	_	PRON	PRO	_	2	nmod	_	_
+20	zikh	_	PRON	PRO	_	2	nmod	_	_
+21	tsu	_	ADP	RP	_	2	compound:prt	_	_
+22	tsu@	_	ADP	P	_	2	case	_	_
+23	@m	_	DET	D	PronType=Art	2	det	_	_
+24	shmus	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+25	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.740
 # X_ID = 1910E-GRINE-FELDER,82.760
@@ -10077,10 +10077,10 @@
 # sent_id = 1910E-GRINE-FELDER,.752
 # X_ID = 1910E-GRINE-FELDER,82.772
 # text = batrakht dos bretl .
-1	batrakht	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-2	dos	_	DET	D	PronType=Art	3	det	_	_
-3	bretl	_	NOUN	N	_	0	root	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	3	punct	_	_
+1	batrakht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	dos	_	DET	D	PronType=Art	1	det	_	_
+3	bretl	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.753
 # X_ID = 1910E-GRINE-FELDER,82.773
@@ -10098,15 +10098,15 @@
 # sent_id = 1910E-GRINE-FELDER,.754
 # X_ID = 1910E-GRINE-FELDER,82.774
 # text = tsine kukt fun der zayt beyz tsu im .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	kukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	fun	_	ADP	P	_	1	case	_	_
-4	der	_	DET	D	PronType=Art	1	det	_	_
-5	zayt	_	NOUN	N-D	Definite=Def	1	dep	_	_
-6	beyz	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-7	tsu	_	ADP	P	_	1	case	_	_
-8	im	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	kukt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	fun	_	ADP	P	_	2	case	_	_
+4	der	_	DET	D	PronType=Art	2	det	_	_
+5	zayt	_	NOUN	N-D	Definite=Def	2	dep	_	_
+6	beyz	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+7	tsu	_	ADP	P	_	2	case	_	_
+8	im	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.755
 # X_ID = 1910E-GRINE-FELDER,82.775
@@ -10130,10 +10130,10 @@
 # sent_id = 1910E-GRINE-FELDER,.757
 # X_ID = 1910E-GRINE-FELDER,82.777
 # text = dovid-noyekh kumt arayn .
-1	dovid-noyekh	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	dovid-noyekh	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.758
 # X_ID = 1910E-GRINE-FELDER,82.778
@@ -10365,10 +10365,10 @@
 # sent_id = 1910E-GRINE-FELDER,.776
 # X_ID = 1910E-GRINE-FELDER,83.797
 # text = avrom-yankev kumt arayn .
-1	avrom-yankev	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	avrom-yankev	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.777
 # X_ID = 1910E-GRINE-FELDER,83.798
@@ -10424,10 +10424,10 @@
 # sent_id = 1910E-GRINE-FELDER,.780
 # X_ID = 1910E-GRINE-FELDER,83.801
 # text = rokhl: kumt arayn . vey iz mir, der rebe geyt avek ?
-1	rokhl:	_	PROPN	NPR	_	11	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	11	dep	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	vey	_	NOUN	N-NOM	Case=Nom	11	parataxis	_	_
 6	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
 7	mir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	SpaceAfter=No
@@ -10884,7 +10884,7 @@
 # text = ven 'kh volt gevoynt in shtot, hot men nokh a_mol a zkhie a lerner bay zikh in shtub tsu haltn .
 1	ven	_	SCONJ	C	_	4	mark	_	_
 2	'kh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	4	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	4	dep	_	_
 4	gevoynt	_	VERB	VBN	Tense=Past|VerbForm=Part	8	advcl	_	_
 5	in	_	ADP	P	_	6	case	_	_
 6	shtot	_	NOUN	N	_	4	obl	_	SpaceAfter=No
@@ -10909,7 +10909,7 @@
 # X_ID = 1910E-GRINE-FELDER,84.838
 # text = 'kh volt gegangen in beys-medresh arayn un gezukht, vi %t%-2 ir zet mikh lebn .
 1	'kh	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	3	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	3	dep	_	_
 3	gegangen	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 4	in	_	ADP	P	_	5	case	_	_
 5	beys-medresh	_	NOUN	N	_	6	obl	_	_
@@ -11112,8 +11112,8 @@
 1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
 2	gey	_	VERB	VBI	Mood=Imp	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	2	punct	_	_
-4	mayn	_	PRON	PRO$	_	2	vocative	_	_
-5	kind	_	NOUN	N	_	4	conj	_	SpaceAfter=No
+4	mayn	_	PRON	PRO$	_	5	det:poss	_	_
+5	kind	_	NOUN	N	_	2	vocative	_	SpaceAfter=No
 6	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.833
@@ -11149,15 +11149,15 @@
 # sent_id = 1910E-GRINE-FELDER,.836
 # X_ID = 1910E-GRINE-FELDER,84.858
 # text = rokhl: shrayt nokh . bavayz im, mayn kind, vi sheyn %t%-1 korn vakst %EXCL%
-1	rokhl:	_	PROPN	NPR	_	5	dep	_	_
-2	shrayt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	nokh	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	shrayt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
+3	nokh	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	bavayz	_	VERB	VBI	Mood=Imp	0	root	_	_
 6	im	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	5	punct	_	_
-8	mayn	_	PRON	PRO$	_	5	vocative	_	_
-9	kind	_	NOUN	N	_	8	conj	_	SpaceAfter=No
+8	mayn	_	PRON	PRO$	_	9	det:poss	_	_
+9	kind	_	NOUN	N	_	5	vocative	_	SpaceAfter=No
 10	,	_	PUNCT	PUNC	_	5	punct	_	_
 11	vi	_	ADV	WADV	Degree=Pos	15	advmod	_	_
 12	sheyn	_	ADV	ADV	Degree=Pos	11	advmod	_	_
@@ -11246,7 +11246,7 @@
 5	azoy	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 6	entfern	_	VERB	VB	VerbForm=Inf	13	advcl	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	13	punct	_	_
-8	volt	_	VERB	VLF	VerbForm=Fin	13	dep	_	_
+8	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	_
 9	zi	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 10	shoyn	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 11	bay	_	ADP	P	_	12	case	_	_
@@ -11274,30 +11274,30 @@
 # sent_id = 1910E-GRINE-FELDER,.846
 # X_ID = 1910E-GRINE-FELDER,84.868
 # text = er un dovid-noyekh geyen aroys . tsine kukt in fentster, mit a zayt opgevendt fun der muter, un visht di trern .
-1	er	_	PRON	PRO	_	3	nmod	_	_
-2	un	_	CCONJ	CONJ	_	3	cc	_	_
-3	dovid-noyekh	_	PROPN	NPR	_	0	root	_	_
-4	geyen	_	VERB	VBF-PART	VerbForm=Fin	3	dep	_	_
-5	aroys	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	3	punct	_	_
-7	tsine	_	PROPN	NPR	_	3	dep	_	_
-8	kukt	_	VERB	VBF-PART	VerbForm=Fin	3	dep	_	_
-9	in	_	ADP	P	_	3	case	_	_
-10	fentster	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
-11	,	_	PUNCT	PUNC	_	3	punct	_	_
-12	mit	_	ADP	P	_	3	case	_	_
-13	a	_	DET	D	PronType=Art	3	det	_	_
-14	zayt	_	NOUN	N-I	Definite=Ind	3	dep	_	_
-15	opgevendt	_	VERB	VBF-PART	VerbForm=Fin	3	dep	_	_
-16	fun	_	ADP	P	_	3	case	_	_
-17	der	_	DET	D	PronType=Art	3	det	_	_
-18	muter	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
-19	,	_	PUNCT	PUNC	_	3	punct	_	_
-20	un	_	CCONJ	CONJ	_	3	cc	_	_
-21	visht	_	VERB	VBF-PART	VerbForm=Fin	3	dep	_	_
-22	di	_	DET	D	PronType=Art	3	det	_	_
-23	trern	_	NOUN	N-I	Definite=Ind	3	dep	_	SpaceAfter=No
-24	.	_	PUNCT	PUNC	_	3	punct	_	_
+1	er	_	PRON	PRO	_	4	nmod	_	_
+2	un	_	CCONJ	CONJ	_	4	cc	_	_
+3	dovid-noyekh	_	PROPN	NPR	_	4	dep	_	_
+4	geyen	_	VERB	VBF-PART	VerbForm=Fin	0	root	_	_
+5	aroys	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	4	punct	_	_
+7	tsine	_	PROPN	NPR	_	4	dep	_	_
+8	kukt	_	VERB	VBF-PART	VerbForm=Fin	4	dep	_	_
+9	in	_	ADP	P	_	4	case	_	_
+10	fentster	_	NOUN	N-I	Definite=Ind	4	dep	_	SpaceAfter=No
+11	,	_	PUNCT	PUNC	_	4	punct	_	_
+12	mit	_	ADP	P	_	4	case	_	_
+13	a	_	DET	D	PronType=Art	4	det	_	_
+14	zayt	_	NOUN	N-I	Definite=Ind	4	dep	_	_
+15	opgevendt	_	VERB	VBF-PART	VerbForm=Fin	4	dep	_	_
+16	fun	_	ADP	P	_	4	case	_	_
+17	der	_	DET	D	PronType=Art	4	det	_	_
+18	muter	_	NOUN	N-I	Definite=Ind	4	dep	_	SpaceAfter=No
+19	,	_	PUNCT	PUNC	_	4	punct	_	_
+20	un	_	CCONJ	CONJ	_	4	cc	_	_
+21	visht	_	VERB	VBF-PART	VerbForm=Fin	4	dep	_	_
+22	di	_	DET	D	PronType=Art	4	det	_	_
+23	trern	_	NOUN	N-I	Definite=Ind	4	dep	_	SpaceAfter=No
+24	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.847
 # X_ID = 1910E-GRINE-FELDER,84.869
@@ -11341,9 +11341,9 @@
 # sent_id = 1910E-GRINE-FELDER,.849
 # X_ID = 1910E-GRINE-FELDER,84.871
 # text = tsine khlipet .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	khlipet	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	khlipet	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.850
 # X_ID = 1910E-GRINE-FELDER,84.872
@@ -11405,7 +11405,7 @@
 # X_ID = 1910E-GRINE-FELDER,85.877
 # text = 'kh volt mir nokh gevuntshn tsu zayn in zayn shtand .
 1	'kh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 3	mir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
 4	nokh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 5	gevuntshn	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -11419,19 +11419,19 @@
 # sent_id = 1910E-GRINE-FELDER,.855
 # X_ID = 1910E-GRINE-FELDER,85.878
 # text = tsine zitst baym fentster, baygelozn dem kop un visht di trern .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	zitst	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-3	baym	_	DET	D	PronType=Art	1	det	_	_
-4	fentster	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	1	punct	_	_
-6	baygelozn	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-7	dem	_	DET	D	PronType=Art	1	det	_	_
-8	kop	_	NOUN	N	_	1	dep	_	_
-9	un	_	CCONJ	CONJ	_	1	cc	_	_
-10	visht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-11	di	_	DET	D	PronType=Art	1	det	_	_
-12	trern	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	zitst	_	VERB	VBF-PART	VerbForm=Fin	0	root	_	_
+3	baym	_	DET	D	PronType=Art	2	det	_	_
+4	fentster	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	2	punct	_	_
+6	baygelozn	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+7	dem	_	DET	D	PronType=Art	2	det	_	_
+8	kop	_	NOUN	N	_	2	dep	_	_
+9	un	_	CCONJ	CONJ	_	2	cc	_	_
+10	visht	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+11	di	_	DET	D	PronType=Art	2	det	_	_
+12	trern	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.856
 # X_ID = 1910E-GRINE-FELDER,85.879
@@ -11558,17 +11558,17 @@
 # sent_id = 1910E-GRINE-FELDER,.865
 # X_ID = 1910E-GRINE-FELDER,85.888
 # text = tsine: bahalt ir kop bay der muter oyf@ @n shoys . ikh vil, er zol blaybn bay undz .
-1	tsine:	_	PROPN	NPR	_	13	dep	_	_
-2	bahalt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	ir	_	PRON	PRO$	_	1	det:poss	_	_
-4	kop	_	NOUN	N	_	1	dep	_	_
-5	bay	_	ADP	P	_	1	case	_	_
-6	der	_	DET	D	PronType=Art	1	det	_	_
-7	muter	_	NOUN	N-D	Definite=Def	1	dep	_	_
-8	oyf@	_	ADP	P	_	1	case	_	_
-9	@n	_	DET	D	PronType=Art	1	det	_	_
-10	shoys	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-11	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine:	_	PROPN	NPR	_	2	dep	_	_
+2	bahalt	_	VERB	VBF	VerbForm=Fin	13	dep	_	_
+3	ir	_	PRON	PRO$	_	2	det:poss	_	_
+4	kop	_	NOUN	N	_	2	dep	_	_
+5	bay	_	ADP	P	_	2	case	_	_
+6	der	_	DET	D	PronType=Art	2	det	_	_
+7	muter	_	NOUN	N-D	Definite=Def	2	dep	_	_
+8	oyf@	_	ADP	P	_	2	case	_	_
+9	@n	_	DET	D	PronType=Art	2	det	_	_
+10	shoys	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+11	.	_	PUNCT	PUNC	_	2	punct	_	_
 12	ikh	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 13	vil	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
 14	,	_	PUNCT	PUNC	_	13	punct	_	_
@@ -11685,8 +11685,8 @@
 5	du	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 6	gor	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
-8	mayn	_	PRON	PRO$	_	4	vocative	_	_
-9	kind	_	NOUN	N	_	8	conj	_	SpaceAfter=No
+8	mayn	_	PRON	PRO$	_	9	det:poss	_	_
+9	kind	_	NOUN	N	_	4	vocative	_	SpaceAfter=No
 10	?	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.875
@@ -12201,13 +12201,13 @@
 # sent_id = 1910E-GRINE-FELDER,.913
 # X_ID = 1910E-GRINE-FELDER,86.937
 # text = tsine khlipet, visht di trern .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	khlipet	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-3	,	_	PUNCT	PUNC	_	1	punct	_	_
-4	visht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-5	di	_	DET	D	PronType=Art	1	det	_	_
-6	trern	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-7	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	khlipet	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	_	PUNCT	PUNC	_	2	punct	_	_
+4	visht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+5	di	_	DET	D	PronType=Art	2	det	_	_
+6	trern	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+7	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.914
 # X_ID = 1910E-GRINE-FELDER,86.938
@@ -12298,8 +12298,8 @@
 3	far	_	ADP	P	_	4	case	_	_
 4	alts	_	DET	Q	_	2	obl	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	12	punct	_	_
-6	mayn	_	PRON	PRO$	_	12	vocative	_	_
-7	kind	_	NOUN	N	_	6	conj	_	SpaceAfter=No
+6	mayn	_	PRON	PRO$	_	7	det:poss	_	_
+7	kind	_	NOUN	N	_	12	vocative	_	SpaceAfter=No
 8	,	_	PUNCT	PUNC	_	12	punct	_	_
 9	zolst	_	AUX	MDF	VerbForm=Fin	12	aux	_	_
 10	du	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
@@ -12478,92 +12478,92 @@
 # sent_id = 1910E-GRINE-FELDER,.933
 # X_ID = 1910E-GRINE-FELDER,87.958
 # text = rokhl visht oyfzen, un kukt arayn in emer vaser tsu zen dort ir gezikht . nemt arop dos tikhl un shpiglt zikh vider in emer . fardreyt di tsep oyf hintn un shpiglt zikh . dokh blaybt bay ir, makht fun beyde tsep eynem ; viklt im arum kop un bald ober blaybt bay ir, az zi zol im lozn faln fun ir pleytse arop . tut on shikh un zokn . visht di trern .
-1	rokhl	_	PROPN	NPR	_	0	root	_	_
-2	visht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-3	oyfzen	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	un	_	CCONJ	CONJ	_	1	cc	_	_
-6	kukt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-7	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-8	in	_	ADP	P	_	1	case	_	_
-9	emer	_	NOUN	N-D	Definite=Def	1	dep	_	_
-10	vaser	_	NOUN	N-D	Definite=Def	1	dep	_	_
-11	tsu	_	PART	TO	_	1	mark	_	_
-12	zen	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-13	dort	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-14	ir	_	PRON	PRO$	_	1	det:poss	_	_
-15	gezikht	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-16	.	_	PUNCT	PUNC	_	1	punct	_	_
-17	nemt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-18	arop	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-19	dos	_	DET	D	PronType=Art	1	det	_	_
-20	tikhl	_	NOUN	N-D	Definite=Def	1	dep	_	_
-21	un	_	CCONJ	CONJ	_	1	cc	_	_
-22	shpiglt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-23	zikh	_	PRON	PRO	_	1	nmod	_	_
-24	vider	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-25	in	_	ADP	P	_	1	case	_	_
-26	emer	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-27	.	_	PUNCT	PUNC	_	1	punct	_	_
-28	fardreyt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-29	di	_	DET	D	PronType=Art	1	det	_	_
-30	tsep	_	NOUN	N-D	Definite=Def	1	dep	_	_
-31	oyf	_	ADP	P	_	1	case	_	_
-32	hintn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-33	un	_	CCONJ	CONJ	_	1	cc	_	_
-34	shpiglt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-35	zikh	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-36	.	_	PUNCT	PUNC	_	1	punct	_	_
-37	dokh	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-38	blaybt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-39	bay	_	ADP	P	_	1	case	_	_
-40	ir	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-41	,	_	PUNCT	PUNC	_	1	punct	_	_
-42	makht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-43	fun	_	ADP	P	_	1	case	_	_
-44	beyde	_	DET	Q	_	1	det	_	_
-45	tsep	_	NOUN	N-D	Definite=Def	1	dep	_	_
-46	eynem	_	NUM	NUM	_	1	nummod	_	SpaceAfter=No
-47	;	_	PUNCT	PUNC	_	1	punct	_	_
-48	viklt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-49	im	_	PRON	PRO	_	1	nmod	_	_
-50	arum	_	ADP	P	_	1	case	_	_
-51	kop	_	NOUN	N-D	Definite=Def	1	dep	_	_
-52	un	_	CCONJ	CONJ	_	1	cc	_	_
-53	bald	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-54	ober	_	X	X	_	1	dep	_	_
-55	blaybt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-56	bay	_	ADP	P	_	1	case	_	_
-57	ir	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-58	,	_	PUNCT	PUNC	_	1	punct	_	_
-59	az	_	SCONJ	C	_	1	mark	_	_
-60	zi	_	PRON	PRO	_	1	nmod	_	_
-61	zol	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-62	im	_	PRON	PRO	_	1	nmod	_	_
-63	lozn	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-64	faln	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-65	fun	_	ADP	P	_	1	case	_	_
-66	ir	_	PRON	PRO$	_	1	det:poss	_	_
-67	pleytse	_	NOUN	N-D	Definite=Def	1	dep	_	_
-68	arop	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-69	.	_	PUNCT	PUNC	_	1	punct	_	_
-70	tut	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-71	on	_	ADP	RP	_	1	compound:prt	_	_
-72	shikh	_	NOUN	N-D	Definite=Def	1	dep	_	_
-73	un	_	CCONJ	CONJ	_	1	cc	_	_
-74	zokn	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-75	.	_	PUNCT	PUNC	_	1	punct	_	_
-76	visht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-77	di	_	DET	D	PronType=Art	1	det	_	_
-78	trern	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-79	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl	_	PROPN	NPR	_	2	dep	_	_
+2	visht	_	VERB	VBF-PART	VerbForm=Fin	0	root	_	_
+3	oyfzen	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	2	punct	_	_
+5	un	_	CCONJ	CONJ	_	2	cc	_	_
+6	kukt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+7	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+8	in	_	ADP	P	_	2	case	_	_
+9	emer	_	NOUN	N-D	Definite=Def	2	dep	_	_
+10	vaser	_	NOUN	N-D	Definite=Def	2	dep	_	_
+11	tsu	_	PART	TO	_	2	mark	_	_
+12	zen	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+13	dort	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+14	ir	_	PRON	PRO$	_	2	det:poss	_	_
+15	gezikht	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+16	.	_	PUNCT	PUNC	_	2	punct	_	_
+17	nemt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+18	arop	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+19	dos	_	DET	D	PronType=Art	2	det	_	_
+20	tikhl	_	NOUN	N-D	Definite=Def	2	dep	_	_
+21	un	_	CCONJ	CONJ	_	2	cc	_	_
+22	shpiglt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+23	zikh	_	PRON	PRO	_	2	nmod	_	_
+24	vider	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+25	in	_	ADP	P	_	2	case	_	_
+26	emer	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+27	.	_	PUNCT	PUNC	_	2	punct	_	_
+28	fardreyt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+29	di	_	DET	D	PronType=Art	2	det	_	_
+30	tsep	_	NOUN	N-D	Definite=Def	2	dep	_	_
+31	oyf	_	ADP	P	_	2	case	_	_
+32	hintn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+33	un	_	CCONJ	CONJ	_	2	cc	_	_
+34	shpiglt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+35	zikh	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+36	.	_	PUNCT	PUNC	_	2	punct	_	_
+37	dokh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+38	blaybt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+39	bay	_	ADP	P	_	2	case	_	_
+40	ir	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+41	,	_	PUNCT	PUNC	_	2	punct	_	_
+42	makht	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+43	fun	_	ADP	P	_	2	case	_	_
+44	beyde	_	DET	Q	_	2	det	_	_
+45	tsep	_	NOUN	N-D	Definite=Def	2	dep	_	_
+46	eynem	_	NUM	NUM	_	2	nummod	_	SpaceAfter=No
+47	;	_	PUNCT	PUNC	_	2	punct	_	_
+48	viklt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+49	im	_	PRON	PRO	_	2	nmod	_	_
+50	arum	_	ADP	P	_	2	case	_	_
+51	kop	_	NOUN	N-D	Definite=Def	2	dep	_	_
+52	un	_	CCONJ	CONJ	_	2	cc	_	_
+53	bald	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+54	ober	_	X	X	_	2	dep	_	_
+55	blaybt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+56	bay	_	ADP	P	_	2	case	_	_
+57	ir	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+58	,	_	PUNCT	PUNC	_	2	punct	_	_
+59	az	_	SCONJ	C	_	2	mark	_	_
+60	zi	_	PRON	PRO	_	2	nmod	_	_
+61	zol	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+62	im	_	PRON	PRO	_	2	nmod	_	_
+63	lozn	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+64	faln	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+65	fun	_	ADP	P	_	2	case	_	_
+66	ir	_	PRON	PRO$	_	2	det:poss	_	_
+67	pleytse	_	NOUN	N-D	Definite=Def	2	dep	_	_
+68	arop	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+69	.	_	PUNCT	PUNC	_	2	punct	_	_
+70	tut	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+71	on	_	ADP	RP	_	2	compound:prt	_	_
+72	shikh	_	NOUN	N-D	Definite=Def	2	dep	_	_
+73	un	_	CCONJ	CONJ	_	2	cc	_	_
+74	zokn	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+75	.	_	PUNCT	PUNC	_	2	punct	_	_
+76	visht	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+77	di	_	DET	D	PronType=Art	2	det	_	_
+78	trern	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+79	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.934
 # X_ID = 1910E-GRINE-FELDER,87.959
 # text = hersh-ber: kumt arayn fartik esn ?
-1	hersh-ber:	_	PROPN	NPR	_	5	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+1	hersh-ber:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 4	fartik	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
 5	esn	_	NOUN	N-NOM	Case=Nom	0	root	_	SpaceAfter=No
 6	?	_	PUNCT	PUNC	_	5	punct	_	_
@@ -12759,18 +12759,18 @@
 # sent_id = 1910E-GRINE-FELDER,.951
 # X_ID = 1910E-GRINE-FELDER,87.976
 # text = tsine: nemt arum zayn haldz un kukt im in di oygn . zi veynt,
-1	tsine:	_	PROPN	NPR	_	14	dep	_	_
-2	nemt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-4	zayn	_	PRON	PRO$	_	1	det:poss	_	_
-5	haldz	_	NOUN	N	_	1	dep	_	_
-6	un	_	CCONJ	CONJ	_	1	cc	_	_
-7	kukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-8	im	_	PRON	PRO	_	1	nmod	_	_
-9	in	_	ADP	P	_	1	case	_	_
-10	di	_	DET	D	PronType=Art	1	det	_	_
-11	oygn	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-12	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine:	_	PROPN	NPR	_	2	dep	_	_
+2	nemt	_	VERB	VBF	VerbForm=Fin	14	dep	_	_
+3	arum	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+4	zayn	_	PRON	PRO$	_	2	det:poss	_	_
+5	haldz	_	NOUN	N	_	2	dep	_	_
+6	un	_	CCONJ	CONJ	_	2	cc	_	_
+7	kukt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+8	im	_	PRON	PRO	_	2	nmod	_	_
+9	in	_	ADP	P	_	2	case	_	_
+10	di	_	DET	D	PronType=Art	2	det	_	_
+11	oygn	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+12	.	_	PUNCT	PUNC	_	2	punct	_	_
 13	zi	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 14	veynt	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
 15	,	_	PUNCT	PUNC	_	14	punct	_	_
@@ -13888,13 +13888,13 @@
 # sent_id = 1910E-GRINE-FELDER,.1036
 # X_ID = 1910E-GRINE-FELDER,89.1063
 # text = stere: kumt arayn . a got-helf ;
-1	stere:	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	a	_	DET	D	PronType=Art	6	det	_	_
-6	got-helf	_	NOUN	N-I	Definite=Ind	1	discourse	_	SpaceAfter=No
-7	;	_	PUNCT	PUNC	_	1	punct	_	_
+6	got-helf	_	NOUN	N-I	Definite=Ind	2	discourse	_	SpaceAfter=No
+7	;	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1037
 # X_ID = 1910E-GRINE-FELDER,89.1064
@@ -14000,18 +14000,18 @@
 # sent_id = 1910E-GRINE-FELDER,.1046
 # X_ID = 1910E-GRINE-FELDER,90.1074
 # text = er khapt zi arum, zi rayst zikh aroys fun im .
-1	er	_	PRON	PRO	_	0	root	_	_
-2	khapt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zi	_	PRON	PRO	_	1	nmod	_	_
-4	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	1	punct	_	_
-6	zi	_	PRON	PRO	_	1	nmod	_	_
-7	rayst	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-8	zikh	_	PRON	PRO	_	1	nmod	_	_
-9	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-10	fun	_	ADP	P	_	1	case	_	_
-11	im	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-12	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	er	_	PRON	PRO	_	2	nmod	_	_
+2	khapt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	zi	_	PRON	PRO	_	2	nmod	_	_
+4	arum	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	2	punct	_	_
+6	zi	_	PRON	PRO	_	2	nmod	_	_
+7	rayst	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+8	zikh	_	PRON	PRO	_	2	nmod	_	_
+9	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+10	fun	_	ADP	P	_	2	case	_	_
+11	im	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+12	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1047
 # X_ID = 1910E-GRINE-FELDER,90.1075
@@ -14030,11 +14030,11 @@
 # sent_id = 1910E-GRINE-FELDER,.1048
 # X_ID = 1910E-GRINE-FELDER,90.1076
 # text = stere: lozt zikh nisht . far@ @vos %t%-1 vils@ @tu mikh khapn ?
-1	stere:	_	PROPN	NPR	_	12	dep	_	_
-2	lozt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zikh	_	PRON	PRO	_	1	nmod	_	_
-4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere:	_	PROPN	NPR	_	2	dep	_	_
+2	lozt	_	VERB	VBF	VerbForm=Fin	12	dep	_	_
+3	zikh	_	PRON	PRO	_	2	nmod	_	_
+4	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
 6	far@	_	ADP	P	_	7	case	_	_
 7	@vos	_	PRON	WPRO	_	12	obl	_	_
 8	%t%-1	_	ADP	PP	_	12	obl	_	_
@@ -14078,19 +14078,19 @@
 # sent_id = 1910E-GRINE-FELDER,.1052
 # X_ID = 1910E-GRINE-FELDER,90.1080
 # text = rayst zikh aroys mit a klingendikn gelekhter, loyft aroys fun shtub .
-1	rayst	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-2	zikh	_	PRON	PRO	_	7	nmod	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-4	mit	_	ADP	P	_	7	case	_	_
-5	a	_	DET	D	PronType=Art	7	det	_	_
-6	klingendikn	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
-7	gelekhter	_	NOUN	N	_	0	root	_	SpaceAfter=No
-8	,	_	PUNCT	PUNC	_	7	punct	_	_
-9	loyft	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-10	aroys	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-11	fun	_	ADP	P	_	7	case	_	_
-12	shtub	_	NOUN	N	_	7	dep	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	7	punct	_	_
+1	rayst	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	zikh	_	PRON	PRO	_	1	nmod	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+4	mit	_	ADP	P	_	1	case	_	_
+5	a	_	DET	D	PronType=Art	1	det	_	_
+6	klingendikn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+7	gelekhter	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+8	,	_	PUNCT	PUNC	_	1	punct	_	_
+9	loyft	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+10	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+11	fun	_	ADP	P	_	1	case	_	_
+12	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1053
 # X_ID = 1910E-GRINE-FELDER,90.1081
@@ -14179,12 +14179,12 @@
 # sent_id = 1910E-GRINE-FELDER,.1061
 # X_ID = 1910E-GRINE-FELDER,90.1089
 # text = dovid-noyekh, rokhl kumen arayn .
-1	dovid-noyekh	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	1	punct	_	_
-3	rokhl	_	PROPN	NPR	_	1	dep	_	_
-4	kumen	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-5	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	dovid-noyekh	_	PROPN	NPR	_	4	dep	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	4	punct	_	_
+3	rokhl	_	PROPN	NPR	_	4	dep	_	_
+4	kumen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+5	arayn	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1062
 # X_ID = 1910E-GRINE-FELDER,90.1090
@@ -14427,9 +14427,9 @@
 # X_ID = 1910E-GRINE-FELDER,90.1109
 # text = tsine: efsher gor mayn bet zol er nemen ?
 1	tsine:	_	PROPN	NPR	_	8	dep	_	_
-2	efsher	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	5	advmod	_	_
-3	gor	_	ADV	ADV-ACC	Case=Acc|Degree=Pos	5	advmod	_	_
-4	mayn	_	PRON	PRO$	_	5	det:poss	_	_
+2	efsher	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+3	gor	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+4	mayn	_	PRON	PRO$-ACC	Case=Acc|PronType=Poss	5	det:poss	_	_
 5	bet	_	NOUN	N	_	8	obj	_	_
 6	zol	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 7	er	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
@@ -14441,7 +14441,7 @@
 # text = dovid-noyekh: dos volt efsher geven nisht-krum .
 1	dovid-noyekh:	_	PROPN	NPR	_	5	dep	_	_
 2	dos	_	DET	D-NOM	Case=Nom|PronType=Art	5	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	efsher	_	ADV	ADV	Degree=Pos	5	advmod	_	_
 5	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	nisht-krum	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
@@ -14593,8 +14593,8 @@
 3	@tu	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 4	geton	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	4	punct	_	_
-6	mayn	_	PRON	PRO$	_	4	vocative	_	_
-7	kind	_	NOUN	N	_	6	conj	_	SpaceAfter=No
+6	mayn	_	PRON	PRO$	_	7	det:poss	_	_
+7	kind	_	NOUN	N	_	4	vocative	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1095
@@ -14611,12 +14611,12 @@
 # sent_id = 1910E-GRINE-FELDER,.1096
 # X_ID = 1910E-GRINE-FELDER,91.1125
 # text = levi-yitskhok un avrom-yankev kumen arayn .
-1	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-2	un	_	CCONJ	CONJ	_	3	cc	_	_
-3	avrom-yankev	_	PROPN	NPR	_	1	conj	_	_
-4	kumen	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-5	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok	_	PROPN	NPR	_	4	dep	_	_
+2	un	_	CCONJ	CONJ	_	4	cc	_	_
+3	avrom-yankev	_	PROPN	NPR	_	4	dep	_	_
+4	kumen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+5	arayn	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1097
 # X_ID = 1910E-GRINE-FELDER,91.1126
@@ -14634,17 +14634,17 @@
 # sent_id = 1910E-GRINE-FELDER,.1098
 # X_ID = 1910E-GRINE-FELDER,91.1127
 # text = geyt tsu@ @m tish . derlangt shvarts un veys broyt .
-1	geyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	tsu@	_	ADP	P	_	4	case	_	_
-3	@m	_	DET	D	PronType=Art	4	det	_	_
-4	tish	_	NOUN	N	_	0	root	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	4	punct	_	_
-6	derlangt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-7	shvarts	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-8	un	_	CCONJ	CONJ	_	4	cc	_	_
-9	veys	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-10	broyt	_	NOUN	N	_	4	dep	_	SpaceAfter=No
-11	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	tsu@	_	ADP	P	_	1	case	_	_
+3	@m	_	DET	D	PronType=Art	1	det	_	_
+4	tish	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	1	punct	_	_
+6	derlangt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+7	shvarts	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+8	un	_	CCONJ	CONJ	_	1	cc	_	_
+9	veys	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+10	broyt	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+11	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1099
 # X_ID = 1910E-GRINE-FELDER,91.1128
@@ -14708,41 +14708,41 @@
 # sent_id = 1910E-GRINE-FELDER,.1103
 # X_ID = 1910E-GRINE-FELDER,91.1132
 # text = der oylem vasht zikh, geyt tsu@ @m tish, makht a moytse un kayt dos broyt . rokhl gist on far yedn a polivn shisele krupnik . tsine derlangt mit a bazunderer kvone .
-1	der	_	DET	D	PronType=Art	19	det	_	_
-2	oylem	_	NOUN	N-D	Definite=Def	19	dep	_	_
-3	vasht	_	VERB	VBF	VerbForm=Fin	19	dep	_	_
-4	zikh	_	PRON	PRO	_	19	nmod	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	19	punct	_	_
-6	geyt	_	VERB	VBF	VerbForm=Fin	19	dep	_	_
-7	tsu@	_	ADP	P	_	19	case	_	_
-8	@m	_	DET	D	PronType=Art	19	det	_	_
-9	tish	_	NOUN	N-D	Definite=Def	19	dep	_	SpaceAfter=No
-10	,	_	PUNCT	PUNC	_	19	punct	_	_
-11	makht	_	VERB	VBF	VerbForm=Fin	19	dep	_	_
-12	a	_	DET	D	PronType=Art	19	det	_	_
-13	moytse	_	NOUN	N-D	Definite=Def	19	dep	_	_
-14	un	_	CCONJ	CONJ	_	19	cc	_	_
-15	kayt	_	VERB	VBF	VerbForm=Fin	19	dep	_	_
-16	dos	_	DET	D	PronType=Art	19	det	_	_
-17	broyt	_	NOUN	N-D	Definite=Def	19	dep	_	SpaceAfter=No
-18	.	_	PUNCT	PUNC	_	19	punct	_	_
-19	rokhl	_	PROPN	NPR	_	0	root	_	_
-20	gist	_	VERB	VBF	VerbForm=Fin	19	dep	_	_
-21	on	_	ADP	RP	_	19	compound:prt	_	_
-22	far	_	ADP	P	_	19	case	_	_
-23	yedn	_	DET	Q	_	19	det	_	_
-24	a	_	DET	D	PronType=Art	19	det	_	_
-25	polivn	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
-26	shisele	_	NOUN	N-D	Definite=Def	19	dep	_	_
-27	krupnik	_	NOUN	N-D	Definite=Def	19	dep	_	SpaceAfter=No
-28	.	_	PUNCT	PUNC	_	19	punct	_	_
-29	tsine	_	PROPN	NPR	_	19	dep	_	_
-30	derlangt	_	VERB	VBF	VerbForm=Fin	19	dep	_	_
-31	mit	_	ADP	P	_	19	case	_	_
-32	a	_	DET	D	PronType=Art	19	det	_	_
-33	bazunderer	_	ADJ	ADJ	Degree=Pos	19	amod	_	_
-34	kvone	_	NOUN	N-D	Definite=Def	19	dep	_	SpaceAfter=No
-35	.	_	PUNCT	PUNC	_	19	punct	_	_
+1	der	_	DET	D	PronType=Art	3	det	_	_
+2	oylem	_	NOUN	N-D	Definite=Def	3	dep	_	_
+3	vasht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+4	zikh	_	PRON	PRO	_	3	nmod	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	3	punct	_	_
+6	geyt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+7	tsu@	_	ADP	P	_	3	case	_	_
+8	@m	_	DET	D	PronType=Art	3	det	_	_
+9	tish	_	NOUN	N-D	Definite=Def	3	dep	_	SpaceAfter=No
+10	,	_	PUNCT	PUNC	_	3	punct	_	_
+11	makht	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+12	a	_	DET	D	PronType=Art	3	det	_	_
+13	moytse	_	NOUN	N-D	Definite=Def	3	dep	_	_
+14	un	_	CCONJ	CONJ	_	3	cc	_	_
+15	kayt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+16	dos	_	DET	D	PronType=Art	3	det	_	_
+17	broyt	_	NOUN	N-D	Definite=Def	3	dep	_	SpaceAfter=No
+18	.	_	PUNCT	PUNC	_	3	punct	_	_
+19	rokhl	_	PROPN	NPR	_	3	dep	_	_
+20	gist	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+21	on	_	ADP	RP	_	3	compound:prt	_	_
+22	far	_	ADP	P	_	3	case	_	_
+23	yedn	_	DET	Q	_	3	det	_	_
+24	a	_	DET	D	PronType=Art	3	det	_	_
+25	polivn	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+26	shisele	_	NOUN	N-D	Definite=Def	3	dep	_	_
+27	krupnik	_	NOUN	N-D	Definite=Def	3	dep	_	SpaceAfter=No
+28	.	_	PUNCT	PUNC	_	3	punct	_	_
+29	tsine	_	PROPN	NPR	_	3	dep	_	_
+30	derlangt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
+31	mit	_	ADP	P	_	3	case	_	_
+32	a	_	DET	D	PronType=Art	3	det	_	_
+33	bazunderer	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+34	kvone	_	NOUN	N-D	Definite=Def	3	dep	_	SpaceAfter=No
+35	.	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1104
 # X_ID = 1910E-GRINE-FELDER,91.1133
@@ -14774,251 +14774,251 @@
 # sent_id = 1910E-GRINE-FELDER,.1106
 # X_ID = 1910E-GRINE-FELDER,91.1135
 # text = zi gist on a shisele far levi-itskhokn . ven tsine iz shoyn mit dem in helft veg, ruft zi zi tsurik mit a vunk un gist arayn in shisl nokh a bisl milkh . tsine, haltndik dos shisele azoy, beygt zi zikh tsu der muter un git ir a kush . geyt forzikhtig, mit yires-hakoved, tsu@ @m tish . forhang .
-1	zi	_	PRON	PRO	_	7	nmod	_	_
-2	gist	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-3	on	_	ADP	RP	_	7	compound:prt	_	_
-4	a	_	DET	D	PronType=Art	7	det	_	_
-5	shisele	_	NOUN	N-I	Definite=Ind	7	dep	_	_
-6	far	_	ADP	P	_	7	case	_	_
-7	levi-itskhokn	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	7	punct	_	_
-9	ven	_	SCONJ	C	_	7	mark	_	_
-10	tsine	_	PROPN	NPR	_	7	dep	_	_
-11	iz	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-12	shoyn	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-13	mit	_	ADP	P	_	7	case	_	_
-14	dem	_	DET	D	PronType=Art	7	det	_	_
-15	in	_	ADP	P	_	7	case	_	_
-16	helft	_	NOUN	N-I	Definite=Ind	7	dep	_	_
-17	veg	_	NOUN	N-I	Definite=Ind	7	dep	_	SpaceAfter=No
-18	,	_	PUNCT	PUNC	_	7	punct	_	_
-19	ruft	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-20	zi	_	PRON	PRO	_	7	nmod	_	_
-21	zi	_	PRON	PRO	_	7	nmod	_	_
-22	tsurik	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-23	mit	_	ADP	P	_	7	case	_	_
-24	a	_	DET	D	PronType=Art	7	det	_	_
-25	vunk	_	NOUN	N-I	Definite=Ind	7	dep	_	_
-26	un	_	CCONJ	CONJ	_	7	cc	_	_
-27	gist	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-28	arayn	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-29	in	_	ADP	P	_	7	case	_	_
-30	shisl	_	NOUN	N-I	Definite=Ind	7	dep	_	_
-31	nokh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-32	a	_	DET	D	PronType=Art	7	det	_	_
-33	bisl	_	NOUN	N-I	Definite=Ind	7	dep	_	_
-34	milkh	_	NOUN	N-I	Definite=Ind	7	dep	_	SpaceAfter=No
-35	.	_	PUNCT	PUNC	_	7	punct	_	_
-36	tsine	_	PROPN	NPR	_	7	dep	_	SpaceAfter=No
-37	,	_	PUNCT	PUNC	_	7	punct	_	_
-38	haltndik	_	VERB	VAG	Tense=Pres|VerbForm=Part	7	amod	_	_
-39	dos	_	DET	D	PronType=Art	7	det	_	_
-40	shisele	_	NOUN	N-I	Definite=Ind	7	dep	_	_
-41	azoy	_	ADV	ADV	Degree=Pos	7	advmod	_	SpaceAfter=No
-42	,	_	PUNCT	PUNC	_	7	punct	_	_
-43	beygt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-44	zi	_	PRON	PRO	_	7	nmod	_	_
-45	zikh	_	PRON	PRO	_	7	nmod	_	_
-46	tsu	_	ADP	P	_	7	case	_	_
-47	der	_	DET	D	PronType=Art	7	det	_	_
-48	muter	_	NOUN	N-I	Definite=Ind	7	dep	_	_
-49	un	_	CCONJ	CONJ	_	7	cc	_	_
-50	git	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-51	ir	_	PRON	PRO	_	7	nmod	_	_
-52	a	_	DET	D	PronType=Art	7	det	_	_
-53	kush	_	NOUN	N-I	Definite=Ind	7	dep	_	SpaceAfter=No
-54	.	_	PUNCT	PUNC	_	7	punct	_	_
-55	geyt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
-56	forzikhtig	_	ADV	ADV	Degree=Pos	7	advmod	_	SpaceAfter=No
-57	,	_	PUNCT	PUNC	_	7	punct	_	_
-58	mit	_	ADP	P	_	7	case	_	_
-59	yires-hakoved	_	NOUN	N-I	Definite=Ind	7	dep	_	SpaceAfter=No
-60	,	_	PUNCT	PUNC	_	7	punct	_	_
-61	tsu@	_	ADP	P	_	7	case	_	_
-62	@m	_	DET	D	PronType=Art	7	det	_	_
-63	tish	_	NOUN	N-I	Definite=Ind	7	dep	_	SpaceAfter=No
-64	.	_	PUNCT	PUNC	_	7	punct	_	_
-65	forhang	_	NOUN	N-I	Definite=Ind	7	dep	_	SpaceAfter=No
-66	.	_	PUNCT	PUNC	_	7	punct	_	_
+1	zi	_	PRON	PRO	_	2	nmod	_	_
+2	gist	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	_
+4	a	_	DET	D	PronType=Art	2	det	_	_
+5	shisele	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+6	far	_	ADP	P	_	2	case	_	_
+7	levi-itskhokn	_	PROPN	NPR	_	2	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
+9	ven	_	SCONJ	C	_	2	mark	_	_
+10	tsine	_	PROPN	NPR	_	2	dep	_	_
+11	iz	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+12	shoyn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+13	mit	_	ADP	P	_	2	case	_	_
+14	dem	_	DET	D	PronType=Art	2	det	_	_
+15	in	_	ADP	P	_	2	case	_	_
+16	helft	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+17	veg	_	NOUN	N-I	Definite=Ind	2	dep	_	SpaceAfter=No
+18	,	_	PUNCT	PUNC	_	2	punct	_	_
+19	ruft	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+20	zi	_	PRON	PRO	_	2	nmod	_	_
+21	zi	_	PRON	PRO	_	2	nmod	_	_
+22	tsurik	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+23	mit	_	ADP	P	_	2	case	_	_
+24	a	_	DET	D	PronType=Art	2	det	_	_
+25	vunk	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+26	un	_	CCONJ	CONJ	_	2	cc	_	_
+27	gist	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+28	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+29	in	_	ADP	P	_	2	case	_	_
+30	shisl	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+31	nokh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+32	a	_	DET	D	PronType=Art	2	det	_	_
+33	bisl	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+34	milkh	_	NOUN	N-I	Definite=Ind	2	dep	_	SpaceAfter=No
+35	.	_	PUNCT	PUNC	_	2	punct	_	_
+36	tsine	_	PROPN	NPR	_	2	dep	_	SpaceAfter=No
+37	,	_	PUNCT	PUNC	_	2	punct	_	_
+38	haltndik	_	VERB	VAG	Tense=Pres|VerbForm=Part	2	amod	_	_
+39	dos	_	DET	D	PronType=Art	2	det	_	_
+40	shisele	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+41	azoy	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+42	,	_	PUNCT	PUNC	_	2	punct	_	_
+43	beygt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+44	zi	_	PRON	PRO	_	2	nmod	_	_
+45	zikh	_	PRON	PRO	_	2	nmod	_	_
+46	tsu	_	ADP	P	_	2	case	_	_
+47	der	_	DET	D	PronType=Art	2	det	_	_
+48	muter	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+49	un	_	CCONJ	CONJ	_	2	cc	_	_
+50	git	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+51	ir	_	PRON	PRO	_	2	nmod	_	_
+52	a	_	DET	D	PronType=Art	2	det	_	_
+53	kush	_	NOUN	N-I	Definite=Ind	2	dep	_	SpaceAfter=No
+54	.	_	PUNCT	PUNC	_	2	punct	_	_
+55	geyt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+56	forzikhtig	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+57	,	_	PUNCT	PUNC	_	2	punct	_	_
+58	mit	_	ADP	P	_	2	case	_	_
+59	yires-hakoved	_	NOUN	N-I	Definite=Ind	2	dep	_	SpaceAfter=No
+60	,	_	PUNCT	PUNC	_	2	punct	_	_
+61	tsu@	_	ADP	P	_	2	case	_	_
+62	@m	_	DET	D	PronType=Art	2	det	_	_
+63	tish	_	NOUN	N-I	Definite=Ind	2	dep	_	SpaceAfter=No
+64	.	_	PUNCT	PUNC	_	2	punct	_	_
+65	forhang	_	NOUN	N-I	Definite=Ind	2	dep	_	SpaceAfter=No
+66	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1107
 # X_ID = 1910E-GRINE-FELDER,92.1137
 # text = driter akt . bay dovid-noyekhn far@ @n shtub . sof-zumer . farnakht . fun shtub dertrogt zikh levi-itskhoks shtime ; er lernt . tsine zitst far@ @n shvel un shlogt puter . blaybt ale vayle shtil un hert zikh ayn tsu@ @m gezang vos tsit fun shtub . zi dermont zikh in epes un loyft in gortn arayn . levi-itskhok kumt aroys . batrakht di puter-kaltushke . pruvet a tsi ton dem shtekn ; zet vi arum shtekn zaynen shtiklekh puter ongeklept . 's derhert zikh fun gortn tsines umruiker oysgeshray un a geroysh tsvishn di tsvaygn fun a boym . er blaybt a rege dershrokn ; makht etlekhe trit tsu@ @m gortn, kletert shnel ariber ahin un bald aylt er tsurik in shtub arayn . tsine bavayzt zikh a blase un halt zikh bay@ @m zayt . zi kletert ariber dem tsam un dernentert zikh tsu ir frierdikn plats bay@ @m shvel . batrakht a blut-tseykhn oyf@ @n orem .
-1	driter	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-2	akt	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	5	punct	_	_
-4	bay	_	ADP	P	_	5	case	_	_
-5	dovid-noyekhn	_	PROPN	NPR	_	0	root	_	_
-6	far@	_	ADP	P	_	5	case	_	_
-7	@n	_	DET	D	PronType=Art	5	det	_	_
-8	shtub	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	5	punct	_	_
-10	sof-zumer	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-11	.	_	PUNCT	PUNC	_	5	punct	_	_
-12	farnakht	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	5	punct	_	_
-14	fun	_	ADP	P	_	5	case	_	_
-15	shtub	_	NOUN	N-D	Definite=Def	5	dep	_	_
-16	dertrogt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-17	zikh	_	PRON	PRO	_	5	nmod	_	_
-18	levi-itskhoks	_	NOUN	NPR$	_	5	dep	_	_
-19	shtime	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-20	;	_	PUNCT	PUNC	_	5	punct	_	_
-21	er	_	PRON	PRO	_	5	nmod	_	_
-22	lernt	_	VERB	VBF	VerbForm=Fin	5	dep	_	SpaceAfter=No
-23	.	_	PUNCT	PUNC	_	5	punct	_	_
-24	tsine	_	PROPN	NPR	_	5	dep	_	_
-25	zitst	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-26	far@	_	ADP	P	_	5	case	_	_
-27	@n	_	DET	D	PronType=Art	5	det	_	_
-28	shvel	_	NOUN	N-D	Definite=Def	5	dep	_	_
-29	un	_	CCONJ	CONJ	_	5	cc	_	_
-30	shlogt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-31	puter	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-32	.	_	PUNCT	PUNC	_	5	punct	_	_
-33	blaybt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-34	ale	_	DET	Q	_	5	det	_	_
-35	vayle	_	NOUN	N-D	Definite=Def	5	dep	_	_
-36	shtil	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-37	un	_	CCONJ	CONJ	_	5	cc	_	_
-38	hert	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-39	zikh	_	PRON	PRO	_	5	nmod	_	_
-40	ayn	_	ADP	RP	_	5	compound:prt	_	_
-41	tsu@	_	ADP	P	_	5	case	_	_
-42	@m	_	DET	D	PronType=Art	5	det	_	_
-43	gezang	_	NOUN	N-D	Definite=Def	5	dep	_	_
-44	vos	_	SCONJ	C	_	5	mark	_	_
-45	tsit	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-46	fun	_	ADP	P	_	5	case	_	_
-47	shtub	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-48	.	_	PUNCT	PUNC	_	5	punct	_	_
-49	zi	_	PRON	PRO	_	5	nmod	_	_
-50	dermont	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-51	zikh	_	PRON	PRO	_	5	nmod	_	_
-52	in	_	ADP	P	_	5	case	_	_
-53	epes	_	DET	Q	_	5	det	_	_
-54	un	_	CCONJ	CONJ	_	5	cc	_	_
-55	loyft	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-56	in	_	ADP	P	_	5	case	_	_
-57	gortn	_	NOUN	N-D	Definite=Def	5	dep	_	_
-58	arayn	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
-59	.	_	PUNCT	PUNC	_	5	punct	_	_
-60	levi-itskhok	_	PROPN	NPR	_	5	dep	_	_
-61	kumt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-62	aroys	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
-63	.	_	PUNCT	PUNC	_	5	punct	_	_
-64	batrakht	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-65	di	_	DET	D	PronType=Art	5	det	_	_
-66	puter-kaltushke	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-67	.	_	PUNCT	PUNC	_	5	punct	_	_
-68	pruvet	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-69	a	_	DET	D	PronType=Art	5	det	_	_
-70	tsi	_	NOUN	N-D	Definite=Def	5	dep	_	_
-71	ton	_	VERB	VB	VerbForm=Inf	5	dep	_	_
-72	dem	_	DET	D	PronType=Art	5	det	_	_
-73	shtekn	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-74	;	_	PUNCT	PUNC	_	5	punct	_	_
-75	zet	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-76	vi	_	ADV	WADV	Degree=Pos	5	advmod	_	_
-77	arum	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-78	shtekn	_	ADP	RP-V	_	5	compound:prt	_	_
-79	zaynen	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-80	shtiklekh	_	NOUN	N-D	Definite=Def	5	dep	_	_
-81	puter	_	NOUN	N-D	Definite=Def	5	dep	_	_
-82	ongeklept	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
-83	.	_	PUNCT	PUNC	_	5	punct	_	_
-84	's	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	5	expl	_	_
-85	derhert	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-86	zikh	_	PRON	PRO	_	5	nmod	_	_
-87	fun	_	ADP	P	_	5	case	_	_
-88	gortn	_	NOUN	N-D	Definite=Def	5	dep	_	_
-89	tsines	_	PROPN	NPR	_	5	dep	_	_
-90	umruiker	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-91	oysgeshray	_	NOUN	N-D	Definite=Def	5	dep	_	_
-92	un	_	CCONJ	CONJ	_	5	cc	_	_
-93	a	_	DET	D	PronType=Art	5	det	_	_
-94	geroysh	_	NOUN	N-D	Definite=Def	5	dep	_	_
-95	tsvishn	_	ADP	P	_	5	case	_	_
-96	di	_	DET	D	PronType=Art	5	det	_	_
-97	tsvaygn	_	NOUN	N-D	Definite=Def	5	dep	_	_
-98	fun	_	ADP	P	_	5	case	_	_
-99	a	_	DET	D	PronType=Art	5	det	_	_
-100	boym	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-101	.	_	PUNCT	PUNC	_	5	punct	_	_
-102	er	_	PRON	PRO	_	5	nmod	_	_
-103	blaybt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-104	a	_	DET	D	PronType=Art	5	det	_	_
-105	rege	_	NOUN	N-D	Definite=Def	5	dep	_	_
-106	dershrokn	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
-107	;	_	PUNCT	PUNC	_	5	punct	_	_
-108	makht	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-109	etlekhe	_	DET	Q	_	5	det	_	_
-110	trit	_	NOUN	N-D	Definite=Def	5	dep	_	_
-111	tsu@	_	ADP	P	_	5	case	_	_
-112	@m	_	DET	D	PronType=Art	5	det	_	_
-113	gortn	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-114	,	_	PUNCT	PUNC	_	5	punct	_	_
-115	kletert	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-116	shnel	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-117	ariber	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-118	ahin	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-119	un	_	CCONJ	CONJ	_	5	cc	_	_
-120	bald	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-121	aylt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-122	er	_	PRON	PRO	_	5	nmod	_	_
-123	tsurik	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-124	in	_	ADP	P	_	5	case	_	_
-125	shtub	_	NOUN	N-D	Definite=Def	5	dep	_	_
-126	arayn	_	ADV	ADV	Degree=Pos	5	advmod	_	SpaceAfter=No
-127	.	_	PUNCT	PUNC	_	5	punct	_	_
-128	tsine	_	PROPN	NPR	_	5	dep	_	_
-129	bavayzt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-130	zikh	_	PRON	PRO	_	5	nmod	_	_
-131	a	_	DET	D	PronType=Art	5	det	_	_
-132	blase	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-133	un	_	CCONJ	CONJ	_	5	cc	_	_
-134	halt	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-135	zikh	_	PRON	PRO	_	5	nmod	_	_
-136	bay@	_	ADP	P	_	5	case	_	_
-137	@m	_	DET	D	PronType=Art	5	det	_	_
-138	zayt	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-139	.	_	PUNCT	PUNC	_	5	punct	_	_
-140	zi	_	PRON	PRO	_	5	nmod	_	_
-141	kletert	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-142	ariber	_	ADP	P	_	5	case	_	_
-143	dem	_	DET	D	PronType=Art	5	det	_	_
-144	tsam	_	NOUN	N-D	Definite=Def	5	dep	_	_
-145	un	_	CCONJ	CONJ	_	5	cc	_	_
-146	dernentert	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-147	zikh	_	PRON	PRO	_	5	nmod	_	_
-148	tsu	_	ADP	P	_	5	case	_	_
-149	ir	_	PRON	PRO$	_	5	det:poss	_	_
-150	frierdikn	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
-151	plats	_	NOUN	N-D	Definite=Def	5	dep	_	_
-152	bay@	_	ADP	P	_	5	case	_	_
-153	@m	_	DET	D	PronType=Art	5	det	_	_
-154	shvel	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-155	.	_	PUNCT	PUNC	_	5	punct	_	_
-156	batrakht	_	VERB	VBF	VerbForm=Fin	5	dep	_	_
-157	a	_	DET	D	PronType=Art	5	det	_	_
-158	blut-tseykhn	_	NOUN	N-D	Definite=Def	5	dep	_	_
-159	oyf@	_	ADP	P	_	5	case	_	_
-160	@n	_	DET	D	PronType=Art	5	det	_	_
-161	orem	_	NOUN	N-D	Definite=Def	5	dep	_	SpaceAfter=No
-162	.	_	PUNCT	PUNC	_	5	punct	_	_
+1	driter	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
+2	akt	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	16	punct	_	_
+4	bay	_	ADP	P	_	16	case	_	_
+5	dovid-noyekhn	_	PROPN	NPR	_	16	dep	_	_
+6	far@	_	ADP	P	_	16	case	_	_
+7	@n	_	DET	D	PronType=Art	16	det	_	_
+8	shtub	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	16	punct	_	_
+10	sof-zumer	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+11	.	_	PUNCT	PUNC	_	16	punct	_	_
+12	farnakht	_	ADV	ADV	Degree=Pos	16	advmod	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	16	punct	_	_
+14	fun	_	ADP	P	_	16	case	_	_
+15	shtub	_	NOUN	N-D	Definite=Def	16	dep	_	_
+16	dertrogt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+17	zikh	_	PRON	PRO	_	16	nmod	_	_
+18	levi-itskhoks	_	NOUN	NPR$	_	16	dep	_	_
+19	shtime	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+20	;	_	PUNCT	PUNC	_	16	punct	_	_
+21	er	_	PRON	PRO	_	16	nmod	_	_
+22	lernt	_	VERB	VBF	VerbForm=Fin	16	dep	_	SpaceAfter=No
+23	.	_	PUNCT	PUNC	_	16	punct	_	_
+24	tsine	_	PROPN	NPR	_	16	dep	_	_
+25	zitst	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+26	far@	_	ADP	P	_	16	case	_	_
+27	@n	_	DET	D	PronType=Art	16	det	_	_
+28	shvel	_	NOUN	N-D	Definite=Def	16	dep	_	_
+29	un	_	CCONJ	CONJ	_	16	cc	_	_
+30	shlogt	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+31	puter	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+32	.	_	PUNCT	PUNC	_	16	punct	_	_
+33	blaybt	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+34	ale	_	DET	Q	_	16	det	_	_
+35	vayle	_	NOUN	N-D	Definite=Def	16	dep	_	_
+36	shtil	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
+37	un	_	CCONJ	CONJ	_	16	cc	_	_
+38	hert	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+39	zikh	_	PRON	PRO	_	16	nmod	_	_
+40	ayn	_	ADP	RP	_	16	compound:prt	_	_
+41	tsu@	_	ADP	P	_	16	case	_	_
+42	@m	_	DET	D	PronType=Art	16	det	_	_
+43	gezang	_	NOUN	N-D	Definite=Def	16	dep	_	_
+44	vos	_	SCONJ	C	_	16	mark	_	_
+45	tsit	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+46	fun	_	ADP	P	_	16	case	_	_
+47	shtub	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+48	.	_	PUNCT	PUNC	_	16	punct	_	_
+49	zi	_	PRON	PRO	_	16	nmod	_	_
+50	dermont	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+51	zikh	_	PRON	PRO	_	16	nmod	_	_
+52	in	_	ADP	P	_	16	case	_	_
+53	epes	_	DET	Q	_	16	det	_	_
+54	un	_	CCONJ	CONJ	_	16	cc	_	_
+55	loyft	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+56	in	_	ADP	P	_	16	case	_	_
+57	gortn	_	NOUN	N-D	Definite=Def	16	dep	_	_
+58	arayn	_	ADV	ADV	Degree=Pos	16	advmod	_	SpaceAfter=No
+59	.	_	PUNCT	PUNC	_	16	punct	_	_
+60	levi-itskhok	_	PROPN	NPR	_	16	dep	_	_
+61	kumt	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+62	aroys	_	ADV	ADV	Degree=Pos	16	advmod	_	SpaceAfter=No
+63	.	_	PUNCT	PUNC	_	16	punct	_	_
+64	batrakht	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+65	di	_	DET	D	PronType=Art	16	det	_	_
+66	puter-kaltushke	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+67	.	_	PUNCT	PUNC	_	16	punct	_	_
+68	pruvet	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+69	a	_	DET	D	PronType=Art	16	det	_	_
+70	tsi	_	NOUN	N-D	Definite=Def	16	dep	_	_
+71	ton	_	VERB	VB	VerbForm=Inf	16	dep	_	_
+72	dem	_	DET	D	PronType=Art	16	det	_	_
+73	shtekn	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+74	;	_	PUNCT	PUNC	_	16	punct	_	_
+75	zet	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+76	vi	_	ADV	WADV	Degree=Pos	16	advmod	_	_
+77	arum	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+78	shtekn	_	ADP	RP-V	_	16	compound:prt	_	_
+79	zaynen	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+80	shtiklekh	_	NOUN	N-D	Definite=Def	16	dep	_	_
+81	puter	_	NOUN	N-D	Definite=Def	16	dep	_	_
+82	ongeklept	_	ADJ	ADJ	Degree=Pos	16	amod	_	SpaceAfter=No
+83	.	_	PUNCT	PUNC	_	16	punct	_	_
+84	's	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	16	expl	_	_
+85	derhert	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+86	zikh	_	PRON	PRO	_	16	nmod	_	_
+87	fun	_	ADP	P	_	16	case	_	_
+88	gortn	_	NOUN	N-D	Definite=Def	16	dep	_	_
+89	tsines	_	PROPN	NPR	_	16	dep	_	_
+90	umruiker	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
+91	oysgeshray	_	NOUN	N-D	Definite=Def	16	dep	_	_
+92	un	_	CCONJ	CONJ	_	16	cc	_	_
+93	a	_	DET	D	PronType=Art	16	det	_	_
+94	geroysh	_	NOUN	N-D	Definite=Def	16	dep	_	_
+95	tsvishn	_	ADP	P	_	16	case	_	_
+96	di	_	DET	D	PronType=Art	16	det	_	_
+97	tsvaygn	_	NOUN	N-D	Definite=Def	16	dep	_	_
+98	fun	_	ADP	P	_	16	case	_	_
+99	a	_	DET	D	PronType=Art	16	det	_	_
+100	boym	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+101	.	_	PUNCT	PUNC	_	16	punct	_	_
+102	er	_	PRON	PRO	_	16	nmod	_	_
+103	blaybt	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+104	a	_	DET	D	PronType=Art	16	det	_	_
+105	rege	_	NOUN	N-D	Definite=Def	16	dep	_	_
+106	dershrokn	_	ADJ	ADJ	Degree=Pos	16	amod	_	SpaceAfter=No
+107	;	_	PUNCT	PUNC	_	16	punct	_	_
+108	makht	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+109	etlekhe	_	DET	Q	_	16	det	_	_
+110	trit	_	NOUN	N-D	Definite=Def	16	dep	_	_
+111	tsu@	_	ADP	P	_	16	case	_	_
+112	@m	_	DET	D	PronType=Art	16	det	_	_
+113	gortn	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+114	,	_	PUNCT	PUNC	_	16	punct	_	_
+115	kletert	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+116	shnel	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+117	ariber	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+118	ahin	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+119	un	_	CCONJ	CONJ	_	16	cc	_	_
+120	bald	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+121	aylt	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+122	er	_	PRON	PRO	_	16	nmod	_	_
+123	tsurik	_	ADV	ADV	Degree=Pos	16	advmod	_	_
+124	in	_	ADP	P	_	16	case	_	_
+125	shtub	_	NOUN	N-D	Definite=Def	16	dep	_	_
+126	arayn	_	ADV	ADV	Degree=Pos	16	advmod	_	SpaceAfter=No
+127	.	_	PUNCT	PUNC	_	16	punct	_	_
+128	tsine	_	PROPN	NPR	_	16	dep	_	_
+129	bavayzt	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+130	zikh	_	PRON	PRO	_	16	nmod	_	_
+131	a	_	DET	D	PronType=Art	16	det	_	_
+132	blase	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
+133	un	_	CCONJ	CONJ	_	16	cc	_	_
+134	halt	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+135	zikh	_	PRON	PRO	_	16	nmod	_	_
+136	bay@	_	ADP	P	_	16	case	_	_
+137	@m	_	DET	D	PronType=Art	16	det	_	_
+138	zayt	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+139	.	_	PUNCT	PUNC	_	16	punct	_	_
+140	zi	_	PRON	PRO	_	16	nmod	_	_
+141	kletert	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+142	ariber	_	ADP	P	_	16	case	_	_
+143	dem	_	DET	D	PronType=Art	16	det	_	_
+144	tsam	_	NOUN	N-D	Definite=Def	16	dep	_	_
+145	un	_	CCONJ	CONJ	_	16	cc	_	_
+146	dernentert	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+147	zikh	_	PRON	PRO	_	16	nmod	_	_
+148	tsu	_	ADP	P	_	16	case	_	_
+149	ir	_	PRON	PRO$	_	16	det:poss	_	_
+150	frierdikn	_	ADJ	ADJ	Degree=Pos	16	amod	_	_
+151	plats	_	NOUN	N-D	Definite=Def	16	dep	_	_
+152	bay@	_	ADP	P	_	16	case	_	_
+153	@m	_	DET	D	PronType=Art	16	det	_	_
+154	shvel	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+155	.	_	PUNCT	PUNC	_	16	punct	_	_
+156	batrakht	_	VERB	VBF	VerbForm=Fin	16	dep	_	_
+157	a	_	DET	D	PronType=Art	16	det	_	_
+158	blut-tseykhn	_	NOUN	N-D	Definite=Def	16	dep	_	_
+159	oyf@	_	ADP	P	_	16	case	_	_
+160	@n	_	DET	D	PronType=Art	16	det	_	_
+161	orem	_	NOUN	N-D	Definite=Def	16	dep	_	SpaceAfter=No
+162	.	_	PUNCT	PUNC	_	16	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1108
 # X_ID = 1910E-GRINE-FELDER,92.1138
 # text = levi-yitskhok: kumt aroys, trogt a kvort vaser .
-1	levi-yitskhok:	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	trogt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-6	a	_	DET	D	PronType=Art	1	det	_	_
-7	kvort	_	NOUN	N-I	Definite=Ind	1	dep	_	_
-8	vaser	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	2	punct	_	_
+5	trogt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+6	a	_	DET	D	PronType=Art	2	det	_	_
+7	kvort	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+8	vaser	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1109
 # X_ID = 1910E-GRINE-FELDER,92.1139
@@ -15042,14 +15042,14 @@
 # sent_id = 1910E-GRINE-FELDER,.1111
 # X_ID = 1910E-GRINE-FELDER,92.1141
 # text = tsine nemt fun zayn hant un trinkt .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	nemt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	fun	_	ADP	P	_	1	case	_	_
-4	zayn	_	PRON	PRO$	_	1	det:poss	_	_
-5	hant	_	NOUN	N	_	1	dep	_	_
-6	un	_	CCONJ	CONJ	_	1	cc	_	_
-7	trinkt	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	nemt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	fun	_	ADP	P	_	2	case	_	_
+4	zayn	_	PRON	PRO$	_	2	det:poss	_	_
+5	hant	_	NOUN	N	_	2	dep	_	_
+6	un	_	CCONJ	CONJ	_	2	cc	_	_
+7	trinkt	_	VERB	VBF	VerbForm=Fin	2	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1112
 # X_ID = 1910E-GRINE-FELDER,92.1142
@@ -15190,14 +15190,14 @@
 # sent_id = 1910E-GRINE-FELDER,.1124
 # X_ID = 1910E-GRINE-FELDER,92.1154
 # text = bakumt fun ir shirts tsvey royte epl .
-1	bakumt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	fun	_	ADP	P	_	4	case	_	_
-3	ir	_	PRON	PRO$	_	4	det:poss	_	_
-4	shirts	_	NOUN	N	_	0	root	_	_
-5	tsvey	_	NUM	NUM	_	4	nummod	_	_
-6	royte	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-7	epl	_	NOUN	N	_	4	dep	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	bakumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	fun	_	ADP	P	_	1	case	_	_
+3	ir	_	PRON	PRO$	_	1	det:poss	_	_
+4	shirts	_	NOUN	N	_	1	dep	_	_
+5	tsvey	_	NUM	NUM	_	1	nummod	_	_
+6	royte	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+7	epl	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1125
 # X_ID = 1910E-GRINE-FELDER,92.1155
@@ -15226,12 +15226,12 @@
 # sent_id = 1910E-GRINE-FELDER,.1127
 # X_ID = 1910E-GRINE-FELDER,92.1157
 # text = 'kh hob gekent geharget vern .
-1	'kh	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-2	hob	_	AUX	HVF	VerbForm=Fin	5	aux	_	_
-3	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	5	aux	_	_
-4	geharget	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	vern	_	VERB	RD	VerbForm=Inf	0	root	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	5	punct	_	_
+1	'kh	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+2	hob	_	AUX	HVF	VerbForm=Fin	4	aux	_	_
+3	gekent	_	AUX	MDN	Tense=Past|VerbForm=Part	4	aux	_	_
+4	geharget	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	vern	_	AUX	RD	VerbForm=Inf	4	aux	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1128
 # X_ID = 1910E-GRINE-FELDER,92.1158
@@ -15254,7 +15254,7 @@
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
 8	az	_	SCONJ	C	_	11	mark	_	_
 9	'kh	_	PRON	PRO-NOM	Case=Nom	11	nsubj	_	_
-10	volt	_	VERB	VLF	VerbForm=Fin	11	dep	_	_
+10	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	11	dep	_	_
 11	geharget	_	VERB	VAN	Tense=Past|VerbForm=Part	4	advcl	_	_
 12	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	11	dep	_	SpaceAfter=No
 13	?	_	PUNCT	PUNC	_	4	punct	_	_
@@ -15431,14 +15431,14 @@
 # sent_id = 1910E-GRINE-FELDER,.1143
 # X_ID = 1910E-GRINE-FELDER,93.1174
 # text = un du bist take bald bashtraft gevorn .
-1	un	_	CCONJ	CONJ	_	7	cc	_	_
-2	du	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-3	bist	_	AUX	BEF	VerbForm=Fin	7	cop	_	_
-4	take	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-5	bald	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-6	bashtraft	_	VERB	VAN	Tense=Past|VerbForm=Part	7	ccomp	_	_
-7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	7	punct	_	_
+1	un	_	CCONJ	CONJ	_	6	cc	_	_
+2	du	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
+3	bist	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
+4	take	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+5	bald	_	ADV	ADV	Degree=Pos	6	advmod	_	_
+6	bashtraft	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+7	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	6	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1144
 # X_ID = 1910E-GRINE-FELDER,93.1175
@@ -15564,43 +15564,43 @@
 # sent_id = 1910E-GRINE-FELDER,.1153
 # X_ID = 1910E-GRINE-FELDER,93.1184
 # text = loyft in shtub arayn . levi-itskhok batrakht di tsvey epl vos zaynen geblibn lebn im oyf dr erd . shmekt zey . tsine kumt aroys . brengt a bretl, oyf dem iz ongeshribn mit krayd-oysyes .
-1	loyft	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-2	in	_	ADP	P	_	6	case	_	_
-3	shtub	_	NOUN	N-D	Definite=Def	6	dep	_	_
-4	arayn	_	ADV	ADV	Degree=Pos	6	advmod	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	6	punct	_	_
-6	levi-itskhok	_	PROPN	NPR	_	0	root	_	_
-7	batrakht	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-8	di	_	DET	D	PronType=Art	6	det	_	_
-9	tsvey	_	NUM	NUM	_	6	nummod	_	_
-10	epl	_	NOUN	N-D	Definite=Def	6	dep	_	_
-11	vos	_	SCONJ	C	_	6	mark	_	_
-12	zaynen	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-13	geblibn	_	VERB	VBN	Tense=Past|VerbForm=Part	6	dep	_	_
-14	lebn	_	ADP	P	_	6	case	_	_
-15	im	_	PRON	PRO	_	6	nmod	_	_
-16	oyf	_	ADP	P	_	6	case	_	_
-17	dr	_	DET	D	PronType=Art	6	det	_	_
-18	erd	_	NOUN	N-D	Definite=Def	6	dep	_	SpaceAfter=No
-19	.	_	PUNCT	PUNC	_	6	punct	_	_
-20	shmekt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-21	zey	_	PRON	PRO	_	6	nmod	_	SpaceAfter=No
-22	.	_	PUNCT	PUNC	_	6	punct	_	_
-23	tsine	_	PROPN	NPR	_	6	dep	_	_
-24	kumt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-25	aroys	_	ADV	ADV	Degree=Pos	6	advmod	_	SpaceAfter=No
-26	.	_	PUNCT	PUNC	_	6	punct	_	_
-27	brengt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
-28	a	_	DET	D	PronType=Art	6	det	_	_
-29	bretl	_	NOUN	N-D	Definite=Def	6	dep	_	SpaceAfter=No
-30	,	_	PUNCT	PUNC	_	6	punct	_	_
-31	oyf	_	ADP	P	_	6	case	_	_
-32	dem	_	DET	D	PronType=Art	6	det	_	_
-33	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-34	ongeshribn	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
-35	mit	_	ADP	P	_	6	case	_	_
-36	krayd-oysyes	_	NOUN	N-D	Definite=Def	6	dep	_	SpaceAfter=No
-37	.	_	PUNCT	PUNC	_	6	punct	_	_
+1	loyft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	in	_	ADP	P	_	1	case	_	_
+3	shtub	_	NOUN	N-D	Definite=Def	1	dep	_	_
+4	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	1	punct	_	_
+6	levi-itskhok	_	PROPN	NPR	_	1	dep	_	_
+7	batrakht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+8	di	_	DET	D	PronType=Art	1	det	_	_
+9	tsvey	_	NUM	NUM	_	1	nummod	_	_
+10	epl	_	NOUN	N-D	Definite=Def	1	dep	_	_
+11	vos	_	SCONJ	C	_	1	mark	_	_
+12	zaynen	_	AUX	BEF	VerbForm=Fin	1	cop	_	_
+13	geblibn	_	VERB	VBN	Tense=Past|VerbForm=Part	1	dep	_	_
+14	lebn	_	ADP	P	_	1	case	_	_
+15	im	_	PRON	PRO	_	1	nmod	_	_
+16	oyf	_	ADP	P	_	1	case	_	_
+17	dr	_	DET	D	PronType=Art	1	det	_	_
+18	erd	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+19	.	_	PUNCT	PUNC	_	1	punct	_	_
+20	shmekt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+21	zey	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
+22	.	_	PUNCT	PUNC	_	1	punct	_	_
+23	tsine	_	PROPN	NPR	_	1	dep	_	_
+24	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+25	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+26	.	_	PUNCT	PUNC	_	1	punct	_	_
+27	brengt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+28	a	_	DET	D	PronType=Art	1	det	_	_
+29	bretl	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+30	,	_	PUNCT	PUNC	_	1	punct	_	_
+31	oyf	_	ADP	P	_	1	case	_	_
+32	dem	_	DET	D	PronType=Art	1	det	_	_
+33	iz	_	AUX	BEF	VerbForm=Fin	1	cop	_	_
+34	ongeshribn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+35	mit	_	ADP	P	_	1	case	_	_
+36	krayd-oysyes	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+37	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1154
 # X_ID = 1910E-GRINE-FELDER,93.1185
@@ -15618,11 +15618,11 @@
 1	tsine:	_	PROPN	NPR	_	2	dep	_	_
 2	leyent	_	VERB	VBI	Mood=Imp	0	root	_	_
 3	iber	_	ADP	RP	_	2	compound:prt	_	_
-4	vos	_	PRON	WPRO	_	8	obj	_	_
-5	%t%-1	_	NOUN	NP-SBJ	_	8	nsubj	_	_
-6	do	_	ADV	ADV	Degree=Pos	8	advmod	_	_
-7	iz	_	AUX	BEF	VerbForm=Fin	8	cop	_	_
-8	ongeshribn	_	ADJ	ADJ	Degree=Pos	2	dep	_	SpaceAfter=No
+4	vos	_	PRON	WPRO	_	7	obj	_	_
+5	%t%-1	_	NOUN	NP-SBJ	_	7	nsubj	_	_
+6	do	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+7	iz	_	AUX	BEF	VerbForm=Fin	2	dep	_	_
+8	ongeshribn	_	ADJ	ADJ	Degree=Pos	7	amod	_	SpaceAfter=No
 9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1156
@@ -15647,15 +15647,15 @@
 # sent_id = 1910E-GRINE-FELDER,.1158
 # X_ID = 1910E-GRINE-FELDER,93.1189
 # text = levi-yitskhok: kukt farvundert tsu di oysyes . leyent . tsine bas r' noyekh ...
-1	levi-yitskhok:	_	PROPN	NPR	_	10	dep	_	_
-2	kukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	farvundert	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-4	tsu	_	ADP	P	_	1	case	_	_
-5	di	_	DET	D	PronType=Art	1	det	_	_
-6	oysyes	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-7	.	_	PUNCT	PUNC	_	1	punct	_	_
-8	leyent	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok:	_	PROPN	NPR	_	2	dep	_	_
+2	kukt	_	VERB	VBF	VerbForm=Fin	10	dep	_	_
+3	farvundert	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+4	tsu	_	ADP	P	_	2	case	_	_
+5	di	_	DET	D	PronType=Art	2	det	_	_
+6	oysyes	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+7	.	_	PUNCT	PUNC	_	2	punct	_	_
+8	leyent	_	VERB	VBF	VerbForm=Fin	2	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	2	punct	_	_
 10	tsine	_	PROPN	NPR	_	0	root	_	_
 11	bas	_	PROPN	NPR	_	10	flat:name	_	_
 12	r'	_	PROPN	NPR	_	10	dep	_	_
@@ -15772,20 +15772,20 @@
 # sent_id = 1910E-GRINE-FELDER,.1169
 # X_ID = 1910E-GRINE-FELDER,94.1201
 # text = levi-itskhok tut es . tsine bakumt fun keshene a shtikl krayd un shraybt .
-1	levi-itskhok	_	PROPN	NPR	_	0	root	_	_
-2	tut	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	es	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
-5	tsine	_	PROPN	NPR	_	1	dep	_	_
-6	bakumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-7	fun	_	ADP	P	_	1	case	_	_
-8	keshene	_	NOUN	N-I	Definite=Ind	1	dep	_	_
-9	a	_	DET	D	PronType=Art	1	det	_	_
-10	shtikl	_	NOUN	N-I	Definite=Ind	1	dep	_	_
-11	krayd	_	NOUN	N-I	Definite=Ind	1	dep	_	_
-12	un	_	CCONJ	CONJ	_	1	cc	_	_
-13	shraybt	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-14	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-itskhok	_	PROPN	NPR	_	2	dep	_	_
+2	tut	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	es	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
+5	tsine	_	PROPN	NPR	_	2	dep	_	_
+6	bakumt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+7	fun	_	ADP	P	_	2	case	_	_
+8	keshene	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+9	a	_	DET	D	PronType=Art	2	det	_	_
+10	shtikl	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+11	krayd	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+12	un	_	CCONJ	CONJ	_	2	cc	_	_
+13	shraybt	_	VERB	VBF	VerbForm=Fin	2	dep	_	SpaceAfter=No
+14	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1170
 # X_ID = 1910E-GRINE-FELDER,94.1202
@@ -15815,13 +15815,13 @@
 # sent_id = 1910E-GRINE-FELDER,.1173
 # X_ID = 1910E-GRINE-FELDER,94.1205
 # text = nu, vos %t%-1 iz geshribn ?
-1	nu	_	INTJ	INTJ	_	6	discourse	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	6	punct	_	_
-3	vos	_	PRON	WPRO	_	6	obj	_	_
-4	%t%-1	_	NOUN	NP-SBJ	_	6	nsubj	_	_
-5	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-6	geshribn	_	ADJ	ADJ	Degree=Pos	0	root	_	SpaceAfter=No
-7	?	_	PUNCT	PUNC	_	6	punct	_	_
+1	nu	_	INTJ	INTJ	_	5	discourse	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	5	punct	_	_
+3	vos	_	PRON	WPRO	_	5	obj	_	_
+4	%t%-1	_	NOUN	NP-SBJ	_	5	nsubj	_	_
+5	iz	_	VERB	BEF	VerbForm=Fin	0	root	_	_
+6	geshribn	_	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
+7	?	_	PUNCT	PUNC	_	5	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1174
 # X_ID = 1910E-GRINE-FELDER,94.1206
@@ -15910,99 +15910,99 @@
 # sent_id = 1910E-GRINE-FELDER,.1183
 # X_ID = 1910E-GRINE-FELDER,94.1215
 # text = levi-itskhok farmakht di oygn . tsine shraybt vider mit groyse oysyes zayn nomen, un ven er halt azoy farmakht di oygn, farganvet zi zikh shtil tsu im un git im a kush . antloyft in shtub arayn . levi-itskhok iz iberrasht fun dem, vos 's iz geshen . er vil arayngeyn in shtub, nor, shoyn araynm shvel khapt er zikh, az er badarf in shtub arayn nisht geyn . er nemt dem bretl, visht arayngelozn, fartrakht .
-1	levi-itskhok	_	PROPN	NPR	_	0	root	_	_
-2	farmakht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-3	di	_	DET	D	PronType=Art	1	det	_	_
-4	oygn	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	1	punct	_	_
-6	tsine	_	PROPN	NPR	_	1	dep	_	_
-7	shraybt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-8	vider	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-9	mit	_	ADP	P	_	1	case	_	_
-10	groyse	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-11	oysyes	_	NOUN	N-D	Definite=Def	1	dep	_	_
-12	zayn	_	PRON	PRO$	_	1	det:poss	_	_
-13	nomen	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-14	,	_	PUNCT	PUNC	_	1	punct	_	_
-15	un	_	CCONJ	CONJ	_	1	cc	_	_
-16	ven	_	SCONJ	C	_	1	mark	_	_
-17	er	_	PRON	PRO	_	1	nmod	_	_
-18	halt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-19	azoy	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-20	farmakht	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-21	di	_	DET	D	PronType=Art	1	det	_	_
-22	oygn	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-23	,	_	PUNCT	PUNC	_	1	punct	_	_
-24	farganvet	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-25	zi	_	PRON	PRO	_	1	nmod	_	_
-26	zikh	_	PRON	PRO	_	1	nmod	_	_
-27	shtil	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-28	tsu	_	ADP	P	_	1	case	_	_
-29	im	_	PRON	PRO	_	1	nmod	_	_
-30	un	_	CCONJ	CONJ	_	1	cc	_	_
-31	git	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-32	im	_	PRON	PRO	_	1	nmod	_	_
-33	a	_	DET	D	PronType=Art	1	det	_	_
-34	kush	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-35	.	_	PUNCT	PUNC	_	1	punct	_	_
-36	antloyft	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-37	in	_	ADP	P	_	1	case	_	_
-38	shtub	_	NOUN	N-D	Definite=Def	1	dep	_	_
-39	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-40	.	_	PUNCT	PUNC	_	1	punct	_	_
-41	levi-itskhok	_	PROPN	NPR	_	1	dep	_	_
-42	iz	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-43	iberrasht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-44	fun	_	ADP	P	_	1	case	_	_
-45	dem	_	DET	D	PronType=Art	1	det	_	SpaceAfter=No
-46	,	_	PUNCT	PUNC	_	1	punct	_	_
-47	vos	_	SCONJ	C	_	1	mark	_	_
-48	's	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	1	expl	_	_
-49	iz	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-50	geshen	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	SpaceAfter=No
-51	.	_	PUNCT	PUNC	_	1	punct	_	_
-52	er	_	PRON	PRO	_	1	nmod	_	_
-53	vil	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-54	arayngeyn	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-55	in	_	ADP	P	_	1	case	_	_
-56	shtub	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-57	,	_	PUNCT	PUNC	_	1	punct	_	_
-58	nor	_	ADV	FP	Degree=Pos	1	advmod	_	SpaceAfter=No
-59	,	_	PUNCT	PUNC	_	1	punct	_	_
-60	shoyn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-61	araynm	_	DET	D	PronType=Art	1	det	_	_
-62	shvel	_	NOUN	N-D	Definite=Def	1	dep	_	_
-63	khapt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-64	er	_	PRON	PRO	_	1	nmod	_	_
-65	zikh	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-66	,	_	PUNCT	PUNC	_	1	punct	_	_
-67	az	_	SCONJ	C	_	1	mark	_	_
-68	er	_	PRON	PRO	_	1	nmod	_	_
-69	badarf	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-70	in	_	ADP	P	_	1	case	_	_
-71	shtub	_	NOUN	N-D	Definite=Def	1	dep	_	_
-72	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-73	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	advmod	_	_
-74	geyn	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	SpaceAfter=No
-75	.	_	PUNCT	PUNC	_	1	punct	_	_
-76	er	_	PRON	PRO	_	1	nmod	_	_
-77	nemt	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-78	dem	_	DET	D	PronType=Art	1	det	_	_
-79	bretl	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-80	,	_	PUNCT	PUNC	_	1	punct	_	_
-81	visht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	_
-82	arayngelozn	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	SpaceAfter=No
-83	,	_	PUNCT	PUNC	_	1	punct	_	_
-84	fartrakht	_	VERB	VBF-PART	VerbForm=Fin	1	dep	_	SpaceAfter=No
-85	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-itskhok	_	PROPN	NPR	_	2	dep	_	_
+2	farmakht	_	VERB	VBF-PART	VerbForm=Fin	0	root	_	_
+3	di	_	DET	D	PronType=Art	2	det	_	_
+4	oygn	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
+6	tsine	_	PROPN	NPR	_	2	dep	_	_
+7	shraybt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+8	vider	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+9	mit	_	ADP	P	_	2	case	_	_
+10	groyse	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+11	oysyes	_	NOUN	N-D	Definite=Def	2	dep	_	_
+12	zayn	_	PRON	PRO$	_	2	det:poss	_	_
+13	nomen	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+14	,	_	PUNCT	PUNC	_	2	punct	_	_
+15	un	_	CCONJ	CONJ	_	2	cc	_	_
+16	ven	_	SCONJ	C	_	2	mark	_	_
+17	er	_	PRON	PRO	_	2	nmod	_	_
+18	halt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+19	azoy	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+20	farmakht	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+21	di	_	DET	D	PronType=Art	2	det	_	_
+22	oygn	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+23	,	_	PUNCT	PUNC	_	2	punct	_	_
+24	farganvet	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+25	zi	_	PRON	PRO	_	2	nmod	_	_
+26	zikh	_	PRON	PRO	_	2	nmod	_	_
+27	shtil	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+28	tsu	_	ADP	P	_	2	case	_	_
+29	im	_	PRON	PRO	_	2	nmod	_	_
+30	un	_	CCONJ	CONJ	_	2	cc	_	_
+31	git	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+32	im	_	PRON	PRO	_	2	nmod	_	_
+33	a	_	DET	D	PronType=Art	2	det	_	_
+34	kush	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+35	.	_	PUNCT	PUNC	_	2	punct	_	_
+36	antloyft	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+37	in	_	ADP	P	_	2	case	_	_
+38	shtub	_	NOUN	N-D	Definite=Def	2	dep	_	_
+39	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+40	.	_	PUNCT	PUNC	_	2	punct	_	_
+41	levi-itskhok	_	PROPN	NPR	_	2	dep	_	_
+42	iz	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+43	iberrasht	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+44	fun	_	ADP	P	_	2	case	_	_
+45	dem	_	DET	D	PronType=Art	2	det	_	SpaceAfter=No
+46	,	_	PUNCT	PUNC	_	2	punct	_	_
+47	vos	_	SCONJ	C	_	2	mark	_	_
+48	's	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	2	expl	_	_
+49	iz	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+50	geshen	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	SpaceAfter=No
+51	.	_	PUNCT	PUNC	_	2	punct	_	_
+52	er	_	PRON	PRO	_	2	nmod	_	_
+53	vil	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+54	arayngeyn	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+55	in	_	ADP	P	_	2	case	_	_
+56	shtub	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+57	,	_	PUNCT	PUNC	_	2	punct	_	_
+58	nor	_	ADV	FP	Degree=Pos	2	advmod	_	SpaceAfter=No
+59	,	_	PUNCT	PUNC	_	2	punct	_	_
+60	shoyn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+61	araynm	_	DET	D	PronType=Art	2	det	_	_
+62	shvel	_	NOUN	N-D	Definite=Def	2	dep	_	_
+63	khapt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+64	er	_	PRON	PRO	_	2	nmod	_	_
+65	zikh	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+66	,	_	PUNCT	PUNC	_	2	punct	_	_
+67	az	_	SCONJ	C	_	2	mark	_	_
+68	er	_	PRON	PRO	_	2	nmod	_	_
+69	badarf	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+70	in	_	ADP	P	_	2	case	_	_
+71	shtub	_	NOUN	N-D	Definite=Def	2	dep	_	_
+72	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+73	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	2	advmod	_	_
+74	geyn	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	SpaceAfter=No
+75	.	_	PUNCT	PUNC	_	2	punct	_	_
+76	er	_	PRON	PRO	_	2	nmod	_	_
+77	nemt	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+78	dem	_	DET	D	PronType=Art	2	det	_	_
+79	bretl	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+80	,	_	PUNCT	PUNC	_	2	punct	_	_
+81	visht	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	_
+82	arayngelozn	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	SpaceAfter=No
+83	,	_	PUNCT	PUNC	_	2	punct	_	_
+84	fartrakht	_	VERB	VBF-PART	VerbForm=Fin	2	dep	_	SpaceAfter=No
+85	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1184
 # X_ID = 1910E-GRINE-FELDER,94.1216
 # text = elkone: kumt on . got_helf, rebe ; nor aleyn ?
-1	elkone:	_	PROPN	NPR	_	7	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	elkone:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	7	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	got_helf	_	INTJ	INTJ	_	7	discourse	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	7	punct	_	_
 7	rebe	_	NOUN	N	_	0	root	_	SpaceAfter=No
@@ -16014,12 +16014,12 @@
 # sent_id = 1910E-GRINE-FELDER,.1185
 # X_ID = 1910E-GRINE-FELDER,94.1217
 # text = levi-itskhok kukt im on tseshtreyt .
-1	levi-itskhok	_	PROPN	NPR	_	0	root	_	_
-2	kukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	im	_	PRON	PRO	_	1	nmod	_	_
-4	on	_	ADP	RP	_	1	compound:prt	_	_
-5	tseshtreyt	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-itskhok	_	PROPN	NPR	_	2	dep	_	_
+2	kukt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	im	_	PRON	PRO	_	2	nmod	_	_
+4	on	_	ADP	RP	_	2	compound:prt	_	_
+5	tseshtreyt	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1186
 # X_ID = 1910E-GRINE-FELDER,94.1218
@@ -16055,13 +16055,13 @@
 # sent_id = 1910E-GRINE-FELDER,.1189
 # X_ID = 1910E-GRINE-FELDER,94.1221
 # text = levi-itskhok kukt im an nisht-@ @farshteyendik .
-1	levi-itskhok	_	PROPN	NPR	_	0	root	_	_
-2	kukt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	im	_	PRON	PRO	_	1	nmod	_	_
-4	an	_	ADP	RP	_	1	compound:prt	_	_
-5	nisht-@	_	ADV	NEG	_	1	advmod	_	_
-6	@farshteyendik	_	VERB	VAG	Tense=Pres|VerbForm=Part	1	amod	_	SpaceAfter=No
-7	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-itskhok	_	PROPN	NPR	_	2	dep	_	_
+2	kukt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	im	_	PRON	PRO	_	2	nmod	_	_
+4	an	_	ADP	RP	_	2	compound:prt	_	_
+5	nisht-@	_	ADV	NEG	_	2	advmod	_	_
+6	@farshteyendik	_	VERB	VAG	Tense=Pres|VerbForm=Part	2	amod	_	SpaceAfter=No
+7	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1190
 # X_ID = 1910E-GRINE-FELDER,94.1222
@@ -16485,8 +16485,8 @@
 # X_ID = 1910E-GRINE-FELDER,95.1255
 # text = levi-yitskhok: fayne yidn ; ikh hob tsu zey gornisht .
 1	levi-yitskhok:	_	PROPN	NPR	_	6	dep	_	_
-2	fayne	_	ADJ	ADJ	Degree=Pos	6	vocative	_	_
-3	yidn	_	NOUN	N	_	2	conj	_	SpaceAfter=No
+2	fayne	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	yidn	_	NOUN	N	_	6	vocative	_	SpaceAfter=No
 4	;	_	PUNCT	PUNC	_	6	punct	_	_
 5	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	hob	_	VERB	VBF	VerbForm=Fin	0	root	_	_
@@ -16590,7 +16590,7 @@
 # text = bay mir volt zi nisht umgegangen azoy farshayt .
 1	bay	_	ADP	P	_	2	case	_	_
 2	mir	_	PRON	PRO	_	6	obl	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	6	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	6	dep	_	_
 4	zi	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 5	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
 6	umgegangen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	_
@@ -16776,7 +16776,7 @@
 # X_ID = 1910E-GRINE-FELDER,96.1279
 # text = me volt dikh bay mir beser tsugezen .
 1	me	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
 3	dikh	_	PRON	PRO-ACC	Case=Acc	7	obj	_	_
 4	bay	_	ADP	P	_	5	case	_	_
 5	mir	_	PRON	PRO	_	7	obl	_	_
@@ -16788,7 +16788,7 @@
 # X_ID = 1910E-GRINE-FELDER,96.1280
 # text = efsher voltn zikh di kinder epes opgelernt .
 1	efsher	_	ADV	ADV	Degree=Pos	7	advmod	_	_
-2	voltn	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
+2	voltn	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
 3	zikh	_	PRON	PRO-RFL	PronType=Reflex	7	expl:pv	_	_
 4	di	_	DET	D-NOM	Case=Nom|PronType=Art	5	det	_	_
 5	kinder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
@@ -17032,7 +17032,7 @@
 # X_ID = 1910E-GRINE-FELDER,96.1300
 # text = ikh volt mir biz@ @n letstn hemd gelozt %exp% %ich%-1 %ich%-2 kostn .
 1	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	8	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	8	dep	_	_
 3	mir	_	PRON	PRO	_	8	obl	_	_
 4	biz@	_	ADP	P	_	7	case	_	_
 5	@n	_	DET	D	PronType=Art	7	det	_	_
@@ -17261,7 +17261,7 @@
 9	tate-mame	_	NOUN	N	_	10	nsubj	_	_
 10	voynen	_	VERB	VBF	VerbForm=Fin	3	dep	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	14	punct	_	_
-12	volt	_	VERB	VLF	VerbForm=Fin	14	dep	_	_
+12	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	14	dep	_	_
 13	ikh	_	PRON	PRO-NOM	Case=Nom	14	nsubj	_	_
 14	geven	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 15	a	_	DET	D	PronType=Art	16	det	_	_
@@ -17355,10 +17355,10 @@
 # sent_id = 1910E-GRINE-FELDER,.1292
 # X_ID = 1910E-GRINE-FELDER,97.1327
 # text = dovid-noyekh: kumt on . a got-helf, elkone,
-1	dovid-noyekh:	_	PROPN	NPR	_	8	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	dovid-noyekh:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	a	_	DET	D	PronType=Art	6	det	_	_
 6	got-helf	_	NOUN	N-I	Definite=Ind	8	discourse	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	8	punct	_	_
@@ -17457,13 +17457,13 @@
 # sent_id = 1910E-GRINE-FELDER,.1299
 # X_ID = 1910E-GRINE-FELDER,97.1334
 # text = levi-yitskhok geyt avek hinter@ @n shtub .
-1	levi-yitskhok	_	PROPN	NPR	_	0	root	_	_
-2	geyt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	avek	_	ADP	RP-ADV	_	1	compound:prt	_	_
-4	hinter@	_	ADP	P	_	1	case	_	_
-5	@n	_	DET	D	PronType=Art	1	det	_	_
-6	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-7	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok	_	PROPN	NPR	_	2	dep	_	_
+2	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	avek	_	ADP	RP-ADV	_	2	compound:prt	_	_
+4	hinter@	_	ADP	P	_	2	case	_	_
+5	@n	_	DET	D	PronType=Art	2	det	_	_
+6	shtub	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+7	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1300
 # X_ID = 1910E-GRINE-FELDER,97.1335
@@ -17491,11 +17491,11 @@
 # sent_id = 1910E-GRINE-FELDER,.1302
 # X_ID = 1910E-GRINE-FELDER,97.1337
 # text = er kukt in fenster .
-1	er	_	PRON	PRO	_	4	nmod	_	_
-2	kukt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-3	in	_	ADP	P	_	4	case	_	_
-4	fenster	_	NOUN	N	_	0	root	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	er	_	PRON	PRO	_	2	nmod	_	_
+2	kukt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	in	_	ADP	P	_	2	case	_	_
+4	fenster	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1303
 # X_ID = 1910E-GRINE-FELDER,97.1338
@@ -17579,8 +17579,8 @@
 # X_ID = 1910E-GRINE-FELDER,97.1345
 # text = dovid-noyekh: vorem vos, di kinder folgn im take nisht ?
 1	dovid-noyekh:	_	PROPN	NPR	_	7	dep	_	_
-2	vorem	_	ADV	WADV	Degree=Pos	7	xcomp	_	_
-3	vos	_	PRON	WPRO	_	2	obj	_	SpaceAfter=No
+2	vorem	_	ADV	WADV	Degree=Pos	3	advmod	_	_
+3	vos	_	PRON	WPRO	_	7	xcomp	_	SpaceAfter=No
 4	,	_	PUNCT	PUNC	_	7	punct	_	_
 5	di	_	DET	D-NOM	Case=Nom|PronType=Art	6	det	_	_
 6	kinder	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	7	nsubj	_	_
@@ -17717,10 +17717,10 @@
 # sent_id = 1910E-GRINE-FELDER,.1321
 # X_ID = 1910E-GRINE-FELDER,97.1356
 # text = rokhl: kumt on . a gast .
-1	rokhl:	_	PROPN	NPR	_	6	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	a	_	DET	D	PronType=Art	6	det	_	_
 6	gast	_	NOUN	N-I	Definite=Ind	0	root	_	SpaceAfter=No
 7	.	_	PUNCT	PUNC	_	6	punct	_	_
@@ -17797,10 +17797,10 @@
 # sent_id = 1910E-GRINE-FELDER,.1328
 # X_ID = 1910E-GRINE-FELDER,97.1363
 # text = gitl kumt on .
-1	gitl	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	gitl	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1329
 # X_ID = 1910E-GRINE-FELDER,97.1364
@@ -17905,7 +17905,7 @@
 # X_ID = 1910E-GRINE-FELDER,98.1373
 # text = zi volt shoyn fun mir gut gekhapt .
 1	zi	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
 3	shoyn	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 4	fun	_	ADP	P	_	5	case	_	_
 5	mir	_	PRON	PRO	_	7	obl	_	_
@@ -17957,7 +17957,7 @@
 # text = vos %t%-1 volt mir gefelt bay got, ven ikh hob tsu tsinen khotsh nokh a dray tekhter vi stere ...
 1	vos	_	PRON	WPRO	_	5	obj	_	_
 2	%t%-1	_	NOUN	NP-SBJ	_	5	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 4	mir	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
 5	gefelt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
 6	bay	_	ADP	P	_	7	case	_	_
@@ -18614,14 +18614,14 @@
 # sent_id = 1910E-GRINE-FELDER,.1387
 # X_ID = 1910E-GRINE-FELDER,99.1424
 # text = tsine kumt arayn ; a bisl tsetumlt .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	;	_	PUNCT	PUNC	_	1	punct	_	_
-5	a	_	DET	D	PronType=Art	1	det	_	_
-6	bisl	_	NOUN	N-I	Definite=Ind	1	dep	_	_
-7	tsetumlt	_	ADJ	ADJ	Degree=Pos	1	amod	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	arayn	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	;	_	PUNCT	PUNC	_	2	punct	_	_
+5	a	_	DET	D	PronType=Art	2	det	_	_
+6	bisl	_	NOUN	N-I	Definite=Ind	2	dep	_	_
+7	tsetumlt	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1388
 # X_ID = 1910E-GRINE-FELDER,99.1425
@@ -18823,8 +18823,8 @@
 1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
 2	gey	_	VERB	VBI	Mood=Imp	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	2	punct	_	_
-4	mayn	_	PRON	PRO$	_	2	vocative	_	_
-5	kind	_	NOUN	N	_	4	conj	_	SpaceAfter=No
+4	mayn	_	PRON	PRO$	_	5	det:poss	_	_
+5	kind	_	NOUN	N	_	2	vocative	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	2	punct	_	_
 7	in	_	ADP	P	_	8	case	_	_
 8	shtub	_	NOUN	N	_	9	obl	_	_
@@ -18896,8 +18896,8 @@
 1	elkone:	_	PROPN	NPR	_	2	dep	_	_
 2	herst	_	VERB	VBF	VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	_	PUNCT	PUNC	_	2	punct	_	_
-4	mayn	_	PRON	PRO$	_	2	vocative	_	_
-5	vayb	_	NOUN	N	_	4	conj	_	SpaceAfter=No
+4	mayn	_	PRON	PRO$	_	5	det:poss	_	_
+5	vayb	_	NOUN	N	_	2	vocative	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	2	punct	_	_
 7	vi	_	ADV	WADV	Degree=Pos	8	advmod	_	_
 8	klug	_	ADJ	ADJ	Degree=Pos	11	amod	_	_
@@ -19229,9 +19229,9 @@
 # sent_id = 1910E-GRINE-FELDER,.1433
 # X_ID = 1910E-GRINE-FELDER,100.1471
 # text = hersh-ber: kumt on vos %t%-1 %ellps% epes elkone broyges ?
-1	hersh-ber:	_	PROPN	NPR	_	6	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	_
+1	hersh-ber:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	_
 4	vos	_	PRON	WPRO	_	6	obj	_	_
 5	%t%-1	_	NOUN	NP-ADV	_	6	obl	_	_
 6	%ellps%	_	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -19320,18 +19320,18 @@
 # sent_id = 1910E-GRINE-FELDER,.1440
 # X_ID = 1910E-GRINE-FELDER,100.1478
 # text = hersh-ber: vos %t%-1 dreyt ir a kop ? freg ikh aykh .
-1	hersh-ber:	_	PROPN	NPR	_	0	root	_	_
-2	vos	_	PRON	WPRO	_	1	obj	_	_
+1	hersh-ber:	_	PROPN	NPR	_	4	dep	_	_
+2	vos	_	PRON	WPRO	_	4	obj	_	_
 3	%t%-1	_	NOUN	NP-ADV	_	4	obl	_	_
-4	dreyt	_	VERB	VBF	VerbForm=Fin	1	conj	_	_
+4	dreyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	ir	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
 6	a	_	DET	D-ACC	Case=Acc|PronType=Art	7	det	_	_
 7	kop	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	4	obj	_	SpaceAfter=No
-8	?	_	PUNCT	PUNC	_	1	punct	_	_
-9	freg	_	VERB	VBF	VerbForm=Fin	1	parataxis	_	_
+8	?	_	PUNCT	PUNC	_	4	punct	_	_
+9	freg	_	VERB	VBF	VerbForm=Fin	4	parataxis	_	_
 10	ikh	_	PRON	PRO-NOM	Case=Nom	9	nsubj	_	_
 11	aykh	_	PRON	PRO-DTV	Case=Dat	9	iobj	_	SpaceAfter=No
-12	.	_	PUNCT	PUNC	_	1	punct	_	_
+12	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1441
 # X_ID = 1910E-GRINE-FELDER,100.1479
@@ -19567,11 +19567,11 @@
 # sent_id = 1910E-GRINE-FELDER,.1457
 # X_ID = 1910E-GRINE-FELDER,100.1495
 # text = geyt arayn in shtub .
-1	geyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	arayn	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-3	in	_	ADP	P	_	4	case	_	_
-4	shtub	_	NOUN	N	_	0	root	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+3	in	_	ADP	P	_	1	case	_	_
+4	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1458
 # X_ID = 1910E-GRINE-FELDER,101.1497
@@ -19598,13 +19598,13 @@
 # sent_id = 1910E-GRINE-FELDER,.1460
 # X_ID = 1910E-GRINE-FELDER,101.1499
 # text = geyt aheym . avrom-yankev kumt on .
-1	geyt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	aheym	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	4	punct	_	_
-4	avrom-yankev	_	PROPN	NPR	_	0	root	_	_
-5	kumt	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-6	on	_	ADP	RP	_	4	compound:prt	_	SpaceAfter=No
-7	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	aheym	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	1	punct	_	_
+4	avrom-yankev	_	PROPN	NPR	_	1	dep	_	_
+5	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+6	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
+7	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1461
 # X_ID = 1910E-GRINE-FELDER,101.1500
@@ -19714,19 +19714,19 @@
 # sent_id = 1910E-GRINE-FELDER,.1469
 # X_ID = 1910E-GRINE-FELDER,101.1508
 # text = loyft arayn in shtub .
-1	loyft	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-2	arayn	_	ADV	ADV	Degree=Pos	4	advmod	_	_
-3	in	_	ADP	P	_	4	case	_	_
-4	shtub	_	NOUN	N	_	0	root	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	loyft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+3	in	_	ADP	P	_	1	case	_	_
+4	shtub	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1470
 # X_ID = 1910E-GRINE-FELDER,101.1509
 # text = levi-yitskhok: kumt on . vu %t%-1 bis@ @tu geven, avrom-yankev ?
-1	levi-yitskhok:	_	PROPN	NPR	_	9	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	9	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	vu	_	ADV	WADV	Degree=Pos	9	advmod	_	_
 6	%t%-1	_	ADV	ADVP-LOC	AdvType=Loc|Degree=Pos	9	advmod	_	_
 7	bis@	_	AUX	BEF	VerbForm=Fin	9	cop	_	_
@@ -19923,19 +19923,19 @@
 # sent_id = 1910E-GRINE-FELDER,.1486
 # X_ID = 1910E-GRINE-FELDER,101.1525
 # text = loyft in shtub arayn .
-1	loyft	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-2	in	_	ADP	P	_	3	case	_	_
-3	shtub	_	NOUN	N	_	0	root	_	_
-4	arayn	_	ADV	ADV	Degree=Pos	3	advmod	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	3	punct	_	_
+1	loyft	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	in	_	ADP	P	_	1	case	_	_
+3	shtub	_	NOUN	N	_	1	dep	_	_
+4	arayn	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1487
 # X_ID = 1910E-GRINE-FELDER,101.1526
 # text = hersh-ber: kumt on . gut, vos ir zent do, rebe ;
-1	hersh-ber:	_	PROPN	NPR	_	9	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	hersh-ber:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	9	dep	_	_
+3	on	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	gut	_	ADJ	ADJ	Degree=Pos	9	amod	_	SpaceAfter=No
 6	,	_	PUNCT	PUNC	_	9	punct	_	_
 7	vos	_	SCONJ	C	_	9	mark	_	_
@@ -20408,7 +20408,7 @@
 1	hersh-ber:	_	PROPN	NPR	_	7	dep	_	_
 2	mit	_	ADP	P	_	3	case	_	_
 3	im	_	PRON	PRO	_	7	obl	_	_
-4	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
+4	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
 5	ikh	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 6	shoyn	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 7	oysgekumen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -20713,9 +20713,9 @@
 # sent_id = 1910E-GRINE-FELDER,.1550
 # X_ID = 1910E-GRINE-FELDER,102.1590
 # text = levi-yitskhok: vemen ?
-1	levi-yitskhok:	_	PROPN	NPR	_	0	root	_	_
-2	vemen	_	PRON	WPRO	_	1	obj	_	SpaceAfter=No
-3	?	_	PUNCT	PUNC	_	1	punct	_	_
+1	levi-yitskhok:	_	PROPN	NPR	_	2	dep	_	_
+2	vemen	_	PRON	WPRO	_	0	root	_	SpaceAfter=No
+3	?	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1551
 # X_ID = 1910E-GRINE-FELDER,103.1592
@@ -20898,22 +20898,22 @@
 # sent_id = 1910E-GRINE-FELDER,.1565
 # X_ID = 1910E-GRINE-FELDER,103.1606
 # text = tsine bavayzt zikh in tir, hert zikh in der shtil eyn vos men redt .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	bavayzt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zikh	_	PRON	PRO	_	1	nmod	_	_
-4	in	_	ADP	P	_	1	case	_	_
-5	tir	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-6	,	_	PUNCT	PUNC	_	1	punct	_	_
-7	hert	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-8	zikh	_	PRON	PRO	_	1	nmod	_	_
-9	in	_	ADP	P	_	1	case	_	_
-10	der	_	DET	D	PronType=Art	1	det	_	_
-11	shtil	_	NOUN	N-D	Definite=Def	1	dep	_	_
-12	eyn	_	ADP	RP	_	1	compound:prt	_	_
-13	vos	_	SCONJ	C	_	1	mark	_	_
-14	men	_	PRON	PRO	_	1	nmod	_	_
-15	redt	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-16	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	2	dep	_	_
+2	bavayzt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	zikh	_	PRON	PRO	_	2	nmod	_	_
+4	in	_	ADP	P	_	2	case	_	_
+5	tir	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+6	,	_	PUNCT	PUNC	_	2	punct	_	_
+7	hert	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+8	zikh	_	PRON	PRO	_	2	nmod	_	_
+9	in	_	ADP	P	_	2	case	_	_
+10	der	_	DET	D	PronType=Art	2	det	_	_
+11	shtil	_	NOUN	N-D	Definite=Def	2	dep	_	_
+12	eyn	_	ADP	RP	_	2	compound:prt	_	_
+13	vos	_	SCONJ	C	_	2	mark	_	_
+14	men	_	PRON	PRO	_	2	nmod	_	_
+15	redt	_	VERB	VBF	VerbForm=Fin	2	dep	_	SpaceAfter=No
+16	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1566
 # X_ID = 1910E-GRINE-FELDER,103.1607
@@ -20980,46 +20980,46 @@
 # sent_id = 1910E-GRINE-FELDER,.1571
 # X_ID = 1910E-GRINE-FELDER,103.1612
 # text = dovid-noyekh kumt aroys . khapt tsinen bay@ @m unterhern zikh . zi vert farshemt, bahalt zikh hinter der tir . hersh-ber volt nokh epes veln zogn, tut a makh mit der hant, geyt avek in shtub .
-1	dovid-noyekh	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
-5	khapt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-6	tsinen	_	PROPN	NPR	_	1	dep	_	_
-7	bay@	_	ADP	P	_	1	case	_	_
-8	@m	_	DET	D	PronType=Art	1	det	_	_
-9	unterhern	_	VERB	VB	VerbForm=Inf	1	dep	_	_
-10	zikh	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-11	.	_	PUNCT	PUNC	_	1	punct	_	_
-12	zi	_	PRON	PRO	_	1	nmod	_	_
-13	vert	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-14	farshemt	_	ADJ	ADJ	Degree=Pos	1	amod	_	SpaceAfter=No
-15	,	_	PUNCT	PUNC	_	1	punct	_	_
-16	bahalt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-17	zikh	_	PRON	PRO	_	1	nmod	_	_
-18	hinter	_	ADP	P	_	1	case	_	_
-19	der	_	DET	D	PronType=Art	1	det	_	_
-20	tir	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-21	.	_	PUNCT	PUNC	_	1	punct	_	_
-22	hersh-ber	_	PROPN	NPR	_	1	dep	_	_
-23	volt	_	VERB	VLF	VerbForm=Fin	1	dep	_	_
-24	nokh	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-25	epes	_	DET	Q	_	1	det	_	_
-26	veln	_	AUX	MD-IPP	VerbForm=Inf	1	aux	_	_
-27	zogn	_	VERB	VB	VerbForm=Inf	1	dep	_	SpaceAfter=No
-28	,	_	PUNCT	PUNC	_	1	punct	_	_
-29	tut	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-30	a	_	DET	D	PronType=Art	1	det	_	_
-31	makh	_	NOUN	N-D	Definite=Def	1	dep	_	_
-32	mit	_	ADP	P	_	1	case	_	_
-33	der	_	DET	D	PronType=Art	1	det	_	_
-34	hant	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-35	,	_	PUNCT	PUNC	_	1	punct	_	_
-36	geyt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-37	avek	_	ADP	RP-ADV	_	1	compound:prt	_	_
-38	in	_	ADP	P	_	1	case	_	_
-39	shtub	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
-40	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	dovid-noyekh	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
+5	khapt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+6	tsinen	_	PROPN	NPR	_	2	dep	_	_
+7	bay@	_	ADP	P	_	2	case	_	_
+8	@m	_	DET	D	PronType=Art	2	det	_	_
+9	unterhern	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+10	zikh	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+11	.	_	PUNCT	PUNC	_	2	punct	_	_
+12	zi	_	PRON	PRO	_	2	nmod	_	_
+13	vert	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+14	farshemt	_	ADJ	ADJ	Degree=Pos	2	amod	_	SpaceAfter=No
+15	,	_	PUNCT	PUNC	_	2	punct	_	_
+16	bahalt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+17	zikh	_	PRON	PRO	_	2	nmod	_	_
+18	hinter	_	ADP	P	_	2	case	_	_
+19	der	_	DET	D	PronType=Art	2	det	_	_
+20	tir	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+21	.	_	PUNCT	PUNC	_	2	punct	_	_
+22	hersh-ber	_	PROPN	NPR	_	2	dep	_	_
+23	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	2	dep	_	_
+24	nokh	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+25	epes	_	DET	Q	_	2	det	_	_
+26	veln	_	AUX	MD-IPP	VerbForm=Inf	2	aux	_	_
+27	zogn	_	VERB	VB	VerbForm=Inf	2	dep	_	SpaceAfter=No
+28	,	_	PUNCT	PUNC	_	2	punct	_	_
+29	tut	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+30	a	_	DET	D	PronType=Art	2	det	_	_
+31	makh	_	NOUN	N-D	Definite=Def	2	dep	_	_
+32	mit	_	ADP	P	_	2	case	_	_
+33	der	_	DET	D	PronType=Art	2	det	_	_
+34	hant	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+35	,	_	PUNCT	PUNC	_	2	punct	_	_
+36	geyt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+37	avek	_	ADP	RP-ADV	_	2	compound:prt	_	_
+38	in	_	ADP	P	_	2	case	_	_
+39	shtub	_	NOUN	N-D	Definite=Def	2	dep	_	SpaceAfter=No
+40	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1572
 # X_ID = 1910E-GRINE-FELDER,103.1613
@@ -21072,7 +21072,7 @@
 1	ven	_	SCONJ	C	_	7	advcl	_	_
 2	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
 3	yom-kiper	_	PROPN	NPR-SBJ	_	1	xcomp	_	_
-4	volt	_	VERB	VLF	VerbForm=Fin	7	dep	_	_
+4	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	7	dep	_	_
 5	men	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
 6	shtendik	_	ADV	ADV	Degree=Pos	7	advmod	_	_
 7	arumgegangen	_	VERB	VBN-PART	Tense=Past|VerbForm=Part	0	root	_	_
@@ -21209,7 +21209,7 @@
 # text = mayn yidene volt zikh yo a_mol veln aroys@ %ich%-1 @khapn fun di holoblies,
 1	mayn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	2	det:poss	_	_
 2	yidene	_	NOUN	N	_	10	nsubj	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	10	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	10	dep	_	_
 4	zikh	_	PRON	PRO-RFL	PronType=Reflex	10	expl:pv	_	_
 5	yo	_	ADV	ADV	Degree=Pos	10	advmod	_	_
 6	a_mol	_	ADV	ADV	Degree=Pos	10	advmod	_	_
@@ -21426,10 +21426,10 @@
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
 8	az	_	SCONJ	C	_	14	mark	_	_
 9	der	_	DET	D-NOM	Case=Nom|PronType=Art	14	nsubj	_	_
-10	vos	_	SCONJ	C	_	13	mark	_	_
-11	%t%-1	_	NOUN	NP-SBJ	_	13	nsubj	_	_
-12	in	_	ADP	P	_	13	case	_	_
-13	himl	_	NOUN	N	_	9	acl:relcl	_	_
+10	vos	_	SCONJ	C	_	12	mark	_	_
+11	%t%-1	_	NOUN	NP-SBJ	_	12	nsubj	_	_
+12	in	_	ADP	P	_	9	acl:relcl	_	_
+13	himl	_	NOUN	N	_	12	obl	_	_
 14	helft	_	VERB	VBF	VerbForm=Fin	4	advcl	_	SpaceAfter=No
 15	.	_	PUNCT	PUNC	_	14	punct	_	_
 
@@ -21562,10 +21562,10 @@
 4	vil	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 5	azoy	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 6	der	_	DET	D-NOM	Case=Nom|PronType=Art	4	nsubj	_	_
-7	vos	_	SCONJ	C	_	10	mark	_	_
-8	%t%-1	_	NOUN	NP-SBJ	_	10	nsubj	_	_
-9	in	_	ADP	P	_	10	case	_	_
-10	himl	_	NOUN	N	_	6	acl:relcl	_	SpaceAfter=No
+7	vos	_	SCONJ	C	_	9	mark	_	_
+8	%t%-1	_	NOUN	NP-SBJ	_	9	nsubj	_	_
+9	in	_	ADP	P	_	6	acl:relcl	_	_
+10	himl	_	NOUN	N	_	9	obl	_	SpaceAfter=No
 11	,	_	PUNCT	PUNC	_	4	punct	_	_
 12	az	_	SCONJ	C	_	13	mark	_	_
 13	lebn	_	VERB	VB	VerbForm=Inf	4	ccomp	_	_
@@ -21837,7 +21837,7 @@
 # text = a@ @nit volt ikh zey geshikt redn far mir .
 1	a@	_	SCONJ	C	_	6	advcl	_	_
 2	@nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	1	xcomp	_	_
-3	volt	_	VERB	VLF	VerbForm=Fin	6	dep	_	_
+3	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	6	dep	_	_
 4	ikh	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 5	zey	_	PRON	PRO-ACC	Case=Acc	6	obj	_	_
 6	geshikt	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -21854,8 +21854,8 @@
 3	,	_	PUNCT	PUNC	_	4	punct	_	_
 4	tsine	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	4	punct	_	_
-6	mayn	_	PRON	PRO$	_	4	vocative	_	_
-7	kind	_	NOUN	N	_	6	conj	_	SpaceAfter=No
+6	mayn	_	PRON	PRO$	_	7	det:poss	_	_
+7	kind	_	NOUN	N	_	4	vocative	_	SpaceAfter=No
 8	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1632
@@ -21972,9 +21972,9 @@
 # sent_id = 1910E-GRINE-FELDER,.1642
 # X_ID = 1910E-GRINE-FELDER,105.1685
 # text = dovid-noyekh: ruft . rokhl, rokhl, zay zhe moykhl .
-1	dovid-noyekh:	_	PROPN	NPR	_	8	dep	_	_
-2	ruft	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
-3	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	dovid-noyekh:	_	PROPN	NPR	_	2	dep	_	_
+2	ruft	_	VERB	VBF	VerbForm=Fin	8	dep	_	SpaceAfter=No
+3	.	_	PUNCT	PUNC	_	2	punct	_	_
 4	rokhl	_	PROPN	NPR	_	8	vocative	_	SpaceAfter=No
 5	,	_	PUNCT	PUNC	_	8	punct	_	_
 6	rokhl	_	PROPN	NPR	_	8	vocative	_	SpaceAfter=No
@@ -21987,10 +21987,10 @@
 # sent_id = 1910E-GRINE-FELDER,.1643
 # X_ID = 1910E-GRINE-FELDER,105.1686
 # text = rokhl: kumt aroys . mir hobn a got in himl, vos ?
-1	rokhl:	_	PROPN	NPR	_	6	dep	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	6	dep	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 5	mir	_	PRON	PRO-NOM	Case=Nom	6	nsubj	_	_
 6	hobn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 7	a	_	DET	D-ACC	Case=Acc|PronType=Art	8	det	_	_
@@ -22045,10 +22045,10 @@
 # sent_id = 1910E-GRINE-FELDER,.1647
 # X_ID = 1910E-GRINE-FELDER,105.1690
 # text = visht di trern .
-1	visht	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-2	di	_	DET	D	PronType=Art	3	det	_	_
-3	trern	_	NOUN	N	_	0	root	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	3	punct	_	_
+1	visht	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	di	_	DET	D	PronType=Art	1	det	_	_
+3	trern	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1648
 # X_ID = 1910E-GRINE-FELDER,105.1691
@@ -22101,13 +22101,13 @@
 # sent_id = 1910E-GRINE-FELDER,.1652
 # X_ID = 1910E-GRINE-FELDER,105.1695
 # text = nemt arum levi-yiskhok un kusht im .
-1	nemt	_	VERB	VBF	VerbForm=Fin	3	dep	_	_
-2	arum	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-3	levi-yiskhok	_	PROPN	NPR	_	0	root	_	_
-4	un	_	CCONJ	CONJ	_	5	cc	_	_
-5	kusht	_	VERB	VBF	VerbForm=Fin	3	conj	_	_
-6	im	_	PRON	PRO	_	3	nmod	_	SpaceAfter=No
-7	.	_	PUNCT	PUNC	_	3	punct	_	_
+1	nemt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+3	levi-yiskhok	_	PROPN	NPR	_	1	dep	_	_
+4	un	_	CCONJ	CONJ	_	1	cc	_	_
+5	kusht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+6	im	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
+7	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1653
 # X_ID = 1910E-GRINE-FELDER,105.1696
@@ -22132,10 +22132,10 @@
 6	oysbetn	_	VERB	VB-PART	VerbForm=Inf	0	root	_	_
 7	bay	_	ADP	P	_	8	case	_	_
 8	dem	_	DET	D	PronType=Art	6	obl	_	_
-9	vos	_	SCONJ	C	_	12	mark	_	_
-10	%t%-2	_	NOUN	NP-SBJ	_	12	nsubj	_	_
-11	in	_	ADP	P	_	12	case	_	_
-12	himl	_	NOUN	N	_	8	acl:relcl	_	SpaceAfter=No
+9	vos	_	SCONJ	C	_	11	mark	_	_
+10	%t%-2	_	NOUN	NP-SBJ	_	11	nsubj	_	_
+11	in	_	ADP	P	_	8	acl:relcl	_	_
+12	himl	_	NOUN	N	_	11	obl	_	SpaceAfter=No
 13	?	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1655
@@ -22166,14 +22166,14 @@
 # sent_id = 1910E-GRINE-FELDER,.1657
 # X_ID = 1910E-GRINE-FELDER,105.1700
 # text = elkone, gitl, stere kumen on .
-1	elkone	_	PROPN	NPR	_	0	root	_	SpaceAfter=No
-2	,	_	PUNCT	PUNC	_	1	punct	_	_
-3	gitl	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	1	punct	_	_
-5	stere	_	PROPN	NPR	_	1	dep	_	_
-6	kumen	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-7	on	_	ADP	RP	_	1	compound:prt	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	elkone	_	PROPN	NPR	_	6	dep	_	SpaceAfter=No
+2	,	_	PUNCT	PUNC	_	6	punct	_	_
+3	gitl	_	PROPN	NPR	_	6	dep	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	6	punct	_	_
+5	stere	_	PROPN	NPR	_	6	dep	_	_
+6	kumen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+7	on	_	ADP	RP	_	6	compound:prt	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	6	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1658
 # X_ID = 1910E-GRINE-FELDER,105.1701
@@ -22270,10 +22270,10 @@
 # sent_id = 1910E-GRINE-FELDER,.1663
 # X_ID = 1910E-GRINE-FELDER,105.1706
 # text = hersh-ber kumt aroys .
-1	hersh-ber	_	PROPN	NPR	_	0	root	_	_
-2	kumt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-4	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	hersh-ber	_	PROPN	NPR	_	2	dep	_	_
+2	kumt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	aroys	_	ADV	ADV	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1664
 # X_ID = 1910E-GRINE-FELDER,105.1707
@@ -22391,8 +22391,8 @@
 5	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
 6	azoy	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
 7	,	_	PUNCT	PUNC	_	4	punct	_	_
-8	mayn	_	PRON	PRO$	_	4	vocative	_	_
-9	kind	_	NOUN	N	_	8	conj	_	SpaceAfter=No
+8	mayn	_	PRON	PRO$	_	9	det:poss	_	_
+9	kind	_	NOUN	N	_	4	vocative	_	SpaceAfter=No
 10	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1674
@@ -22640,12 +22640,12 @@
 # sent_id = 1910E-GRINE-FELDER,.1692
 # X_ID = 1910E-GRINE-FELDER,106.1736
 # text = hersh-ber: di trern vergn im . ir hot nisht far vos %t%-1 ir tsu farbitern di yorn .
-1	hersh-ber:	_	PROPN	NPR	_	8	dep	_	_
-2	di	_	DET	D	PronType=Art	1	det	_	_
-3	trern	_	NOUN	N-D	Definite=Def	1	dep	_	_
-4	vergn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-5	im	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	hersh-ber:	_	PROPN	NPR	_	4	dep	_	_
+2	di	_	DET	D	PronType=Art	4	det	_	_
+3	trern	_	NOUN	N-D	Definite=Def	4	dep	_	_
+4	vergn	_	VERB	VBF	VerbForm=Fin	8	dep	_	_
+5	im	_	PRON	PRO	_	4	nmod	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	4	punct	_	_
 7	ir	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
 8	hot	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 9	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	8	advmod	_	_
@@ -22675,14 +22675,14 @@
 # sent_id = 1910E-GRINE-FELDER,.1694
 # X_ID = 1910E-GRINE-FELDER,106.1738
 # text = stere tseveynt zikh oyf@ @n hoykhn kol .
-1	stere	_	PROPN	NPR	_	0	root	_	_
-2	tseveynt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	zikh	_	PRON	PRO	_	1	nmod	_	_
-4	oyf@	_	ADP	P	_	1	case	_	_
-5	@n	_	DET	D	PronType=Art	1	det	_	_
-6	hoykhn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-7	kol	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	stere	_	PROPN	NPR	_	2	dep	_	_
+2	tseveynt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	zikh	_	PRON	PRO	_	2	nmod	_	_
+4	oyf@	_	ADP	P	_	2	case	_	_
+5	@n	_	DET	D	PronType=Art	2	det	_	_
+6	hoykhn	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+7	kol	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1695
 # X_ID = 1910E-GRINE-FELDER,106.1739
@@ -22908,11 +22908,11 @@
 # sent_id = 1910E-GRINE-FELDER,.1715
 # X_ID = 1910E-GRINE-FELDER,106.1759
 # text = ale vishn di oygn .
-1	ale	_	DET	Q	_	4	det	_	_
-2	vishn	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
-3	di	_	DET	D	PronType=Art	4	det	_	_
-4	oygn	_	NOUN	N	_	0	root	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	4	punct	_	_
+1	ale	_	DET	Q	_	2	det	_	_
+2	vishn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	di	_	DET	D	PronType=Art	2	det	_	_
+4	oygn	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1716
 # X_ID = 1910E-GRINE-FELDER,106.1760
@@ -22927,48 +22927,48 @@
 # sent_id = 1910E-GRINE-FELDER,.1717
 # X_ID = 1910E-GRINE-FELDER,106.1761
 # text = nemen zikh arum, khlipen, di vayber veynen oyf@ @n hoykhn kol . tsine un avrom-yankev kumen aroys, kukn farvundert ; heybn oykh on vishn di oygn .
-1	nemen	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
-2	zikh	_	PRON	PRO	_	15	nmod	_	_
-3	arum	_	ADV	ADV	Degree=Pos	15	advmod	_	SpaceAfter=No
-4	,	_	PUNCT	PUNC	_	15	punct	_	_
-5	khlipen	_	VERB	VBF	VerbForm=Fin	15	dep	_	SpaceAfter=No
-6	,	_	PUNCT	PUNC	_	15	punct	_	_
-7	di	_	DET	D	PronType=Art	15	det	_	_
-8	vayber	_	NOUN	N-D	Definite=Def	15	dep	_	_
-9	veynen	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
-10	oyf@	_	ADP	P	_	15	case	_	_
-11	@n	_	DET	D	PronType=Art	15	det	_	_
-12	hoykhn	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
-13	kol	_	NOUN	N-D	Definite=Def	15	dep	_	SpaceAfter=No
-14	.	_	PUNCT	PUNC	_	15	punct	_	_
-15	tsine	_	PROPN	NPR	_	0	root	_	_
-16	un	_	CCONJ	CONJ	_	17	cc	_	_
-17	avrom-yankev	_	PROPN	NPR	_	15	conj	_	_
-18	kumen	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
-19	aroys	_	ADV	ADV	Degree=Pos	15	advmod	_	SpaceAfter=No
-20	,	_	PUNCT	PUNC	_	15	punct	_	_
-21	kukn	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
-22	farvundert	_	ADJ	ADJ	Degree=Pos	15	amod	_	SpaceAfter=No
-23	;	_	PUNCT	PUNC	_	15	punct	_	_
-24	heybn	_	VERB	VBF	VerbForm=Fin	15	dep	_	_
-25	oykh	_	ADV	ADV	Degree=Pos	15	advmod	_	_
-26	on	_	ADP	RP	_	15	compound:prt	_	_
-27	vishn	_	VERB	VB	VerbForm=Inf	15	dep	_	_
-28	di	_	DET	D	PronType=Art	15	det	_	_
-29	oygn	_	NOUN	N-D	Definite=Def	15	dep	_	SpaceAfter=No
-30	.	_	PUNCT	PUNC	_	15	punct	_	_
+1	nemen	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	zikh	_	PRON	PRO	_	1	nmod	_	_
+3	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	PUNC	_	1	punct	_	_
+5	khlipen	_	VERB	VBF	VerbForm=Fin	1	dep	_	SpaceAfter=No
+6	,	_	PUNCT	PUNC	_	1	punct	_	_
+7	di	_	DET	D	PronType=Art	1	det	_	_
+8	vayber	_	NOUN	N-D	Definite=Def	1	dep	_	_
+9	veynen	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+10	oyf@	_	ADP	P	_	1	case	_	_
+11	@n	_	DET	D	PronType=Art	1	det	_	_
+12	hoykhn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
+13	kol	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+14	.	_	PUNCT	PUNC	_	1	punct	_	_
+15	tsine	_	PROPN	NPR	_	1	dep	_	_
+16	un	_	CCONJ	CONJ	_	1	cc	_	_
+17	avrom-yankev	_	PROPN	NPR	_	1	dep	_	_
+18	kumen	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+19	aroys	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
+20	,	_	PUNCT	PUNC	_	1	punct	_	_
+21	kukn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+22	farvundert	_	ADJ	ADJ	Degree=Pos	1	amod	_	SpaceAfter=No
+23	;	_	PUNCT	PUNC	_	1	punct	_	_
+24	heybn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
+25	oykh	_	ADV	ADV	Degree=Pos	1	advmod	_	_
+26	on	_	ADP	RP	_	1	compound:prt	_	_
+27	vishn	_	VERB	VB	VerbForm=Inf	1	dep	_	_
+28	di	_	DET	D	PronType=Art	1	det	_	_
+29	oygn	_	NOUN	N-D	Definite=Def	1	dep	_	SpaceAfter=No
+30	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1718
 # X_ID = 1910E-GRINE-FELDER,106.1762
 # text = rokhl: nemt arum tsinen . kusht zi .
-1	rokhl:	_	PROPN	NPR	_	0	root	_	_
-2	nemt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-4	tsinen	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
-5	.	_	PUNCT	PUNC	_	1	punct	_	_
-6	kusht	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-7	zi	_	PRON	PRO	_	1	nmod	_	SpaceAfter=No
-8	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	rokhl:	_	PROPN	NPR	_	2	dep	_	_
+2	nemt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	arum	_	ADV	ADV	Degree=Pos	2	advmod	_	_
+4	tsinen	_	PROPN	NPR	_	2	dep	_	SpaceAfter=No
+5	.	_	PUNCT	PUNC	_	2	punct	_	_
+6	kusht	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+7	zi	_	PRON	PRO	_	2	nmod	_	SpaceAfter=No
+8	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1719
 # X_ID = 1910E-GRINE-FELDER,106.1763
@@ -22986,32 +22986,32 @@
 # sent_id = 1910E-GRINE-FELDER,.1720
 # X_ID = 1910E-GRINE-FELDER,106.1764
 # text = tsine un stere khapn zikh arum un kushn un haldzn zikh lang .
-1	tsine	_	PROPN	NPR	_	0	root	_	_
-2	un	_	CCONJ	CONJ	_	3	cc	_	_
-3	stere	_	PROPN	NPR	_	1	conj	_	_
-4	khapn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-5	zikh	_	PRON	PRO	_	1	nmod	_	_
-6	arum	_	ADV	ADV	Degree=Pos	1	advmod	_	_
-7	un	_	CCONJ	CONJ	_	1	cc	_	_
-8	kushn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-9	un	_	CCONJ	CONJ	_	1	cc	_	_
-10	haldzn	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-11	zikh	_	PRON	PRO	_	1	nmod	_	_
-12	lang	_	ADV	ADV	Degree=Pos	1	advmod	_	SpaceAfter=No
-13	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	tsine	_	PROPN	NPR	_	4	dep	_	_
+2	un	_	CCONJ	CONJ	_	4	cc	_	_
+3	stere	_	PROPN	NPR	_	4	dep	_	_
+4	khapn	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+5	zikh	_	PRON	PRO	_	4	nmod	_	_
+6	arum	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+7	un	_	CCONJ	CONJ	_	4	cc	_	_
+8	kushn	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+9	un	_	CCONJ	CONJ	_	4	cc	_	_
+10	haldzn	_	VERB	VBF	VerbForm=Fin	4	dep	_	_
+11	zikh	_	PRON	PRO	_	4	nmod	_	_
+12	lang	_	ADV	ADV	Degree=Pos	4	advmod	_	SpaceAfter=No
+13	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1721
 # X_ID = 1910E-GRINE-FELDER,106.1765
 # text = elkone: geyt tsu levi-yitskhokn, nemt zayn hant .
-1	elkone:	_	PROPN	NPR	_	0	root	_	_
-2	geyt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-3	tsu	_	ADP	P	_	1	case	_	_
-4	levi-yitskhokn	_	PROPN	NPR	_	1	dep	_	SpaceAfter=No
-5	,	_	PUNCT	PUNC	_	1	punct	_	_
-6	nemt	_	VERB	VBF	VerbForm=Fin	1	dep	_	_
-7	zayn	_	PRON	PRO$	_	1	det:poss	_	_
-8	hant	_	NOUN	N	_	1	dep	_	SpaceAfter=No
-9	.	_	PUNCT	PUNC	_	1	punct	_	_
+1	elkone:	_	PROPN	NPR	_	2	dep	_	_
+2	geyt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+3	tsu	_	ADP	P	_	2	case	_	_
+4	levi-yitskhokn	_	PROPN	NPR	_	2	dep	_	SpaceAfter=No
+5	,	_	PUNCT	PUNC	_	2	punct	_	_
+6	nemt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
+7	zayn	_	PRON	PRO$	_	2	det:poss	_	_
+8	hant	_	NOUN	N	_	2	dep	_	SpaceAfter=No
+9	.	_	PUNCT	PUNC	_	2	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1722
 # X_ID = 1910E-GRINE-FELDER,106.1766
@@ -23059,21 +23059,21 @@
 12	oykh	_	PRON	PRO-ACC	Case=Acc	11	obj	_	_
 13	nisht	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	11	advmod	_	_
 14	der	_	DET	D-NOM	Case=Nom|PronType=Art	11	nsubj	_	_
-15	vos	_	SCONJ	C	_	18	mark	_	_
-16	%t%-1	_	NOUN	NP-SBJ	_	18	nsubj	_	_
-17	in	_	ADP	P	_	18	case	_	_
-18	himl	_	NOUN	N	_	14	acl:relcl	_	SpaceAfter=No
+15	vos	_	SCONJ	C	_	17	mark	_	_
+16	%t%-1	_	NOUN	NP-SBJ	_	17	nsubj	_	_
+17	in	_	ADP	P	_	14	acl:relcl	_	_
+18	himl	_	NOUN	N	_	17	obl	_	SpaceAfter=No
 19	...	_	PUNCT	PUNC	_	3	punct	_	_
 
 # sent_id = 1910E-GRINE-FELDER,.1725
 # X_ID = 1910E-GRINE-FELDER,106.1769
 # text = falt rokheln oyf@ @n haldz .
-1	falt	_	VERB	VBF	VerbForm=Fin	2	dep	_	_
-2	rokheln	_	PROPN	NPR	_	0	root	_	_
-3	oyf@	_	ADP	P	_	2	case	_	_
-4	@n	_	DET	D	PronType=Art	2	det	_	_
-5	haldz	_	NOUN	N	_	2	dep	_	SpaceAfter=No
-6	.	_	PUNCT	PUNC	_	2	punct	_	_
+1	falt	_	VERB	VBF	VerbForm=Fin	0	root	_	_
+2	rokheln	_	PROPN	NPR	_	1	dep	_	_
+3	oyf@	_	ADP	P	_	1	case	_	_
+4	@n	_	DET	D	PronType=Art	1	det	_	_
+5	haldz	_	NOUN	N	_	1	dep	_	SpaceAfter=No
+6	.	_	PUNCT	PUNC	_	1	punct	_	_
 
 1	forhang	_	NOUN	N	_	0	root	_	_
 2	.	_	PUNCT	PUNC	_	1	punct	_	_

@@ -576,7 +576,7 @@
 # X_ID = 1928E-WEINREICH-KINES,193.29
 # text = anit volt di shilderung nit geven azoy frtimdik un lebedik ;
 1	anit	_	ADV	ADV	Degree=Pos	6	advmod	_	_
-2	volt	_	VERB	VLF	VerbForm=Fin	6	dep	_	_
+2	volt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	6	dep	_	_
 3	di	_	DET	D-NOM	Case=Nom|PronType=Art	4	det	_	_
 4	shilderung	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
 5	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	6	advmod	_	_
@@ -943,15 +943,15 @@
 # X_ID = 1928E-WEINREICH-KINES,194.44
 # text = afilu lemberg iz balegert gevorn, ober on erfolg .
 1	afilu	_	ADV	FP	Degree=Pos	2	advmod	_	_
-2	lemberg	_	PROPN	NPR	_	5	nsubj	_	_
-3	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-4	balegert	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-6	,	_	PUNCT	PUNC	_	5	punct	_	_
+2	lemberg	_	PROPN	NPR	_	4	nsubj	_	_
+3	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+4	balegert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	gevorn	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	SpaceAfter=No
+6	,	_	PUNCT	PUNC	_	4	punct	_	_
 7	ober	_	CCONJ	CONJ	_	8	cc	_	_
-8	on	_	ADP	P	_	5	conj	_	_
+8	on	_	ADP	P	_	4	conj	_	_
 9	erfolg	_	NOUN	N	_	2	obl	_	SpaceAfter=No
-10	.	_	PUNCT	PUNC	_	5	punct	_	_
+10	.	_	PUNCT	PUNC	_	4	punct	_	_
 
 # sent_id = 1928E-WEINREICH-KINES,.42
 # X_ID = 1928E-WEINREICH-KINES,194.45

@@ -1,9 +1,9 @@
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.1
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.3
 # text = ir ali mnn un froyan un al di %t%-1 fun bisefr zeynn gihoyan di %t%-2 di un yeni velt vauln boyan kumt al das herlikh bukh an tsu shoyan
-1	ir	_	PRON	PRO	_	22	vocative	_	_
-2	ali	_	ADV	Q	_	1	advmod	_	_
-3	mnn	_	NOUN	N	_	1	appos	_	_
+1	ir	_	PRON	PRO	_	3	nmod	_	_
+2	ali	_	ADV	Q	_	3	advmod	_	_
+3	mnn	_	NOUN	N	_	22	vocative	_	_
 4	un	_	CCONJ	CONJ	_	5	cc	_	_
 5	froyan	_	NOUN	N	_	3	conj	_	_
 6	un	_	CCONJ	CONJ	_	7	cc	_	_
@@ -83,17 +83,17 @@
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.4
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.6
 # text = der vert zikh mit hertsn freyan un mit grus zenftikeyt der_meyan
-1	der	_	DET	D-NOM	Case=Nom|PronType=Art	2	nsubj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	zikh	_	PRON	PRO-RFL	PronType=Reflex	2	expl:pv	_	_
+1	der	_	DET	D-NOM	Case=Nom|PronType=Art	6	nsubj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
+3	zikh	_	PRON	PRO-RFL	PronType=Reflex	6	expl:pv	_	_
 4	mit	_	ADP	P	_	5	case	_	_
-5	hertsn	_	NOUN	N	_	2	obl	_	_
-6	freyan	_	VERB	VB	VerbForm=Inf	2	dep	_	_
+5	hertsn	_	NOUN	N	_	6	obl	_	_
+6	freyan	_	VERB	VB	VerbForm=Inf	0	root	_	_
 7	un	_	CCONJ	CONJ	_	11	cc	_	_
 8	mit	_	ADP	P	_	10	case	_	_
 9	grus	_	ADJ	ADJ	Degree=Pos	10	amod	_	_
 10	zenftikeyt	_	NOUN	N	_	11	obl	_	_
-11	der_meyan	_	VERB	VB	VerbForm=Inf	2	conj	_	_
+11	der_meyan	_	VERB	VB	VerbForm=Inf	6	conj	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.5
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.7
@@ -251,12 +251,12 @@
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.15
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.17
 # text = eulm_hba vert ir mit fr_dinn oykh un aln toykhtrn un zoynn di %t%-1 ir biz tsum ibgn giboyrtn vert gvinn
-1	eulm_hba	_	NOUN	N-ACC	Case=Acc	2	obj	_	_
-2	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-3	ir	_	PRON	PRO-NOM	Case=Nom	2	nsubj	_	_
-4	mit	_	ADP	P	_	2	obl	_	_
-5	fr_dinn	_	VERB	VB	VerbForm=Inf	2	dep	_	_
-6	oykh	_	PRON	PRO-DTV	Case=Dat	2	iobj	_	_
+1	eulm_hba	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
+2	vert	_	AUX	RDF	VerbForm=Fin	5	aux	_	_
+3	ir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
+4	mit	_	ADP	P	_	5	obl	_	_
+5	fr_dinn	_	VERB	VB	VerbForm=Inf	0	root	_	_
+6	oykh	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
 7	un	_	CCONJ	CONJ	_	9	cc	_	_
 8	aln	_	DET	Q-DTV	Case=Dat	9	det	_	_
 9	toykhtrn	_	NOUN	N-DTV	Case=Dat	6	conj	_	_
@@ -276,33 +276,33 @@
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.18
 # text = grus er un reykhtum vert oykh noymr_mer antrinn
 1	grus	_	ADJ	ADJ-NOM	Case=Nom|Degree=Pos	2	amod	_	_
-2	er	_	NOUN	N-NOM	Case=Nom	5	nsubj	_	_
+2	er	_	NOUN	N-NOM	Case=Nom	8	nsubj	_	_
 3	un	_	CCONJ	CONJ	_	4	cc	_	_
 4	reykhtum	_	NOUN	N	_	2	conj	_	_
-5	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	oykh	_	PRON	PRO-DTV	Case=Dat	5	iobj	_	_
-7	noymr_mer	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-8	antrinn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+5	vert	_	AUX	RDF	VerbForm=Fin	8	aux	_	_
+6	oykh	_	PRON	PRO-DTV	Case=Dat	8	iobj	_	_
+7	noymr_mer	_	ADV	ADV	Degree=Pos	8	advmod	_	_
+8	antrinn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.17
 # X_ID = 1620E-LEV-TOV-1-PREFACE,1.19
 # text = un mit gutr greyzkeyt vert ir sheydn fun hinn
-1	un	_	CCONJ	CONJ	_	5	cc	_	_
+1	un	_	CCONJ	CONJ	_	7	cc	_	_
 2	mit	_	ADP	P	_	4	case	_	_
 3	gutr	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
-4	greyzkeyt	_	NOUN	N	_	5	obl	_	_
-5	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-6	ir	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-7	sheydn	_	VERB	VB	VerbForm=Inf	5	dep	_	_
+4	greyzkeyt	_	NOUN	N	_	7	obl	_	_
+5	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+6	ir	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+7	sheydn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 8	fun	_	ADP	P	_	9	case	_	_
-9	hinn	_	ADV	ADV	Degree=Pos	5	obl	_	_
+9	hinn	_	ADV	ADV	Degree=Pos	7	obl	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.18
 # X_ID = 1620E-LEV-TOV-1-PREFACE,2r.21
 # text = ir libn leyt da vil ikh eykh lazn %ich%-1 visn vas %t%-2 mikh dr_tsu %ich%-3 gibrakht hut varum dz %t%-4 ikh das sfr in teytshn hab gimkht
-1	ir	_	PRON	PRO	_	8	vocative	_	_
-2	libn	_	ADJ	ADJ	Degree=Pos	1	amod	_	_
-3	leyt	_	NOUN	N	_	1	conj	_	_
+1	ir	_	PRON	PRO	_	3	nmod	_	_
+2	libn	_	ADJ	ADJ	Degree=Pos	3	amod	_	_
+3	leyt	_	NOUN	N	_	8	vocative	_	_
 4	da	_	ADV	ADV	Degree=Pos	8	advmod	_	_
 5	vil	_	AUX	MDF	VerbForm=Fin	8	aux	_	_
 6	ikh	_	PRON	PRO-NOM	Case=Nom	8	nsubj	_	_
@@ -524,13 +524,13 @@
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.28
 # X_ID = 1620E-LEV-TOV-1-PREFACE,2r.31
 # text = eyns mn vert im dakh nit falgn
-1	eyns	_	NUM	LS	_	3	dep	_	_
-2	mn	_	PRON	PRO-NOM	Case=Nom	3	nsubj	_	_
-3	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
-4	im	_	PRON	PRO-DTV	Case=Dat	3	iobj	_	_
-5	dakh	_	ADV	ADV	Degree=Pos	3	advmod	_	_
-6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	3	advmod	_	_
-7	falgn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+1	eyns	_	NUM	LS	_	7	dep	_	_
+2	mn	_	PRON	PRO-NOM	Case=Nom	7	nsubj	_	_
+3	vert	_	AUX	RDF	VerbForm=Fin	7	aux	_	_
+4	im	_	PRON	PRO-DTV	Case=Dat	7	iobj	_	_
+5	dakh	_	ADV	ADV	Degree=Pos	7	advmod	_	_
+6	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	7	advmod	_	_
+7	falgn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.29
 # X_ID = 1620E-LEV-TOV-1-PREFACE,2r.32
@@ -581,19 +581,19 @@
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.32
 # X_ID = 1620E-LEV-TOV-1-PREFACE,2r.35
 # text = un %con% vert zeyn feynd zeyn drum dz er in an het gishrian fun der grusi ebirh vegn
-1	un	_	CCONJ	CONJ	_	3	cc	_	_
-2	%con%	_	NOUN	NP-SBJ	_	3	nsubj	_	_
-3	vert	_	VERB	RDF	VerbForm=Fin	0	root	_	_
+1	un	_	CCONJ	CONJ	_	6	cc	_	_
+2	%con%	_	NOUN	NP-SBJ	_	6	nsubj	_	_
+3	vert	_	AUX	RDF	VerbForm=Fin	6	aux	_	_
 4	zeyn	_	PRON	PRO$	_	5	det:poss	_	_
-5	feynd	_	NOUN	N	_	3	xcomp	_	_
-6	zeyn	_	VERB	VB	VerbForm=Inf	3	dep	_	_
+5	feynd	_	NOUN	N	_	6	xcomp	_	_
+6	zeyn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 7	drum	_	ADP	P	_	13	case	_	_
 8	dz	_	SCONJ	C	_	13	mark	_	_
 9	er	_	PRON	PRO-NOM	Case=Nom	13	nsubj	_	_
 10	in	_	PRON	PRO-ACC	Case=Acc	13	obj	_	_
 11	an	_	ADP	RP	_	13	compound:prt	_	_
 12	het	_	AUX	HVF	VerbForm=Fin	13	aux	_	_
-13	gishrian	_	VERB	VBN	Tense=Past|VerbForm=Part	3	obl	_	_
+13	gishrian	_	VERB	VBN	Tense=Past|VerbForm=Part	6	obl	_	_
 14	fun	_	ADP	P	_	17	case	_	_
 15	der	_	DET	D	PronType=Art	17	det	_	_
 16	grusi	_	ADJ	ADJ	Degree=Pos	17	amod	_	_
@@ -856,8 +856,8 @@
 # sent_id = 1620E-LEV-TOV-1-PREFACE,.48
 # X_ID = 1620E-LEV-TOV-1-PREFACE,2r.51
 # text = ... leyt zekht vi %t%-1 mir eyn mnhg habn
-1	...	_	PUNCT	PUNC	_	3	punct	_	_
-2	leyt	_	NOUN	N	_	1	conj	_	_
+1	...	_	PUNCT	PUNC	_	2	punct	_	_
+2	leyt	_	NOUN	N	_	3	vocative	_	_
 3	zekht	_	VERB	VBI	Mood=Imp	0	root	_	_
 4	vi	_	ADV	WADV	Degree=Pos	9	advmod	_	_
 5	%t%-1	_	ADV	ADVP	Degree=Pos	9	advmod	_	_
@@ -1065,7 +1065,7 @@
 6	der_veyl	_	ADV	ADV	Degree=Pos	12	advmod	_	_
 7	dz	_	SCONJ	C	_	12	mark	_	_
 8	zi	_	PRON	PRO-NOM	Case=Nom	12	nsubj	_	_
-9	azu	_	X	AD-ACCV	_	11	dep	_	_
+9	azu	_	ADV	ADV	Degree=Pos	11	advmod	_	_
 10	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	11	det	_	_
 11	givaunit	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	12	obj	_	_
 12	habn	_	VERB	VBF	VerbForm=Fin	2	advcl	_	_
@@ -1088,9 +1088,9 @@
 29	ez	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	28	expl	_	_
 30	im	_	PRON	PRO-DTV	Case=Dat	28	iobj	_	_
 31	di	_	DET	D-NOM	Case=Nom|PronType=Art	32	det	_	_
-32	zind	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	28	dep	_	_
-33	zey	_	VERB	VBF	VerbForm=Fin	32	dep	_	_
-34	musr	_	ADJ	ADJ	Degree=Pos	32	amod	_	_
+32	zind	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	33	nsubj	_	_
+33	zey	_	VERB	VBF	VerbForm=Fin	28	ccomp	_	_
+34	musr	_	ADJ	ADJ	Degree=Pos	33	amod	_	_
 35	der_veyl	_	ADV	ADV	Degree=Pos	41	advmod	_	_
 36	dz	_	SCONJ	C	_	41	mark	_	_
 37	er	_	PRON	PRO-NOM	Case=Nom	41	nsubj	_	_

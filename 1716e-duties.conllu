@@ -64,10 +64,10 @@
 # text = daz das eshiruth iz im an_gbarn
 1	daz	_	SCONJ	C	_	0	root	_	_
 2	das	_	DET	D-NOM	Case=Nom|PronType=Art	3	det	_	_
-3	eshiruth	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	6	nsubj	_	_
-4	iz	_	AUX	BEF	VerbForm=Fin	6	cop	_	_
-5	im	_	PRON	PRO-DTV	Case=Dat	6	iobj	_	_
-6	an_gbarn	_	ADJ	ADJ	Degree=Pos	1	conj	_	_
+3	eshiruth	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	4	nsubj	_	_
+4	iz	_	AUX	BEF	VerbForm=Fin	1	conj	_	_
+5	im	_	PRON	PRO-DTV	Case=Dat	4	iobj	_	_
+6	an_gbarn	_	ADJ	ADJ	Degree=Pos	4	amod	_	_
 
 # sent_id = 1716E-DUTIES,.7
 # X_ID = 1716E-DUTIES,.8

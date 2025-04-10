@@ -34,14 +34,14 @@
 # sent_id = 1712E-SARAH,.3
 # X_ID = 1712E-SARAH,83.5
 # text = sher hrasun iz gstelt gvarn oyf di drey mtsut vs %t%-1 mir nsim zenn varn gbatn
-1	sher	gate	X	H	_	5	dep	_	_
+1	sher	gate	X	H	_	4	dep	_	_
 2	hrasun	the_first	X	H	_	1	dep	_	_
-3	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-4	gstelt	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	gvarn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+3	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+4	gstelt	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	gvarn	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 6	oyf	_	ADP	P	_	8	case	_	_
 7	di	_	DET	D	PronType=Art	8	det	_	_
-8	drey	_	NUM	NUM-D	Definite=Def	5	obl	_	_
+8	drey	_	NUM	NUM-D	Definite=Def	4	obl	_	_
 9	mtsut	_	NOUN	N	_	8	conj	_	_
 10	vs	_	SCONJ	C	_	16	mark	_	_
 11	%t%-1	_	ADP	PP	_	16	obl	_	_
@@ -423,8 +423,8 @@
 11	betn	_	VERB	VB	VerbForm=Inf	0	root	_	_
 12	oykh	_	PRON	PRO-ACC	Case=Acc	11	obj	_	SpaceAfter=No
 13	,	_	PUNCT	PUNC	_	11	punct	_	_
-14	yunge	_	ADJ	ADJ	Degree=Pos	11	vocative	_	_
-15	veyber	_	NOUN	N	_	14	conj	_	SpaceAfter=No
+14	yunge	_	ADJ	ADJ	Degree=Pos	15	amod	_	_
+15	veyber	_	NOUN	N	_	11	vocative	_	SpaceAfter=No
 16	,	_	PUNCT	PUNC	_	11	punct	_	_
 17	ir	_	PRON	PRO-NOM	Case=Nom	20	nsubj	_	_
 18	zalt	_	AUX	MDF	VerbForm=Fin	20	aux	_	_

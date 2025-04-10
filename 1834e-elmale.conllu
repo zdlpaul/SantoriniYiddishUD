@@ -486,8 +486,8 @@
 # sent_id = 1834E-ELMALE,.29
 # X_ID = 1834E-ELMALE,50.32
 # text = libe bridr vi vos %t%-1 zeynin unzri tnaim
-1	libe	_	ADJ	ADJ	Degree=Pos	6	vocative	_	_
-2	bridr	_	NOUN	N	_	1	conj	_	_
+1	libe	_	ADJ	ADJ	Degree=Pos	2	amod	_	_
+2	bridr	_	NOUN	N	_	6	vocative	_	_
 3	vi	_	INTJ	INTJ	_	6	discourse	_	_
 4	vos	_	PRON	WPRO	_	6	obj	_	_
 5	%t%-1	_	NOUN	NP-PRD	_	6	xcomp	_	_
@@ -544,7 +544,7 @@
 # sent_id = 1834E-ELMALE,.32
 # X_ID = 1834E-ELMALE,50.35
 # text = valt hshm itbrkh nit gisheynkt dem khsid fan barntski valt %exp% hlilh given azoy vi gzirh khmil im"s
-1	valt	_	VERB	VLF	VerbForm=Fin	5	dep	_	_
+1	valt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	5	dep	_	_
 2	hshm	the_name	X	H	_	5	dep	_	_
 3	itbrkh	may_be_blessed	X	H	_	2	dep	_	_
 4	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
@@ -553,7 +553,7 @@
 7	khsid	_	NOUN	N-ACC	Case=Acc	5	obj	_	_
 8	fan	_	PROPN	NPR-D	_	7	dep	_	_
 9	barntski	_	PROPN	NPR-D	_	7	dep	_	_
-10	valt	_	VERB	VLF	VerbForm=Fin	13	dep	_	_
+10	valt	_	VERB	VLF	Mood=Sub|VerbForm=Fin	13	dep	_	_
 11	%exp%	_	NOUN	NP-SBJ	_	13	nsubj	_	_
 12	hlilh	_	INTJ	INTJ	_	13	discourse	_	_
 13	given	_	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
@@ -815,7 +815,7 @@
 8	di	_	DET	D-NOM	Case=Nom|PronType=Art	9	det	_	_
 9	rseim	_	NOUN	N-NOM-D	Case=Nom|Definite=Def	14	nsubj	_	_
 10	habin	_	AUX	HVF	VerbForm=Fin	14	aux	_	_
-11	azoy	_	X	AD-ACCV	_	13	dep	_	_
+11	azoy	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 12	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	13	det	_	_
 13	hrigh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	14	obj	_	_
 14	gimakht	_	VERB	VBN	Tense=Past|VerbForm=Part	6	advcl	_	_
@@ -1029,8 +1029,8 @@
 1	kh.	_	NUM	LS	_	7	dep	_	_
 2	khi	UNKNOWN	X	H	_	7	dep	_	_
 3	ukim	UNKNOWN	X	H	_	7	dep	_	_
-4	libr	_	ADJ	ADJ	Degree=Pos	7	vocative	_	_
-5	gut	_	NOUN	N	_	4	conj	_	_
+4	libr	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	gut	_	NOUN	N	_	7	vocative	_	_
 6	eybig	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 7	iz	_	VERB	VBF	VerbForm=Fin	0	root	_	_
 8	deyn	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	9	det:poss	_	_
@@ -1064,12 +1064,12 @@
 # sent_id = 1834E-ELMALE,.61
 # X_ID = 1834E-ELMALE,51.65
 # text = zey kenin dakh far_koyft verin gar um_zist
-1	zey	_	PRON	PRO-NOM	Case=Nom	5	nsubj	_	_
-2	kenin	_	AUX	MDF	VerbForm=Fin	5	aux	_	_
-3	dakh	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-4	far_koyft	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	verin	_	VERB	RD	VerbForm=Inf	0	root	_	_
-6	gar	_	ADV	ADV	Degree=Pos	5	advmod	_	_
+1	zey	_	PRON	PRO-NOM	Case=Nom	4	nsubj	_	_
+2	kenin	_	AUX	MDF	VerbForm=Fin	4	aux	_	_
+3	dakh	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+4	far_koyft	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	verin	_	AUX	RD	VerbForm=Inf	4	aux	_	_
+6	gar	_	ADV	ADV	Degree=Pos	4	advmod	_	_
 7	um_zist	_	ADV	ADV	Degree=Pos	6	advmod	_	_
 
 # sent_id = 1834E-ELMALE,.62
@@ -1169,12 +1169,12 @@
 # sent_id = 1834E-ELMALE,.69
 # X_ID = 1834E-ELMALE,52.74
 # text = ven es iz far_gasin givarin azoy fil yudishe blut
-1	ven	_	CCONJ	CONJ	_	5	cc	_	_
-2	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	5	expl	_	_
-3	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-4	far_gasin	_	VERB	VAN	Tense=Past|VerbForm=Part	5	xcomp	_	_
-5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
-6	azoy	_	ADV	ADV	Degree=Pos	5	dep	_	_
+1	ven	_	CCONJ	CONJ	_	4	cc	_	_
+2	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	4	expl	_	_
+3	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+4	far_gasin	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
+6	azoy	_	ADV	ADV	Degree=Pos	4	dep	_	_
 7	fil	_	DET	Q	_	6	det	_	_
 8	yudishe	_	ADJ	ADJ	Degree=Pos	6	amod	_	_
 9	blut	_	NOUN	N	_	6	conj	_	_
@@ -1329,14 +1329,14 @@
 # sent_id = 1834E-ELMALE,.79
 # X_ID = 1834E-ELMALE,52.84
 # text = das iz nit gihert givarin in der tseyt ven khmelnitski imkh smu iz given in zeyni tseytn az men zal in der brunh areyn varfin loytin
-1	das	_	DET	D-NOM	Case=Nom|PronType=Art	5	nsubj	_	_
-2	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	5	advmod	_	_
-4	gihert	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	das	_	DET	D-NOM	Case=Nom|PronType=Art	4	nsubj	_	_
+2	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+3	nit	_	ADV	ADV-NEG	Degree=Pos|Polarity=Neg	4	advmod	_	_
+4	gihert	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	givarin	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 6	in	_	ADP	P	_	8	case	_	_
 7	der	_	DET	D	PronType=Art	8	det	_	_
-8	tseyt	_	NOUN	N-D	Definite=Def	5	obl	_	_
+8	tseyt	_	NOUN	N-D	Definite=Def	4	obl	_	_
 9	ven	_	SCONJ	C	_	14	mark	_	_
 10	khmelnitski	_	PROPN	NPR-SBJ	_	14	nsubj	_	_
 11	imkh	may_be_erased	X	H	_	14	dep	_	_
@@ -1353,7 +1353,7 @@
 22	der	_	DET	D	PronType=Art	23	det	_	_
 23	brunh	_	NOUN	N-D	Definite=Def	24	obl	_	_
 24	areyn	_	ADV	ADV	Degree=Pos	25	advmod	_	_
-25	varfin	_	VERB	VB	VerbForm=Inf	5	advcl	_	_
+25	varfin	_	VERB	VB	VerbForm=Inf	4	advcl	_	_
 26	loytin	_	NOUN	N-ACC	Case=Acc	25	obj	_	_
 
 # sent_id = 1834E-ELMALE,.80
@@ -1414,9 +1414,9 @@
 7	gikent	_	AUX	MDN	Tense=Past|VerbForm=Part	9	aux	_	_
 8	tsu	_	ADP	RP	_	9	compound:prt	_	_
 9	zehen	_	VERB	VB	VerbForm=Inf	0	root	_	_
-10	azoy	_	X	AD-ACCV	_	13	dep	_	_
+10	azoy	_	ADV	ADV	Degree=Pos	13	advmod	_	_
 11	eyn	_	DET	D-ACC	Case=Acc|PronType=Art	13	det	_	_
-12	groysi	_	X	AD-ACCJ	_	13	dep	_	_
+12	groysi	_	ADJ	ADJ-ACC	Case=Acc|Degree=Pos	13	amod	_	_
 13	tsrh	_	NOUN	N-ACC-I	Case=Acc|Definite=Ind	9	obj	_	_
 
 # sent_id = 1834E-ELMALE,.84
@@ -2053,8 +2053,8 @@
 1	r.	_	NUM	LS	_	6	dep	_	_
 2	rkhum	UNKNOWN	X	H	_	6	dep	_	_
 3	tsdik	righteous_person	X	H	_	6	dep	_	_
-4	der_barimigr	_	ADJ	ADJ	Degree=Pos	6	vocative	_	_
-5	fatr	_	NOUN	N	_	4	conj	_	_
+4	der_barimigr	_	ADJ	ADJ	Degree=Pos	5	amod	_	_
+5	fatr	_	NOUN	N	_	6	vocative	_	_
 6	helf	_	VERB	VBI	Mood=Imp	0	root	_	_
 7	unz	_	PRON	PRO-DTV	Case=Dat	6	iobj	_	_
 
@@ -2077,17 +2077,17 @@
 # sent_id = 1834E-ELMALE,.123
 # X_ID = 1834E-ELMALE,54.130
 # text = es iz shoyn far_shvartst givarn in dem bitrn glut unzr pnim
-1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	5	expl	_	_
-2	iz	_	AUX	BEF	VerbForm=Fin	5	cop	_	_
-3	shoyn	_	ADV	ADV	Degree=Pos	5	advmod	_	_
-4	far_shvartst	_	VERB	VAN	Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	0	root	_	_
+1	es	_	PRON	ES	Case=Nom|Gender=Neut|Number=Sing	4	expl	_	_
+2	iz	_	AUX	BEF	VerbForm=Fin	4	cop	_	_
+3	shoyn	_	ADV	ADV	Degree=Pos	4	advmod	_	_
+4	far_shvartst	_	VERB	VAN	Tense=Past|VerbForm=Part	0	root	_	_
+5	givarn	_	VERB	RDN	Tense=Past|VerbForm=Part	4	dep	_	_
 6	in	_	ADP	P	_	9	case	_	_
 7	dem	_	DET	D	PronType=Art	9	det	_	_
 8	bitrn	_	ADJ	ADJ	Degree=Pos	9	amod	_	_
-9	glut	_	NOUN	N-D	Definite=Def	5	obl	_	_
+9	glut	_	NOUN	N-D	Definite=Def	4	obl	_	_
 10	unzr	_	PRON	PRO$-NOM	Case=Nom|PronType=Poss	11	det:poss	_	_
-11	pnim	_	NOUN	N	_	5	nsubj	_	_
+11	pnim	_	NOUN	N	_	4	nsubj	_	_
 
 # sent_id = 1834E-ELMALE,.124
 # X_ID = 1834E-ELMALE,54.131
